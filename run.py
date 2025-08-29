@@ -21,8 +21,12 @@ tree_vie = ET.parse("vie.xml")
 root_eng = tree_eng.getroot()
 root_vie = tree_vie.getroot()
 
-# Tạo map từ vie.xml (dựa vào contentuid)
-vie_dict = {c.attrib["contentuid"]: c for c in root_vie.findall("content")}
+# Dùng dict nhưng KHÔNG bỏ qua trùng lặp (chỉ để tra nhanh)
+vie_dict = {}
+for c in root_vie.findall("content"):
+    uid = c.attrib["contentuid"]
+    if uid not in vie_dict:   # chỉ lấy lần đầu tiên
+        vie_dict[uid] = c
 
 # Tạo root mới cho vh.xml
 vh_root = ET.Element("contentList")
@@ -40,7 +44,7 @@ for eng_content in root_eng.findall("content"):
             "contentuid": uid,
             "version": "50"
         })
-        new_content.text = vie_content.text
+        new_content.text = vie_content.text if vie_content.text else ""
         vh_root.append(new_content)
     else:
         # Nếu chỉ có trong eng thì ghi vào vh-eng.xml
@@ -48,20 +52,15 @@ for eng_content in root_eng.findall("content"):
             "contentuid": uid,
             "version": eng_content.attrib["version"]
         })
-        new_content.text = eng_content.text
+        new_content.text = eng_content.text if eng_content.text else ""
         vh_eng_root.append(new_content)
 
-# Gọi indent để format đẹp
+# Format XML đẹp
 indent(vh_root)
 indent(vh_eng_root)
 
-# Xuất ra file vh.xml
-vh_tree = ET.ElementTree(vh_root)
-vh_tree.write("vh.xml", encoding="utf-8", xml_declaration=True)
+# Xuất ra file
+ET.ElementTree(vh_root).write("vh.xml", encoding="utf-8", xml_declaration=True)
+ET.ElementTree(vh_eng_root).write("vh-eng.xml", encoding="utf-8", xml_declaration=True)
 
-# Xuất ra file vh-eng.xml
-vh_eng_tree = ET.ElementTree(vh_eng_root)
-vh_eng_tree.write("vh-eng.xml", encoding="utf-8", xml_declaration=True)
-
-# Thông báo khi hoàn thành
-print("✅ Hoàn thành! Đã tạo ra 2 file: vh.xml và vh-eng.xml (có định dạng đẹp).")
+print("✅ Hoàn thành! Đã tạo vh.xml và vh-eng.xml (không bị mất dòng).")
