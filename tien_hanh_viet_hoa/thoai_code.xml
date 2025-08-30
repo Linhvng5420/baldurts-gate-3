@@ -1,0 +1,161 @@
+   <!-- Tổng Hợp Các Lời Thoại, Miêu Tả, Chức Năng có dính Code-Event-State, Dịch cẩn thận không là phá Game -->
+ 
+   <!-- Các dòng có Key State Event, có liên quan tới Action, Dịch cẩn thận: Bản Gốc -->
+	<content contentuid="hfbbbdfc6gfac4g4049ga78bgdd03f1897383" version="0"> |PortraitClick ShadowHeart Sneaking v5 |</content>
+	<content contentuid="hf7adafa6g1ddbg450dgb5e9g2cfad78c309c" version="0">| PortraitClick Normal &lt;br&gt;NarrativeArch_Start v12|</content>
+	<content contentuid="ha6ab215eg6e5bg42d0g97a9g6adfd763475f" version="0"> |PortraitClick ShadowHeart Normal v8 |</content>
+	
+    <!-- Các dòng có Key State Event, có liên quan tới Action, Dịch cẩn thận: Bản Lỗi -->
+    <content contentuid="h735f5a49g5a5cg4ea3gb0c1g42fe883e2a01" version="50">| PortraitClickSpam Bình thường &lt;br&gt;NarrativeArch_Start v1 &lt;br&gt;Các dòng Easter Egg có thể phát điên ;) |</content>
+	<content contentuid="h741ffa11gd01eg4adcg8504g300327fd008d" version="50">| Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v1 |</content>
+	<content contentuid="h741ffa11gd01eg4adcg8504g300327fd008d" version="50">| Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v1 |</content>
+	<content contentuid="h75fdaf38g23a9g442fgb4c4g34fdba211d0c" version="50">| PortraitClickSpam Combat &lt;br&gt;NarrativeArch_Start v3 |</content>
+	<content contentuid="h76bb40d2g0f94g4af3gbe12gafdaee419b4e" version="50">PortraitClickSpam lén lút &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="h7a5dc055gbf8cg4f52g88d4gb56e91a596fc" version="50">PortraitClick Bình thường &lt;br&gt;NarrativeArch_Start v2 |&lt;br&gt;</content>
+	<content contentuid="h7bc10bfdg4a10g41a6g841bgc127f7444e38" version="50">|PortraitClick ShadowHeart Lén lút v2 |</content>
+	<content contentuid="h7beb2becg48b5g4a07g95b3gcd440f1afdd4" version="50">| PortraitClickSpam Bình thường &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="h7fab1d68g9eeeg4247ga749g6c527a988748" version="50">| PortraitClickSpam Bình thường &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="h83bf3d6dgd428g4645ga47bg702884b16851" version="50">| Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v6 |</content>
+	<content contentuid="h84d7337cgd4f1g4d10gbb16g1a74c914f246" version="50">| PortraitClick Combat &lt;br&gt;NarrativeArch_Start v14 |</content>
+	<content contentuid="h8984b550g3540g4d3fg8a10g5e3eb4c8ce7d" version="50">| PortraitClick Combat &lt;br&gt;NarrativeArch_Start v8 |&lt;br&gt;</content>
+	<content contentuid="h8b44dffag42ebg498bga5d9g121d2ca64901" version="50">|PortraitClick ShadowHeart Lén lút v14 |</content>
+	<content contentuid="h8c832b38gb510g405eg99f3gdb736887d5e4" version="50">| Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v9 |</content>
+	<content contentuid="h8c942e1cg7d45g431ag962agd05d5a833d9f" version="50">| PortraitClickSpam lén lút &lt;br&gt;NarrativeArch_Start v3 |</content>
+	<content contentuid="h8fb28810ge7f6g4e06g896ageaa5d753dd45" version="50">| PortraitClick Combat &lt;br&gt;NarrativeArch_Start v7 |</content>
+	<content contentuid="h90682f2dg95fbg47edga4cfg17113e286318" version="50">|PortraitClick Bình thường &lt;br&gt;NarrativeArch_Start v9 |&lt;br&gt;</content>
+	<content contentuid="h92be6654g26c0g4e8bga52cge705cd579c67" version="50">| PortraitClick Bình thường &lt;br&gt;NarrativeArch_Start v10|&lt;br&gt;</content>
+	<content contentuid="h947c311dgc4b0g429eg8993gb52874cbd288" version="50">| PortraitClick Combat &lt;br&gt;NarrativeArch_Start v18 |</content>
+	<content contentuid="h9637ecb5gb85bg4415g8771gd879e4f02079" version="50">| PortraitClick Bình thường &lt;br&gt;NarrativeArch_Start v17|&lt;br&gt;</content>
+	<content contentuid="h9c4977c7gf1feg480bg94f0g42440cc280ef" version="50">| Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="h9ed8f641g2712g4352g8716g960188a577be" version="50">| PortraitClick Combat &lt;br&gt;NarrativeArch_Start v1 |</content>
+	<content contentuid="ha6ec4446g87f4g4c94gb396gfa4974125bc2" version="50">| PortraitClick Combat &lt;br&gt;NarrativeArch_Start v11 |</content>
+	<content contentuid="haa42d056gb2efg44c0g8b42ge2a014c52327" version="50">|PortraitClick ShadowHeart Lén lút v7 |</content>
+	<content contentuid="hac4df87ag2b13g41d6g8698g9115ef97dd64" version="50">| PortraitClick Combat &lt;br&gt;NarrativeArch_Start v12 |&lt;br&gt;</content>
+	<content contentuid="hb13fc7c1gbb77g4bb3g8a1dg7a0ada7ba1cf" version="50">| Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v2 |&lt;br&gt;</content>
+	<content contentuid="hb73f0b57gbd09g4225gaedfg938f1d7db554" version="50">| Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v12 |&lt;br&gt;</content>
+	<content contentuid="hb90092c1gfec6g4941ga5e0ga9df969fc6da" version="50">| PortraitClick Combat &lt;br&gt;NarrativeArch_Start v15 |</content>
+	<content contentuid="hb9615959g8c7eg45b1gb645g53d49d7c828f" version="50">| PortraitClick Bình thường &lt;br&gt;NarrativeArch_Start v15|</content>
+	<content contentuid="hbb71ee2cgc980g4869gbb13g4bb250254c32" version="50">| PortraitClickSpam Combat &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="hbc461af8gfbdfg4b0dgaa78gf396ef967b67" version="50">| Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v10 |</content>
+	<content contentuid="hbc6a3b0bg467dg4801gb6eagfa1e97aa3c80" version="50">| PortraitClick Bình thường &lt;br&gt;NarrativeArch_Start v13|&lt;br&gt;</content>
+	<content contentuid="hc251fd90g1803g47c1gb4e8g43d6e530722f" version="50">|PortraitClick ShadowHeart Bình thường v17 |</content>
+	<content contentuid="hc3a98808gf18cg4f7ag9995g43a793ac7439" version="50">| PortraitClick Combat &lt;br&gt;NarrativeArch_Start v9 |</content>
+	<content contentuid="hc459b6ceg6900g4b81gb966g9d8b6a3af9be" version="50">|PortraitClick ShadowHeart Bình thường v18 |</content>
+	<content contentuid="hc6a25fa8g3e1ag47efgb607g1b00bd86e50f" version="50">| PortraitClick Bình thường &lt;br&gt;NarrativeArch_Start v4 |&lt;br&gt;</content>
+	<content contentuid="hc7b078d3gb480g4a1agb897g7a4676fab9e4" version="50">|PortraitClick ShadowHeart Lén lút v3 |</content>
+	<content contentuid="hd839d0c0gda48g4d99ga0c5gb705ebcbb0bc" version="50">| Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v14 |</content>
+	<content contentuid="he3c74097g17a1g44f4gb5a9g622862df5f9a" version="50">| Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v13 |</content>
+	<content contentuid="he92cee76g0dcdg4556g9461gd155a2074d54" version="50">| PortraitClick Combat &lt;br&gt;NarrativeArch_Start v6 |</content>
+	<content contentuid="hea9ce5b0gb163g4e88g98a2g18f3bd809e4d" version="50">|PortraitClick ShadowHeart Bình thường v16 |</content>
+	<content contentuid="hed6b62dagf7c5g481cga244gba4a6bc2dc32" version="50">|PortraitClick ShadowHeart Lén lút v18 |&lt;br&gt;</content>
+	<content contentuid="hf03661adg35c1g46fdgaf92g36b36790ef25" version="50">| Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v11 |</content>
+	<content contentuid="hf2114ba5g0f39g4479gb7e8g0d307a0c2bbc" version="50">| PortraitClick Combat &lt;br&gt;NarrativeArch_Start v10 |</content>
+	<content contentuid="hf309528egeeacg4feag94b9ga8d2f4eea5f7" version="50">|PortraitClick ShadowHeart Lén lút v13 |</content>
+	<content contentuid="hf48d5b63gb659g4637g9928ga96286f0322b" version="50">| PortraitClick Bình thường &lt;br&gt;NarrativeArch_Start v3 |&lt;br&gt;</content>
+	<content contentuid="hf5ecb82cg7841g4a55g848eg1eb5115bc080" version="50">| Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v5 |&lt;br&gt;</content>
+	<content contentuid="hf6df8071g2824g4650g83f7g17ebf1d35f50" version="50">| Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v15 |</content>
+	<content contentuid="hf76e918fg9137g4c5cga88eg23e51e13e3a4" version="50">PortraitClick Bình thường &lt;br&gt;NarrativeArch_Start v16|&lt;br&gt;</content>
+	<content contentuid="h03e50d44ga81eg40e1gbbddge3190a98658e" version="50">Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v8 |&lt;br&gt;</content>
+	<content contentuid="h00a38000g414fg48e9ga406g808ead180089" version="50">|PortraitClick ShadowHeart Bình thường v15 |</content>
+
+
+
+
+    <!-- Menu Game: Phần chọn Độ Khó sau khi nhấn New Game -->
+	<content contentuid="hb80200a7g8e69g4f66gbc18g4155d70f0dcc" version="60">Danh Dự</content>
+    <content contentuid="h2061fea8gde95g4e88gb4bcg93e240e16110" version="60">Một chiến dịch đầy khó khăn và chết chóc đang chờ đợi, giới hạn ở một tệp lưu duy nhất.</content>
+	<content contentuid="h98f4af19g94b7g4821g9043g5e89b45bd8f6" version="60">Chế Độ Danh Dự là một chiến dịch khắc nghiệt, khuyến nghị cho những người chơi dày dạn kinh nghiệm.&lt;br&gt;&lt;br&gt;Trùm Mạnh Hơn: Những kẻ thù nguy hiểm nhất trong Vùng Đất nay càng hùng mạnh, sở hữu kỹ năng mới và Hành Động Huyền Thoại.&lt;br&gt;&lt;br&gt;Luật Lệ Nghiêm Ngặt: Bên cạnh mức khó Tactician, luật kinh tế hành động và sát thương được siết chặt hơn về cuối game.&lt;br&gt;&lt;br&gt;Tệp Lưu Duy Nhất: Bạn không thể tải lại các bản lưu cũ trong Chế Độ Danh Dự nếu tình huống trở nên tệ hại – mọi lựa chọn và hậu quả đều gắn chặt. Nếu toàn bộ tổ đội bị đánh bại, hành trình Chế Độ Danh Dự sẽ chấm dứt. (Bạn có thể tiếp tục phiêu lưu trong Chế Độ Tùy Chỉnh, nhưng hoàn tất nó sẽ không được tính là chinh phục Chế Độ Danh Dự.)&lt;br&gt;&lt;br&gt;Nếu bạn vinh quang chiến thắng, phần thưởng là một bộ xúc xắc độc quyền để dùng trong những lần chơi tiếp theo.&lt;br&gt;&lt;br&gt;Chúc may mắn, lữ khách chính trực. Bạn sẽ cần đến nó.</content>
+
+
+
+	<content contentuid="he8e3236cgbf7eg4975gb5d8g3f4e3c0663f5" version="50">Xem Chi Tiết</content>
+	<content contentuid="he0167e71g6ac1g47ccgbad2gf63ac802f9b9" version="60">Sổ Chi Tiết</content>
+    <content contentuid="h46c00fa7gbb38g480fg9a0fgb4232bec8658" version="60">Tổng Quan Chi Tiết</content>
+    <content contentuid="h0886d1a1g186bg41b7g82degf7fd6f0c83f6" version="60">Báo Cáo Chi Tiết</content>
+
+
+	<content contentuid="h57a5735eg7213g4c3cg914cgbd1b5af276cc" version="50">Chọn độ khó của bạn</content>
+	<content contentuid="h3c46af69gfe72g49f1gb524g8bf318295dc3" version="0">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Cài đặt này không thể thay đổi sau khi trò chơi bắt đầu!</content>
+	<content contentuid="hee984f60g20e8g4cb1gb894g6f1d34c013d8" version="60">Bộ Quy Tắc Chuẩn</content>
+    <content contentuid="h18609575g480eg4ffagaf6agd9108901b307" version="60">Tập hợp các quy tắc được sử dụng trong chiến dịch này, ảnh hưởng đến các yếu tố cốt lõi của trò chơi như phép thuật, trạng thái và hành vi của nhân vật.</content>
+	<content contentuid="hee984f60g20e8g4cb1gb894g6f1d34c013d8" version="60">Bộ Tiêu Chuẩn</content>
+    <content contentuid="h478b1265gbd06g4447g95d3ge9e29717ffd2" version="60">Trải nghiệm Baldur's Gate 3 cổ điển - một phiên bản chuyển thể của bộ quy tắc Dungeons and Dragons 5th Edition để phù hợp nhất với Game Console.</content>
+    <content contentuid="h39ed1ebbg6dadg4bafga046g6e3523d8bf7b" version="60">Bộ Danh Dự</content>
+	<content contentuid="h387eedf2gb5a2g451egb45dgab227aa1d794" version="60">Trong Chế Độ Danh Dự, toàn bộ kẻ thù của bạn trở nên mạnh mẽ hơn, và những sinh vật nguy hiểm nhất ở Vùng Đất Bị Lãng Quên cũng sở hữu thêm hàng loạt sức mạnh mới trong chiến trận.</content>
+	<content contentuid="hee047271g3b10g4e9fg9377g3fd4ff7e6251" version="50">Chiến Lược Một Mạng</content>
+	<content contentuid="h465dc37dg304dg4745gbd0eg81f210051ab8" version="50">Bạn sẽ chỉ có một ô lưu duy nhất và trò chơi sẽ tự động lưu khi một thành viên trong nhóm chết.</content>
+	<content contentuid="hb012bdedga319g497agab7fgc34b720b827e" version="50">Sức Mạnh Của NPC</content>
+
+	<content contentuid="hf41151d4g9cc1g4023gb6d7g2c8216884b9d" version="50">Độ Khó Của Trận Chiến</content>
+	<content contentuid="h52916cfdgd802g4d0dg8270g225befb06327" version="50">Độ Khó Của Trận Chiến</content>
+	<content contentuid="h591d2075ge7adg470egb69eg0ec6f512e603" version="50">Độ Khó Của Trận Chiến</content>
+    <content contentuid="h4f31922fgc9bdg45fdga3f8gc819ba1ca245" version="60">Hệ Số Trại</content>
+    <content contentuid="heeadf224gf0fcg441ag9081gb6b9e5119ccb" version="60">Điều chỉnh số lượng vật phẩm cắm trại mà một &lt;LSTag Tooltip="LongRest"&gt;Nghỉ Dài&lt;/LSTag&gt; tiêu tốn.</content>
+	<content contentuid="h069cb016g2c26g4295g877ag006de81cb0a8" version="50">Hồi phục Sức Khỏe &lt;LSTag Tooltip="ShortRest"&gt;Nghỉ Ngơi&lt;/LSTag&gt;.</content>
+	<content contentuid="h6d69bd4bg2ae8g4765g9492g745d2b12af5b" version="50">Thương Nhân</content>
+	<content contentuid="h0767c676g17fag4c31g95c4gecdba19dc97c" version="50">Bật Multi-Class </content>
+	<content contentuid="hf9907f31g85b8g4464g8d3dg8e1535e0fc92" version="50">Cho phép bạn chọn một lớp bổ sung khác khi lên cấp.</content>
+	<content contentuid="h65b46ad4g2eacg47d5gb4b4g124ca3b8aaef" version="50">Thưởng Thông Thạo</content>
+
+
+    <content contentuid="h65e2eb2ag30e2g45d5gaa72g799e4c275157" version="60">Những kẻ thù quan trọng xuyên suốt hành trình sẽ trở nên mạnh mẽ hơn trong Chế Độ Danh Dự.</content>
+	<content contentuid="h6496ab45g86f2g471ag9b56g73b3facd3d30" version="60">Những kẻ thù quan trọng xuyên suốt hành trình sẽ trở nên mạnh mẽ hơn trong Chế Độ Danh Dự.</content>
+    <content contentuid="h6279d877g8c4ag4402ga42dgf12fd5818858" version="60">Danh Dự Rực Rỡ</content>
+	<content contentuid="h5de66794geebdg4ae4g9a10gb179984775a0" version="60">Kẻ Thù Trong Chế Độ Danh Dự</content>
+	<content contentuid="h4242ad23gc2e7g4a6fg9825g487e19d7e1ab" version="60">Chế Độ Danh Dự</content>
+	<content contentuid="h3492f9f8g2946g40a5g8cc1g0af620c2a6bb" version="60">Nguồn gốc Tùy chỉnh</content>
+	<content contentuid="hbab4f790gf733g4cc2gaa88g117bd3e9f116" version="60">Tùy chỉnh</content>
+	<content contentuid="h6f947303gef88g4640g8e4cg1ec35b5da79e" version="60">Chế độ Tùy chỉnh</content>
+	<content contentuid="h3f5b460bg8f9fg40d5g8a47g983feee45abb" version="60">Chọn một độ khó cơ bản làm nền tảng cho Chế độ Tùy chỉnh.</content>
+	<content contentuid="h3745e72dg245ag4502g8774g8965baf256eb" version="60">Điều chỉnh Chế độ Tùy chỉnh</content>
+	<content contentuid="he48cb8b7g6277g420bg95d5g16add9116a76" version="60">Chọn lựa và kết hợp từ nhiều quy tắc để tạo ra cách chơi Baldur's Gate 3 mang dấu ấn riêng của bạn. Việc sử dụng Chế độ Tùy chỉnh sẽ không ảnh hưởng đến cốt truyện, và thành tựu (achievements) vẫn sẽ được kích hoạt.&lt;br&gt;&lt;br&gt;Chúng tôi khuyến nghị người chơi mới nên thử một độ khó có sẵn cho chiến dịch đầu tiên, vì lựa chọn này sẽ không thể thay đổi về sau.</content>
+	<content contentuid="h46c00fa7gbb38g480fg9a0fgb4232bec8658" version="60">Tổng Quan Chi Tiết</content>
+	<content contentuid="hc5d45120ga4bbg495cg8978gf47a8523281c" version="60">Sợ Chết</content>
+	<content contentuid="h12baed7bgf4eag419dg8be6g744feb4b9810" version="50">Sợ Chết</content>
+	<content contentuid="h2c549d89g09d2g46cbgac4egfefddd259dcc" version="60">Các nhân vật đồng minh sẽ mạnh hơn và khó bị hạ gục trong chiến đấu.</content>
+	<content contentuid="hdd1dd463gf707g40e5g916cg08bca7500f72" version="60">Cân Bằng</content>
+	<content contentuid="h044c5afbgd615g4f0bg9f78gd65dfcbc7e3d" version="60">Giữ sức mạnh của cả kẻ thù và đồng minh ngang nhau.</content>
+	<content contentuid="h04a015cbg6aabg4e09g80f3g8328409d98e8" version="60">Hung Hăng.</content>
+	<content contentuid="hba73bf80g7f60g4074g9f45gc1ad48c4aafc" version="60">Các nhân vật thù địch sẽ mạnh hơn và khó bị hạ gục trong chiến đấu.</content>
+	<content contentuid="h57d67e56g6a80g4101ga0b0g5cd7d8e45866" version="50">Cân Bằng</content>
+	<content contentuid="h0b1d5d3eg10d8g4f2agbc94g813c04283674" version="50">Cân Bằng</content>
+	<content contentuid="h602795e2g9b90g478dg90b8g2ca126220420" version="50">Cân Bằng</content>
+	<content contentuid="h5ee38762gf9cfg4c43g9e69g7524e9c5564c" version="50">Cân Bằng</content>
+	<content contentuid="hefd6a61cg3936g44ebgb1e6g18f7340470fa" version="50">Cân Bằng</content>
+	<content contentuid="h9098bfc2g6874g40a0gad32g016d164c7d63" version="50">Cân Bằng</content>
+	<content contentuid="h69ce75b8g5f43g41begb153gb4f99e6572fd" version="50">Cân Bằng</content>
+	<content contentuid="h2dfaada3g0652g41ceg8a6dg19756b3e135a" version="50">Cân Bằng</content>
+	<content contentuid="h69f49da0g6ecag47f5g8266g967e1448addc" version="50">Cân Bằng</content>
+	<content contentuid="hfa195d11gb383g4f2fg9d6ag948e8cdf8bcd" version="50">Sự Cân Bằng</content>
+	<content contentuid="h4f67e15egaae2g44ccgaf44g70a35132246c" version="50">Sự Cân Bằng</content>
+	<content contentuid="he8242f0fgd47cg47e9gb3cegf52fe213113a" version="50">Độ Khó: Cân Bằng</content>
+	<content contentuid="hce06f17bg2e73g4d39g9e9ag3b61c39ee3f4" version="50">Độ Khó: Cân Bằng</content>
+	<content contentuid="h1a45ba2cgaf38g406bg8b03g3a04cf9511be" version="50">Độ Khó: Cân Bằng</content>
+	<content contentuid="h50246aa3ga6b3g48cdg91d2ga50d1bd93842" version="50">Độ Khó: Cân Bằng</content>
+	<content contentuid="h54d53506g24d7g49d4g91dfgfa2afb6c1dfe" version="50">Độ Khó: Cân Bằng</content>
+	<content contentuid="ha593ac29ga10ag4848g8150ga5bf84c61ec1" version="50">Độ Khó: Cân Bằng</content>
+	<content contentuid="h45da8011g956cg474dga4ecg6efa6794131a" version="50">Tận Răng</content>
+	<content contentuid="h14f26989gc7a0g4950gbdacgc9661092f602" version="50">Các NPC sẽ chỉ được xài hàm dởm, phép gãi ngứa và máu gà pha loãng.</content>
+	<content contentuid="h1936b1cfg15c7g4625ga097gc8e081ebd628" version="50">Bạn có món gì tốt thì kẻ thù cũng có y hệt.</content>
+	<content contentuid="h2aa87adeg23deg4e2agbab3g04d156e506c8" version="50">Món hiếm bạn không có nhưng kẻ thù chưa chắc không có.</content>
+	<content contentuid="he7f351aeg7b50g4220g88e8g87de967eacbd" version="60">Cơ Chế Chiến Đấu Bổ Sung</content>
+	<content contentuid="ha2fc36aegb133g4e4fg9a85g19b36ba5d91d" version="60">Một số cuộc chạm trán trở nên phức tạp và khó khăn hơn.</content>
+	<content contentuid="h8c35ce75g83fcg4565gbe85g7682aa8a0b3b" version="60">Chiến Thuật</content>
+	<content contentuid="h5bae4194g6090g4007gb63fg1b0a8610b606" version="60">Mức độ phức tạp mặc định của các cuộc chạm trán trong Baldur's Gate 3.</content>
+	<content contentuid="h5e554fb3geb2ag4960g9619g212bf055c64f" version="60">Một số cuộc chạm trán được đơn giản hóa và trở nên dễ hơn.. </content>
+	<content contentuid="h7891c266g62eag4cf1gb882g5823a20e9742" version="50">Kẻ thù sẽ có đánh &lt;LSTag Tooltip="CriticalHit"&gt;Chí Mạng&lt;/LSTag&gt;.</content>
+	<content contentuid="h9a17f8f3gd40eg42afgb0dfgd0bd048849c7" version="60">Thần Chết Vắng Mặt</content>
+	<content contentuid="hc95b0544ge53bg497bg8ea1gd3a444aecdb5" version="60">Bật tùy chọn này để ngăn nhân vật người chơi chết khi điểm máu của họ giảm xuống 0. Thay vào đó, họ sẽ được ổn định trong trạng thái hấp hối cho đến khi được đồng minh hỗ trợ. Tính năng này giúp giảm thiểu rủi ro mất nhân vật trong những trận chiến khó khăn và mang lại cơ hội để đồng đội cứu nguy kịp thời, duy trì tính chiến thuật trong lối chơi.</content>  
+	<content contentuid="h08309889gdee5g473cg9e1cgd071453a9498" version="0">Không Mất Lượt Khi Tấn Công Chủ Động</content>	
+	<content contentuid="hd1b7fa4bgd4e8g439ag8921g29932ccfd4ce" version="0">Gây sát thương cho NPC trước khi bạn bước vào chiến đấu sẽ khiến bạn mất một đòn tấn công hoặc hành động trong lượt đầu tiên theo thứ tự ưu tiên.</content>
+
+
+
+	<content contentuid="he3027a35g04e7g4966g9ae0g3a3b2cb70cc1" version="60">Chứng Tích Danh Dự</content>
+	<content contentuid="hc8f315ecgaf51g4c79gab37gbde44d9eeb47" version="60">Nếu những chiến công của bạn chưa đủ để chứng minh phẩm chất, thì chính những lời ấy sẽ làm được. Danh dự là báu vật hiếm hoi giữa nhân loại phàm trần.</content>
+	<content contentuid="hc84c257fg484bg490cgab0dg6026185bdebe" version="60">Chi Tiết Chế Độ Danh Dự</content>
+	
+
+
+
+
