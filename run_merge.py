@@ -1,4 +1,19 @@
 import xml.etree.ElementTree as ET
+import os
+
+# Chương trình gộp file XML từ bản gốc tiếng Anh và bản dịch tiếng Việt.
+# Đầu vào: file_goc/eng.xml (bản gốc Game mới update), file_goc/vie.xml (bản dịch lỗi thời)
+# Đầu ra: vh.xml (chỉ chứa các mục đã dịch), vh-eng.xml (chứa các mục chưa dịch)
+
+print("Chương trình gộp file XML từ bản gốc tiếng Anh và bản dịch tiếng Việt.")
+print("Đầu vào: file_goc/eng.xml (bản gốc Game mới update), file_goc/vie.xml (bản dịch lỗi thời)")
+print("Đầu ra: vh.xml (chỉ chứa các mục đã dịch), vh-eng.xml (chứa các mục chưa dịch)")
+print("-" * 60)
+
+# Tạo thư mục output nếu nó không tồn tại
+output_dir = "output"
+if not os.path.exists(output_dir):
+    os.makedirs(output_dir)
 
 # Hàm thụt lề (pretty print)
 def indent(elem, level=0):
@@ -15,8 +30,8 @@ def indent(elem, level=0):
             elem.tail = i
 
 # Đọc file eng.xml và vie.xml
-tree_eng = ET.parse("eng.xml")
-tree_vie = ET.parse("vie.xml")
+tree_eng = ET.parse("file_goc/eng.xml")
+tree_vie = ET.parse("file_goc/vie.xml")
 
 root_eng = tree_eng.getroot()
 root_vie = tree_vie.getroot()
@@ -60,7 +75,7 @@ indent(vh_root)
 indent(vh_eng_root)
 
 # Xuất ra file
-ET.ElementTree(vh_root).write("vh.xml", encoding="utf-8", xml_declaration=True)
-ET.ElementTree(vh_eng_root).write("vh-eng.xml", encoding="utf-8", xml_declaration=True)
+ET.ElementTree(vh_root).write(os.path.join(output_dir, "vh.xml"), encoding="utf-8", xml_declaration=True)
+ET.ElementTree(vh_eng_root).write(os.path.join(output_dir, "vh-eng.xml"), encoding="utf-8", xml_declaration=True)
 
-print("✅ Hoàn thành! Đã tạo vh.xml và vh-eng.xml (không bị mất dòng).")
+print("✅ Hoàn thành! Đã tạo vh.xml và vh-eng.xml (không bị mất dòng) trong thư mục 'output'.")

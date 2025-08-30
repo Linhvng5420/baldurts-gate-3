@@ -1,4 +1,19 @@
 import xml.etree.ElementTree as ET
+import os
+
+# Chương trình kiểm tra các dòng bị mất sau khi gộp file XML từ bản gốc tiếng Anh và bản dịch tiếng Việt.
+# Đầu vào: eng.xml (bản gốc), vh_merge.xml (file đã gộp)
+# Đầu ra: lost-eng.xml (chứa các dòng có trong eng.xml nhưng không có trong vh_merge.xml)
+
+print("Chương trình kiểm tra các dòng bị mất sau khi gộp file XML.")
+print("Đầu vào: eng.xml (bản gốc), vh_merge.xml (file đã gộp)")
+print("Đầu ra: lost-eng.xml (chứa các dòng có trong eng.xml nhưng không có trong vh_merge.xml)")
+print("-" * 60)
+
+# Tạo thư mục output nếu nó không tồn tại
+output_dir = "output"
+if not os.path.exists(output_dir):
+    os.makedirs(output_dir)
 
 # Hàm pretty print
 def indent(elem, level=0):
@@ -43,6 +58,6 @@ for eng_content in root_eng.findall("content"):
 indent(lost_root)
 
 # Ghi ra file lost-eng.xml
-ET.ElementTree(lost_root).write("lost-eng.xml", encoding="utf-8", xml_declaration=True)
+ET.ElementTree(lost_root).write(os.path.join(output_dir, "lost-eng.xml"), encoding="utf-8", xml_declaration=True)
 
-print("✅ Hoàn thành! Đã tạo file lost-eng.xml (chứa các dòng bị mất sau khi tách).")
+print("✅ Hoàn thành! Đã tạo file lost-eng.xml (chứa các dòng bị mất sau khi tách) trong thư mục 'output'.")
