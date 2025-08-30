@@ -1,0 +1,276 @@
+<?xml version='1.0' encoding='utf-8'?>
+<contentList>
+   <!-- Tổng Hợp Các Lời Thoại, Miêu Tả, Chức Năng có dính Code-Event-State, Dịch cẩn thận không là phá Game -->
+   <!-- Các dòng có Key State Event, có liên quan tới Action, Dịch cẩn thận: Bản Gốc -->
+	<content contentuid="hfbbbdfc6gfac4g4049ga78bgdd03f1897383" version="0"> |PortraitClick ShadowHeart Sneaking v5 |</content>	
+	<content contentuid="hf7adafa6g1ddbg450dgb5e9g2cfad78c309c" version="0">| PortraitClick Normal &lt;br&gt;NarrativeArch_Start v12|</content>
+	<content contentuid="ha6ab215eg6e5bg42d0g97a9g6adfd763475f" version="0"> |PortraitClick ShadowHeart Normal v8 |</content>
+	
+    <!-- Các dòng có Key State Event, có liên quan tới Action, Dịch cẩn thận: Bản Lỗi -->
+    <content contentuid="h735f5a49g5a5cg4ea3gb0c1g42fe883e2a01" version="50">| PortraitClickSpam Bình thường &lt;br&gt;NarrativeArch_Start v1 &lt;br&gt;Các dòng Easter Egg có thể phát điên ;) |</content>
+	<content contentuid="h741ffa11gd01eg4adcg8504g300327fd008d" version="50">| Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v1 |</content>
+	<content contentuid="h741ffa11gd01eg4adcg8504g300327fd008d" version="50">| Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v1 |</content>
+	<content contentuid="h75fdaf38g23a9g442fgb4c4g34fdba211d0c" version="50">| PortraitClickSpam Combat &lt;br&gt;NarrativeArch_Start v3 |</content>
+	<content contentuid="h76bb40d2g0f94g4af3gbe12gafdaee419b4e" version="50">PortraitClickSpam lén lút &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="h7a5dc055gbf8cg4f52g88d4gb56e91a596fc" version="50">PortraitClick Bình thường &lt;br&gt;NarrativeArch_Start v2 |&lt;br&gt;</content>
+	<content contentuid="h7bc10bfdg4a10g41a6g841bgc127f7444e38" version="50">|PortraitClick ShadowHeart Lén lút v2 |</content>
+	<content contentuid="h7beb2becg48b5g4a07g95b3gcd440f1afdd4" version="50">| PortraitClickSpam Bình thường &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="h7fab1d68g9eeeg4247ga749g6c527a988748" version="50">| PortraitClickSpam Bình thường &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="h83bf3d6dgd428g4645ga47bg702884b16851" version="50">| Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v6 |</content>
+	<content contentuid="h84d7337cgd4f1g4d10gbb16g1a74c914f246" version="50">| PortraitClick Combat &lt;br&gt;NarrativeArch_Start v14 |</content>
+	<content contentuid="h8984b550g3540g4d3fg8a10g5e3eb4c8ce7d" version="50">| PortraitClick Combat &lt;br&gt;NarrativeArch_Start v8 |&lt;br&gt;</content>
+	<content contentuid="h8b44dffag42ebg498bga5d9g121d2ca64901" version="50">|PortraitClick ShadowHeart Lén lút v14 |</content>
+	<content contentuid="h8c832b38gb510g405eg99f3gdb736887d5e4" version="50">| Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v9 |</content>
+	<content contentuid="h8c942e1cg7d45g431ag962agd05d5a833d9f" version="50">| PortraitClickSpam lén lút &lt;br&gt;NarrativeArch_Start v3 |</content>
+	<content contentuid="h8fb28810ge7f6g4e06g896ageaa5d753dd45" version="50">| PortraitClick Combat &lt;br&gt;NarrativeArch_Start v7 |</content>
+	<content contentuid="h90682f2dg95fbg47edga4cfg17113e286318" version="50">|PortraitClick Bình thường &lt;br&gt;NarrativeArch_Start v9 |&lt;br&gt;</content>
+	<content contentuid="h92be6654g26c0g4e8bga52cge705cd579c67" version="50">| PortraitClick Bình thường &lt;br&gt;NarrativeArch_Start v10|&lt;br&gt;</content>
+	<content contentuid="h947c311dgc4b0g429eg8993gb52874cbd288" version="50">| PortraitClick Combat &lt;br&gt;NarrativeArch_Start v18 |</content>
+	<content contentuid="h9637ecb5gb85bg4415g8771gd879e4f02079" version="50">| PortraitClick Bình thường &lt;br&gt;NarrativeArch_Start v17|&lt;br&gt;</content>
+	<content contentuid="h9c4977c7gf1feg480bg94f0g42440cc280ef" version="50">| Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="h9ed8f641g2712g4352g8716g960188a577be" version="50">| PortraitClick Combat &lt;br&gt;NarrativeArch_Start v1 |</content>
+	<content contentuid="ha6ec4446g87f4g4c94gb396gfa4974125bc2" version="50">| PortraitClick Combat &lt;br&gt;NarrativeArch_Start v11 |</content>
+	<content contentuid="haa42d056gb2efg44c0g8b42ge2a014c52327" version="50">|PortraitClick ShadowHeart Lén lút v7 |</content>
+	<content contentuid="hac4df87ag2b13g41d6g8698g9115ef97dd64" version="50">| PortraitClick Combat &lt;br&gt;NarrativeArch_Start v12 |&lt;br&gt;</content>
+	<content contentuid="hb13fc7c1gbb77g4bb3g8a1dg7a0ada7ba1cf" version="50">| Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v2 |&lt;br&gt;</content>
+	<content contentuid="hb73f0b57gbd09g4225gaedfg938f1d7db554" version="50">| Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v12 |&lt;br&gt;</content>
+	<content contentuid="hb90092c1gfec6g4941ga5e0ga9df969fc6da" version="50">| PortraitClick Combat &lt;br&gt;NarrativeArch_Start v15 |</content>
+	<content contentuid="hb9615959g8c7eg45b1gb645g53d49d7c828f" version="50">| PortraitClick Bình thường &lt;br&gt;NarrativeArch_Start v15|</content>
+	<content contentuid="hbb71ee2cgc980g4869gbb13g4bb250254c32" version="50">| PortraitClickSpam Combat &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="hbc461af8gfbdfg4b0dgaa78gf396ef967b67" version="50">| Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v10 |</content>
+	<content contentuid="hbc6a3b0bg467dg4801gb6eagfa1e97aa3c80" version="50">| PortraitClick Bình thường &lt;br&gt;NarrativeArch_Start v13|&lt;br&gt;</content>
+	<content contentuid="hc251fd90g1803g47c1gb4e8g43d6e530722f" version="50">|PortraitClick ShadowHeart Bình thường v17 |</content>
+	<content contentuid="hc3a98808gf18cg4f7ag9995g43a793ac7439" version="50">| PortraitClick Combat &lt;br&gt;NarrativeArch_Start v9 |</content>
+	<content contentuid="hc459b6ceg6900g4b81gb966g9d8b6a3af9be" version="50">|PortraitClick ShadowHeart Bình thường v18 |</content>
+	<content contentuid="hc6a25fa8g3e1ag47efgb607g1b00bd86e50f" version="50">| PortraitClick Bình thường &lt;br&gt;NarrativeArch_Start v4 |&lt;br&gt;</content>
+	<content contentuid="hc7b078d3gb480g4a1agb897g7a4676fab9e4" version="50">|PortraitClick ShadowHeart Lén lút v3 |</content>
+	<content contentuid="hd839d0c0gda48g4d99ga0c5gb705ebcbb0bc" version="50">| Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v14 |</content>
+	<content contentuid="he3c74097g17a1g44f4gb5a9g622862df5f9a" version="50">| Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v13 |</content>
+	<content contentuid="he92cee76g0dcdg4556g9461gd155a2074d54" version="50">| PortraitClick Combat &lt;br&gt;NarrativeArch_Start v6 |</content>
+	<content contentuid="hea9ce5b0gb163g4e88g98a2g18f3bd809e4d" version="50">|PortraitClick ShadowHeart Bình thường v16 |</content>
+	<content contentuid="hed6b62dagf7c5g481cga244gba4a6bc2dc32" version="50">|PortraitClick ShadowHeart Lén lút v18 |&lt;br&gt;</content>
+	<content contentuid="hf03661adg35c1g46fdgaf92g36b36790ef25" version="50">| Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v11 |</content>
+	<content contentuid="hf2114ba5g0f39g4479gb7e8g0d307a0c2bbc" version="50">| PortraitClick Combat &lt;br&gt;NarrativeArch_Start v10 |</content>
+	<content contentuid="hf309528egeeacg4feag94b9ga8d2f4eea5f7" version="50">|PortraitClick ShadowHeart Lén lút v13 |</content>
+	<content contentuid="hf48d5b63gb659g4637g9928ga96286f0322b" version="50">| PortraitClick Bình thường &lt;br&gt;NarrativeArch_Start v3 |&lt;br&gt;</content>
+	<content contentuid="hf5ecb82cg7841g4a55g848eg1eb5115bc080" version="50">| Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v5 |&lt;br&gt;</content>
+	<content contentuid="hf6df8071g2824g4650g83f7g17ebf1d35f50" version="50">| Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v15 |</content>
+	<content contentuid="hf76e918fg9137g4c5cga88eg23e51e13e3a4" version="50">PortraitClick Bình thường &lt;br&gt;NarrativeArch_Start v16|&lt;br&gt;</content>
+	<content contentuid="h03e50d44ga81eg40e1gbbddge3190a98658e" version="50">Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v8 |&lt;br&gt;</content>
+	<content contentuid="h00a38000g414fg48e9ga406g808ead180089" version="50">|PortraitClick ShadowHeart Bình thường v15 |</content>
+	<content contentuid="h8c61c93egbb7fg4c3aga05bgee5d1e69c6e1" version="0">| BuffTarget Sneaking &lt;br&gt;Relation_Positive v6 |&lt;br&gt;</content>
+	<content contentuid="h08ee074fg7c19g4b83gad64g1086bfe25d34" version="50">| HealBuff Shadowheart Normal v12|&lt;br&gt;&lt;br&gt;&lt;br&gt;</content>
+	<content contentuid="h024e7c41g2337g4defg8f60g6993fd71a0d3" version="50">[Kế hoạch cho buổi trình diễn nghệ thuật sắp tới tại House Jannath - 'Strange Tides: Bản Thân-Portraits from the Sword Coast'.]&lt;br&gt;&lt;br&gt;&lt;i&gt;Những gợi ý tuyệt vời, Mnemonis. Vui lòng xem ghi chú của tôi bên dưới để biết cách chuẩn bị - Quý bà Jannath&lt;/i&gt;&lt;br&gt;&lt;br&gt;Những người được mời&lt;br&gt;Mssr. Rewth Linnacker + 1&lt;br&gt;Quý cô Harette Oberon + 1&lt;br&gt;Ser Yarrick Sashenstar + 3 (&lt;i&gt;Anh ấy nhất quyết mang theo ba đứa trẻ sinh ba. Hãy nhắc anh ấy rằng chúng tôi không cung cấp bảo mẫu nào để chăm sóc chúng.&lt;/i&gt;)&lt;br &gt;Vin Valle (&lt;i&gt;Tác phẩm 'Suy ngẫm về Umberlee' của họ sẽ được trưng bày. Hãy đảm bảo rằng họ được biết về điều này.&lt;/i&gt;)&lt;br&gt;Mssr. Polton Karrick (&lt;i&gt;Vẫn chưa giao tĩnh vật mà tôi đã mua. Hãy nhắc anh ấy về điều này - một cách nhẹ nhàng.&lt;/i&gt;)&lt;br&gt;&lt;br&gt;Chất dinh dưỡng&lt;br&gt;Ba thùng rượu vang (&lt;i&gt;Cái tốt nhất bạn có thể tìm. Người phục vụ rượu vang của tôi ở Manorborn nên có thứ gì đó.&lt;/i&gt;)&lt;br&gt;Súp nấm rừng&lt;br&gt;Món bít tết với măng tây&lt;br&gt;Bánh lê vàng</content>
+	<content contentuid="h06e9f897gfe82g45e7ga33bged02472fccf4" version="50">| PortraitClickSpam lén lút &lt;br&gt;NarrativeArch_Start v1&lt;br&gt;Dòng Easter Egg có thể trở nên điên rồ ;) |&lt;br&gt;</content>
+	<content contentuid="h07af72a1g328bg4503gb4d9gf5e1a45d817a" version="50">| PortraitClick Combat &lt;br&gt;NarrativeArch_Start v5 |&lt;br&gt;</content>
+	<content contentuid="h0fb6219fg2d72g45a7g971dgbe038fad7399" version="50">| PortraitClick Bình thường &lt;br&gt;NarrativeArch_Start v8 |&lt;br&gt;</content>
+	<content contentuid="h1278f5b8gf6bdg44efg8b33g2fc6b3c76d1b" version="50">PortraitClickSpam Combat &lt;br&gt;NarrativeArch_Start v1 &lt;br&gt;Các dòng Easter Egg có thể trở nên điên rồ ;) |&lt;br&gt;</content>
+	<content contentuid="h13e9206dg696bg41d0g9bf7gef2c792316d9" version="50">| Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v18 |</content>
+	<content contentuid="h1448984agd28eg4186g95f6g8f998f9ffab4" version="50">| PortraitClick Combat &lt;br&gt;NarrativeArch_Start v3 |</content>
+	<content contentuid="h1a45a4cegc4c3g41c4g848fg558875d007ad" version="0">| PortraitClick Sneaking &lt;br&gt;NarrativeArch_Start v17 |</content>
+	<content contentuid="h1b7afdc4g5e56g4faag8042gcc154da091d0" version="50">|PortraitClick ShadowHeart Lén lút v17 |</content>
+	<content contentuid="h1eee79afga443g42a3g8bb4g7d63ec79cb3b" version="50">| PortraitClick Bình thường &lt;br&gt;NarrativeArch_Start v5 |&lt;br&gt;</content>
+	<content contentuid="h22dd9170g7a30g4d10gbb4dg06d8bfd0f2ed" version="50">| Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v3 |</content>
+	<content contentuid="h23339eaagf931g4868ga2c2g081d086afeff" version="50">| PortraitClick Bình thường &lt;br&gt;NarrativeArch_Start v6 |</content>
+	<content contentuid="h250d3cb1g5e8fg4991g9886g288c616fc30c" version="50">| PortraitClickSpam Combat &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="h2ba9efabg45adg484agab83gda9408fdecdb" version="50">PortraitClick Combat &lt;br&gt;NarrativeArch_Start v17 |</content>
+	<content contentuid="h2e0d5c40g8279g4b5agbcacg32bb3512180d" version="50">| PortraitClick Combat &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="h31d288cag2dcdg46a0gab0dgad949f85c1b2" version="50">|PortraitClick ShadowHeart Lén lút v10 |</content>
+	<content contentuid="h365ffcccg5bfcg4dc7ga972g32846c8d4a38" version="50">| Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v16 |&lt;br&gt;</content>
+	<content contentuid="h36984fc1g0ce4g4a58g8d3aga41603e7ceea" version="50">|PortraitClick ShadowHeart Lén lút v8 |</content>
+	<content contentuid="h36a3a674gae10g4573g9b5dgfdc080f53aec" version="50">PortraitClick Combat &lt;br&gt;NarrativeArch_Start v13 |</content>
+	<content contentuid="h39e61ebbgceecg44ccg977dg74f5ad94c2d4" version="50">| PortraitClick Bình thường &lt;br&gt;NarrativeArch_Start v7 |&lt;br&gt;</content>
+	<content contentuid="h3d6429bdg474cg4d0egb93eg7c81a86d7e9c" version="50">|PortraitClick ShadowHeart Lén lút v16 |</content>
+	<content contentuid="h44ca6dd9gba08g4a11gbbafg3b679666fa3d" version="50">| Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v7 |</content>
+	<content contentuid="h4bdf7534g438bg4ec2g8b05gf9a2d0a2f3bf" version="50">|PortraitClick ShadowHeart Lén lút v6 |</content>
+	<content contentuid="h4f3d1b9cg95b8g4e76g9267gb10494ce3a47" version="50">| PortraitClickSpam lén lút &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="h4ff8885bgabbag4897g9ec5g484e5c0dbe56" version="50">| PortraitClick Bình thường &lt;br&gt;NarrativeArch_Start v14|&lt;br&gt;</content>
+	<content contentuid="h5118d6a4g45b7g4fdbg86e1g9e008c180183" version="50">|PortraitClick ShadowHeart Lén lút v1 |</content>
+	<content contentuid="h51b2163dg70a1g4485ga49ag81f7d464914b" version="50">| PortraitClick Combat &lt;br&gt;NarrativeArch_Start v16 |&lt;br&gt;</content>
+	<content contentuid="h5b0c84dbg3162g4445g821agad88cfa8c5fc" version="50">PortraitClick Combat &lt;br&gt;NarrativeArch_Start v2 |&lt;br&gt;</content>
+	<content contentuid="h5e56ac01g420eg4f3egb64eg31ed5d79f272" version="50">| PortraitClick Bình thường &lt;br&gt;NarrativeArch_Start v1 |&lt;br&gt;</content>
+	<content contentuid="h64129698g3be0g4f8ag9520g5dc0d621183d" version="50">|PortraitClick ShadowHeart Lén lút v15 |</content>
+	<content contentuid="h66602ac2geebfg4141gbd94gf76742d74639" version="50">| PortraitClickSpam Bình thường &lt;br&gt;NarrativeArch_Start v3 |</content>
+	<content contentuid="h6a03e84egbafbg422eg97afg42c67da4a9ca" version="50">|PortraitClick ShadowHeart Lén lút v12 |</content>
+	<content contentuid="h6a0a48d4g992dg4c33g85cegcfbf9d2dda6c" version="50">| PortraitClick Bình thường &lt;br&gt;NarrativeArch_Start v11|</content>
+	<content contentuid="h6d154197ga4d4g4f92g88fcgef7a73fdbc09" version="50">|PortraitClick ShadowHeart Lén lút v4 |</content>
+	<content contentuid="h6ed2ab27g87cdg47dcgb1cdgf280200ff800" version="50">|PortraitClick ShadowHeart Lén lút v9 |</content>
+	<content contentuid="h741ffa11gd01eg4adcg8504g300327fd008d" version="50">| Lén lút PortraitClick &lt;br&gt;NarrativeArch_Start v1 |</content>
+	<content contentuid="hfb1ebd2agf5ecg4662g9ddagd8fb4fb97185" version="0"> |PortraitClick ShadowHeart Sneaking v11 |</content>
+	
+
+	<!--Setting-->
+	<content contentuid="hc2d2fcdeg94b7g419ag9c16g0bd8232d7d7e" version="60">Lưu Nhanh [1]</content>
+	<content contentuid="h033a526fg0fe7g4164g8431g177be16d148a" version="60">Lựa Chọn</content>
+	<content contentuid="h43faec29ged56g4f6bgaaedgc0b7b74ad4c8" version="60">Quản Lý Tài Khoản Larian</content>
+	<content contentuid="h2b508094g3754g41bfg9040g93758f769eed" version="60">Game Đang Chơi</content>
+	<content contentuid="h61df9aeag7c90g43cbgaac8g1c3d458ebcee" version="0">Đã Kích Hoạt Mods</content>
+	<content contentuid="h839dd40ag30f3g49e0g9135g411c9fcc81ba" version="0">Tùy Chỉnh</content>
+
+	<content contentuid="h2af5b0a6gb77bg4239gae9dg26bdbf6c51a2" version="60">Chế độ chơi chéo hiện đang bị tắt. Hãy bật tính năng này để có thể tham gia cùng bạn bè của bạn trên các nền tảng khác nhau. Khi bật, bạn có thể truy cập vào sảnh chéo nền tảng và mời hoặc tham gia nhóm một cách liền mạch. Nếu muốn, bạn có thể tắt đi bất cứ lúc nào trong phần Tùy chọn Trò chơi.</content>  
+	<content contentuid="h2d4d3a12g70edg400dg844agd5c33cba2de5" version="60">Chế độ Ảnh cho phép bạn chụp những bức ảnh trong game với nhiều tùy chỉnh chi tiết. Bạn có thể điều chỉnh vị trí và góc độ của máy ảnh, phóng to hoặc thu nhỏ, thêm hiệu ứng và nhãn dán, cũng như thay đổi dáng đứng và tư thế của nhân vật để có được khung hình ưng ý nhất.&lt;br&gt;&lt;br&gt;Để kích hoạt Chế độ Ảnh, nhấn đồng thời [IE_UITogglePhotoMode] + [IE_UITogglePhotoModeSecondary]. Tính năng này giúp bạn lưu giữ những khoảnh khắc đáng nhớ hoặc chia sẻ hình ảnh đẹp mắt với bạn bè.</content>  
+	<content contentuid="h47e1700bg80b9g42c0g8131g83f770432634" version="60">Bị giày vò bởi một bí mật khủng khiếp vượt ngoài sức chịu đựng, thực thể chịu ảnh hưởng rơi vào tình trạng tinh thần suy yếu. Họ buộc phải sử dụng &lt;LSTag Type="Spell" Tooltip="Target_SHA_Justiciar_UntenableSecret_Ally"&gt;Share Untenable Secret&lt;/LSTag&gt; để chia sẻ bí mật đó với một đồng minh nhằm giảm bớt gánh nặng. Nếu không, họ sẽ phải gánh chịu Sát Thương Tâm Linh (Psychic) khiến sức mạnh tinh thần và thể chất dần suy sụp, dễ bị đánh bại hơn trong giao tranh.</content>  
+	<content contentuid="h7963a24bgdd71g4592g9bb8g5b1400e4c144" version="60">Chế độ đa nền tảng (Cross-play) cho phép bạn chơi cùng bạn bè bất kể họ sở hữu trò chơi trên thiết bị nào. Tính năng này mở rộng khả năng kết nối, tạo cơ hội gặp gỡ và hợp tác cùng nhiều người chơi hơn.&lt;br&gt;&lt;br&gt;Để sử dụng chế độ này, bạn và bạn bè cần có Tài khoản Larian. Sau khi bật Cross-play, bạn có thể truy cập sảnh đa nền tảng, tham gia hoặc tạo phòng chơi. Tùy chọn này có thể được bật hoặc tắt bất kỳ lúc nào trong phần Tùy chọn Trò chơi, giúp bạn linh hoạt điều chỉnh trải nghiệm chơi.</content>  
+	<content contentuid="h7dd3b731g7c7eg40ecga0bcg4664a6812f3c" version="60">Bật chế độ đa nền tảng để tham gia cùng bạn bè chơi game trên các thiết bị khác nhau như PC, console hay nền tảng trực tuyến.&lt;br&gt;&lt;br&gt;Bạn cần đăng nhập vào Tài khoản Larian để tính năng này hoạt động. Khi đã kích hoạt, bạn sẽ có thể thấy và tham gia các sảnh chơi chung, tăng thêm sự đa dạng trong lựa chọn đối thủ và đồng minh. Đây là tính năng hữu ích nếu bạn muốn mở rộng cộng đồng người chơi ngoài nền tảng hiện tại của mình.</content>  
+	<content contentuid="h8f5d35c4g778bg4571ga16cg9c7b995a47d3" version="60">Chế độ Ảnh cho phép bạn tạo ra những bức ảnh trong game với phong cách riêng. Bạn có thể tự do điều chỉnh góc nhìn của camera, mức độ phóng to, áp dụng nhiều hiệu ứng khác nhau, thêm nhãn dán vui nhộn hoặc tạo khung cảnh nghệ thuật với dáng đứng của nhân vật.&lt;br&gt;&lt;br&gt;Kích hoạt bằng cách nhấn [IE_UITogglePhotoMode] hoặc đơn giản bằng cách nhấn vào biểu tượng máy ảnh bên cạnh bản đồ nhỏ. Đây là công cụ tuyệt vời để ghi lại hành trình, chia sẻ khoảnh khắc hoặc sáng tạo nội dung hấp dẫn.</content>  
+	<content contentuid="h9588a06eg4c39g4f33g8e8cga1fdd09132c9" version="60">Bật tùy chọn này để các loại vũ khí có thể ném được sẽ tự động được thêm vào thanh kỹ năng khi bạn nhận được chúng. Điều này giúp tiết kiệm thời gian sắp xếp và đảm bảo bạn luôn sẵn sàng sử dụng vũ khí ngay khi cần. Đây là tính năng tiện lợi cho những người chơi thường xuyên dùng vũ khí ném trong chiến đấu.</content>  
+	<content contentuid="h9d860148g38e3g4d9cg9389gd33aced354cb" version="60">Chế độ Ảnh cho phép bạn ghi lại những khoảnh khắc đáng nhớ trong trò chơi với nhiều công cụ tùy chỉnh mạnh mẽ. Bạn có thể xoay, di chuyển camera, điều chỉnh khoảng cách, thêm các hiệu ứng hình ảnh, biểu tượng và nhãn dán vui nhộn. Ngoài ra, bạn còn có thể chọn dáng đứng nhân vật để tạo ra những tấm ảnh sinh động và sáng tạo.&lt;br&gt;&lt;br&gt;Để bật, hãy nhấn [IE_UITogglePhotoMode] hoặc nhấp vào biểu tượng máy ảnh bên cạnh bản đồ nhỏ. Đây là tính năng tuyệt vời để chia sẻ hành trình và kỷ niệm trong game với bạn bè.</content>  
+	<content contentuid="hc581fed4ge657g4952ga74ag91ba3910339a" version="60">Bật Chơi chéo (Cross-play) để mở rộng khả năng kết nối với người chơi từ các nền tảng khác nhau. Khi kích hoạt, bạn có thể tham gia các sảnh đa nền tảng, tạo nhóm cùng bạn bè và trải nghiệm game một cách liền mạch bất kể thiết bị. Đây là tính năng thiết yếu để đảm bảo cộng đồng game thủ không bị giới hạn bởi nền tảng phần cứng.</content>  
+	<content contentuid="hcbb5efb0gb487g4fd9g86c1g8c1bcdf173ef" version="60">Hãy bật nội dung do người chơi tạo (user-generated content) trong phần cài đặt của máy console để có thể sử dụng mod. Khi đã kích hoạt, bạn có thể quản lý và cài đặt các mod mà mình muốn trải nghiệm. Đây là tính năng hỗ trợ mở rộng khả năng sáng tạo, mang đến nhiều nội dung phong phú do cộng đồng đóng góp, giúp game trở nên đa dạng và thú vị hơn.</content>  
+	<content contentuid="hec2e771dgbdd8g4603g996dga59d0e9ca3a6" version="60">Chế độ Ảnh cho phép bạn tạo ra những bức hình tùy chỉnh trong trò chơi với nhiều công cụ sáng tạo. Bạn có thể điều chỉnh vị trí máy ảnh, mức phóng to, áp dụng các hiệu ứng hình ảnh, thêm nhãn dán, biểu tượng trang trí, và chọn các dáng đứng độc đáo cho nhân vật.&lt;br&gt;&lt;br&gt;Để bật chế độ này, nhấn tổ hợp [IE_UITogglePhotoMode] + [IE_UITogglePhotoModeSecondary]. Đây là tính năng lý tưởng để sáng tạo nội dung, chia sẻ khoảnh khắc ấn tượng hoặc lưu lại những cảnh quan tuyệt đẹp trong thế giới game.</content>  
+	<content contentuid="h09c8729bg2c62g48d7gb19cg31d1bf31217e" version="60">Bật/Tắt Chia Đôi Màn Hình Ép Buộc</content>
+	<content contentuid="hf4e7d5e9gd2c9g4b9bgbf06geb3bea12630b" version="60">Tùy Chọn Chia Đôi Màn Hình</content>
+	<content contentuid="he22e8607gf9abg4703g809bg4d07686276e8" version="60">Khi bật, màn hình sẽ luôn được chia đôi trong chế độ chơi chia màn hình, cho phép cả hai người chơi đều có toàn quyền điều khiển camera. Những người chơi có lượt đi chung trong chiến đấu hoặc Chế Độ Theo Lượt sẽ thực hiện hành động cùng lúc.&lt;br&gt;&lt;br&gt;Khi tắt, màn hình sẽ gộp lại khi các nhân vật đứng gần nhau, cho phép cả hai người chơi dùng chung một màn hình hợp nhất.</content>
+	<content contentuid="hd27f92c1g3d08g444dg9f5cg2c3bf3bc2ce2" version="60">Chia Đôi Màn Hình Cưỡng Bức: Bật</content>
+	<content contentuid="hcd625638g69a3g42a5g96dbgfc0d1c57ca80" version="60">Chia Đôi Màn Hình Cưỡng Bức: Tắt</content>
+	<content contentuid="hb4514ea1g1cafg4cf9ga36dge06f76902536" version="60">Khi bật, những người chơi có lượt đi chung trong chiến đấu hoặc Chế Độ Theo Lượt sẽ lần lượt hành động trên cùng một màn hình hợp nhất.&lt;br&gt;&lt;br&gt;Khi tắt, người chơi sẽ hành động đồng thời trên màn hình chia đôi.</content>
+	<content contentuid="hac79dd1bga6ffg4048g911bg82f993b92350" version="60">Chia Đôi Màn Hình Cưỡng Bức</content>
+	<content contentuid="h7ca5cc6egf86bg478fg9b43g2f79f4c2e2d5" version="60">Đã bật chia đôi màn hình</content>
+	<content contentuid="h562afe65ge87fg4863gb4fcg56a432b35903" version="60">Nhấn [IE_UIAccept] trên tay cầm khác để bắt đầu trò chơi chia đôi màn hình!</content>
+	<content contentuid="h6b12411bgba38g4c37g9a0dg1c0782144386" version="60">Trong chế độ co-op tại chỗ, màn hình chia đôi sẽ tự động gộp lại thành một màn hình duy nhất khi các nhân vật đứng đủ gần nhau. Bạn có thể tắt tính năng gộp này bằng cách bật Chia Đôi Màn Hình Cưỡng Bức.&lt;br&gt;&lt;br&gt;Có hai tùy chọn cho cách trò chơi chuyển đổi giữa màn hình chia đôi và màn hình hợp nhất:&lt;br&gt;&lt;br&gt;Mượt: Màn hình chia đôi sẽ từ từ gộp lại khi các nhân vật đứng gần và góc quay camera tương đồng. Có thể cần xoay camera nhẹ để quá trình gộp diễn ra.&lt;br&gt;&lt;br&gt;Ngay lập tức: Màn hình chia đôi sẽ gộp tức thì khi các nhân vật đứng gần nhau.</content>
+	<content contentuid="h12e6e4e7g5d87g474bgb599g26882044a706" version="60">Chuyển Đổi Chia Đôi Màn Hình</content>
+	<content contentuid="hc6d562d8g968ag42ceg9ea1g0dfc57bfd657" version="60">Cho Phép Chơi Chéo Nền Tảng</content>
+	<content contentuid="hc3d2e659ga876g4a45ga125geeeed6931c37" version="60">Cho phép bạn tự động nghe lén các cảnh đối thoại của người chơi khác (khi có thể).</content>
+
+
+    <!-- Menu Game: Phần chọn Độ Khó sau khi nhấn New Game -->
+	<content contentuid="hb80200a7g8e69g4f66gbc18g4155d70f0dcc" version="60">Danh Dự</content>
+    <content contentuid="h2061fea8gde95g4e88gb4bcg93e240e16110" version="60">Một chiến dịch đầy khó khăn và chết chóc đang chờ đợi, giới hạn ở một tệp lưu duy nhất.</content>
+	<content contentuid="h98f4af19g94b7g4821g9043g5e89b45bd8f6" version="60">Chế Độ Danh Dự là một chiến dịch khắc nghiệt, khuyến nghị cho những người chơi dày dạn kinh nghiệm.&lt;br&gt;&lt;br&gt;Trùm Mạnh Hơn: Những kẻ thù nguy hiểm nhất trong Vùng Đất nay càng hùng mạnh, sở hữu kỹ năng mới và Hành Động Huyền Thoại.&lt;br&gt;&lt;br&gt;Luật Lệ Nghiêm Ngặt: Bên cạnh mức khó Tactician, luật kinh tế hành động và sát thương được siết chặt hơn về cuối game.&lt;br&gt;&lt;br&gt;Tệp Lưu Duy Nhất: Bạn không thể tải lại các bản lưu cũ trong Chế Độ Danh Dự nếu tình huống trở nên tệ hại – mọi lựa chọn và hậu quả đều gắn chặt. Nếu toàn bộ tổ đội bị đánh bại, hành trình Chế Độ Danh Dự sẽ chấm dứt. (Bạn có thể tiếp tục phiêu lưu trong Chế Độ Tùy Chỉnh, nhưng hoàn tất nó sẽ không được tính là chinh phục Chế Độ Danh Dự.)&lt;br&gt;&lt;br&gt;Nếu bạn vinh quang chiến thắng, phần thưởng là một bộ xúc xắc độc quyền để dùng trong những lần chơi tiếp theo.&lt;br&gt;&lt;br&gt;Chúc may mắn, lữ khách chính trực. Bạn sẽ cần đến nó.</content>
+	<content contentuid="hbab4f790gf733g4cc2gaa88g117bd3e9f116" version="60">Tùy chỉnh</content>
+	<content contentuid="h5cd05482gabb3g40e0gb470gb4ca5fc617a6" version="60">Tùy Chỉnh Trải Nghiệm Của Bạn.</content>
+
+
+	<content contentuid="he8e3236cgbf7eg4975gb5d8g3f4e3c0663f5" version="50">Xem Chi Tiết</content>
+	<content contentuid="he0167e71g6ac1g47ccgbad2gf63ac802f9b9" version="60">Sổ Chi Tiết</content>
+    <content contentuid="h46c00fa7gbb38g480fg9a0fgb4232bec8658" version="60">Tổng Quan Chi Tiết</content>
+    <content contentuid="h0886d1a1g186bg41b7g82degf7fd6f0c83f6" version="60">Báo Cáo Chi Tiết</content>
+
+
+	<content contentuid="h3c46af69gfe72g49f1gb524g8bf318295dc3" version="0">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Cài đặt này không thể thay đổi sau khi trò chơi bắt đầu!</content>
+	<content contentuid="hee984f60g20e8g4cb1gb894g6f1d34c013d8" version="60">Bộ Quy Tắc Chuẩn</content>
+    <content contentuid="h18609575g480eg4ffagaf6agd9108901b307" version="60">Tập hợp các quy tắc được sử dụng trong chiến dịch này, ảnh hưởng đến các yếu tố cốt lõi của trò chơi như phép thuật, trạng thái và hành vi của nhân vật.</content>
+	<content contentuid="hee984f60g20e8g4cb1gb894g6f1d34c013d8" version="60">Bộ Tiêu Chuẩn</content>
+    <content contentuid="h478b1265gbd06g4447g95d3ge9e29717ffd2" version="60">Trải nghiệm Baldur's Gate 3 cổ điển - một phiên bản chuyển thể của bộ quy tắc Dungeons and Dragons 5th Edition để phù hợp nhất với Game Console.</content>
+    <content contentuid="h39ed1ebbg6dadg4bafga046g6e3523d8bf7b" version="60">Bộ Danh Dự</content>
+	<content contentuid="h387eedf2gb5a2g451egb45dgab227aa1d794" version="60">Trong Chế Độ Danh Dự, toàn bộ kẻ thù của bạn trở nên mạnh mẽ hơn, và những sinh vật nguy hiểm nhất ở Vùng Đất Bị Lãng Quên cũng sở hữu thêm hàng loạt sức mạnh mới trong chiến trận.</content>
+	<content contentuid="hee047271g3b10g4e9fg9377g3fd4ff7e6251" version="50">Chiến Lược Một Mạng</content>
+	<content contentuid="h465dc37dg304dg4745gbd0eg81f210051ab8" version="50">Bạn sẽ chỉ có một ô lưu duy nhất và trò chơi sẽ tự động lưu khi một thành viên trong nhóm chết.</content>
+	<content contentuid="hb012bdedga319g497agab7fgc34b720b827e" version="50">Sức Mạnh Của NPC</content>
+
+	<content contentuid="h57a5735eg7213g4c3cg914cgbd1b5af276cc" version="50">Chọn độ khó của bạn</content>
+	<content contentuid="hf41151d4g9cc1g4023gb6d7g2c8216884b9d" version="50">Độ Khó Của Trận Chiến</content>
+	<content contentuid="h52916cfdgd802g4d0dg8270g225befb06327" version="50">Độ Khó Của Trận Chiến</content>
+	<content contentuid="h591d2075ge7adg470egb69eg0ec6f512e603" version="50">Độ Khó Của Trận Chiến</content>
+	<content contentuid="hc5d45120ga4bbg495cg8978gf47a8523281c" version="60">Thám Hiểm</content>
+	<content contentuid="h12baed7bgf4eag419dg8be6g744feb4b9810" version="50">Thám Hiểm</content>
+	<content contentuid="hdf7b1184g8c40g4340g9484gaf199fbb3624" version="50">Thám Hiểm</content>
+	<content contentuid="hced35300gd349g446aga746gdb1acb63bc92" version="50">Thám Hiểm</content>
+	<content contentuid="h5b004e0bg79ddg420ag9fe0g0aa6ff62cb07" version="50">Thám Hiểm</content>
+	<content contentuid="h1952cae3g352ag4808gb08fg44f9f57b53f7" version="50">Thám Hiểm</content>
+	<content contentuid="h7378238bg18d0g41eag8891g0336c23138a7" version="0">Cân Bằng</content>
+	<content contentuid="hd2aed8e7g225fg45e6g9a5dg33faf9264997" version="0">Cân Bằng</content>
+	<content contentuid="h57d67e56g6a80g4101ga0b0g5cd7d8e45866" version="50">Cân Bằng</content>
+	<content contentuid="hdd1dd463gf707g40e5g916cg08bca7500f72" version="60">Cân Bằng</content>
+	<content contentuid="h0b1d5d3eg10d8g4f2agbc94g813c04283674" version="50">Cân Bằng</content>
+	<content contentuid="h602795e2g9b90g478dg90b8g2ca126220420" version="50">Cân Bằng</content>
+	<content contentuid="h5ee38762gf9cfg4c43g9e69g7524e9c5564c" version="50">Cân Bằng</content>
+	<content contentuid="hefd6a61cg3936g44ebgb1e6g18f7340470fa" version="50">Cân Bằng</content>
+	<content contentuid="h9098bfc2g6874g40a0gad32g016d164c7d63" version="50">Cân Bằng</content>
+	<content contentuid="h69ce75b8g5f43g41begb153gb4f99e6572fd" version="50">Cân Bằng</content>
+	<content contentuid="h2dfaada3g0652g41ceg8a6dg19756b3e135a" version="50">Cân Bằng</content>
+	<content contentuid="h69f49da0g6ecag47f5g8266g967e1448addc" version="50">Cân Bằng</content>
+	<content contentuid="hfa195d11gb383g4f2fg9d6ag948e8cdf8bcd" version="50">Sự Cân Bằng</content>
+	<content contentuid="h4f67e15egaae2g44ccgaf44g70a35132246c" version="50">Sự Cân Bằng</content>
+	<content contentuid="he8242f0fgd47cg47e9gb3cegf52fe213113a" version="50">Độ Khó: Cân Bằng</content>
+	<content contentuid="hce06f17bg2e73g4d39g9e9ag3b61c39ee3f4" version="50">Độ Khó: Cân Bằng</content>
+	<content contentuid="h1a45ba2cgaf38g406bg8b03g3a04cf9511be" version="50">Độ Khó: Cân Bằng</content>
+	<content contentuid="h50246aa3ga6b3g48cdg91d2ga50d1bd93842" version="50">Độ Khó: Cân Bằng</content>
+	<content contentuid="h54d53506g24d7g49d4g91dfgfa2afb6c1dfe" version="50">Độ Khó: Cân Bằng</content>
+	<content contentuid="ha593ac29ga10ag4848g8150ga5bf84c61ec1" version="50">Độ Khó: Cân Bằng</content>
+	<content contentuid="hfb046da5gc3d0g44a9g9685g0ffc9cb91ff3" version="50">Chuyên Nghiệp</content>
+	<content contentuid="hc46a669cgdbedg4bb4g8bfbg7940e7dd74d1" version="50">Chiến Lược Gia 1</content>
+	<content contentuid="hc28fdca5g0898g4dc3g935agc288089cf60f" version="50">Chiến lược gia 2</content>
+	<content contentuid="hb34838b3g8333g427cgb012gf6fd18200218" version="50">Chiến Lược Gia 3</content>
+	<content contentuid="hae162a45g7d49g49d5g9079ga9224aae860b" version="50">Chiến Lược Gia 4</content>
+	<content contentuid="h0aa323a5g5879g431cg8e43g157f282720dc" version="50">Chiến Lược Gia 5</content>
+	<content contentuid="h04a015cbg6aabg4e09g80f3g8328409d98e8" version="60">Hung Hăng</content>
+
+	<content contentuid="h65b46ad4g2eacg47d5gb4b4g124ca3b8aaef" version="50">Thưởng Thông Thạo</content>
+	<content contentuid="h7891c266g62eag4cf1gb882g5823a20e9742" version="50">Kẻ thù sẽ có Đòn Đánh &lt;LSTag Tooltip="CriticalHit"&gt;Chí Mạng&lt;/LSTag&gt;.</content>
+    <content contentuid="h9a17f8f3gd40eg42afgb0dfgd0bd048849c7" version="60">Thần Chết Vắng Mặt</content>
+	<content contentuid="hc95b0544ge53bg497bg8ea1gd3a444aecdb5" version="60">Bật tùy chọn này để ngăn nhân vật người chơi chết khi điểm máu của họ giảm xuống 0. Thay vào đó, họ sẽ được ổn định trong trạng thái hấp hối cho đến khi được đồng minh hỗ trợ. Tính năng này giúp giảm thiểu rủi ro mất nhân vật trong những trận chiến khó khăn và mang lại cơ hội để đồng đội cứu nguy kịp thời, duy trì tính chiến thuật trong lối chơi.</content>  
+	<content contentuid="h08309889gdee5g473cg9e1cgd071453a9498" version="0">Không Mất Lượt Khi Tấn Công Chủ Động</content>	
+	<content contentuid="hd1b7fa4bgd4e8g439ag8921g29932ccfd4ce" version="0">Gây sát thương cho NPC trước khi bạn bước vào chiến đấu sẽ khiến bạn mất một đòn tấn công hoặc hành động trong lượt đầu tiên theo thứ tự ưu tiên.</content>
+	<content contentuid="h4f31922fgc9bdg45fdga3f8gc819ba1ca245" version="60">Hệ Số Trại</content>
+    <content contentuid="heeadf224gf0fcg441ag9081gb6b9e5119ccb" version="60">Điều chỉnh số lượng vật phẩm cắm trại mà một &lt;LSTag Tooltip="LongRest"&gt;Nghỉ Dài&lt;/LSTag&gt; tiêu tốn.</content>
+	<content contentuid="h8b66ce44g4417g40a1g8f9fg4e8fa92db1b2" version="60">Đầy Sinh Lực Khi Nghỉ Ngắn</content>
+	<content contentuid="h069cb016g2c26g4295g877ag006de81cb0a8" version="60">Sinh lực của bạn được hồi phục hoàn toàn khi thực hiện một &lt;LSTag Tooltip="ShortRest"&gt;Nghỉ Ngắn&lt;/LSTag&gt;.</content>
+	<content contentuid="h6d69bd4bg2ae8g4765g9492g745d2b12af5b" version="50">Thương Nhân</content>
+	<content contentuid="h0767c676g17fag4c31g95c4gecdba19dc97c" version="50">Bật Multi-Class </content>
+	<content contentuid="hf9907f31g85b8g4464g8d3dg8e1535e0fc92" version="50">Cho phép bạn chọn một lớp bổ sung khác khi lên cấp.</content>
+	<content contentuid="h44202f81gd519g418cgaa75g19c8db849474" version="60">Luôn Yêu Cầu Phản Ứng</content>
+	<content contentuid="h300eac1fg158cg45e1ga6cdg394f9cdbebbf" version="60">Tất cả các phản ứng có khả năng tạm dừng trò chơi sẽ kích hoạt theo mặc định.</content>
+	<content contentuid="hc12a21dfg200cg46a6gb46fgdd38fce23678" version="50">Ẩn sức khỏe NPC</content>
+	<content contentuid="h0b2cf95eg7b6cg465bg8591g22c6a1a2ba07" version="60">Ẩn Kiểm Tra Nhận Thức Thất Bại</content>
+	<content contentuid="h0c205e68g0e2cg4e8egb948g7978e86aa4ca" version="60">Các lượt kiểm tra Nhận Thức để phát hiện bẫy và vật thể ẩn trong thế giới chỉ hiển thị khi thành công.</content>
+	<content contentuid="h2bd6cd55g0256g4678ga29fg1955d5444c99" version="60">Ẩn Kiểm Tra Thụ Động Trong Đối Thoại</content>
+	<content contentuid="h4e258f7fg9718g476eg8cc3gb5782c3ee2b6" version="60">Ngăn các đối thoại hiển thị bạn đã thành công hay thất bại trong lượt kiểm tra thụ động để thu thập thông tin.</content>
+	<content contentuid="h9015417ag58a9g4bffga52age5f1b1c712b2" version="60">Xem Trước Độ Khó Khi Chọn Đối Thoại</content>
+	<content contentuid="h957e5d4cgc755g4239g8892g22c47cf8fea6" version="60">Bật tùy chọn này để thấy độ khó của Kiểm Tra Khả Năng hoặc Kỹ Năng trước khi bạn chọn chúng làm tùy chọn đối thoại.</content>
+	<content contentuid="he8c44b69g7f0ag4718ga7d0g45d048c22c8b" version="60">Ẩn Độ Khó Khi Dice Roll</content>
+	<content contentuid="hb2c6a58agb249g4460g813bgd80f1103778c" version="60">Che giấu Độ Khó (DC) khi thực hiện Kiểm Tra Khả Năng hoặc Kỹ Năng trong đối thoại, mở khóa và tháo bẫy.</content>
+
+
+    <content contentuid="h65e2eb2ag30e2g45d5gaa72g799e4c275157" version="60">Những kẻ thù quan trọng xuyên suốt hành trình sẽ trở nên mạnh mẽ hơn trong Chế Độ Danh Dự.</content>
+	<content contentuid="h6496ab45g86f2g471ag9b56g73b3facd3d30" version="60">Những kẻ thù quan trọng xuyên suốt hành trình sẽ trở nên mạnh mẽ hơn trong Chế Độ Danh Dự.</content>
+    <content contentuid="h6279d877g8c4ag4402ga42dgf12fd5818858" version="60">Danh Dự Rực Rỡ</content>
+	<content contentuid="h5de66794geebdg4ae4g9a10gb179984775a0" version="60">Kẻ Thù Trong Chế Độ Danh Dự</content>
+	<content contentuid="h4242ad23gc2e7g4a6fg9825g487e19d7e1ab" version="60">Chế Độ Danh Dự</content>
+	<content contentuid="h3492f9f8g2946g40a5g8cc1g0af620c2a6bb" version="60">Nguồn gốc Tùy chỉnh</content>
+	<content contentuid="h6f947303gef88g4640g8e4cg1ec35b5da79e" version="60">Chế độ Tùy chỉnh</content>
+	<content contentuid="h3f5b460bg8f9fg40d5g8a47g983feee45abb" version="60">Chọn một độ khó cơ bản làm nền tảng cho Chế độ Tùy chỉnh.</content>
+	<content contentuid="h3745e72dg245ag4502g8774g8965baf256eb" version="60">Điều chỉnh Chế độ Tùy chỉnh</content>
+	<content contentuid="he48cb8b7g6277g420bg95d5g16add9116a76" version="60">Chọn lựa và kết hợp từ nhiều quy tắc để tạo ra cách chơi Baldur's Gate 3 mang dấu ấn riêng của bạn. Việc sử dụng Chế độ Tùy chỉnh sẽ không ảnh hưởng đến cốt truyện, và thành tựu (achievements) vẫn sẽ được kích hoạt.&lt;br&gt;&lt;br&gt;Chúng tôi khuyến nghị người chơi mới nên thử một độ khó có sẵn cho chiến dịch đầu tiên, vì lựa chọn này sẽ không thể thay đổi về sau.</content>
+	<content contentuid="h46c00fa7gbb38g480fg9a0fgb4232bec8658" version="60">Tổng Quan Chi Tiết</content>
+	
+	<content contentuid="h2c549d89g09d2g46cbgac4egfefddd259dcc" version="60">Các nhân vật đồng minh sẽ mạnh hơn và khó bị hạ gục trong chiến đấu.</content>
+	<content contentuid="h044c5afbgd615g4f0bg9f78gd65dfcbc7e3d" version="60">Giữ sức mạnh của cả kẻ thù và đồng minh ngang nhau.</content>
+	<content contentuid="hba73bf80g7f60g4074g9f45gc1ad48c4aafc" version="60">Các nhân vật thù địch sẽ mạnh hơn và khó bị hạ gục trong chiến đấu.</content>
+	
+	<content contentuid="h45da8011g956cg474dga4ecg6efa6794131a" version="50">Tận Răng</content>
+	<content contentuid="h14f26989gc7a0g4950gbdacgc9661092f602" version="50">Các NPC sẽ chỉ được xài hàm dởm, phép gãi ngứa và máu gà pha loãng.</content>
+	<content contentuid="h1936b1cfg15c7g4625ga097gc8e081ebd628" version="50">Bạn có món gì tốt thì kẻ thù cũng có y hệt.</content>
+	<content contentuid="h2aa87adeg23deg4e2agbab3g04d156e506c8" version="50">Món hiếm bạn không có nhưng kẻ thù chưa chắc không có.</content>
+	<content contentuid="he7f351aeg7b50g4220g88e8g87de967eacbd" version="60">Cơ Chế Chiến Đấu Bổ Sung</content>
+	<content contentuid="ha2fc36aegb133g4e4fg9a85g19b36ba5d91d" version="60">Một số cuộc chạm trán trở nên phức tạp và khó khăn hơn.</content>
+	<content contentuid="h8c35ce75g83fcg4565gbe85g7682aa8a0b3b" version="60">Chiến Thuật</content>
+	<content contentuid="h5bae4194g6090g4007gb63fg1b0a8610b606" version="60">Mức độ phức tạp mặc định của các cuộc chạm trán trong Baldur's Gate 3.</content>
+	<content contentuid="h5e554fb3geb2ag4960g9619g212bf055c64f" version="60">Một số cuộc chạm trán được đơn giản hóa và trở nên dễ hơn.. </content>
+
+
+
+	<content contentuid="he3027a35g04e7g4966g9ae0g3a3b2cb70cc1" version="60">Chứng Tích Danh Dự</content>
+	<content contentuid="hc8f315ecgaf51g4c79gab37gbde44d9eeb47" version="60">Nếu những chiến công của bạn chưa đủ để chứng minh phẩm chất, thì chính những lời ấy sẽ làm được. Danh dự là báu vật hiếm hoi giữa nhân loại phàm trần.</content>
+	<content contentuid="hc84c257fg484bg490cgab0dg6026185bdebe" version="60">Chi Tiết Chế Độ Danh Dự</content>
+	
+	<content contentuid="h4994acdcgd363g4f4dg90f5g54268b2c6ea3" version="50">Bạn đã sử dụng hết 2 Lần Nghỉ Ngơi. Hãy nghỉ qua đêm để khôi phục Máu và các tài nguyên khác.</content>
+	<content contentuid="hc3b8ef83g1a30g4bfdg91fbg1b2ffb2f3a58" version="50">Sức khỏe của bạn đang cạn kiệt nhưng bạn đã uống 2 Lần Nghỉ Ngơi. Lấy Nghỉ Qua Đêm để khôi phục Máu và các tài nguyên khác.</content>
+
+
+
+
+	<content contentuid="h9e40e959g89e8g458cg8308gd6627bea0c63" version="0">Customise Ruleset</content>
+
+
+
+
+
+
+
+
+
+
+
+
+	</contentList>

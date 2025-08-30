@@ -33,12 +33,16 @@ if not file_path:
     exit()
 
 try:
-    tree = ET.parse(file_path)
+    # Đọc nội dung file và thay thế các ký tự đặc biệt
+    with open(file_path, 'r', encoding='utf-8') as f:
+        xml_content = f.read()
+    xml_content = xml_content.replace('&rsquo;', "'")
+
+    # Phân tích cú pháp XML từ chuỗi đã sửa đổi
+    root = ET.fromstring(xml_content)
 except Exception as e:
     print(f"❌ Lỗi khi đọc file: {e}")
     exit()
-
-root = tree.getroot()
 
 # Tạo root mới cho file kết quả
 result_root = ET.Element("contentList")
@@ -49,7 +53,8 @@ for content in root.findall("content"):
     text = content.text or ""
     if keyword.lower() in text.lower():
         new_content = ET.Element("content", content.attrib)
-        new_content.text = text
+        new_content.text = content.text  # Preserve original text
+        new_content.tail = content.tail  # Preserve tail
         result_root.append(new_content)
         count += 1
 
@@ -80,7 +85,8 @@ else:
             text = content.text or ""
             if keyword.lower() not in text.lower():
                 new_content = ET.Element("content", content.attrib)
-                new_content.text = text
+                new_content.text = content.text  # Preserve original text
+                new_content.tail = content.tail  # Preserve tail
                 new_root.append(new_content)
         
         # Format đẹp
