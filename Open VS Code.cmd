@@ -1,3 +1,5 @@
 @echo off
-:: Mở CMD tại thư mục hiện tại và chạy lệnh 'code .'
-start cmd /k code .
+:: 🚀 BG3 XML Manager - Open VS Code
+:: Mở VS Code tại thư mục project để chỉnh sửa code
+echo ⚡ Đang mở VS Code...
+start "" code .

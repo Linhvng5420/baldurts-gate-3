@@ -30,25 +30,34 @@ Bộ công cụ quản lý và xử lý file XML cho dự án Việt hóa Baldur
 
 ## 🎯 Quick Start
 
-### Sử dụng GUI (Khuyến nghị cho người mới):
+### 🚀 Chạy ứng dụng chính (Khuyến nghị):
 ```batch
-# Enhanced Filter GUI với hướng dẫn trực quan
-run_bg3_filter_gui.bat
+# 1. Thiết lập lần đầu (chỉ chạy 1 lần)
+setup_first_time.bat
 
-# XML Manager cổ điển
+# 2. Enhanced Filter GUI - Khuyến nghị cho người mới  
+python src/bg3_filter_enhanced_gui.py
+
+# 3. XML Manager cổ điển - Gộp, tìm kiếm, kiểm tra
 run_bg3_manager.bat
 ```
 
-### Sử dụng Batch Files:
+### 📁 Hoặc sử dụng Batch Files:
 ```batch
-# Enhanced Filter Tool
+# Enhanced Filter Tool (Command line với menu)
 run_bg3_enhanced_filter.bat
 
-# Legacy UI Filter
-run_bg3_filter.bat
+# XML Manager (GUI application)  
+run_bg3_manager.bat
+
+# Thiết lập project lần đầu
+setup_first_time.bat
+
+# Mở VS Code để chỉnh sửa
+"Open VS Code.cmd"
 ```
 
-### Command Line:
+### 💻 Command Line cho Developer:
 ```bash
 # Lọc UI text
 python src/bg3_filter_enhanced.py input.xml --ui-text
@@ -56,28 +65,74 @@ python src/bg3_filter_enhanced.py input.xml --ui-text
 # Lọc tất cả loại
 python src/bg3_filter_enhanced.py input.xml --all
 
-# Chỉ phân tích
+# Chỉ phân tích (không tạo file output)
 python src/bg3_filter_enhanced.py input.xml --analyze-only
+
+# Kiểm tra hệ thống
+python src/system_check.py
+
+# Thiết lập project
+python src/setup.py setup
 ```
 
 ## 📁 Cấu trúc thư mục
 
 ```
 baldurts-gate-3/
-├── src/                           # Source code
-│   ├── bg3_filter_enhanced_gui.py # GUI Application 🆕✨
-│   ├── bg3_filter_enhanced.py    # Enhanced Filter Engine 🆕
-│   ├── bg3_xml_manager.py        # XML Manager GUI
-│   ├── create_sample_data.py     # Sample data generator
-│   ├── filter_config.json        # Filter configuration
-│   ├── setup.py                  # Project setup
-│   ├── system_check.py           # System check
-│   ├── config.json               # Manager config
-│   ├── project_info.json         # Project info
-│   ├── *.log                     # Log files (generated)
-│   ├── *_analysis.json           # Analysis results (generated)
-│   └── README.md                 # Src documentation
+├── src/                           # 💻 Source Code - Mã nguồn chính
+│   ├── bg3_filter_enhanced_gui.py # 🖥️  GUI cho Enhanced Filter (Khuyến nghị)
+│   ├── bg3_filter_enhanced.py     # ⚡ Enhanced Filter Engine - Bộ lọc nâng cao
+│   ├── bg3_xml_manager.py         # 🔧 XML Manager GUI - Quản lý XML cơ bản  
+│   ├── create_sample_data.py      # 📊 Tạo dữ liệu mẫu cho test
+│   ├── filter_config.json         # ⚙️  Cấu hình filter nâng cao
+│   ├── setup.py                   # 🛠️  Thiết lập project
+│   ├── system_check.py            # 🔍 Kiểm tra hệ thống
+│   ├── config.json                # 📋 Cấu hình XML Manager
+│   ├── project_info.json          # ℹ️  Thông tin project
+│   ├── *.log                      # 📜 Log files (tự sinh)
+│   └── *_analysis.json            # 📈 Kết quả phân tích (tự sinh)
 │
+├── data/                          # 💾 Xử lý dữ liệu
+│   ├── input/                     # 📥 File XML đầu vào
+│   │   ├── sample_english.xml     # 📄 File mẫu để test
+│   │   └── README.md              # 📖 Hướng dẫn input
+│   ├── filtered/                  # 📤 Kết quả filter cũ (legacy)
+│   └── wip/                       # 🚧 Work in progress - File đang xử lý
+│       ├── Package English Path8_4.116897358/  # 🎮 Game BG3 gốc
+│       ├── Package English VH AI Path3/        # 🤖 Bản VH AI
+│       ├── Package English VH CutCanhTem Path8/ # ✂️ Bản VH CutCanhTem
+│       └── Package Nén Mod Việt Hóa/           # 📦 Mod VH đóng gói
+│
+├── output/                        # 📂 Thư mục đầu ra
+│   ├── conflict/                  # ⚠️  Xử lý xung đột
+│   └── filtered/                  # 📋 Enhanced filter output 🆕
+│       └── [filename]/            # 📁 Phân loại theo file nguồn
+│           ├── ui_text.xml        # 🖼️  Text giao diện
+│           ├── english_only.xml   # 🇬🇧 Text chỉ tiếng Anh
+│           ├── dialogue.xml       # 💬 Đối thoại
+│           ├── by_context/        # 🏷️  Phân loại theo context
+│           └── filter_report.txt  # 📊 Báo cáo filter
+│
+├── tool/                          # 🛠️  Công cụ hỗ trợ
+│   └── ExportTool-v1.19.5/        # 📦 ExportTool cho BG3
+│       ├── ConverterApp.exe       # 🔄 Converter chính
+│       └── Tools/                 # 🧰 Các tool khác
+│
+├── viet_hoa/                      # 🇻🇳 File Việt hóa có sẵn
+│   ├── eng_update_path8_version_4.116897358.xml  # 📄 English update
+│   ├── vh_anonymous_path3.xml     # 👤 VH Anonymous
+│   ├── vh_code_keywork.xml        # 🔑 VH Code Keywords
+│   └── vh_ngvlinhfb_path8.xml     # 👨‍💻 VH NgVLinhFB
+│
+├── 🚀 run_bg3_manager.bat         # ▶️  Chạy XML Manager (Chính)
+├── ⚡ run_bg3_enhanced_filter.bat # ▶️  Chạy Enhanced Filter
+├── 🛠️  setup_first_time.bat       # 🎯 Thiết lập lần đầu
+├── 💻 Open VS Code.cmd            # 🔧 Mở VS Code để edit
+├── 🔗 Open ConverterApp.exe.lnk   # 📦 Shortcut ExportTool
+├── 📖 README.md                   # 📋 Hướng dẫn chính (file này)
+├── 📖 README Hướng Dẫn Việt Hóa Game BG3.md  # 🎮 Hướng dẫn VH game
+└── 🚫 .gitignore                  # 📝 Git ignore rules
+```
 ├── data/                        # Data processing
 │   ├── input/                   # Input files
 │   ├── filtered/               # Legacy filter output
@@ -96,20 +151,14 @@ baldurts-gate-3/
 ├── docs/                      # Documentation
 │   └── BG3_Enhanced_Filter_Guide.md 🆕
 │
-├── run_bg3_manager.bat       # Run XML Manager
-├── run_bg3_enhanced_filter.bat 🆕 # Run Enhanced Filter
-└── run_bg3_filter.bat       # Run Legacy Filter
-```
-├── output/                      # Thư mục đầu ra
-│   ├── README.md               # Hướng dẫn output
-│   └── lost-eng.xml            # File dữ liệu bị mất trong quá trình Việt Hóa (Nếu Có)
-│
-│
-│
-├── setup_first_time.bat         # Thiết lập lần đầu (Chạy Đầu Tiên)
-├── run_bg3_manager.bat          # Chạy ứng dụng Việt Hóa Game
-├── run_vscode.cmd               # Mở VS Code
-├── README.md                    # Hướng dẫn, giới thiệu project
+├── 🚀 setup_first_time.bat        # 🎯 Thiết lập project lần đầu (CHẠY ĐẦU TIÊN)
+├── ▶️  run_bg3_manager.bat         # 🔧 XML Manager - Gộp, tìm kiếm, kiểm tra  
+├── ⚡ run_bg3_enhanced_filter.bat # 🔍 Enhanced Filter - Menu command line
+├── 💻 Open VS Code.cmd            # 🛠️  Mở VS Code để chỉnh sửa code
+├── 🔗 Open ConverterApp.exe.lnk   # 📦 Shortcut tới ExportTool
+├── 📖 README.md                   # 📋 Hướng dẫn chính (file này)
+├── 📖 README Hướng Dẫn Việt Hóa Game BG3.md  # 🎮 Hướng dẫn VH game cụ thể
+└── 🚫 .gitignore                  # 📝 Git ignore rules
 ├── QUICK_START.md               # Hướng dẫn nhanh
 └── PROJECT_STRUCTURE.md         # Cấu trúc dự án
 ```
