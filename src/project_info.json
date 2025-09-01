@@ -1,0 +1,26 @@
+{
+  "name": "Baldur's Gate 3 XML Manager",
+  "version": "2.0",
+  "description": "Công cụ quản lý và xử lý file XML cho dự án Việt hóa Baldur's Gate 3",
+  "author": "BG3 Vietnam Team",
+  "created": "2025-09-01T12:48:51.705010",
+  "last_updated": "2025-09-01T12:48:51.705012",
+  "python_version": "3.6+",
+  "dependencies": [
+    "tkinter",
+    "xml.etree.ElementTree",
+    "threading",
+    "json",
+    "os",
+    "shutil",
+    "datetime"
+  ],
+  "features": [
+    "Gộp file XML",
+    "Tìm kiếm và lọc",
+    "Kiểm tra dữ liệu bị mất",
+    "Thống kê và phân tích",
+    "Backup tự động",
+    "Giao diện GUI"
+  ]
+}

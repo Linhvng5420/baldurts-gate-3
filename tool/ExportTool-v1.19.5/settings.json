@@ -1,0 +1,42 @@
+{
+  "GR2": {
+    "InputPath": "",
+    "OutputPath": "",
+    "BatchInputPath": "",
+    "BatchOutputPath": "",
+    "BatchInputFormat": 0,
+    "BatchOutputFormat": 1,
+    "ConformPath": null
+  },
+  "PAK": {
+    "ExtractInputPath": "D:\\Games\\Baldurt's Gate VH\\BG3_VH-AI_Path3\\English.pak",
+    "ExtractOutputPath": "D:\\Games\\Baldurt's Gate VH\\baldurts-gate-3\\data\\wip\\Package English VH AI Path3",
+    "CreateInputPath": "`",
+    "CreateOutputPath": "C:\\Users\\ngvli\\Downloads\\English.pak",
+    "CreatePackageVersion": 0,
+    "CreatePackageCompression": 4
+  },
+  "Resources": {
+    "InputPath": "",
+    "OutputPath": "",
+    "BatchInputPath": "",
+    "BatchOutputPath": "",
+    "BatchInputFormat": 0,
+    "BatchOutputFormat": 0
+  },
+  "VirtualTextures": {
+    "GTSPath": "",
+    "DestinationPath": ""
+  },
+  "Story": {
+    "InputPath": "",
+    "OutputPath": "",
+    "FilterText": "",
+    "FilterMatchCase": false
+  },
+  "Debugging": {
+    "SavePath": ""
+  },
+  "SelectedGame": 4,
+  "Version": "1.19.5"
+}

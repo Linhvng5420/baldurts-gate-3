@@ -1,0 +1,68 @@
+# BG3 XML Manager - Git Ignore
+# Generated files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Config files (có thể chứa đường dẫn cá nhân)
+src/config.json
+# src/filter_config.json  # Uncomment nếu muốn ignore custom settings
+
+# Log files và Analysis JSON
+src/*.log
+src/*_analysis.json
+
+# Data files
+data/input/
+data/filtered/
+data/wip/
+output/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Large XML files
+*.xml
+!data/sample*.xml
+
+# Test files
+test_*
+*_test.py
+
+# Virtual environment
+venv/
+env/
+.env
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg

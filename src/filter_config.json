@@ -1,0 +1,37 @@
+{
+  "ui_filter": {
+    "enabled": true,
+    "max_length": 200,
+    "min_ui_keywords": 1,
+    "short_text_threshold": 50
+  },
+  "english_filter": {
+    "enabled": true,
+    "preserve_system_markers": true,
+    "min_alpha_chars": 1
+  },
+  "dialogue_filter": {
+    "enabled": true,
+    "min_dialogue_length": 10,
+    "max_dialogue_length": 500
+  },
+  "technical_filter": {
+    "enabled": true,
+    "preserve_debug": false
+  },
+  "context_filter": {
+    "enabled": true,
+    "categories": [
+      "combat",
+      "inventory",
+      "menu",
+      "quest",
+      "character"
+    ]
+  },
+  "output_settings": {
+    "base_dir": "output/filtered",
+    "create_subfolders": true,
+    "backup_original": false
+  }
+}
