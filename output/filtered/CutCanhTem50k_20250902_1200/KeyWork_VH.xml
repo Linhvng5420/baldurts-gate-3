@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <contentList>
 	<!-- KEYWORK VIỆT HÓA 4467 -->
-	<!-- Pattern: Tooltip - 3859 entries -->
-	    
+
+<!-- Pattern: Tooltip - 3859 entries -->
     <!-- Pattern - Tooltip: ElementalAffinity_Resistance_Check - 5 entries -->
 	<content contentuid="h0082a58eg332bg4a05g810dg36a69369e4c5" version="1">&lt;LSTag Type="Passive" Tooltip="ElementalAffinity_Resistance_Check"&gt;Thao túng Nguyên tố&lt;/LSTag&gt; đã kích hoạt sẵn. </content>
 	<content contentuid="h1bb7ff09g37d8g4d81g9e4fg1977f386d896" version="1">&lt;LSTag Type="Passive" Tooltip="ElementalAffinity_Resistance_Check"&gt;Thao túng Nguyên tố&lt;/LSTag&gt; đã kích hoạt sẵn.</content>
@@ -4783,7 +4783,6 @@
 	<content contentuid="hd9b6bb90gde99g4cc3ga995g901d6ae60b9c" version="1">Bạn có thể Ping các vật phẩm, địa điểm và sinh vật để đánh dấu nó giúp bản thân và những người chơi khác dễ nhìn hơn.&lt;br&gt;&lt;br&gt;[IE_ContextMenu] Ping</content>
 	<content contentuid="hf86bbb5bg31b4g4996ga126gc37495d8e73e" version="1">Rương Lữ hành của bạn được đánh dấu trên bản đồ tại trại nghỉ và chỉ mình bạn mới có thể mở được. Sử dụng nó để trữ các vật phẩm không muốn đem theo khi đang khám phá. Bạn có thể cất vật phẩm nhanh chóng thông qua Menu Nhanh của vật phẩm.&lt;br&gt;&lt;br&gt;[IE_ContextMenu] Gửi vật phẩm về Rương Lữ hành</content>
 
-	
 	<!-- Pattern: IE_ - 2 entries -->
 	<content contentuid="h375e1efcg5609g497agb6d7gd216e4f64ac7" version="2">[IE_CameraRotate] Xoay Camera</content>
 	<content contentuid="h51779c1eg07a8g4501ga96ag39f3613f75f3" version="3">&lt;LSTag Type="Image" Info="TutorialPing"/&gt; [IE_Ping] Ping </content>

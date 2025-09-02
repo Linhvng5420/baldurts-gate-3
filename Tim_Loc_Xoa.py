@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Tim_Loc_Xoa.py - Tool tìm kiếm, xóa, so sánh và phân tích file XML
+Tim_Loc_Xoa.py - Tool tìm kiếm, phân tích, so sánh và xóa nội dung trong file XML
 """
 
 import os
 import xml.etree.ElementTree as ET
+import xml.dom.minidom as minidom
 from datetime import datetime
 import re
-import sys
 
 def tim_kiem_noi_dung(duong_dan_file, noi_dung_tim_kiem):
     """
@@ -132,9 +132,11 @@ def xuat_ket_qua_ra_xml(ket_qua, noi_dung_tim_kiem):
                 content_element.set("contentuid", uid)
                 content_element.text = noi_dung
         
-        # Ghi ra file
-        tree = ET.ElementTree(root)
-        tree.write(ten_file, encoding="utf-8", xml_declaration=True)
+        # Ghi ra file với định dạng đẹp
+        formatted_xml = format_xml(root)
+        with open(ten_file, 'w', encoding='utf-8') as f:
+            f.write('<?xml version="1.0" encoding="utf-8"?>\n')
+            f.write(formatted_xml)
         
         print(f"Đã xuất kết quả ra file XML: {ten_file}")
         return ten_file
@@ -179,11 +181,19 @@ def xoa_noi_dung(duong_dan_file, ket_qua):
         # Tạo file backup trước khi ghi đè
         backup_dir = os.path.dirname(duong_dan_file)
         backup_file = os.path.join(backup_dir, f"backup_{os.path.basename(duong_dan_file)}")
-        tree.write(backup_file, encoding="utf-8", xml_declaration=True)
+        
+        # Ghi file backup với định dạng đẹp
+        formatted_xml = format_xml(root)
+        with open(backup_file, 'w', encoding='utf-8') as f:
+            f.write('<?xml version="1.0" encoding="utf-8"?>\n')
+            f.write(formatted_xml)
+            
         print(f"Đã tạo file backup: {backup_file}")
         
-        # Ghi lại file gốc
-        tree.write(duong_dan_file, encoding="utf-8", xml_declaration=True)
+        # Ghi lại file gốc với định dạng đẹp
+        with open(duong_dan_file, 'w', encoding='utf-8') as f:
+            f.write('<?xml version="1.0" encoding="utf-8"?>\n')
+            f.write(formatted_xml)
         
         print(f"Đã xóa {so_luong_xoa} phần tử từ file: {duong_dan_file}")
         return True
@@ -192,152 +202,127 @@ def xoa_noi_dung(duong_dan_file, ket_qua):
         print(f"Lỗi khi xóa nội dung: {e}")
         return False
 
-def phan_tich_file(duong_dan_file):
+def phan_tich_file_xml(duong_dan_file):
     """
-    Phân tích thông tin của file XML
+    Phân tích thông tin từ file XML
     
     Args:
         duong_dan_file (str): Đường dẫn đến file XML cần phân tích
         
     Returns:
-        dict: Thông tin phân tích
+        dict: Thông tin phân tích về file
     """
     if not os.path.exists(duong_dan_file):
         print(f"Lỗi: File {duong_dan_file} không tồn tại")
         return None
     
     try:
-        # Đọc file XML
+        # Đọc toàn bộ nội dung file để đếm số dòng
         with open(duong_dan_file, 'r', encoding='utf-8') as file:
             noi_dung = file.readlines()
         
         # Đếm tổng số dòng
-        so_dong = len(noi_dung)
+        tong_so_dong = len(noi_dung)
         
         # Đếm số dòng trống
-        so_dong_trong = sum(1 for dong in noi_dung if dong.strip() == '')
+        so_dong_trong = sum(1 for line in noi_dung if line.strip() == '')
         
-        # Đếm số dòng trừ khoảng trắng
-        so_dong_co_noi_dung = so_dong - so_dong_trong
+        # Đếm số dòng không trống
+        so_dong_khong_trong = tong_so_dong - so_dong_trong
         
-        # Đếm số lượng contentuid
+        # Đọc file XML để đếm số lượng contentuid
         tree = ET.parse(duong_dan_file)
         root = tree.getroot()
-        so_contentuid = len(root.findall('.//content'))
         
-        # Hiển thị thông tin
-        print(f"\nThông tin phân tích file: {duong_dan_file}")
-        print(f"- Tổng số dòng: {so_dong}")
+        # Đếm số lượng phần tử content
+        so_luong_content = len(root.findall('.//content'))
+        
+        # Lấy thông tin về kích thước file
+        kich_thuoc_file = os.path.getsize(duong_dan_file)
+        kich_thuoc_kb = kich_thuoc_file / 1024
+        
+        # Hiển thị kết quả
+        print(f"\nKết quả phân tích file: {duong_dan_file}")
+        print(f"- Tổng số dòng: {tong_so_dong}")
         print(f"- Số dòng trống: {so_dong_trong}")
-        print(f"- Số dòng có nội dung: {so_dong_co_noi_dung}")
-        print(f"- Tổng số contentuid: {so_contentuid}")
+        print(f"- Số dòng không trống: {so_dong_khong_trong}")
+        print(f"- Số lượng contentuid: {so_luong_content}")
+        print(f"- Kích thước file: {kich_thuoc_kb:.2f} KB")
         
         return {
             'duong_dan': duong_dan_file,
-            'so_dong': so_dong,
+            'tong_so_dong': tong_so_dong,
             'so_dong_trong': so_dong_trong,
-            'so_dong_co_noi_dung': so_dong_co_noi_dung,
-            'so_contentuid': so_contentuid
+            'so_dong_khong_trong': so_dong_khong_trong,
+            'so_luong_content': so_luong_content,
+            'kich_thuoc_kb': kich_thuoc_kb,
+            'contentuid_list': [content.get('contentuid') for content in root.findall('.//content')]
         }
         
     except Exception as e:
         print(f"Lỗi khi phân tích file: {e}")
         return None
 
-def lay_danh_sach_contentuid(duong_dan_file):
+def so_sanh_hai_file_xml(file_a, file_b):
     """
-    Lấy danh sách contentuid từ file XML
+    So sánh hai file XML để tìm các contentuid trùng nhau và không trùng nhau
     
     Args:
-        duong_dan_file (str): Đường dẫn đến file XML
+        file_a (str): Đường dẫn đến file XML thứ nhất
+        file_b (str): Đường dẫn đến file XML thứ hai
         
     Returns:
-        dict: Dictionary với key là contentuid, value là nội dung và các thuộc tính khác
+        tuple: (ket_qua_trung, contentuid_chi_co_trong_a, contentuid_chi_co_trong_b)
+            - ket_qua_trung: Danh sách các content trùng nhau giữa hai file
+            - contentuid_chi_co_trong_a: Set các contentuid chỉ có trong file A
+            - contentuid_chi_co_trong_b: Set các contentuid chỉ có trong file B
     """
-    if not os.path.exists(duong_dan_file):
-        print(f"Lỗi: File {duong_dan_file} không tồn tại")
-        return {}
-    
-    try:
-        # Đọc file XML
-        tree = ET.parse(duong_dan_file)
-        root = tree.getroot()
-        
-        # Tạo dictionary lưu contentuid và nội dung
-        contentuid_dict = {}
-        
-        for content in root.findall('.//content'):
-            content_uid = content.get('contentuid')
-            if content_uid:
-                # Lưu element và tất cả thuộc tính
-                contentuid_dict[content_uid] = {
-                    'element': content,
-                    'text': content.text or '',
-                    'attributes': {k: v for k, v in content.attrib.items()}
-                }
-        
-        return contentuid_dict
-        
-    except Exception as e:
-        print(f"Lỗi khi lấy danh sách contentuid: {e}")
-        return {}
-
-def so_sanh_file(duong_dan_file_a, duong_dan_file_b):
-    """
-    So sánh hai file XML
-    
-    Args:
-        duong_dan_file_a (str): Đường dẫn đến file XML A
-        duong_dan_file_b (str): Đường dẫn đến file XML B
-        
-    Returns:
-        tuple: Danh sách contentuid chung, riêng file A, riêng file B
-    """
-    print("\nĐang tiến hành so sánh hai file...")
-    
     # Phân tích cả hai file
-    phan_tich_a = phan_tich_file(duong_dan_file_a)
-    phan_tich_b = phan_tich_file(duong_dan_file_b)
+    thong_tin_a = phan_tich_file_xml(file_a)
+    thong_tin_b = phan_tich_file_xml(file_b)
     
-    if not phan_tich_a or not phan_tich_b:
+    if not thong_tin_a or not thong_tin_b:
         return None, None, None
     
-    # Lấy danh sách contentuid của hai file
-    contentuid_a = lay_danh_sach_contentuid(duong_dan_file_a)
-    contentuid_b = lay_danh_sach_contentuid(duong_dan_file_b)
+    # Tìm các contentuid trùng nhau và riêng biệt
+    contentuid_a = set(thong_tin_a['contentuid_list'])
+    contentuid_b = set(thong_tin_b['contentuid_list'])
     
-    # Tìm contentuid chung và riêng
-    contentuid_chung = {}
-    for uid in contentuid_a:
-        if uid in contentuid_b:
-            contentuid_chung[uid] = {
-                'a': contentuid_a[uid],
-                'b': contentuid_b[uid]
-            }
+    contentuid_trung = contentuid_a.intersection(contentuid_b)
+    contentuid_chi_co_trong_a = contentuid_a - contentuid_b
+    contentuid_chi_co_trong_b = contentuid_b - contentuid_a
     
-    contentuid_rieng_a = {uid: contentuid_a[uid] for uid in contentuid_a if uid not in contentuid_b}
-    contentuid_rieng_b = {uid: contentuid_b[uid] for uid in contentuid_b if uid not in contentuid_a}
+    print(f"\nKết quả so sánh hai file:")
+    print(f"- File A ({os.path.basename(file_a)}): {len(contentuid_a)} contentuid")
+    print(f"- File B ({os.path.basename(file_b)}): {len(contentuid_b)} contentuid")
+    print(f"- Số lượng contentuid trùng nhau: {len(contentuid_trung)}")
+    print(f"- Số lượng contentuid chỉ có trong file A: {len(contentuid_chi_co_trong_a)}")
+    print(f"- Số lượng contentuid chỉ có trong file B: {len(contentuid_chi_co_trong_b)}")
     
-    # Hiển thị thông tin so sánh
-    print("\nKết quả so sánh:")
-    print(f"- Số lượng contentuid trong file A: {len(contentuid_a)}")
-    print(f"- Số lượng contentuid trong file B: {len(contentuid_b)}")
-    print(f"- Số lượng contentuid trùng nhau: {len(contentuid_chung)}")
-    print(f"- Số lượng contentuid riêng file A: {len(contentuid_rieng_a)}")
-    print(f"- Số lượng contentuid riêng file B: {len(contentuid_rieng_b)}")
+    # Đọc nội dung của các contentuid trùng nhau
+    ket_qua_trung = []
     
-    return contentuid_chung, contentuid_rieng_a, contentuid_rieng_b
+    if contentuid_trung:
+        # Đọc từ file A
+        tree_a = ET.parse(file_a)
+        root_a = tree_a.getroot()
+        
+        for content in root_a.findall('.//content'):
+            contentuid = content.get('contentuid')
+            if contentuid in contentuid_trung:
+                ket_qua_trung.append((contentuid, content.text))
+    
+    return ket_qua_trung, contentuid_chi_co_trong_a, contentuid_chi_co_trong_b
 
-def xuat_contentuid_chung(contentuid_chung, ten_file="trung_contentuid.xml"):
+def xuat_contentuid_trung_ra_file(ket_qua_trung):
     """
-    Xuất danh sách contentuid trùng nhau ra file
+    Xuất danh sách contentuid trùng nhau ra file XML
     
     Args:
-        contentuid_chung (dict): Dictionary chứa contentuid trùng nhau
-        ten_file (str): Tên file xuất
+        ket_qua_trung (list): Danh sách các contentuid trùng nhau và nội dung
         
     Returns:
-        str: Đường dẫn file đã xuất
+        str: Đường dẫn file kết quả
     """
     try:
         # Tạo thư mục output/filtered nếu chưa tồn tại
@@ -346,89 +331,183 @@ def xuat_contentuid_chung(contentuid_chung, ten_file="trung_contentuid.xml"):
         
         # Tạo tên file với thời gian hiện tại
         thoi_gian = datetime.now().strftime("%Y%m%d_%H%M%S")
-        ten_file_day_du = os.path.join(output_dir, f"{os.path.splitext(ten_file)[0]}_{thoi_gian}.xml")
+        ten_file = os.path.join(output_dir, f"trung_contentuid_{thoi_gian}.xml")
         
-        root = ET.Element("contentList")
-        
-        # Thêm phần tử chú thích
-        comment = ET.SubElement(root, "comment")
-        comment.text = f"Danh sách contentuid trùng nhau - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
-        
-        # Thêm các contentuid trùng nhau
-        for uid, data in contentuid_chung.items():
-            # Lấy phần tử từ file A
-            element_info = data['a']
+        with open(ten_file, 'w', encoding='utf-8') as f:
+            # Viết khai báo XML
+            f.write('<?xml version="1.0" encoding="utf-8"?>\n')
+            f.write('<contentList>\n')
             
-            # Tạo phần tử content mới với các thuộc tính của phần tử gốc
-            content_element = ET.SubElement(root, "content")
-            for key, value in element_info['attributes'].items():
-                content_element.set(key, value)
-            content_element.text = element_info['text']
-        
-        # Ghi ra file
-        tree = ET.ElementTree(root)
-        tree.write(ten_file_day_du, encoding="utf-8", xml_declaration=True)
-        
-        print(f"Đã xuất danh sách contentuid trùng nhau ra file: {ten_file_day_du}")
-        return ten_file_day_du
+            # Thêm phần tử chú thích
+            f.write(f'\t<!-- Danh sách {len(ket_qua_trung)} contentuid trùng nhau - {datetime.now().strftime("%Y-%m-%d %H:%M:%S")} -->\n')
+            
+            # Thêm các contentuid trùng nhau
+            for contentuid, noi_dung in ket_qua_trung:
+                # Escape XML special characters in content
+                if noi_dung:
+                    noi_dung = noi_dung.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;').replace('"', '&quot;').replace("'", '&apos;')
+                else:
+                    noi_dung = ""
+                f.write(f'\t<content contentuid="{contentuid}">{noi_dung}</content>\n')
+            
+            # Kết thúc file
+            f.write('</contentList>\n')
+            
+        print(f"Đã xuất danh sách contentuid trùng nhau ra file: {ten_file}")
+        return ten_file
         
     except Exception as e:
-        print(f"Lỗi khi xuất contentuid trùng nhau: {e}")
+        print(f"Lỗi khi xuất file: {e}")
         return None
 
-def xoa_contentuid_trung_nhau(duong_dan_file, contentuid_can_xoa):
+def lay_noi_dung_theo_contentuid(duong_dan_file, contentuid_list):
     """
-    Xóa các contentuid trùng nhau từ file
+    Lấy nội dung từ file XML theo danh sách contentuid
     
     Args:
-        duong_dan_file (str): Đường dẫn đến file XML cần xóa
-        contentuid_can_xoa (list): Danh sách contentuid cần xóa
+        duong_dan_file (str): Đường dẫn đến file XML
+        contentuid_list (set): Tập hợp các contentuid cần lấy
         
     Returns:
-        bool: True nếu xóa thành công, False nếu có lỗi
+        list: Danh sách các cặp (contentuid, nội dung)
     """
     try:
         # Đọc file XML
         tree = ET.parse(duong_dan_file)
         root = tree.getroot()
         
-        # Đếm số phần tử bị xóa
-        so_luong_xoa = 0
-        
-        # Tìm và xóa các phần tử content có contentuid trong danh sách cần xóa
+        # Lấy nội dung của các contentuid
+        ket_qua = []
         for content in root.findall('.//content'):
-            content_uid = content.get('contentuid')
-            if content_uid in contentuid_can_xoa:
-                root.remove(content)
-                so_luong_xoa += 1
+            contentuid = content.get('contentuid')
+            if contentuid in contentuid_list:
+                ket_qua.append((contentuid, content.text))
+        
+        return ket_qua
+        
+    except Exception as e:
+        print(f"Lỗi khi đọc file: {e}")
+        return []
+
+def xuat_contentuid_khong_trung_ra_file(ket_qua, ten_prefix="khong_trung_fileA"):
+    """
+    Xuất danh sách contentuid không trùng nhau ra file XML
+    
+    Args:
+        ket_qua (list): Danh sách các cặp (contentuid, nội dung) không trùng nhau
+        ten_prefix (str): Tiền tố tên file (mặc định: "khong_trung_fileA")
+        
+    Returns:
+        str: Đường dẫn file kết quả
+    """
+    try:
+        # Tạo thư mục output/filtered nếu chưa tồn tại
+        output_dir = os.path.join("output", "filtered")
+        os.makedirs(output_dir, exist_ok=True)
+        
+        # Tạo tên file với thời gian hiện tại
+        thoi_gian = datetime.now().strftime("%Y%m%d_%H%M%S")
+        ten_file = os.path.join(output_dir, f"{ten_prefix}_{thoi_gian}.xml")
+        
+        root = ET.Element("contentList")
+        
+        # Thêm phần tử chú thích
+        comment = ET.SubElement(root, "comment")
+        comment.text = f"Danh sách {len(ket_qua)} contentuid không trùng nhau - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
+        
+        # Thêm các contentuid không trùng nhau
+        for contentuid, noi_dung in ket_qua:
+            content_element = ET.SubElement(root, "content")
+            content_element.set("contentuid", contentuid)
+            content_element.text = noi_dung
+        
+        # Ghi file với định dạng đẹp
+        formatted_xml = format_xml(root)
+        with open(ten_file, 'w', encoding='utf-8') as f:
+            f.write('<?xml version="1.0" encoding="utf-8"?>\n')
+            f.write(formatted_xml)
+            
+        print(f"Đã xuất danh sách contentuid không trùng nhau ra file: {ten_file}")
+        return ten_file
+        
+    except Exception as e:
+        print(f"Lỗi khi xuất file: {e}")
+        return None
+
+def xoa_contentuid_trung_trong_file(duong_dan_file, contentuid_list):
+    """
+    Xóa các contentuid trùng nhau trong file, giữ nguyên cấu trúc và format của file gốc
+    
+    Args:
+        duong_dan_file (str): Đường dẫn đến file cần xóa
+        contentuid_list (list): Danh sách các contentuid cần xóa
+        
+    Returns:
+        bool: True nếu xóa thành công, False nếu có lỗi
+    """
+    try:
+        # Đọc nội dung file theo từng dòng
+        with open(duong_dan_file, 'r', encoding='utf-8') as f:
+            lines = f.readlines()
         
         # Tạo file backup trước khi ghi đè
         backup_dir = os.path.dirname(duong_dan_file)
         backup_file = os.path.join(backup_dir, f"backup_{os.path.basename(duong_dan_file)}")
-        tree.write(backup_file, encoding="utf-8", xml_declaration=True)
+        with open(backup_file, 'w', encoding='utf-8') as f:
+            f.writelines(lines)
         print(f"Đã tạo file backup: {backup_file}")
         
-        # Ghi lại file gốc
-        tree.write(duong_dan_file, encoding="utf-8", xml_declaration=True)
+        # Xác định các dòng cần xóa
+        dang_xoa = False
+        so_luong_xoa = 0
+        new_lines = []
         
-        print(f"Đã xóa {so_luong_xoa} phần tử từ file: {duong_dan_file}")
+        for i, line in enumerate(lines):
+            # Tìm dòng bắt đầu của content với contentuid trong danh sách cần xóa
+            if '<content contentuid="' in line:
+                found_uid = False
+                for uid in contentuid_list:
+                    if f'contentuid="{uid}"' in line or f"contentuid='{uid}'" in line:
+                        found_uid = True
+                        dang_xoa = True
+                        so_luong_xoa += 1
+                        break
+                
+                if not found_uid:
+                    dang_xoa = False
+                    new_lines.append(line)
+            
+            # Nếu đang ở trong phần tử cần xóa, tiếp tục bỏ qua các dòng
+            elif dang_xoa:
+                if '</content>' in line:
+                    dang_xoa = False
+            
+            # Nếu không phải dòng cần xóa, giữ lại dòng đó
+            else:
+                new_lines.append(line)
+        
+        # Ghi lại file với các dòng đã lọc
+        with open(duong_dan_file, 'w', encoding='utf-8') as f:
+            f.writelines(new_lines)
+        
+        print(f"Đã xóa {so_luong_xoa} contentuid trùng nhau từ file: {duong_dan_file}")
         return True
         
     except Exception as e:
-        print(f"Lỗi khi xóa contentuid: {e}")
+        print(f"Lỗi khi xóa nội dung: {e}")
         return False
 
-def tim_loc_xoa_menu():
+def tim_loc_xoa():
     """
-    Menu chức năng Tìm, Lọc, Xóa
+    Chức năng tìm kiếm, lọc và xóa nội dung
     """
     print("\nCHỨC NĂNG TÌM KIẾM VÀ XÓA NỘI DUNG")
-    print("------------------------------------------------")
+    print("------------------------------------")
     
     while True:
         # Nhập đường dẫn file XML
-        duong_dan_file = input("\nNhập đường dẫn đến file XML (nhấn Enter để quay lại menu chính): ")
-        if not duong_dan_file:
+        duong_dan_file = get_input_with_space_exit("\nNhập đường dẫn đến file XML (nhấn Space để quay lại): ")
+        if duong_dan_file == ' ':
             break
         
         if not os.path.exists(duong_dan_file):
@@ -460,136 +539,244 @@ def tim_loc_xoa_menu():
         lua_chon = input("\nChọn chức năng (Xóa/Tiếp tục): ").lower()
         if lua_chon == "xóa" or lua_chon == "xoa":
             xoa_noi_dung(duong_dan_file, ket_qua)
-        
-        print("\n------------------------------------------------")
 
-def so_sanh_menu():
+def get_input_with_space_exit(prompt):
     """
-    Menu chức năng So sánh
+    Lấy đầu vào từ người dùng, cho phép sử dụng phím Space để quay lại
+    
+    Args:
+        prompt (str): Thông báo hiển thị cho người dùng
+        
+    Returns:
+        str: Chuỗi đầu vào từ người dùng, trả về ' ' nếu người dùng chỉ nhấn Space
     """
-    print("\nCHỨC NĂNG SO SÁNH HAI FILE XML")
-    print("------------------------------------------------")
-    
-    # Nhập đường dẫn file A
-    duong_dan_file_a = input("\nNhập đường dẫn đến file XML A (nhấn Enter để quay lại menu chính): ")
-    if not duong_dan_file_a:
-        return
-    
-    if not os.path.exists(duong_dan_file_a):
-        print(f"Lỗi: File {duong_dan_file_a} không tồn tại")
-        return
-    
-    if not duong_dan_file_a.lower().endswith('.xml'):
-        print(f"Lỗi: File {duong_dan_file_a} không phải là file XML")
-        return
-    
-    # Nhập đường dẫn file B
-    duong_dan_file_b = input("Nhập đường dẫn đến file XML B: ")
-    if not duong_dan_file_b:
-        print("Đường dẫn file B không được để trống")
-        return
-    
-    if not os.path.exists(duong_dan_file_b):
-        print(f"Lỗi: File {duong_dan_file_b} không tồn tại")
-        return
-    
-    if not duong_dan_file_b.lower().endswith('.xml'):
-        print(f"Lỗi: File {duong_dan_file_b} không phải là file XML")
-        return
-    
-    # Tiến hành so sánh
-    contentuid_chung, contentuid_rieng_a, contentuid_rieng_b = so_sanh_file(duong_dan_file_a, duong_dan_file_b)
-    
-    if contentuid_chung is None:
-        return
-    
-    if not contentuid_chung:
-        print("\nKhông có contentuid trùng nhau giữa hai file.")
-        return
-    
-    while True:
-        # Hiển thị menu lựa chọn
-        print("\nLựa chọn xử lý contentuid trùng nhau:")
-        print("1. Lọc các contentuid trùng nhau ra file trung_contentuid.xml")
-        print("2. Lọc contentuid trùng nhau ra file và xóa chúng ở file A")
-        print("3. Lọc contentuid trùng nhau ra file và xóa chúng ở file B")
-        print("4. Lọc contentuid trùng nhau ra file và xóa chúng ở cả hai file")
-        print("5. Xóa contentuid trùng nhau ở file A")
-        print("6. Xóa contentuid trùng nhau ở file B")
-        print("7. Xóa contentuid trùng nhau ở cả hai file")
-        print("0. Quay lại")
-        
-        lua_chon = input("Nhập lựa chọn của bạn: ")
-        
-        if lua_chon == "0":
-            break
-        
-        # Lọc ra file
-        if lua_chon in ["1", "2", "3", "4"]:
-            ten_file_xuat = xuat_contentuid_chung(contentuid_chung)
-        
-        # Xóa ở file A
-        if lua_chon in ["2", "4", "5", "7"]:
-            xoa_contentuid_trung_nhau(duong_dan_file_a, contentuid_chung.keys())
-        
-        # Xóa ở file B
-        if lua_chon in ["3", "4", "6", "7"]:
-            xoa_contentuid_trung_nhau(duong_dan_file_b, contentuid_chung.keys())
-        
-        if lua_chon not in ["0", "1", "2", "3", "4", "5", "6", "7"]:
-            print("Lựa chọn không hợp lệ!")
+    user_input = input(prompt)
+    if user_input == ' ':
+        return ' '
+    return user_input
 
-def phan_tich_menu():
+def format_xml(element):
     """
-    Menu chức năng Phân tích
+    Định dạng XML để dễ đọc với thụt lề đúng
+    
+    Args:
+        element: Phần tử XML cần định dạng
+        
+    Returns:
+        str: Chuỗi XML đã được định dạng đẹp, không bao gồm khai báo XML
+    """
+    # Chuyển đổi thành chuỗi
+    rough_string = ET.tostring(element, encoding='utf-8').decode('utf-8')
+    
+    # Sử dụng minidom để định dạng
+    parsed = minidom.parseString(rough_string)
+    formatted_xml = parsed.toprettyxml(indent="\t")
+    
+    # Loại bỏ dòng trống thừa và khai báo XML
+    lines = []
+    for line in formatted_xml.split('\n'):
+        if line.strip() and not line.startswith('<?xml'):
+            lines.append(line)
+    
+    formatted_xml = '\n'.join(lines)
+    
+    # Xử lý comment để hiển thị đúng
+    formatted_xml = formatted_xml.replace("<!--", "<!-- ").replace("-->", " -->")
+    
+    return formatted_xml
+
+def phan_tich():
+    """
+    Chức năng phân tích file XML
     """
     print("\nCHỨC NĂNG PHÂN TÍCH FILE XML")
-    print("------------------------------------------------")
-    
-    # Nhập đường dẫn file
-    duong_dan_file = input("\nNhập đường dẫn đến file XML (nhấn Enter để quay lại menu chính): ")
-    if not duong_dan_file:
-        return
-    
-    if not os.path.exists(duong_dan_file):
-        print(f"Lỗi: File {duong_dan_file} không tồn tại")
-        return
-    
-    if not duong_dan_file.lower().endswith('.xml'):
-        print(f"Lỗi: File {duong_dan_file} không phải là file XML")
-        return
-    
-    # Tiến hành phân tích
-    phan_tich_file(duong_dan_file)
-
-def main():
-    print("CÔNG CỤ TÌM KIẾM, XÓA, SO SÁNH VÀ PHÂN TÍCH FILE XML")
-    print("====================================================")
+    print("--------------------------")
     
     while True:
-        print("\nCHỌN CHỨC NĂNG:")
-        print("1. Tìm kiếm và Xóa nội dung")
-        print("2. So sánh hai file")
-        print("3. Phân tích file")
-        print("0. Thoát")
-        
-        lua_chon = input("Nhập lựa chọn của bạn: ")
-        
-        if lua_chon == "0":
-            print("\nĐã thoát chương trình!")
+        # Nhập đường dẫn file XML
+        duong_dan_file = get_input_with_space_exit("\nNhập đường dẫn đến file XML (nhấn Space để quay lại): ")
+        if duong_dan_file == ' ':
             break
         
+        if not os.path.exists(duong_dan_file):
+            print(f"Lỗi: File {duong_dan_file} không tồn tại")
+            continue
+        
+        # Kiểm tra xem có phải là file XML không
+        if not duong_dan_file.lower().endswith('.xml'):
+            print(f"Lỗi: File {duong_dan_file} không phải là file XML")
+            continue
+        
+        # Thực hiện phân tích
+        phan_tich_file_xml(duong_dan_file)
+
+def so_sanh():
+    """
+    Chức năng so sánh hai file XML
+    """
+    print("\nCHỨC NĂNG SO SÁNH HAI FILE XML")
+    print("------------------------------")
+    
+    while True:
+        # Nhập đường dẫn file XML thứ nhất
+        file_a = get_input_with_space_exit("\nNhập đường dẫn đến file XML thứ nhất (nhấn Space để quay lại): ")
+        if file_a == ' ':
+            break
+        
+        if not os.path.exists(file_a):
+            print(f"Lỗi: File {file_a} không tồn tại")
+            continue
+        
+        if not file_a.lower().endswith('.xml'):
+            print(f"Lỗi: File {file_a} không phải là file XML")
+            continue
+        
+        # Nhập đường dẫn file XML thứ hai
+        file_b = input("Nhập đường dẫn đến file XML thứ hai: ")
+        if not os.path.exists(file_b):
+            print(f"Lỗi: File {file_b} không tồn tại")
+            continue
+        
+        if not file_b.lower().endswith('.xml'):
+            print(f"Lỗi: File {file_b} không phải là file XML")
+            continue
+        
+        # Thực hiện so sánh
+        ket_qua_trung, contentuid_chi_co_trong_a, contentuid_chi_co_trong_b = so_sanh_hai_file_xml(file_a, file_b)
+        
+        if not ket_qua_trung and not contentuid_chi_co_trong_a and not contentuid_chi_co_trong_b:
+            print("Lỗi khi so sánh hai file")
+            continue
+        
+        # Hiển thị menu chức năng
+        print("\nChọn chức năng:")
+        print("--- Xử lý các contentUID trùng nhau ---")
+        print("1. Lọc các contentUID trùng nhau ra file")
+        print("2. Lọc và xóa các contentUID trùng nhau ở file A")
+        print("3. Lọc và xóa các contentUID trùng nhau ở file B")
+        print("4. Lọc và xóa các contentUID trùng nhau ở cả hai file")
+        print("5. Xóa các contentUID trùng nhau ở file A")
+        print("6. Xóa các contentUID trùng nhau ở file B")
+        print("7. Xóa các contentUID trùng nhau ở cả hai file")
+        print("--- Xử lý các contentUID KHÔNG trùng nhau ---")
+        print("8. Lọc các contentUID chỉ có trong file A ra file")
+        print("9. Lọc các contentUID chỉ có trong file B ra file")
+        print("10. Lọc các contentUID không trùng nhau ở cả hai file")
+        print("0. Quay lại")
+        
+        lua_chon = input("\nNhập lựa chọn của bạn: ")
+        
+        if lua_chon == "0":
+            continue
+            
         elif lua_chon == "1":
-            tim_loc_xoa_menu()
-        
+            # Lọc ra file
+            xuat_contentuid_trung_ra_file(ket_qua_trung)
+            
         elif lua_chon == "2":
-            so_sanh_menu()
-        
+            # Lọc và xóa ở file A
+            file_ket_qua = xuat_contentuid_trung_ra_file(ket_qua_trung)
+            xoa_contentuid_trung_trong_file(file_a, [uid for uid, _ in ket_qua_trung])
+            
         elif lua_chon == "3":
-            phan_tich_menu()
-        
+            # Lọc và xóa ở file B
+            file_ket_qua = xuat_contentuid_trung_ra_file(ket_qua_trung)
+            xoa_contentuid_trung_trong_file(file_b, [uid for uid, _ in ket_qua_trung])
+            
+        elif lua_chon == "4":
+            # Lọc và xóa ở cả hai file
+            file_ket_qua = xuat_contentuid_trung_ra_file(ket_qua_trung)
+            xoa_contentuid_trung_trong_file(file_a, [uid for uid, _ in ket_qua_trung])
+            xoa_contentuid_trung_trong_file(file_b, [uid for uid, _ in ket_qua_trung])
+            
+        elif lua_chon == "5":
+            # Xóa ở file A
+            xoa_contentuid_trung_trong_file(file_a, [uid for uid, _ in ket_qua_trung])
+            
+        elif lua_chon == "6":
+            # Xóa ở file B
+            xoa_contentuid_trung_trong_file(file_b, [uid for uid, _ in ket_qua_trung])
+            
+        elif lua_chon == "7":
+            # Xóa ở cả hai file
+            xoa_contentuid_trung_trong_file(file_a, [uid for uid, _ in ket_qua_trung])
+            xoa_contentuid_trung_trong_file(file_b, [uid for uid, _ in ket_qua_trung])
+            
+        elif lua_chon == "8":
+            # Lọc các contentUID chỉ có trong file A
+            if contentuid_chi_co_trong_a:
+                # Lấy nội dung từ file A
+                ket_qua_a = lay_noi_dung_theo_contentuid(file_a, contentuid_chi_co_trong_a)
+                if ket_qua_a:
+                    xuat_contentuid_khong_trung_ra_file(ket_qua_a, "chi_co_trong_fileA")
+                else:
+                    print("Không thể lấy nội dung từ file A")
+            else:
+                print("Không có contentUID nào chỉ xuất hiện trong file A")
+            
+        elif lua_chon == "9":
+            # Lọc các contentUID chỉ có trong file B
+            if contentuid_chi_co_trong_b:
+                # Lấy nội dung từ file B
+                ket_qua_b = lay_noi_dung_theo_contentuid(file_b, contentuid_chi_co_trong_b)
+                if ket_qua_b:
+                    xuat_contentuid_khong_trung_ra_file(ket_qua_b, "chi_co_trong_fileB")
+                else:
+                    print("Không thể lấy nội dung từ file B")
+            else:
+                print("Không có contentUID nào chỉ xuất hiện trong file B")
+            
+        elif lua_chon == "10":
+            # Lọc các contentUID không trùng nhau ở cả hai file
+            if contentuid_chi_co_trong_a:
+                # Lấy nội dung từ file A
+                ket_qua_a = lay_noi_dung_theo_contentuid(file_a, contentuid_chi_co_trong_a)
+                if ket_qua_a:
+                    xuat_contentuid_khong_trung_ra_file(ket_qua_a, "chi_co_trong_fileA")
+                else:
+                    print("Không thể lấy nội dung từ file A")
+                
+            if contentuid_chi_co_trong_b:
+                # Lấy nội dung từ file B
+                ket_qua_b = lay_noi_dung_theo_contentuid(file_b, contentuid_chi_co_trong_b)
+                if ket_qua_b:
+                    xuat_contentuid_khong_trung_ra_file(ket_qua_b, "chi_co_trong_fileB")
+                else:
+                    print("Không thể lấy nội dung từ file B")
+                    
+            if not contentuid_chi_co_trong_a and not contentuid_chi_co_trong_b:
+                print("Không có contentUID nào chỉ xuất hiện trong một file")
+            
         else:
-            print("Lựa chọn không hợp lệ!")
+            print("Lựa chọn không hợp lệ")
+
+def main():
+    print("CÔNG CỤ XỬ LÝ FILE XML")
+    print("----------------------")
+    
+    while True:
+        print("\nChọn chức năng:")
+        print("1. Tìm kiếm và xóa nội dung")
+        print("2. Phân tích file")
+        print("3. So sánh hai file")
+        print("0. Thoát")
+        
+        lua_chon = input("\nNhập lựa chọn của bạn: ")
+        
+        if lua_chon == "0":
+            break
+            
+        elif lua_chon == "1":
+            tim_loc_xoa()
+            
+        elif lua_chon == "2":
+            phan_tich()
+            
+        elif lua_chon == "3":
+            so_sanh()
+            
+        else:
+            print("Lựa chọn không hợp lệ")
 
 if __name__ == "__main__":
     main()
