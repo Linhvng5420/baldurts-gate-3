@@ -19,7 +19,6 @@ src/*_analysis.json
 data/input/
 data/filtered/
 data/wip/
-output/
 
 # OS generated files
 .DS_Store
