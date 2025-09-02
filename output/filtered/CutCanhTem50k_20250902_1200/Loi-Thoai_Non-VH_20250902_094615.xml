@@ -117684,8 +117684,11 @@ Fruward the Nail</content>
 	<content contentuid="hed1cbe26g950fg481dg90fbgda57056754e7" version="1">When you make Intelligence or Wisdom &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; or Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;, replace rolls of 9 or lower with a 10.</content>
 	<content contentuid="hed1e2191g1b0bg4151g9968g1da91a4f0813" version="1">Vampires before Vellioth</content>
 	<content contentuid="hed1f0ef6g3100g42e1gba94gf8ff77901eff" version="2">Where can I find Orin?</content>
-	<content contentuid="hed1f2597g634dg4eb1ga741gc2b3a5f612bf" version="2">Does sorrow grip your heart? Does rage cloud your mind? Do you ever wish to surrender all that holds you back in life? It can be so, at the House of Grief. To be Unburdened of your troubles is to be reborn. Seek us out, and we shall discover the very best version of you.	
-</content>
+	<content contentuid="hed1f2597g634dg4eb1ga741gc2b3a5f612bf" version="2">
+		Does sorrow grip your heart? Does rage cloud your mind? Do you ever wish to surrender all
+		that holds you back in life? It can be so, at the House of Grief. To be Unburdened of your
+		troubles is to be reborn. Seek us out, and we shall discover the very best version of you.
+	</content>
 	<content contentuid="hed1fb235gf571g46bbg95c3ga87192dc36a0" version="2">Wyll. By Balduran's graces, why have the Hells ordained you to save me?</content>
 	<content contentuid="hed1fc7c0g467ag4b75g8682gfe4dd84ad93a" version="2">*He's frightened of your illithid ally, but the very fact that it hasn't killed him on sight gives him reason to pause.*</content>
 	<content contentuid="hed20a1e0g54bbg4ce1ga168gfde482805de2" version="2">No escape.</content>
@@ -119685,8 +119688,9 @@ Fruward the Nail</content>
 	<content contentuid="hf12d3837gd6fbg448ag813dg9cf6d9a4d412" version="1">Nam</content>
 	<content contentuid="hf12f3c42g1129g4e7ega661gcc0f8590e1df" version="1">Ooft! I had heard of Master's indisposition, but I had hoped the rumours were untrue.</content>
 	<content contentuid="hf12f8a7cg7418g40d2gb9e5g3be8df3afe87" version="2">Arcane Bravado</content>
-	<content contentuid="hf130f89cgac42g45dbg8886gea8b6b71aa29" version="1">[A self-help volume, claiming to be able to help the timid and weak-spirited find their inner strength.] &lt;br&gt;&lt;br&gt;Not everyone needs to be a hero, but all hearts need courage just as all stomachs need food. But what if you find yourself denied your measure? What if fear and doubt grips you all-too-easily? You must stand fast and face your fears resolutely. Do not flee, or take desperate, futile action. Present your best self to the world, and soon your heart shall believe in it also. &lt;br&gt;&lt;br&gt;[The book continues on at great length, suggesting treatments pioneered by the House of Grief may help, should self-improvement fail.]	
-</content>
+	<content contentuid="hf130f89cgac42g45dbg8886gea8b6b71aa29" version="1">
+		[A self-help volume, claiming to be able to help the timid and weak-spirited find their inner strength.] &lt;br&gt;&lt;br&gt;Not everyone needs to be a hero, but all hearts need courage just as all stomachs need food. But what if you find yourself denied your measure? What if fear and doubt grips you all-too-easily? You must stand fast and face your fears resolutely. Do not flee, or take desperate, futile action. Present your best self to the world, and soon your heart shall believe in it also. &lt;br&gt;&lt;br&gt;[The book continues on at great length, suggesting treatments pioneered by the House of Grief may help, should self-improvement fail.]	
+	</content>
 	<content contentuid="hf131b42bgd603g4ba8gb279gb793237272f4" version="2">[A quickly scrawled invoice of work completed.]&lt;br&gt;&lt;br&gt;&lt;b&gt;Record of Work:&lt;/b&gt; 29 Tarsakh 1492DR.&lt;br&gt;&lt;b&gt;Completed installation:&lt;/b&gt; Sliding door (concealed) to cubby in atelier. &lt;br&gt;&lt;b&gt;Initial quote:&lt;/b&gt; 500 gold&lt;br&gt;&lt;b&gt;Final invoice:&lt;/b&gt; 575 gold (additional cost: structural reinforcements after door installation, making it 'more secret ' per client req.)</content>
 	<content contentuid="hf1330815g490eg4f17g8138g8ed9606d9296" version="2">Brittle are the foundations upon which the houses of tyrants are built. It seems I judged you to be less brittle than you really are.</content>
 	<content contentuid="hf133436bgb49dg44d4ga3feg90467f759ba5" version="1">Take Zevlor's payment for killing Kagha.</content>
