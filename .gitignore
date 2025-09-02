@@ -36,9 +36,6 @@ Thumbs.db
 *.swp
 *.swo
 
-# Large XML files
-!data/sample*.xml
-
 # Test files
 test_*
 *_test.py
