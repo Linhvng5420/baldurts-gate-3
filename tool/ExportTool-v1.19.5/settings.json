@@ -11,7 +11,7 @@
   "PAK": {
     "ExtractInputPath": "D:\\Games\\Baldurt's Gate VH\\BG3_VH-AI_Path3\\English.pak",
     "ExtractOutputPath": "D:\\Games\\Baldurt's Gate VH\\baldurts-gate-3\\data\\wip\\Package English VH AI Path3",
-    "CreateInputPath": "`",
+    "CreateInputPath": "D:\\Games\\Baldurt's Gate VH\\baldurts-gate-3\\data\\Package Create Mod VH\\Localization\\English",
     "CreateOutputPath": "C:\\Users\\ngvli\\Downloads\\English.pak",
     "CreatePackageVersion": 0,
     "CreatePackageCompression": 4

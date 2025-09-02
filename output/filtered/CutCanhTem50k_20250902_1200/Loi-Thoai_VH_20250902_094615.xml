@@ -1,10 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <contentList>
-	<!--
-		
-		LỜI THOẠI VIỆT HÓA CCT 
-		
-	-->
+	<!--LỜI THOẠI VIỆT HÓA CCT -->
 	<content contentuid="h000006d4gcefbg4092gbb39gfeb27a3bb0a7" version="1">Xin lỗi nhé tình yêu, tôi không có thì giờ tiếp lũ hạ đẳng.</content>
 	<content contentuid="h000011feg0be5g4f09g978eg030b3e2e62c6" version="1">Thay thế Phép</content>
 	<content contentuid="h0002ca0fg57a0g4d61g8475gf10d818fe137" version="2">Bào Tử phát tán</content>
@@ -287,7 +283,7 @@
 	<content contentuid="h00c0026bg215eg4ed6g865bg4ccd85e5c917" version="1">*Uy lực của phép thuật lịm dần. Ngươi không thể hỏi thêm câu nào nữa.*</content>
 	<content contentuid="h00c108e1g50d1g4b7fgb0a1g17288b7ab3a6" version="1">Hay là để ta cho giáo phái cấy ký sinh vào ngươi? Dám cá là ngươi sẽ trở thành một nô lệ trung thành đấy.</content>
 	<content contentuid="h00c253ecg00cdg4957g950egd1a2ca0d53df" version="1">Lọ vỡ</content>
-	<content contentuid="h00c31f7bgba5cg4394gaf4cgaf1489827aaf" version="1">Chìa khoá Hầm</content>
+	<content contentuid="h00c31f7bgba5cg4394gaf4cgaf1489827aaf" version="1">Chìa Khoá Hầm</content>
 	<content contentuid="h00c3af75g730ag4325gbce3gdf34909d04ba" version="3">Tránh xa bóng tối!</content>
 	<content contentuid="h00c46127g7793g4484gbce2g7d3643730436" version="1">Xem lại các sự kiện vừa xảy ra, chi tiết giao tranh và các thoại môi trường.</content>
 	<content contentuid="h00c605a8g2c32g4d77g8d04gd5bfb6490a50" version="2">Giá mà tôi có thể tự đi tìm ông ấy. Nhưng tôi không thể rời đi để mặc Kagha tự tung tự tác được.</content>
@@ -319,7 +315,7 @@
 	<content contentuid="h00d4abc3g4792g49c1ga079gb3a6ed3b0d8d" version="1">*Ngươi nhìn thấy một viễn cảnh: Thi thể vô hồn của ngươi, bị bao bọc giữa những sợi nấm ký sinh. Thống Lĩnh đang &lt;i&gt;đe dọa&lt;/i&gt; ngươi.*</content>
 	<content contentuid="h00d7bad5g676bg4cc6g887fg8ffabdfff0a9" version="2">Cứu Liam chẳng được lợi lộc gì - anh còn khuya mới hợp với nghề đánh thuê. Nhưng... cảm ơn anh.</content>
 	<content contentuid="h00d9b69bg4134g4e37g8c8fg1ae7f01e99b5" version="2">Ta sẽ tiêu diệt Mầm Bệnh. Những tên Duergar cạnh hồ sẽ chết.</content>
-	<content contentuid="h00da37e5g2667g489eg8ab6gade63e7fa7a3" version="1">Đau1</content>
+	<content contentuid="h00da37e5g2667g489eg8ab6gade63e7fa7a3" version="1">Đau</content>
 	<content contentuid="h00da6dbfg9c79g4ebbg833agd45116e520ea" version="2">Không...</content>
 	<content contentuid="h00db3c93g5dbbg4f76gb683gd050449261cd" version="1">Tháp Moonrise</content>
 	<content contentuid="h00db9a44gcd73g490bg9b62gfaa791e646b0" version="1">Ngay lập tức.</content>
@@ -340,7 +336,7 @@
 	<content contentuid="h00e87351g3ae7g4a56g9528g1ec31d157e07" version="1">Hồng 5</content>
 	<content contentuid="h00e89ab1g12aag41e1gab5bgd6bc8df94d34" version="2">&lt;i&gt;Đứng thẳng như bình thường.&lt;/i&gt;</content>
 	<content contentuid="h00e8b76bg3434g4edcg96d1g1472dcd61f22" version="2">Quan tài Mục rữa</content>
-	<content contentuid="h00e9c65dgde82g4396gae22gc7badc85607e" version="3">Di chuyển tự do trong một tổ ấp Githyanki... quả là một phép màu đáng ấn tượng. Mà tin tôi đi, phép màu thì tôi không lạ gì đâu.</content>
+	<content contentuid="h00e9c65dgde82g4396gae22gc7badc85607e" version="3">Di chuyển tự do trong một Tổ Thành Githyanki... quả là một phép màu đáng ấn tượng. Mà tin tôi đi, phép màu thì tôi không lạ gì đâu.</content>
 	<content contentuid="h00ea49c6g19e3g42f6ga10fg90ba94e57268" version="1">Để lúc khác đi. Tôi cần nghỉ ngơi, không phải tình dục.</content>
 	<content contentuid="h00eace84g6d30g451dg816eg9f6a516520b1" version="1">Được rồi.</content>
 	<content contentuid="h00ec1a15g2354g431bg824bg81677bd2b1cf" version="1">Chúng ta sẽ về trại gặp ông ta sau. Tạm thời cứ để ông ta nghỉ ngơi cho lại sức đã.</content>
@@ -2688,7 +2684,7 @@
 	<content contentuid="h06fb7123g3f8dg42a4g98c2g6138047f25d1" version="1">Nhưng tầm này mà đi sâu vào quá khứ lâm li bi đát thì còn hơi sớm. Gác lại chuyện đó đi, sau khi chúng ta có hứng chia sẻ bi kịch.</content>
 	<content contentuid="h06fbe8bbg4bd7g4626g9c8aga96613d16856" version="3">Ủng Truyền dẫn Sinh lực</content>
 	<content contentuid="h06fd8d9dg14acg4b1agb891ga308c465cdbe" version="2">Có gì đó mách bảo tôi rằng sức tay trần sẽ là không đủ để mở hộp đâu.</content>
-	<content contentuid="h0700794dg4af9g4a8agaa19g29cf8d162278" version="1">Zorru đã rời Mật động Lục bảo. Ta sẽ phải tìm Tổ ấp Githyanki mà không cần đến nó.</content>
+	<content contentuid="h0700794dg4af9g4a8agaa19g29cf8d162278" version="1">Zorru đã rời Mật động Lục bảo. Ta sẽ phải tìm Tổ Thành Githyanki mà không cần đến nó.</content>
 	<content contentuid="h07008feagc31ag43f2ga5b3g637a3fd8217d" version="1">Ngươi muốn thử sự kiên nhẫn của ta.</content>
 	<content contentuid="h0700adceg8ed9g4760g8099g7a8641fd56e8" version="2">Lấy cả 4 loại y cụ khác nhau từ các Y tá.</content>
 	<content contentuid="h0700d6d2g5222g4d90gb6dfg788979aa7b98" version="1">Mizora đã giữ lời. Cô ta đã giúp chúng ta dẫn Đại Công Tước Ravengard đến nơi an toàn. Chúng ta nên trở lại tàu ngầm và nói chuyện với ông ấy.</content>
@@ -2874,7 +2870,7 @@
 	<content contentuid="h077ab8e9g2711g4d70g8750g23adba04a1c8" version="2">Anh không cần phải thích nó lâu đâu.</content>
 	<content contentuid="h077ab986gf98fg4d4ag968cge05e29db1a19" version="1">&lt;i&gt;Rời đi.&lt;/i&gt;</content>
 	<content contentuid="h077b664dgf14dg4a49g917cgae952114ca5d" version="1">Suốt mười năm ròng. Bao nhiêu câu chuyện tôi có thể kể.</content>
-	<content contentuid="h077dd578g3b09g42a4gb861g31b754569ef9" version="1">Tổ ấp Githyanki</content>
+	<content contentuid="h077dd578g3b09g42a4gb861g31b754569ef9" version="1">Tổ Thành Githyanki</content>
 	<content contentuid="h077eab72g6183g49fdgbaeegcfc08fa58d59" version="1">... nô lệ... cướp... thành công...</content>
 	<content contentuid="h077f1ab8gb637g4a3bg8efcge45326277239" version="1">Tôi đã gặp một đứa trẻ bóng tối tên là Oliver, trông rất giống Thaniel, nhưng nó chết rồi. </content>
 	<content contentuid="h078069acgf62bg4c64g9329g0f5210297f64" version="4">Bào Tử Xương sẽ phát nổ vào lượt tiếp theo của nó, gây [1] và sinh ra một con Necromite.</content>
@@ -3119,7 +3115,7 @@
 	<content contentuid="h0829d2a1g6454g4044g9b6dg86ec3b26888b" version="4">Cứ để mặc chúng. Lũ anh hùng là một nửa của vấn đề rồi. Toàn một lũ ngu ngốc tin vào cái đúng cái sai - cái thiện cái ác.</content>
 	<content contentuid="h082a1452gcb24g42faga99cg1972a1733e09" version="1">&lt;i&gt;Rời đi.&lt;/i&gt;</content>
 	<content contentuid="h082a3c79g9db4g4770ga512g406fd802f77a" version="5">Bạn có thể dùng Đồ nghề Đạo chích &lt;LSTag Type="Image" Info="TutorialThievesTools"/&gt; để cạy khoá - hoặc có thể đi tìm chìa.&lt;br&gt;Nhưng hãy dè chừng! Đồ nghề Đạo chích sẽ bị hỏng nếu cạy khoá thất bại.</content>
-	<content contentuid="h082ac230g0cccg49e0gb7f5g7513b8c47a53" version="2">Một lính gác bên trong Tổ ấp Githyanki nói rằng chúng ta nên đến trình diện Chỉ huy.</content>
+	<content contentuid="h082ac230g0cccg49e0gb7f5g7513b8c47a53" version="2">Một lính gác bên trong Tổ Thành Githyanki nói rằng chúng ta nên đến trình diện Chỉ huy.</content>
 	<content contentuid="h082b6390ge35eg4bcbg9aa7g6c440f517e47" version="1">Chiếc nhẫn đầy vết xây xước và méo mó như thể từng được đeo vào một ngón tay đầy chai sạn. Chủ nhân của ngón tay đó đã khắc chữ "Karthol" vào mặt kim loại bên trong như để thể hiện tình yêu thương hoặc thể hiện chủ quyền.</content>
 	<content contentuid="h082bbd30gad4ag4442gbb54gcd54c96356c1" version="1">Đã sẵn sàng.</content>
 	<content contentuid="h082da8e9ge6c6g47aeg91d4g29d8270b0b32" version="1">Minthara có thể về.</content>
@@ -5195,7 +5191,7 @@
 	<content contentuid="h0d71026fg7d6cg49f2g8704g17f79ada4cd3" version="1">Ngươi bước trên con đường của những người khổng lồ, tận dụng sức mạnh nguyên tố và kích cỡ choáng ngợp của họ bằng cách khai thác từ cùng một thế lực thủy tổ với giống loài này.</content>
 	<content contentuid="h0d718fcfgfe18g4a4dgb915g835427558013" version="2">Nấm mũ Quần thể</content>
 	<content contentuid="h0d71b848gdc5bg4dcegb6ddgd6034d28c0e7" version="1">Bồng bềnh và thùng thình, được đặc biệt làm ra cho những kẻ chưa từng phải tự mình đội mũ bao giờ trong đời.</content>
-	<content contentuid="h0d721f71g89ecg4d31ga6e4g5bea4100fe77" version="1">Tìm kiếm manh mối về Tổ ấp Githyanki cạnh con đèo núi về phía Tây Bắc.</content>
+	<content contentuid="h0d721f71g89ecg4d31ga6e4g5bea4100fe77" version="1">Tìm kiếm manh mối về Tổ Thành Githyanki cạnh con đèo núi về phía Tây Bắc.</content>
 	<content contentuid="h0d723d68gcff5g412eg8914g50defe4598c1" version="3">Quy trình đã kết thúc rồi.</content>
 	<content contentuid="h0d724813g0e5eg44ebgad30geaea12a039d7" version="1">Lúc này Thanh Gươm đang bận. Để sau đi.</content>
 	<content contentuid="h0d7295d2g3e54g45f4g8106g32d3f9665cc3" version="1">Nói "ạ" đi.</content>
@@ -5812,7 +5808,7 @@ Voss, Revrykal t'Orpheus, Knight of the Comet</content>
 	<content contentuid="h0ef9c525g1a15g453fgbc53g47b9392c211b" version="1">Tránh xa tôi ra. </content>
 	<content contentuid="h0ef9f3bbg9183g45c4gb33dgc63476f80764" version="1">Chất dịch não</content>
 	<content contentuid="h0efab816g76b6g4f3cga99ag3f7dee00a981" version="2">Trút bầu tâm sự đi thì sẽ thoải mái hơn đấy.</content>
-	<content contentuid="h0efb2451g01e2g4aaeg8014g629d6f6d56b8" version="4">*Một tấm bản đồ huyền bí phát sáng trước mắt, để lộ một tổ ấp Githyanki nằm trong một ngôi đền ở đèo núi.*</content>
+	<content contentuid="h0efb2451g01e2g4aaeg8014g629d6f6d56b8" version="4">*Một tấm bản đồ huyền bí phát sáng trước mắt, để lộ một Tổ Thành Githyanki nằm trong một ngôi đền ở đèo núi.*</content>
 	<content contentuid="h0efc4ec5ge550g4271gb474g27b2e52a4682" version="1">&lt;i&gt;Vặt cánh nó.&lt;/i&gt;</content>
 	<content contentuid="h0efce594g85efg4b81ga3b0g41e29082df55" version="1">Ta đã tra khảo một tên Tiefling tên là Zorru. Hắn ta nói rằng hắn thấy một Githyanki khác trên đường đến Baldur's Gate, gần một con đèo núi về phía Tây Bắc. Ta phải tới đó.</content>
 	<content contentuid="h0efcfd9fgc71eg46c6ga846gf2a22d4bf05e" version="3">Lại liên tưởng đến thiên nhiên? Ông "kiên định" thật đấy, Halsin.</content>
@@ -7821,7 +7817,7 @@ Tài nguyên này được thể hiện bằng biểu tượng hình tam giác. 
 	<content contentuid="h14042d1cg03eag4214gb1fbg518b79981cb7" version="1">Giờ &lt;i&gt;không&lt;/i&gt; phải lúc. </content>
 	<content contentuid="h14044b3bgaa39g4279gb967gdfd781e77352" version="1">Tôi hiểu.</content>
 	<content contentuid="h1404970dg68b1g478fg9fc8g073ae4d3f983" version="1">Bỏ nhánh gai xuống đi rồi hẵng nói chuyện.</content>
-	<content contentuid="h1406a436ge28ag4651g9be1gc0a7be8e8595" version="3">Tìm kiếm một quả trứng trong Tổ ấp Githyanki.</content>
+	<content contentuid="h1406a436ge28ag4651g9be1gc0a7be8e8595" version="3">Tìm kiếm một quả trứng trong Tổ Thành Githyanki.</content>
 	<content contentuid="h14074256g5e85g4715g8f5ag1f15493397db" version="1">Cẩm nang Chi tiết về Tập tính của các Tiên nước</content>
 	<content contentuid="h14084a6dg6e12g409dga769gd9997e80adec" version="1">Vậy thì xin phép cho tôi được sống mạo hiểm khi còn có thể.</content>
 	<content contentuid="h14087320gacfdg42fagbf10g9e314f6fe11c" version="5">Đám Goblin đau đớn chứ? Lũ tạp nham như chúng không đáng được thương hại.</content>
@@ -7906,7 +7902,7 @@ Tài nguyên này được thể hiện bằng biểu tượng hình tam giác. 
 	<content contentuid="h14377248g5fbbg41bdga7cbg281758abd180" version="2">*Ngươi nhìn thấy một chiếc giày cũ, được đặt úp ngược trên đầu gối người thợ đóng giày, khi ông gõ nốt cây đinh cuối cùng vào phần đế. Vậy là lại như mới.*</content>
 	<content contentuid="h143b4239g7e76g481bga6f4g39b33e536efe" version="1">[1] không tán thành.</content>
 	<content contentuid="h143b56a0g1c2eg4522g83abg5e2d25798282" version="1">Đăng ký</content>
-	<content contentuid="h143be9e7g3f0bg4674gaef7gc44fdedf1fe8" version="1">Chiến binh Githyanki tên Lae'zel đã gia nhập đội. Cô ta hứa rằng chúng ta sẽ được thanh tẩy khỏi lũ ký sinh tại một Tổ ấp Githyanki. Cô ta đã tìm ra manh mối của Tổ ấp tại một tu viện bên trong đèo núi. Chúng ta nên tới đó để tìm lối vào.</content>
+	<content contentuid="h143be9e7g3f0bg4674gaef7gc44fdedf1fe8" version="1">Chiến binh Githyanki tên Lae'zel đã gia nhập đội. Cô ta hứa rằng chúng ta sẽ được thanh tẩy khỏi lũ ký sinh tại một Tổ Thành Githyanki. Cô ta đã tìm ra manh mối của Tổ ấp tại một tu viện bên trong đèo núi. Chúng ta nên tới đó để tìm lối vào.</content>
 	<content contentuid="h143c0caega225g473dgaf50ge859dcdb6190" version="1">&lt;i&gt;Rời đi.&lt;/i&gt;</content>
 	<content contentuid="h143c380eg6f84g4c74gbe83gd3d6e37d1daa" version="1">Dĩ nhiên. Tôi không có ý thúc giục.</content>
 	<content contentuid="h143d23eeg590eg48dbg881dgddfd67d3690a" version="2">Một trong những phát minh thành công của Oddfire, là loại pháo cánh chuồn phóng lửa nhanh cùng tiếng tành tạch cực kỳ vui tai.</content>
@@ -8664,7 +8660,7 @@ Tài nguyên này được thể hiện bằng biểu tượng hình tam giác. 
 	<content contentuid="h1637414cge3f7g4101g890ag5204f48a8835" version="3">Đám Goblin sẽ rất thù chúng ta sau chuyện xảy ra ở mật động.</content>
 	<content contentuid="h1637c784gd02dg479agbf56g83f63fae2f2d" version="1">Chọn ô 9</content>
 	<content contentuid="h1637d0fbg1922g4e21gaec5ga36ea6463cbe" version="1">Sét Phù thủy</content>
-	<content contentuid="h1637e528g58e4g4636gb7cbgd75f007ea2ae" version="1">Tôi đã kích hoạt một hệ thống cổ đại và phá hủy cả Tổ ấp Githyanki, cùng mọi hy vọng được cứu chữa. Bây giờ, tôi chỉ có thể tiếp tục hành trình.</content>
+	<content contentuid="h1637e528g58e4g4636gb7cbgd75f007ea2ae" version="1">Tôi đã kích hoạt một hệ thống cổ đại và phá hủy cả Tổ Thành Githyanki, cùng mọi hy vọng được cứu chữa. Bây giờ, tôi chỉ có thể tiếp tục hành trình.</content>
 	<content contentuid="h163895aegb1e6g4b19ga7c1g664353f059ed" version="1">*Vị nữ hoàng đã đem quân đi chinh phục giới thiên đàng, chẻ đôi những hành tinh, và hủy diệt bao vì tinh tú.*</content>
 	<content contentuid="h16392af7ge2c3g41f2ga997g4a0790773283" version="2">Chúng ta đã tìm thấy một ít thuốc nổ. Chúng ta có thể thử cho nổ cửa hầm sập, hoặc tìm thêm chất nổ khác.</content>
 	<content contentuid="h163a7944g86d3g4daegab16g14a1072d5447" version="3">Ngươi ca cẩm nhiều quá.</content>
@@ -10258,7 +10254,7 @@ Tài nguyên này được thể hiện bằng biểu tượng hình tam giác. 
 	<content contentuid="h1a645ceag49d9g4353gaf4dgb4dc9a27ac21" version="2">*Lấy máu kẻ ấy, để trở thành Chánh quan hắc ám.*</content>
 	<content contentuid="h1a659962gd487g40fagab83ga4ee3b8d0691" version="1">Tấn công</content>
 	<content contentuid="h1a662d24ge5ceg4f47g910fg83331683cede" version="2">Anh không còn là tù nhân nữa rồi.</content>
-	<content contentuid="h1a66ff18g3988g4088gbd81g7b376ff41862" version="2">Quá suýt chết - nhưng nhờ có sự nhanh trí, mà Tổ ấp Githyanki vẫn bình an vô sự.</content>
+	<content contentuid="h1a66ff18g3988g4088gbd81g7b376ff41862" version="2">Quá suýt chết - nhưng nhờ có sự nhanh trí, mà Tổ Thành Githyanki vẫn bình an vô sự.</content>
 	<content contentuid="h1a67622bgf318g43c4gadfag3fa01d53c453" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Sử dụng phép này có thể sẽ khiến mục tiêu trở nên đối địch.</content>
 	<content contentuid="h1a67b14ag9912g41fdg95dbg388294b7ebcb" version="1">Ngươi nhầm rồi. Nessa trung thành với ta hết mực.</content>
 	<content contentuid="h1a67eab3g2561g4c0ega31egc0a26359560c" version="1">Về thành phố thôi. Tôi có một việc mà tôi đang cực kỳ nóng con mẹ nó lòng để làm ở đó.</content>
@@ -11187,7 +11183,7 @@ Tài nguyên này được thể hiện bằng biểu tượng hình tam giác. 
 	<content contentuid="h1cadee4ag0220g49afgbd3ag33fda28faee6" version="1">Vâng. Vâng. &lt;i&gt;Làm ơn.&lt;/i&gt;</content>
 	<content contentuid="h1cb0da93gca5eg42c2g87d7g216996308095" version="2">Ta không đùa đâu. Cho ta &lt;i&gt;qua&lt;/i&gt;.</content>
 	<content contentuid="h1cb172d7g51f5g4a1fg8462gc0ed61e43e44" version="1">Với thân hình kia thì tôi đoán anh cũng rất thành thạo khiêu vũ. Chắc hẳn là một màn trình diễn đẹp mắt lắm.</content>
-	<content contentuid="h1cb1d58eg354ag4e30g8026g60e677aba55c" version="5">Chiến binh Githyanki tên Lae'zel đã gia nhập đội. Cô ta hứa rằng chúng ta sẽ được thanh tẩy khỏi lũ ký sinh tại một Tổ ấp Githyanki. Chúng ta nên để mắt tìm hiểu xem ở đâu quanh đây có xuất hiện người Githyanki.</content>
+	<content contentuid="h1cb1d58eg354ag4e30g8026g60e677aba55c" version="5">Chiến binh Githyanki tên Lae'zel đã gia nhập đội. Cô ta hứa rằng chúng ta sẽ được thanh tẩy khỏi lũ ký sinh tại một Tổ Thành Githyanki. Chúng ta nên để mắt tìm hiểu xem ở đâu quanh đây có xuất hiện người Githyanki.</content>
 	<content contentuid="h1cb2274cg3247g48abgb7ddgce642b5ed80c" version="1">Họ có ở đây quái đâu, đừng có mè nheo nữa.</content>
 	<content contentuid="h1cb2b40ag7673g4e56gbef6g7a28b4c58b14" version="1">Không thể về nghỉ qua đêm khi một thành viên đang ở khu vực nguy hiểm.</content>
 	<content contentuid="h1cb2b9a2gc412g44d0gaa12g6c82e13f34d5" version="3">Chân dung một Tiefling</content>
@@ -11809,7 +11805,7 @@ Tài nguyên này được thể hiện bằng biểu tượng hình tam giác. 
 	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_8" version="1">Đồ lót</content>
 	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_9" version="1">Ủng</content>
 	<content contentuid="h1e300d81g8ed8g4321g81c0g57e205a6d646" version="3">Ra đó là mày bị bắt luôn đấy, Vez.</content>
-	<content contentuid="h1e30a546g2e9bg42d7g8c86g3cf498d2cc4a" version="1">Nói chuyện với Lae'zel về sự kiện xảy ra tại Tổ ấp Githyanki.</content>
+	<content contentuid="h1e30a546g2e9bg42d7g8c86g3cf498d2cc4a" version="1">Nói chuyện với Lae'zel về sự kiện xảy ra tại Tổ Thành Githyanki.</content>
 	<content contentuid="h1e3110f4g905eg43c5g904ag4a2eabdd80c5" version="4">Có gì đó không ổn. Tôi thấy yếu đi. &lt;i&gt;Cạn đi&lt;/i&gt;.</content>
 	<content contentuid="h1e31c81ag8ab4g4b7eg9b69g2cda8867331c" version="1">&lt;i&gt;Tuyệt.&lt;/i&gt;</content>
 	<content contentuid="h1e323305g61b3g4f01gb4dag9f9e4d9cf670" version="1">Hướng dẫn chơi</content>
@@ -12781,7 +12777,7 @@ Vault Six: Omotola</content>
 	<content contentuid="h20b4a569gfb93g4fd0g93d4g44f5bf6a7f56" version="3">Mũ Drow sổ chỉ</content>
 	<content contentuid="h20b4bdb6g1720g4ca3ga8f3gd67b64d8fa6d" version="3">Một &lt;i&gt;thách thức&lt;/i&gt; sao. Ai lại cả gan như thế?</content>
 	<content contentuid="h20b50642g627fg449ega683g4d0312313b51" version="2">Không thì là mánh gì?</content>
-	<content contentuid="h20b62c2fg24b8g4b6cg82b8ge9afc9a7e9a8" version="4">Nơi này thú vị ghê. Khiến cho phần còn lại của cái Tổ ấp giống như... ờm, không phải tổ ấp Githyanki.</content>
+	<content contentuid="h20b62c2fg24b8g4b6cg82b8ge9afc9a7e9a8" version="4">Nơi này thú vị ghê. Khiến cho phần còn lại của cái Tổ ấp giống như... ờm, không phải Tổ Thành Githyanki.</content>
 	<content contentuid="h20b92ea6g6730g4e4dga97dg08a663f7fd51" version="3">Ta đặt ngón tay mình lên mối tâm giao của hai bạn và phát hiện một tấm khiên - bất khả xâm phạm. Thật... tuyệt đẹp.</content>
 	<content contentuid="h20bbc5f2g0c96g4f25gb26bg193f2e73c618" version="2">Nhưng xem ra lời sấm ấy lại bỏ quên một phần quan trọng không kém. Nó không nhắc đến người đã trao lại đôi cánh cho vì thiên sứ.</content>
 	<content contentuid="h20bc6c8dg5275g47b6ga22bgd7bd1fe47a1e" version="2">&lt;i&gt;Rời đi.&lt;/i&gt;</content>
@@ -14058,7 +14054,7 @@ Bạn có thể vào menu lên cấp bằng cách chọn thẻ chân dung nhân 
 	<content contentuid="h23ee3da1g7badg4139g923cgfee125809fa3" version="1">Định nghĩa "khôn ngoan" của tôi với cô khác nhau hoàn toàn đấy.</content>
 	<content contentuid="h23ef2fe7g4136g4ba6g890ag44f63e0675bb" version="1">Hoá Thú: Sói lớn</content>
 	<content contentuid="h23ef4563g9771g4f78ga1e4g1b07c1a46557" version="3">'Giữa đêm đen cũng là lúc vì sao tỏ nhất". Nên hãy cứ rực sáng. Mọi chuyện sẽ ổn thôi.</content>
-	<content contentuid="h23ef8ef0gb0bag45a9ga1b2g56dd85f7547a" version="1">Nói chuyện với vị Phán quan tại Tổ ấp Githyanki.</content>
+	<content contentuid="h23ef8ef0gb0bag45a9ga1b2g56dd85f7547a" version="1">Nói chuyện với vị Phán quan tại Tổ Thành Githyanki.</content>
 	<content contentuid="h23f0235ag915bg4a50g987agf6480bc5cf2d" version="2">*Hình dạng cánh cửa bỗng chập chờn, ngươi chợt nhận ra cánh cửa này hoàn toàn trong suốt.*</content>
 	<content contentuid="h23f0b149g0c1eg417fg982agec7151e45b92" version="1">Tạm biệt.</content>
 	<content contentuid="h23f0c84ag4a45g47feg91edg410b89ec9085" version="3">Ta có một món quà cho ngươi, Con của ta. Ngươi sẽ dùng nó để hủy diệt thế giới này.</content>
@@ -14202,7 +14198,7 @@ Giúp tránh bị Xô.</content>
 	<content contentuid="h2444d618gbe70g41aegb6aeg87af395d4809" version="1">Mất kết nối đến máy chủ [1]</content>
 	<content contentuid="h2445557bg3ad5g482fga702g04bf2e476565" version="2">&lt;i&gt;Đặt tay lên người cô ấy.&lt;/i&gt;</content>
 	<content contentuid="h2445f915gbfdeg492egbc15g98cd771e7364" version="1">Lại thêm lũ sinh vật tà ác đó.</content>
-	<content contentuid="h24460eb6ge258g483cg9b95gf3f0b0defaa8" version="3">Chúng ta tìm thấy một phiến đá bản đồ Githyanki có viết một nhiệm vụ: thu hồi thứ trông giống hệt món cổ vật chúng ta đang cầm. Nó cũng ghi lại chỉ dẫn đến một Tổ ấp Githyanki ở gần đây - có thể chúng ta sẽ biết thêm khi đến đó.</content>
+	<content contentuid="h24460eb6ge258g483cg9b95gf3f0b0defaa8" version="3">Chúng ta tìm thấy một phiến đá bản đồ Githyanki có viết một nhiệm vụ: thu hồi thứ trông giống hệt món cổ vật chúng ta đang cầm. Nó cũng ghi lại chỉ dẫn đến một Tổ Thành Githyanki ở gần đây - có thể chúng ta sẽ biết thêm khi đến đó.</content>
 	<content contentuid="h2446692egfc09g451dg81f1gc9aabb21c5bf" version="2">Văn tự Illithid. Trông vô nghĩa.</content>
 	<content contentuid="h244761acg78d0g466fg92b2gbeb6e322b081" version="3">Ném một quả cầu năng lượng độc tố.</content>
 	<content contentuid="h24479b07g4206g4f5ega7b7g280ae9862ba0" version="1">Quả trứng này không nên chịu chế độ hà khắc của giống loài chúng ta. Hãy đưa nó cho tôi và tôi sẽ trao cho nó một cuộc sống tốt hơn. </content>
@@ -15996,7 +15992,7 @@ Objective: No trace of Oskar found from here to Waterdeep.</content>
 	<content contentuid="h28d6c6a0geb29g4989g9f5ag7984d143a5da" version="6">Rolan đi &lt;i&gt;đâu &lt;/i&gt;rồi cơ chứ? Nếu anh ta chưa chết, tôi sẽ tự tay mình giết anh ta - có thần chứng giám.</content>
 	<content contentuid="h28d6e511g7fadg46b0g8cd2gd8bf8a2a90b0" version="1">À. Là anh! Mừng là anh thoát được. Nhưng tôi không biết chúng ta sẽ ở lại đây đến bao giờ. Có gì đó đang... &lt;i&gt;diễn biến.&lt;/i&gt;</content>
 	<content contentuid="h28d71a83g6dfag47f3gadfbg7828bd366d12" version="1">Được thôi, hẹn gặp anh vào buổi tối. Nhớ giữ mình nhé.</content>
-	<content contentuid="h28d7c157g7b8cg465bga861geb26a1d8c30c" version="1">Chúng ta đã kích hoạt một cơ chế tự hủy, khiến cho toàn bộ Tổ Ấp Githyanki bị san bằng. Thiết bị thanh tẩy của Githyanki chắc chắn đã bị phá hủy cùng với nó.</content>
+	<content contentuid="h28d7c157g7b8cg465bga861geb26a1d8c30c" version="1">Chúng ta đã kích hoạt một cơ chế tự hủy, khiến cho toàn bộ Tổ Thành Githyanki bị san bằng. Thiết bị thanh tẩy của Githyanki chắc chắn đã bị phá hủy cùng với nó.</content>
 	<content contentuid="h28d8b37cgf32fg4364g8b70gfc5fb65ba3db" version="1">Xin anh, hãy suy nghĩ về vấn đề này. Tôi tin rằng trong chuyến hành trình của chúng ta, anh sẽ cần đến sự tinh tường vượt trội mà tôi sở hữu.</content>
 	<content contentuid="h28d8e5d2gc29dg4b4ag98edgd9a74a6837fc" version="1">*Ngươi nhìn kỹ đống đá, nhưng không thấy nổi đường chui qua.*</content>
 	<content contentuid="h28d9031ag36b7g4495g98e6g27dcb1be86c8" version="1">Gò đất Lang thang</content>
@@ -16239,7 +16235,7 @@ Objective: No trace of Oskar found from here to Waterdeep.</content>
 	<content contentuid="h297c2682g7c75g4a3ag8783g132416c2e51c" version="2">Không gì có thể cản được chúng ta.</content>
 	<content contentuid="h297c5d70g2c8dg46c3g99f3g7692a4f82dcf" version="1">Nhưng sự gan dạ của ngươi làm ta hứng thú. Cuối cùng cũng tìm được một con sói nằm giữa cả thế giới đầy cừu non...</content>
 	<content contentuid="h297cbc8cg500ag4daag8296g8350536cdab3" version="3">*** đùa sao? Một bãi nhầy thì may ra mới chui lọt.</content>
-	<content contentuid="h297d22bfg5169g4415ga2ccg3c4f4b829c79" version="1">Lae'zel nói rằng chúng ta có thể được chữa trị tại một tổ ấp Githyanki và mong rằng sẽ tìm thấy người của cô ấy ở gần đó.</content>
+	<content contentuid="h297d22bfg5169g4415ga2ccg3c4f4b829c79" version="1">Lae'zel nói rằng chúng ta có thể được chữa trị tại một Tổ Thành Githyanki và mong rằng sẽ tìm thấy người của cô ấy ở gần đó.</content>
 	<content contentuid="h297d30a2gc5d9g437egb801gc6a20417664c" version="1">Đám Duergar từng chạm trán chúng có vẻ rất sợ hãi. Tôi nhìn vào cứ thấy buồn cười.</content>
 	<content contentuid="h297f1716g8822g481fgb2bcg6c7a0f6f757c" version="2">Cầu lửa</content>
 	<content contentuid="h298064d4g4724g4aa6gb7d7gcc9d0880a078" version="2">Nhờ có con đấy. Các con may mắn lắm nhé, vì đã giúp đỡ một bà già &lt;i&gt;rất&lt;/i&gt; quyền năng.</content>
@@ -16572,7 +16568,7 @@ Objective: No trace of Oskar found from here to Waterdeep.</content>
 	<content contentuid="h2a49aae6gc564g4bf9ga88fg1fd68ab65992" version="7">Không biết là gì, nhưng có điều gì đó rất sai. </content>
 	<content contentuid="h2a49ebe7g807dg4d1bg907bgf1284645be83" version="1">Cổng kéo</content>
 	<content contentuid="h2a4a4c70ga492g421bg9c13g8337435a3693" version="1">Bộ Giáp Sống</content>
-	<content contentuid="h2a4b39c7g03e3g4bdagb418gd060257da9b6" version="1">Tìm Chỉ huy của Tổ ấp Githyanki.</content>
+	<content contentuid="h2a4b39c7g03e3g4bdagb418gd060257da9b6" version="1">Tìm Chỉ huy của Tổ Thành Githyanki.</content>
 	<content contentuid="h2a4bb246g6834g4779gac8eg47241aaef7dc" version="1">Giờ nó đã thuộc sở hữu của bóng tối rồi. Tốt nhất nên đừng chạm vào.</content>
 	<content contentuid="h2a4d3a74g916dg4c1fg99acg6d6e2363f87e" version="3">Tôi sẽ chờ ở đây. Hãy biết rằng anh đang đánh cược với sự tồn vong của mật động.</content>
 	<content contentuid="h2a4d4786g3301g42fag9594g3a227f38b54e" version="1">Bằng cách giết chết những ai ngáng đường.</content>
@@ -17477,7 +17473,7 @@ FSR tăng tốc độ khung hình bằng cách sử dụng thuật toán 2 lần
 	<content contentuid="h2cb03994g0199g476dgbdfegf874308eb440" version="3">*Ngươi nhắm mắt, và cả thế giới như trôi dạt đi, đến khi ngươi mở trở lại. Ngươi đã ngồi chờ ở đây từ bao giờ? Một chốc lát? Một đêm? Hay cả một Chục-ngày?*</content>
 	<content contentuid="h2cb0cd23g8385g46d0g8e2dg69b0b964857c" version="2">Nói chuyện với Olly.</content>
 	<content contentuid="h2cb0ceb0g85bag417fg9bfegf1cb92623f71" version="1">Mở</content>
-	<content contentuid="h2cb14abeg7759g4ed0gaae6g5aba74dc98bc" version="1">Quay về Tổ ấp Githyanki.</content>
+	<content contentuid="h2cb14abeg7759g4ed0gaae6g5aba74dc98bc" version="1">Quay về Tổ Thành Githyanki.</content>
 	<content contentuid="h2cb20283gedb4g43eagb097g26b0b45f63c0" version="1">*Sự vô tội tự phong của ngươi là vẫn chưa đủ thuyết phục. Dù có oan hay không thì ngươi cũng sắp phải lên đồn.*</content>
 	<content contentuid="h2cb27532g95d1g4bb1ga0ffg25895e1bd741" version="3">Ta từ chối. Ta sẽ dứt mình thoát khỏi ngươi.</content>
 	<content contentuid="h2cb4a165g6513g40fegae6cgf4471face556" version="1">Tủ kéo hỏng</content>
@@ -17715,7 +17711,7 @@ FSR tăng tốc độ khung hình bằng cách sử dụng thuật toán 2 lần
 	<content contentuid="h2d4060a3g0aeeg43d2g9bb3g3d7751ce1799" version="1">Giáp Hiệp sĩ Phản thệ</content>
 	<content contentuid="h2d4276e5gece1g4529g9de2g08325448f4ab" version="2">Không, đừng chết. Đứng dậy đi, khốn kiếp!</content>
 	<content contentuid="h2d4281dag3779g4f25g99c8ge7a44ed219b1" version="1">&lt;i&gt;Thanh Gươm Trấn Biên Cương, anh hùng của Bờ Lưỡi Kiếm - và kẻ đã giết chết cha mình. Thật khó mà tin được.&lt;/i&gt;</content>
-	<content contentuid="h2d4298e3g10f0g454cgbcabgb43bb3e14cda" version="5">Zorru đã rời Mật động Lục bảo. Chúng ta sẽ phải tìm Tổ ấp Githyanki mà không cần đến cậu ta.</content>
+	<content contentuid="h2d4298e3g10f0g454cgbcabgb43bb3e14cda" version="5">Zorru đã rời Mật động Lục bảo. Chúng ta sẽ phải tìm Tổ Thành Githyanki mà không cần đến cậu ta.</content>
 	<content contentuid="h2d431f82g4984g4294ga8edg944f01925773" version="1">Nếu trượt:</content>
 	<content contentuid="h2d44b5ceg954ag4bd1g9eacg495574bf68a7" version="3">Tên Djinni khốn kiếp. Mình đang ở &lt;i&gt;đâu &lt;/i&gt;đây?</content>
 	<content contentuid="h2d453ea4g9771g4e55ga37dgbbb38c275238" version="1">Đáng yêu ghê. Nhưng tiện thể anh ở đây, thì thử giúp tôi ngắm thêm cái này nữa đi?</content>
@@ -18036,7 +18032,7 @@ FSR tăng tốc độ khung hình bằng cách sử dụng thuật toán 2 lần
 	<content contentuid="h2e2399cdg9400g4ca8g8701g1ef7ce46c85e" version="2">&lt;i&gt;Rời đi.&lt;/i&gt;</content>
 	<content contentuid="h2e23df93gae2eg4192g8149g043d9b03f89f" version="1">Không. Để cho ngươi sống là hành động đớn hèn nhất. Quả thực, ngươi đã gieo rắc nhiều cái chết, nhưng giờ kẻ gặt trái sẽ là ta.</content>
 	<content contentuid="h2e23f105gec0dg4ef9ga64fgace60317d298" version="3">Vòng cổ dính máu? Thì ra đây là kết cục cho những con thú nuôi mất tích.&lt;br&gt;</content>
-	<content contentuid="h2e24e0f9g5d1bg44a9g8fb2g4381255f215a" version="1">Tìm lối vào Tổ ấp Githyanki.</content>
+	<content contentuid="h2e24e0f9g5d1bg44a9g8fb2g4381255f215a" version="1">Tìm lối vào Tổ Thành Githyanki.</content>
 	<content contentuid="h2e256825g2712g408bgad21gdc935f6f5c9f" version="2">Để rửa vết thương?</content>
 	<content contentuid="h2e25de93gd7b4g4d0fgafc7g0b324df709a2" version="4">Nó lấp đầy tâm trí ta bằng những cảnh tượng ta nhung nhớ. Ta không ghi nhớ được, nhưng ta vẫn luôn nhung nhớ.</content>
 	<content contentuid="h2e26556bg79ffg4660g8e6agf0768fe123cb" version="1">Chúng tôi đã phát hiện thấy Goblin ở trong rừng - chuyện gì đã xảy ra ở trại của chúng vậy?</content>
@@ -19728,7 +19724,7 @@ Kass
 	<content contentuid="h32718d6fgd351g4be7g9920gdb538053bc2b" version="2">Không biết anh đang làm gì, nhưng có tác dụng thấy rõ đấy! Giờ chỉ cần kéo nốt chặng cuối là xong!</content>
 	<content contentuid="h3271af69g29cfg4c8fg8b68g416ba214690d" version="1">Đây chính là giáo điều. Ta sẽ không vứt bỏ mười nghìn điều lệ chỉ vì một bí mật của người lãnh tụ.</content>
 	<content contentuid="h327244a1g1e6dg4206gb62fg65030c0a5cdc" version="2">Có thể ra một đòn cận chiến bằng Hành động bồi.</content>
-	<content contentuid="h32728824g62b8g4887g8067gceac0a5a5f2a" version="1">Báo với Lae'zel rằng chúng ta ta đã tìm được Tổ ấp Githyanki.</content>
+	<content contentuid="h32728824g62b8g4887g8067gceac0a5a5f2a" version="1">Báo với Lae'zel rằng chúng ta ta đã tìm được Tổ Thành Githyanki.</content>
 	<content contentuid="h32735cc9g2e75g4472gb38bgea936592caa6" version="1">Phước lành của Dryad</content>
 	<content contentuid="h327382e1g619ag4affga8a3g6a776a602474" version="1">Tóc của Dì Ethel</content>
 	<content contentuid="h3273bc63g12f6g44bdgaf59g6a0b4a33f4c9" version="1">Hắn là của anh. Đừng quên cho hắn ăn đấy - không là hắn càu nhàu ghê lắm.</content>
@@ -20515,7 +20511,7 @@ Kass
 	<content contentuid="h347e1397gc19eg41bfga6bcg4cb16977eaee" version="1">&lt;i&gt;Rời đi.&lt;/i&gt;</content>
 	<content contentuid="h347e89e7g53a5g48acg9b43gd4e3dbfc232b" version="1">Thật tuyệt vời khi được về lại trại! Tôi nhớ mùi ở đây quá.</content>
 	<content contentuid="h347ec55ag4882g4ff2g964fg950e76a17b2f" version="2">Vũ khí Tâm linh: Kích</content>
-	<content contentuid="h347f8522g050dg41ecgb5d1gb74543186ca1" version="1">Lần đầu tiên tôi được đến thăm một Tổ ấp Githyanki. Dĩ nhiên là rất đáng nhớ, nhưng cư dân ở đây thì lại không mấy thân thiện.</content>
+	<content contentuid="h347f8522g050dg41ecgb5d1gb74543186ca1" version="1">Lần đầu tiên tôi được đến thăm một Tổ Thành Githyanki. Dĩ nhiên là rất đáng nhớ, nhưng cư dân ở đây thì lại không mấy thân thiện.</content>
 	<content contentuid="h347fcc6cg4db7g4016g8194g16109446d1d1" version="1">Lỗ thông khí</content>
 	<content contentuid="h347fd21cgcaddg4849gb02bg938e208c69eb" version="1">&lt;i&gt;Tấn công.&lt;/i&gt;</content>
 	<content contentuid="h34806c2egd196g4cfdg8d45g8944c3604c87" version="2">Khoan! Trước khi ngươi đi, ta có một lời đề nghị khác.</content>
@@ -22373,7 +22369,7 @@ Hôm nay là ngày giải phẫu sống. Sinh vật không thể hiện dấu hi
 	<content contentuid="h392ca1c2g2438g40c6ga3e6ge2b15b83f947" version="1">Túy Quyền Đạo</content>
 	<content contentuid="h392cb278g9171g4c5cgbcdag2114594bf687" version="1">Từ bé tôi đã nghe nhiều chuyện kể về Công tước Eltan rồi. Ông ấy là người như thế nào?</content>
 	<content contentuid="h392d8be4g40b5g4792ga54ege45035f40a93" version="2">Coi kìa! Một cục cứt biết đi! </content>
-	<content contentuid="h392e75fdg7ce8g4e2eg8f82g8b7270d6a8ec" version="5">Tìm Tổ ấp Githyanki ở đèo núi.</content>
+	<content contentuid="h392e75fdg7ce8g4e2eg8f82g8b7270d6a8ec" version="5">Tìm Tổ Thành Githyanki ở đèo núi.</content>
 	<content contentuid="h392ee25egf902g4e2fgbfbfg6f536e3c527a" version="1">Những gì ngươi tưởng ngươi biết về ta sẽ không còn quan trọng, khi ta đã đạt đến đúng tiềm năng.</content>
 	<content contentuid="h392eef12g97b6g47c8g858egd305c12f7dfd" version="1">Không thể Trị thương</content>
 	<content contentuid="h392f78cbgc79eg455aga540g22b021ba1628" version="1">Phần vành vung còn dính một lớp sữa khô.</content>
@@ -23211,7 +23207,7 @@ Yếu: Nhận gấp đôi sát thương Lửa.</content>
 	<content contentuid="h3b3bd0b4g6ee4g4a6bga14dgca5334e33aca" version="2">'Nebelun" á? "Gond" nghe đỡ hơn nhiều.</content>
 	<content contentuid="h3b3dd8fdg9961g404cg8969gf18e41dfa9e9" version="1">Tìm một Trinh sát Shar giáo.</content>
 	<content contentuid="h3b3e2b9fg779cg4bdegbce9gb2dfeae952b7" version="2">Có thể. Nhưng nếu thứ có thể giết sạch cả một nhóm tín đồ thần Shar vẫn còn lởn vởn quanh đây, thì chúng ta cũng nên thận trọng.</content>
-	<content contentuid="h3b3e4e6fga3d2g44f5g9722g13c78a97ebae" version="1">Tìm kiếm thiết bị thanh tẩy tại Tổ ấp Githyanki.</content>
+	<content contentuid="h3b3e4e6fga3d2g44f5g9722g13c78a97ebae" version="1">Tìm kiếm thiết bị thanh tẩy tại Tổ Thành Githyanki.</content>
 	<content contentuid="h3b401614gbd20g45b6g8409g8b4182f10dff" version="3">Chúng ta phải đi. &lt;i&gt;Ngay.&lt;/i&gt;</content>
 	<content contentuid="h3b4035c7gd72fg4e34g9e0dgf3984d0fa0db" version="1">Hoàn toàn.</content>
 	<content contentuid="h3b40f494g9a76g4ff7g9429g1ff8c3110dba" version="1">Anh đừng nên nán lại đây quá lâu. Đám Goblin này không bình thường đâu.</content>
@@ -24995,7 +24991,7 @@ Mỗi Xuất thân cho phép ngươi &lt;LSTag Tooltip="Proficiency"&gt;Thông t
 	<content contentuid="h3fb43446g247ag4696g994cga32c8c135274" version="3">'Cái-chết-đen" có vẻ không khả quan lắm nhỉ. Xem ra chúng ta khó mà đi tiếp được khi chưa giải thoát Nere và lấy được cây Đèn Nguyệt Quang đó.</content>
 	<content contentuid="h3fb4cdb6g3280g4b9bg94dbge058d75985ad" version="3">Ông ấy về rồi! Anh đưa Halsin về rồi!</content>
 	<content contentuid="h3fb5ee77g942bg44e1g913dge4f7782d78cb" version="1">Hô! Chúng ta sẽ làm không chỉ mỗi vậy đâu, bạn ta.</content>
-	<content contentuid="h3fb62a9age8a2g4945gb35fg252eab7da14d" version="1">Ta không tới để lấy gì hết. Ta đang muốn tìm một Tổ ấp Githyanki. Ngươi có thấy gì không?</content>
+	<content contentuid="h3fb62a9age8a2g4945gb35fg252eab7da14d" version="1">Ta không tới để lấy gì hết. Ta đang muốn tìm một Tổ Thành Githyanki. Ngươi có thấy gì không?</content>
 	<content contentuid="h3fb635f3gcf38g46a1ga356gb9aebb3e0bf7" version="2">Ai thế?</content>
 	<content contentuid="h3fb64203gbec8g4087gbd53gc1d8b2d78b37" version="2">Súp nấm</content>
 	<content contentuid="h3fb6ec5cgc64dg4963gbdb2g295fc439696e" version="2">Là một bất ngờ. Mà bất ngờ của Cazador không bao giờ đem lại niềm vui.</content>
@@ -25748,7 +25744,7 @@ Yếu: Nhận gấp đôi sát thương Chém.</content>
 	<content contentuid="h417f1d76gd1e0g4679g8967g51f122176830" version="1">Một chút cỏ và đất lẫn vào trong cục khoai tây nghiền tội nghiệp.</content>
 	<content contentuid="h417f4656g65e1g48fdgbc5agd4bb93f55f27" version="1">Rào chông gãy</content>
 	<content contentuid="h417fd82ag027eg4dddg91d6ge2b51b0e3d76" version="1">Thông cảm được.</content>
-	<content contentuid="h418015b8g5b25g4ac7gb5c9g7e8afd89a259" version="1">Lạy Balduran... Tổ ấp Githyanki không còn gì ngoài đống tro tàn. Cầu xin Tam Hộ Thần rủ lòng thương xót.</content>
+	<content contentuid="h418015b8g5b25g4ac7gb5c9g7e8afd89a259" version="1">Lạy Balduran... Tổ Thành Githyanki không còn gì ngoài đống tro tàn. Cầu xin Tam Hộ Thần rủ lòng thương xót.</content>
 	<content contentuid="h41809045g0cbdg4808g975bgf58aacb763d3" version="1">&lt;i&gt;Nó chẳng là gì cả. Cố gắng quên nó đi.&lt;/i&gt;</content>
 	<content contentuid="h4181a1dag0965g498fga0abgcab104c23b36" version="1">Nghe thấy không? Trái tim làm từ động cơ hỏa ngục. Khiến tôi cháy bỏng như lửa Địa ngục. Thứ này cứ cháy liên hồi kể từ khi tôi rời Avernus.</content>
 	<content contentuid="h4181d0c1gb943g40a9g9146gb6194c5e10b1" version="1">La làng</content>
@@ -30070,7 +30066,7 @@ Em sẽ đến chỗ mụ Ác bà. Em phải bù đắp cho Connor. Em biết an
 	<content contentuid="h4c9a3bb4g239ag42f4g87a9gb1bc8321ab63" version="1">Một phần của cây gậy có màu đỏ đục.</content>
 	<content contentuid="h4c9af3b0g3b98g4564gb836g51d030ffbb90" version="1">&lt;i&gt;Để cho đức tin dạt dào của ngươi dẫn lối - nếu thần linh quyết định cho ngươi vượt qua thử thách, thì ngươi ắt sẽ vượt qua.&lt;/i&gt;</content>
 	<content contentuid="h4c9b30aag0834g4538ga613gcfc771ca4194" version="1">&lt;i&gt;Gật.&lt;/i&gt;</content>
-	<content contentuid="h4c9b3fa5g124bg4439ga9a3g96fd8d98aa5a" version="1">Nói chuyện với Lae'zel về việc của cô ấy tại Tổ ấp Githyanki.</content>
+	<content contentuid="h4c9b3fa5g124bg4439ga9a3g96fd8d98aa5a" version="1">Nói chuyện với Lae'zel về việc của cô ấy tại Tổ Thành Githyanki.</content>
 	<content contentuid="h4c9cc8efgc9cdg4c03g838eg992679803159" version="2">Druid Hắc Ám? Kagha, cô mất trí rồi sao?!</content>
 	<content contentuid="h4c9d4dd3ge811g4255gbd84gb3113a41413c" version="2">*Thi thể im lặng. Nó đợi ngươi hỏi một câu hỏi.*</content>
 	<content contentuid="h4c9d6ab1g24d2g4cacg8bd6gc738a4076825" version="1">&lt;i&gt;Nghiên cứu hành vi của con vật.&lt;/i&gt;</content>
@@ -30273,7 +30269,7 @@ Em sẽ đến chỗ mụ Ác bà. Em phải bù đắp cho Connor. Em biết an
 	<content contentuid="h4d1b187cgbccag4f22g8fb7ga4f3045ec3e7" version="1">Sức mạnh Illithid</content>
 	<content contentuid="h4d1b3c35g818cg4424gb432g057c9a82609f" version="1">Không mau cút đi?</content>
 	<content contentuid="h4d1b7459g0898g4a36gbc5agff976b5c9266" version="2">Hy sinh Kết giới</content>
-	<content contentuid="h4d1b77bcgfa36g4af0gb8b2ga4575f8d83da" version="3">Tiếp tục tìm kiếm Tổ Ấp Githyanki cạnh đèo núi ở phía Tây Bắc.</content>
+	<content contentuid="h4d1b77bcgfa36g4af0gb8b2ga4575f8d83da" version="3">Tiếp tục tìm kiếm Tổ Thành Githyanki cạnh đèo núi ở phía Tây Bắc.</content>
 	<content contentuid="h4d1c3f3bgd885g4de2ga605gf25fbb614dba" version="2">Nói chuyện với Barcus.</content>
 	<content contentuid="h4d1e03e6g46d1g45c1g86f0g5e521f5aeef3" version="1">Tôi cần cô ấy tập trung vào việc trui rèn tay nghề - mật động sẽ cần một y sĩ tài năng khi tôi đi vắng. </content>
 	<content contentuid="h4d1e43a5g8a30g4c4cgbc68g541ad045b418" version="2">Cháu không thể tin được. Họ không thể...</content>
@@ -33022,7 +33018,7 @@ Thật hả? Thế thôi ấy hả? Thôi được rồi, nhưng cô ta mà ng�
 	<content contentuid="h545e60d1g08d7g4244g9ab9ge54634f0662d" version="1">Khổ sở: Bức bối</content>
 	<content contentuid="h5461053fgdb83g44e8gb609g9ec73cc2cbf4" version="2">Dù tiêu điều là vậy, những nơi thế này vẫn tồn tại lợi nhuận và cơ hội nếu như người ta chấp nhận xắn tay lội bùn.</content>
 	<content contentuid="h546175dag5a80g4c34gaa68ga089fab9ed8e" version="4">Ánh sáng bạc của Thánh nữ Cung trăng là tấm khiên trong đêm đen tối. Ngày hôm nay, nó sẽ lâm trận cùng tôi.</content>
-	<content contentuid="h54618751ge6c6g40efgb7cfg03773a8cc12a" version="1">Tổ ấp Githyanki</content>
+	<content contentuid="h54618751ge6c6g40efgb7cfg03773a8cc12a" version="1">Tổ Thành Githyanki</content>
 	<content contentuid="h546341a5ga5a0g4ddbgb927gdb49383b58c1" version="1">Sức mạnh Kiếm Ca</content>
 	<content contentuid="h546348c6g034cg4f77g9eb4gc3855c51f657" version="1">Cho! Tôi! Xuống! Khỏi! Đây!&lt;br&gt;</content>
 	<content contentuid="h546424c7g331cg411dg8121g95cf48a19e1f" version="1">Đồ chó cảnh của Nere, đồ &lt;i&gt;chó đẻ. &lt;/i&gt;</content>
@@ -33719,7 +33715,7 @@ Thật hả? Thế thôi ấy hả? Thôi được rồi, nhưng cô ta mà ng�
 	<content contentuid="h5644bb30g8831g4571g9701gac0f4fed4d52" version="1">&lt;i&gt;Quay vòng quay, chờ thời cơ để làm Akabi phân tâm.&lt;/i&gt;</content>
 	<content contentuid="h564581d9gae7cg4022ga3d2ga6b0d4536070" version="3">Chiến thuật được đấy.</content>
 	<content contentuid="h56458ef1gd4d8g4c18gaa6bg8c651211f18e" version="1">Quỷ thần ơi, không đáng chút nào. Tôi đi đây. </content>
-	<content contentuid="h5646680dg8d19g4e1egb56fga884b8267afc" version="1">Tôi đã kích hoạt một hệ thống cổ đại và phá hủy cả Tổ ấp Githyanki, cùng mọi hy vọng được cứu chữa. Bây giờ, tôi chỉ có thể tiếp tục hành trình.</content>
+	<content contentuid="h5646680dg8d19g4e1egb56fga884b8267afc" version="1">Tôi đã kích hoạt một hệ thống cổ đại và phá hủy cả Tổ Thành Githyanki, cùng mọi hy vọng được cứu chữa. Bây giờ, tôi chỉ có thể tiếp tục hành trình.</content>
 	<content contentuid="h56466c4fgeed1g4fffg9983g9bc37298b3f9" version="2">Một ngày đầy vinh quang. Đấng Tuyệt Đối sẽ rất vui lòng.</content>
 	<content contentuid="h5646b276g7c57g4abcg8a57g89f97efaa8aa" version="1">Cánh hoa lam Úa tàn</content>
 	<content contentuid="h56473476g538eg466dgbcccg26137104631b" version="1">Yếu</content>
@@ -36509,7 +36505,7 @@ Thật hả? Thế thôi ấy hả? Thôi được rồi, nhưng cô ta mà ng�
 	<content contentuid="h5d784c8cgc6ebg43dbg9c44g82dd50355198" version="1">Đường tắt... lên mặt đất...</content>
 	<content contentuid="h5d788adfg914bg437cg8d5fge25d5b461969" version="1">Chào cánh hoa xinh! Cần gì không? Thuốc bôi, thuốc uống?</content>
 	<content contentuid="h5d7b9619g66d9g4a0fg9ff6g647251b5fac6" version="1">&lt;i&gt;Rời đi.&lt;/i&gt;</content>
-	<content contentuid="h5d7c633bg935fg421dgb8c8g06a4d1e4e5eb" version="1">Người Githyanki tên là Kith'rak Voss tiết lộ rằng có một Tổ ấp Githyanki nằm ở sâu trong những dãy núi bên kia cây cầu về phía Tây. Chúng ta nên đến đó cùng Lae'zel. </content>
+	<content contentuid="h5d7c633bg935fg421dgb8c8g06a4d1e4e5eb" version="1">Người Githyanki tên là Kith'rak Voss tiết lộ rằng có một Tổ Thành Githyanki nằm ở sâu trong những dãy núi bên kia cây cầu về phía Tây. Chúng ta nên đến đó cùng Lae'zel. </content>
 	<content contentuid="h5d7d20aeg3dceg4eb8gacb6gcf5e72b14f76" version="1">Thấy chưa! Nó éc kìa!</content>
 	<content contentuid="h5d7d2460g2a79g4863g85dfg2121310fab8f" version="2">Lại bị đẩy lùi. Vòng ánh sáng ấy hẳn là một biện pháp phòng thủ của Shar.</content>
 	<content contentuid="h5d7f59e8g058fg498aga3e3gbc58e86b0d8e" version="3">Thế chỗ của Astarion đi - để anh ta về trại cũng được.</content>
@@ -36876,7 +36872,7 @@ Thật hả? Thế thôi ấy hả? Thôi được rồi, nhưng cô ta mà ng�
 	<content contentuid="h5e570333g7f0bg489ega29cg05bf71db9158" version="1">Thế thì chúng tôi cũng thật may mắn vì đã gặp được anh. </content>
 	<content contentuid="h5e57bb3bgf57eg4b05gab4bgf3abb7067b46" version="1">Có lẽ vậy. Chúng tôi không có nhiều, nhưng chúng tôi sẽ cố gắng gom góp những gì có thể.</content>
 	<content contentuid="h5e581e1eg0dd3g4f8dga5d0gd1cad7a43274" version="3">Astarion cuốn gói ra đi rồi. Xem ra hắn không chịu nổi chuyến hành trình nữa.</content>
-	<content contentuid="h5e5832fagd06eg4d47gbe8dg5553d5f2de39" version="1">Tìm một Tổ ấp Githyanki trong khu vực Bờ Lưỡi Kiếm.</content>
+	<content contentuid="h5e5832fagd06eg4d47gbe8dg5553d5f2de39" version="1">Tìm một Tổ Thành Githyanki trong khu vực Bờ Lưỡi Kiếm.</content>
 	<content contentuid="h5e587203g915cg486bga63dga537dce43053" version="1">Chúng ta sẽ hoàn thành Cấm thuật Ngàn gai, và các anh sẽ không được cự nự gì hết. Thực chất thì...</content>
 	<content contentuid="h5e58fc32g50cbg4b78g826cg2b20581619ca" version="1">Khoan đã - tôi nghĩ cô cũng sẽ muốn nghe cả tin xấu nữa.</content>
 	<content contentuid="h5e5a3206g8ef4g4948g94d8g4812f5831277" version="1">Quá nhiều suy nghĩ. Một căn bệnh trớ trêu thay. Sự trống rỗng mà anh hằng khao khát sẽ sớm trở về bên anh.</content>
@@ -39087,7 +39083,7 @@ Thật hả? Thế thôi ấy hả? Thôi được rồi, nhưng cô ta mà ng�
 	<content contentuid="h6417d1b0g50d5g4e91g9006g518e66d8f9a5" version="1">Tôi không thể nghĩ cho bản thân. Tôi còn phải ngăn chặn một cuộc chiến.</content>
 	<content contentuid="h64183fe1g5c29g45fag8eaega6bcbae1c54c" version="2">Đừng có đần thế. Con ký sinh ấy sẽ biến mình thành Mind Flayer nếu mình không tìm ra cách chữa mất.</content>
 	<content contentuid="h6419a0c6g251eg471egaee8gb864eeebf17c" version="3">Cút về Địa ngục theo thoả thuận đi! Ta đã thắng ngươi rồi, Raphael. Thanh toán sòng phẳng, thì ta sẽ giết ngươi nhanh chóng.</content>
-	<content contentuid="h641ae973gc87ag4ca8ga1e6gefcac8c7d942" version="1">Tìm Tổ ấp Githyanki ở đèo núi.</content>
+	<content contentuid="h641ae973gc87ag4ca8ga1e6gefcac8c7d942" version="1">Tìm Tổ Thành Githyanki ở đèo núi.</content>
 	<content contentuid="h641b1fdbg3d7cg45bdga60dg470468928cbb" version="1">Phải.</content>
 	<content contentuid="h641b6f17gcdfbg4440gb014g2733489da6aa" version="1">Êy! Anh hùng như ông chú đến cái xó này làm gì vậy? </content>
 	<content contentuid="h641b8301g0e16g41ccgb9e9g4e2439df0dec" version="1">Thay vào đó, các ngươi đã ban cho ta cơ hội mà ta vốn chờ đợi từ lâu.</content>
@@ -39169,7 +39165,7 @@ Thật hả? Thế thôi ấy hả? Thôi được rồi, nhưng cô ta mà ng�
 	<content contentuid="h645000cegf2afg407aga056gb1b3cd07ab9a" version="2">Không! Chạy!</content>
 	<content contentuid="h64518e36gad20g44f2gb8d6gbdf60064f295" version="2">Trường kiếm +1</content>
 	<content contentuid="h6451ef97g2535g42d5ga8b3gfb0697c7096e" version="2">Tôi sẽ để Alfira ở lại trại.</content>
-	<content contentuid="h645247cagfbc7g4bfagb960g9e1855084b64" version="5">Chiến binh Githyanki tên Lae'zel đã gia nhập đội. Cô ta hứa rằng chúng ta sẽ được thanh tẩy khỏi lũ ký sinh tại một Tổ ấp Githyanki. Một người Tiefling tên là Zorru đã trông thấy người Githyanki khác. Chúng ta nên tìm gặp và hỏi xem cậu ta biết gì.</content>
+	<content contentuid="h645247cagfbc7g4bfagb960g9e1855084b64" version="5">Chiến binh Githyanki tên Lae'zel đã gia nhập đội. Cô ta hứa rằng chúng ta sẽ được thanh tẩy khỏi lũ ký sinh tại một Tổ Thành Githyanki. Một người Tiefling tên là Zorru đã trông thấy người Githyanki khác. Chúng ta nên tìm gặp và hỏi xem cậu ta biết gì.</content>
 	<content contentuid="h64535b17g6458g4e16g811ag11f1c647ea84" version="1">Hắn ta đang nhắc đến Lời nguyền Bóng tối. Mặc kệ Nere và cây Đèn Nguyệt Quang - nếu đích đến đã ở gần như vậy rồi, chúng ta nên mạo hiểm đi tiếp.</content>
 	<content contentuid="h6454a3b6gec03g45acga500g773862cc420c" version="1">Sẽ sớm, được nghỉ. Nhưng chưa, thể nghỉ.</content>
 	<content contentuid="h64559a2dg3a3fg4c42ga944gf56ebf48dfc2" version="3">Xem ra anh ta không hợp làm lính Hỏa Quyền rồi.</content>
@@ -40007,7 +40003,7 @@ Có 6 Năng lực: &lt;LSTag Tooltip="Strength"&gt;Sức mạnh&lt;/LSTag&gt;, &
 	<content contentuid="h6663d0c4g6cbfg4bc4gb2c9gbf73f85683ba" version="2">THỬ NỮA ĐI ZARIEL! NHÀO VÀO ĐÂY!</content>
 	<content contentuid="h6664033bge8b7g48c8g8fc6g18986baa0bae" version="1">Giai điệu Thư giãn</content>
 	<content contentuid="h6664b9e8gcc22g4be5gb887g947ce777f781" version="1">Vùng đất này có lẽ sẽ không còn nằm dưới sự kiểm soát của Nữ thần Shar nữa rồi.</content>
-	<content contentuid="h6664f0dage3b3g4f03g9d3dg91c5c655c367" version="1">Chúng ta đã kích hoạt một thiết bị cổ và phá hủy Tổ ấp Githyanki khi chưa có cơ hội nói chuyện với ngài Phán quan. Chúng ta nên nói chuyện với Lae'zel để tìm ra hướng đi tiếp theo.</content>
+	<content contentuid="h6664f0dage3b3g4f03g9d3dg91c5c655c367" version="1">Chúng ta đã kích hoạt một thiết bị cổ và phá hủy Tổ Thành Githyanki khi chưa có cơ hội nói chuyện với ngài Phán quan. Chúng ta nên nói chuyện với Lae'zel để tìm ra hướng đi tiếp theo.</content>
 	<content contentuid="h66665949gc37cg4601g9e2cga5acc6f8e848" version="2">*Giọng cô ấy nhỏ dần. Ngươi nhận ra lời mời gọi trong ánh mắt cô.*</content>
 	<content contentuid="h66666332g2913g4a6dga54ege0fe75d293da" version="2">Đòn Suy yếu</content>
 	<content contentuid="h666713f6g052cg429fg939dg536b267e02bf" version="5">Nhớ đấy. Đứng gần ánh sáng, nếu không anh sẽ chết chắc.</content>
@@ -43072,7 +43068,7 @@ Có 6 Năng lực: &lt;LSTag Tooltip="Strength"&gt;Sức mạnh&lt;/LSTag&gt;, &
 	<content contentuid="h6e3051ceg90c1g4cfbg9ee5g0a04ac920b11" version="1">Phải. Ta cần thời gian để suy nghĩ.</content>
 	<content contentuid="h6e307dbfg0799g48f1g9a5egc2bfc6346574" version="2">Tôi mới thoáng thấy Ketheric và Z'rell. Nhưng mà gan không đủ to để chõ mũi vào như đằng ấy đâu.</content>
 	<content contentuid="h6e309566gb859g4c9dgb013gab31f4f883bd" version="1">Công việc của ngươi là gì?</content>
-	<content contentuid="h6e312d46g875ag4b71g807dgbad5611b20ed" version="1">Chúng ta tìm thấy những người Githyanki mà Zorru đã nhắc đến cạnh đèo núi. Chúng ta nên nói chuyện với họ - có thể họ sẽ biết Tổ ấp Githyanki - nơi chúng ta có thể loại bỏ được con ký sinh Illithid - đang ở đâu.</content>
+	<content contentuid="h6e312d46g875ag4b71g807dgbad5611b20ed" version="1">Chúng ta tìm thấy những người Githyanki mà Zorru đã nhắc đến cạnh đèo núi. Chúng ta nên nói chuyện với họ - có thể họ sẽ biết Tổ Thành Githyanki - nơi chúng ta có thể loại bỏ được con ký sinh Illithid - đang ở đâu.</content>
 	<content contentuid="h6e319b43g7573g4003ga045g4503855256c8" version="3">Nhện và Worg chẳng là gì hết. Ta có thể tự lo.</content>
 	<content contentuid="h6e319c32ge02ag4658g89cag4629e3b5e06d" version="1">Có vẻ chúng ta không có manh mối gì để đánh thức anh ta.</content>
 	<content contentuid="h6e3264cag1870g459eg9ca0gba42635b4fc4" version="1">Nút bấm</content>
@@ -48084,7 +48080,7 @@ Yếu: Nhận gấp đôi sát thương Đập.</content>
 	<content contentuid="h7ac8d764g4eccg4083gab30g9a99bf4c808a" version="2">Còn ai sống sót không?</content>
 	<content contentuid="h7aca668fg2e87g43fdg8d56gd20909d4bd64" version="1">Đọc</content>
 	<content contentuid="h7acc4e96g911cg4261g9f07g94bd01aa0b83" version="1">Thật cao thượng. Còn ta thì thích được &lt;i&gt;thắng&lt;/i&gt;.</content>
-	<content contentuid="h7acd7b57gd5b8g4ec2ga261g1b99d4508882" version="2">Chúng ta đã nói chuyện với Lae'zel. Cô ấy nhất trí rằng có lẽ đến Tổ ấp Githyanki không phải là cách hữu hiệu nhất, và vẫn sẽ đi cùng chúng ta nếu chúng ta không hành trình tới đó.</content>
+	<content contentuid="h7acd7b57gd5b8g4ec2ga261g1b99d4508882" version="2">Chúng ta đã nói chuyện với Lae'zel. Cô ấy nhất trí rằng có lẽ đến Tổ Thành Githyanki không phải là cách hữu hiệu nhất, và vẫn sẽ đi cùng chúng ta nếu chúng ta không hành trình tới đó.</content>
 	<content contentuid="h7ace3ff8g42e9g4f51ga429gf396be1ba807" version="1">Không lâu nữa đâu. Một chuyến nữa thôi, lá chúng ta có thể &lt;i&gt;thật sự &lt;/i&gt;nghỉ rồi.</content>
 	<content contentuid="h7aceb27egb825g4958ga068gbf8565d52b05" version="1">Tôi còn bao nhiêu lâu?</content>
 	<content contentuid="h7ad07694g0c65g46c4ga0dbg972d1afecf4d" version="2">Bủa vây</content>
@@ -52578,7 +52574,7 @@ Nếu bạn được hồi lại điểm máu, trạng thái này sẽ được 
 	<content contentuid="h863d24eagbb66g476cgbdb5gc507e558d912" version="1">Mặc dù rất nhạt nhẽo và vô vị, nhưng nấm mũ nồi xanh là thứ thực vật ăn được đảm bảo an toàn nhất xứ Underdark.</content>
 	<content contentuid="h863d5192g11d8g488fgaa3fg8abc09085fec" version="1">Ta đã cảnh báo là đừng đến đây rồi. </content>
 	<content contentuid="h863e0f67gc2b2g4435gb7f8g694f2f64061d" version="3">Chúng ta không tìm thấy nhà tù ở Moonrise.</content>
-	<content contentuid="h863e2de2g6bddg4c25ga82cg910de2eab6ee" version="1">Những người lính canh ở cửa vào Tổ ấp Githyanki có nhắc đến một "Chỉ huy". Chúng ta nên nói chuyện với họ để biết họ đang làm gì.</content>
+	<content contentuid="h863e2de2g6bddg4c25ga82cg910de2eab6ee" version="1">Những người lính canh ở cửa vào Tổ Thành Githyanki có nhắc đến một "Chỉ huy". Chúng ta nên nói chuyện với họ để biết họ đang làm gì.</content>
 	<content contentuid="h863e40b7g5095g4adagb15agb10929a7a773" version="1">Muốn uống một hớp một mình thôi cũng không được.</content>
 	<content contentuid="h863e53dag37f8g45ccga0c9g3e2306020835" version="1">Một ả &lt;i&gt;Cambion&lt;/i&gt;. Đấng Tuyệt Đối thực sự dám thả lưới xa bờ.</content>
 	<content contentuid="h863ea8d5g8237g40d8g9d06g5dbbc1b2576d" version="1">Những Bậc thầy Thuần thú gắn kết bản thân với một con thú đồng hành, chia sẻ với chúng một sự kết nối kể cả trong và ngoài giao tranh.</content>
@@ -53835,7 +53831,7 @@ Bạn cũng có thể chọn Nghỉ Qua đêm khi ở trại.</content>
 	<content contentuid="h895fc266gc5dag449dgb4cdg9e9605e50712" version="1">Tôi sẽ làm. Xin đừng làm hại Gale.</content>
 	<content contentuid="h8961b40bg4450g4c85g85b8gcb44fada4456" version="1">Kiệt sức</content>
 	<content contentuid="h89620321g0e75g4869gb99bgf50cf277ba91" version="1">*** chọn đúng rồi. Hai ta đi với nhau kiểu gì cũng vui lắm cho mà xem.</content>
-	<content contentuid="h89624408ga2e7g4aa2g82aag88dbb57845e2" version="1">Thôi thì không phải ai cũng dám huênh hoang rằng mình đã đến được một Tổ ấp Githyanki mà vẫn còn giữ được mạng. Nếu như anh muốn lạc quan, thì cứ nghĩ rằng đó là điềm tốt cho chúng ta từ nay về sau.</content>
+	<content contentuid="h89624408ga2e7g4aa2g82aag88dbb57845e2" version="1">Thôi thì không phải ai cũng dám huênh hoang rằng mình đã đến được một Tổ Thành Githyanki mà vẫn còn giữ được mạng. Nếu như anh muốn lạc quan, thì cứ nghĩ rằng đó là điềm tốt cho chúng ta từ nay về sau.</content>
 	<content contentuid="h8962724ag0408g40c3g957ag8e8cd3c7afe8" version="3">Kết liễu chúng đi!</content>
 	<content contentuid="h8962b296g50a9g4536gb5e6gdc8122f66c16" version="1">Bạn có chắc chắn muốn rời khỏi Tinh Vân Giới không?</content>
 	<content contentuid="h8962c4d1gcd5cg479egacc4gab4da69a3c47" version="1">Trung sĩ bảo thế.</content>
@@ -54024,7 +54020,7 @@ Bạn cũng có thể chọn Nghỉ Qua đêm khi ở trại.</content>
 	<content contentuid="h89cd0ab8g15fdg4138gbec2g47de1baff451" version="2">Nơi này vẫn còn thứ gì đó khác. Chắc chắn là vậy. Hiện diện của thần Shar đang ở rất gần...</content>
 	<content contentuid="h89cd2091g1801g455cg8744g599649b7c8e2" version="1">Nhất là giờ đây cô ta đã được đoàn tụ với người thương.</content>
 	<content contentuid="h89ce9b4eg047dg45aag806cge1ddfb06495a" version="2">Ác mộng Nhãn tiền</content>
-	<content contentuid="h89d039dagefe7g462fg9708g2555d0a6ce02" version="1">Không còn thời gian tìm cách chữa ở Tổ ấp Githyanki nữa. Chúng ta phải đi tiếp.</content>
+	<content contentuid="h89d039dagefe7g462fg9708g2555d0a6ce02" version="1">Không còn thời gian tìm cách chữa ở Tổ Thành Githyanki nữa. Chúng ta phải đi tiếp.</content>
 	<content contentuid="h89d05988ge162g4e3cgb39ag95d3c4a3c1a5" version="2">Đất ở đây đã bị bới lên. Có vẻ bị thú gặm nhấm dùng làm tổ.</content>
 	<content contentuid="h89d08f02g15e6g4f8ag840agd741a84d648c" version="1">Có lẽ ngươi nên để việc suy nghĩ cho ta, &lt;i&gt;istik&lt;/i&gt;. Giao món vũ khí ra ngay.</content>
 	<content contentuid="h89d0c558g6c23g4c6dg954cg434a83fadfd1" version="3">Cal có nói gì không? Trước khi nó... chết?</content>
@@ -56237,7 +56233,7 @@ Kagha</content>
 	<content contentuid="h8f51625fg66d5g4a7fgaccdg157b5b683cc3" version="1">VChúng ta sẽ tìm cách sửa chữa cho Karlach, đúng không? Luôn sẽ có cách khác. &lt;i&gt;Buộc&lt;/i&gt; phải có cách khác.</content>
 	<content contentuid="h8f5180cfg29b3g4ee2gbf60g8d866abe3e22" version="1">Găng binh Starrlet</content>
 	<content contentuid="h8f5184e9g5169g40aega13eg254508b81ed3" version="1">Vong hồn</content>
-	<content contentuid="h8f52a94bgff5bg4fc7g8157gd38f7530032f" version="2">Một tấm bản đồ. Có một Tổ ấp Githyanki nằm bên trong ngôi đền cổ tại đèo núi.</content>
+	<content contentuid="h8f52a94bgff5bg4fc7g8157gd38f7530032f" version="2">Một tấm bản đồ. Có một Tổ Thành Githyanki nằm bên trong ngôi đền cổ tại đèo núi.</content>
 	<content contentuid="h8f52ad52g09ccg416ag9de0gc4e6d4bbdc28" version="1">Bão hoà</content>
 	<content contentuid="h8f5481afg328eg43cfg9d17g5637bb92673e" version="1">Cảm ơn anh - vì đã bảo vệ họ. Bảo vệ &lt;i&gt;chúng tôi&lt;/i&gt;. </content>
 	<content contentuid="h8f54dd76gd5c3g472cg9c65gb40b155d2dfd" version="4">Chiến binh Ith'dul</content>
@@ -57302,7 +57298,7 @@ Yếu: Nhận gấp đôi sát thương Sét.</content>
 	<content contentuid="h91f72dcdg96a6g469agbb60gbfbef6d58c16" version="1">Một món cổ vật? Nó dùng để làm gì?</content>
 	<content contentuid="h91f73de6g3b07g4893gbe26g6595a167cdb4" version="3">*Ngươi giao lại "chiến lợi phẩm" mà ngươi thó được. Không ai thiệt gì.*</content>
 	<content contentuid="h91f90604g9843g430fgb698g549f48eefd46" version="5">Cảm ơn, Chân Linh. Kính tên Người!</content>
-	<content contentuid="h91f98819g9a4cg4db0gaddbg4b247923f6e5" version="2">Tổ ấp Githyanki</content>
+	<content contentuid="h91f98819g9a4cg4db0gaddbg4b247923f6e5" version="2">Tổ Thành Githyanki</content>
 	<content contentuid="h91f9d0a3g6dcdg4da3gae02g4aabc9a5b3e7" version="2">Đây hẳn là các Chánh quan Hắc ám. Xác của họ thì đúng hơn.</content>
 	<content contentuid="h91fa438fgc7bbg4d05ga49cgbadea4d08502" version="3">Vết cháy? Đi cẩn thận, đi cảnh giác, đi nhẹ nhàng, vân vân.</content>
 	<content contentuid="h91fa5d16gbd1dg464cg82cfg36e986f84f2e" version="1">Phép thuật Nhập môn: Warlock</content>
@@ -57492,7 +57488,7 @@ Yếu: Nhận gấp đôi sát thương Sét.</content>
 	<content contentuid="h9281beafg4444g455dga148gd3b630af63f8" version="2">*Ọ!*</content>
 	<content contentuid="h9281d372ge5c8g4bdcgb58agbc0426c56ea0" version="2">Để rồi xem tôi có phán xét hay không. Nói tôi biết thêm đi về việc cô thờ Shar đi.</content>
 	<content contentuid="h92823ed0g493dg42f2g98e4g81d92f1bd03d" version="4">Hồi xưa ta thích những chuyện như vậy lắm - nhất là thoại về Kith'rak Voss.</content>
-	<content contentuid="h92827e33gb1e0g43a6gbf5fg0227fcefc170" version="1">Tìm một Tổ ấp Githyanki trong khu vực Bờ Lưỡi Kiếm.</content>
+	<content contentuid="h92827e33gb1e0g43a6gbf5fg0227fcefc170" version="1">Tìm một Tổ Thành Githyanki trong khu vực Bờ Lưỡi Kiếm.</content>
 	<content contentuid="h92878e60gea9ag4046gafbeg1b7d3aaecd73" version="2">Đây là chuyện thừa thãi. Tôi đã tuyên thệ sẽ bảo vệ kẻ yếu và bảo vệ công lý - tôi không đe dọa đến bà.</content>
 	<content contentuid="h9287a19bgf972g4763gacc5gf7cf93127535" version="1">Giờ thì ta phải ngơi nghỉ, còn anh phải tiếp bước. Đừng để nỗ lực của ta thành vô ích.</content>
 	<content contentuid="h9287d284g732fg4f2cga1b2gfe6d609a26ed" version="3">Silvanus đã dạy cho chúng tôi một bài học bằng cách để một kẻ bên ngoài đến cứu chúng tôi.</content>
@@ -57822,7 +57818,7 @@ Yếu: Nhận gấp đôi sát thương Sét.</content>
 	<content contentuid="h93710c96g549bg404ag9310g4bc78420a1a1" version="1">Bây giờ hả? Đang chờ lão chồng ngu dốt của tôi quay về. Nếu cậu chưa trông thấy lão, thì chúng ta chẳng có gì mấy để nói với nhau.</content>
 	<content contentuid="h9371e308gf721g4ee6g880dg26647f68cfae" version="4">*Những sơi xúc tu phập phồng chờ đợi bên trong bức tường.*</content>
 	<content contentuid="h93729ee2g99c5g4893gb4eeg5d69c89331dd" version="3">Lại thêm thông tin về lò rèn. Nhưng tờ ghi chú kia có nhắc đến một người hộ vệ...&lt;br&gt;</content>
-	<content contentuid="h9373fd30g3c5eg4e86g821cg794009d3f806" version="1">Zorru đã chết. Chúng ta sẽ phải tìm đầu mối khác khác đẫn đến Tổ ấp Githyanki.</content>
+	<content contentuid="h9373fd30g3c5eg4e86g821cg794009d3f806" version="1">Zorru đã chết. Chúng ta sẽ phải tìm đầu mối khác khác đẫn đến Tổ Thành Githyanki.</content>
 	<content contentuid="h9374e956gc65fg4081gae33g2f369f33b998" version="6">Vừa đánh xong một trận mà đã nóng máu đòi hiệp hai rồi à? &lt;i&gt;Bình tĩnh đi.&lt;/i&gt;</content>
 	<content contentuid="h9376fd3fg8571g4e3egb0b1gf333d2640866" version="2">Khi ánh sáng chiếu lên, chiếc nhẫn này sáng đỏ như màu một ngọn lửa âm ỉ.</content>
 	<content contentuid="h9377178bge1acg4dcdgbf2fg18e34984768f" version="1">Tao sẽ đích thân báo với đại ca! Giết nó!</content>
@@ -62877,7 +62873,7 @@ Yếu: Nhận gấp đôi sát thương Sét.</content>
 	<content contentuid="ha03f7f8eg5e65g49d1g8cc8ga39c7d045618" version="5">Về sức mạnh của con nòng nọc...</content>
 	<content contentuid="ha03fa2bcg818ag414aga645gc941debb2275" version="3">Chồng của Mayrina đã chết dưới tay chúng ta.</content>
 	<content contentuid="ha0401f8fg2ec4g4f02gaf71g6f9c78f2acb6" version="2">&lt;i&gt;Thủ thỉ với bầy nhện để chúng bình tĩnh lại.&lt;/i&gt;</content>
-	<content contentuid="ha0406e0fg178dg410ega94ag11b01754e54e" version="2">Chúng ta đã nói chuyện với Lae'zel. Cô ấy nhất trí rằng có lẽ quay về Tổ ấp Githyanki không phải là cách hữu hiệu nhất, và vẫn sẽ đi cùng chúng ta nếu chúng ta tránh việc tới đó.</content>
+	<content contentuid="ha0406e0fg178dg410ega94ag11b01754e54e" version="2">Chúng ta đã nói chuyện với Lae'zel. Cô ấy nhất trí rằng có lẽ quay về Tổ Thành Githyanki không phải là cách hữu hiệu nhất, và vẫn sẽ đi cùng chúng ta nếu chúng ta tránh việc tới đó.</content>
 	<content contentuid="ha0420e31ga5e6g4443g810cge1f5e8d50fe0" version="3">Oskar đã chết.</content>
 	<content contentuid="ha04314edgfe4dg4978g872bg68fb1a7ae044" version="1">Đèn Nguyệt Quang đã vỡ</content>
 	<content contentuid="ha043fef8g1fe3g4ebaga4f1g4e5d03cc5b20" version="1">Chúng vẫn đang tí tách trong người tôi đây này.</content>
@@ -62995,7 +62991,7 @@ Yếu: Nhận gấp đôi sát thương Sét.</content>
 	<content contentuid="ha0890517g18a6g4733gb437g42b9b7c7faa4" version="2">Tự Cải trang: Dwarf Nam</content>
 	<content contentuid="ha0895941g8363g4422ga167gf88d011f7b0e" version="4">Vấn đề là, Baldur's Gate đang mắc bệnh. Nó là tàn dư của một đỉnh cao tối thượng, giờ đây đang gặm nhấm chính mình để thoả cơn đói khát.</content>
 	<content contentuid="ha08a5168g6c7cg439bgbbc8ga2bbcdf5d824" version="1">Ăn nói cẩn thận, trước khi quá muộn.</content>
-	<content contentuid="ha08abf59gd58fg459cgb775g557c46905065" version="4">Bản đồ đã chỉ rõ - chúng ta sẽ sớm đến được Tổ ấp Githyanki. Nó nằm trong một đền thờ cổ tại đèo núi.&lt;br&gt;</content>
+	<content contentuid="ha08abf59gd58fg459cgb775g557c46905065" version="4">Bản đồ đã chỉ rõ - chúng ta sẽ sớm đến được Tổ Thành Githyanki. Nó nằm trong một đền thờ cổ tại đèo núi.&lt;br&gt;</content>
 	<content contentuid="ha08bcd8fgb5cfg461fg9ed3g44d965c2e0bd" version="1">Tôi giết thuộc hạ của ông mà ông không tức giận à?</content>
 	<content contentuid="ha08da6f8gd153g4170gaaf4g25a0b97f6af1" version="1">Anh đang trêu tôi đúng không? Tôi chắc chắn.</content>
 	<content contentuid="ha08de0e1g4897g4c4cg846cg945ca3508edb" version="1">Nightsong có vẻ như là nguồn gốc cho sự bất hoại của Ketheric.</content>
@@ -64743,7 +64739,7 @@ Chessa
 	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_8388608" version="1">Giáp cỡ trung</content>
 	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_8589934592" version="1">Vũ khí thô sơ </content>
 	<content contentuid="ha4c647b7g177bg4a1dg9eadg847ef486b46a" version="2">[Biên lai mới ký nhận, đã thanh toán đủ phí cho một bức chân dung thần Bane, đi kèm với một ghi chú nhỏ bằng nét chữ thẳng thắn của Gortash: "Giờ ngài đã bất tử gấp đôi".]</content>
-	<content contentuid="ha4c67204g2d1bg4896gb875g13ec7d049488" version="2">*Một tấm bản đồ huyền bí phát sáng trước mắt Lae'zel, để lộ một tổ ấp Githyanki nằm trong một ngôi đền ở đèo núi.*</content>
+	<content contentuid="ha4c67204g2d1bg4896gb875g13ec7d049488" version="2">*Một tấm bản đồ huyền bí phát sáng trước mắt Lae'zel, để lộ một Tổ Thành Githyanki nằm trong một ngôi đền ở đèo núi.*</content>
 	<content contentuid="ha4c7b39fg38c5g4210gb4e0g278d5362b28e" version="1">Gây sát thương Lửa và Sấm cho các đồ vật xung quanh và đẩy chúng ra xa.</content>
 	<content contentuid="ha4c7d36fg7c01g4986gb269gb4ec07310f59" version="3">Ha, thảo nào mà tôi tìm thấy một tấm sắt hỏa ngục. Có lẽ anh sẽ dùng đến nó đấy.</content>
 	<content contentuid="ha4ca9fdcgb807g4ba8gae9dg60745a1f2f49" version="2">((*ta sẽ rải ngươi về với mọi ngõ ngách tăm tối, Spaw. xác của ngươi sẽ không bao giờ quy tụ được về &lt;b&gt;quê nhà&lt;/b&gt;*))</content>
@@ -64945,7 +64941,7 @@ Chessa
 	<content contentuid="ha56fa8f2g119bg49adga4ffgb93b68af1203" version="1">Trên đường đi Baldur's Gate, cạnh đ-đèo núi.</content>
 	<content contentuid="ha570bd22gad9dg47cdgacd1gbbcdef52eec9" version="1">Những dòng ma thuật Khung Cửi quanh những vòng ấn cổ tự này thật là hấp dẫn. Quá nhiều thứ để khám phá!</content>
 	<content contentuid="ha570f604gb06cg45bbg8974g2ceffcb3dc6c" version="2">*Người Elf nhắc đến một cuộc truy lùng món vũ khí tối thượng, cùng phần thưởng hậu hĩnh cho kẻ tìm ra nó. Ánh mắt tên Hobgoblin ánh lên đầy vẻ thèm khát.*</content>
-	<content contentuid="ha5715a07g2b99g4bbcg822eg14343ea55773" version="1">Đánh bại vị phán quan ở Tổ ấp Githyanki.</content>
+	<content contentuid="ha5715a07g2b99g4bbcg822eg14343ea55773" version="1">Đánh bại vị phán quan ở Tổ Thành Githyanki.</content>
 	<content contentuid="ha572aa5agc662g4a45ga378g9de3b27ada6f" version="5">Lên thuyền đi, không chúng tôi sẽ bỏ lại đấy!</content>
 	<content contentuid="ha572c0eege826g4e6agb381gf2da6b36af0b" version="2">Tôi cứu người của bà để bị "cảm ơn" như thế này à?</content>
 	<content contentuid="ha572ec40ga433g4653g97f6g001915edf9bb" version="1">Tức tối: Bực mình</content>
@@ -68582,7 +68578,7 @@ DLSS tăng tốc độ khung hình bằng cách sử dụng học sâu để nâ
 	<content contentuid="haed2955dg468bg4e76g9050ga30fd97d9e66" version="2">&lt;i&gt;Đừng hòng&lt;/i&gt; làm ta mất mặt thêm nữa!</content>
 	<content contentuid="haed29937g7f1fg4880g8265g5f4b3c6a255d" version="2">Tìm kiếm manh mối để xác định vị trí của Thaniel.</content>
 	<content contentuid="haed323bbg18fdg42f7gabf5gcae4c1bbdcf2" version="2">Một canh bạc táo bạo. Sao cô biết điều ấy là khả thi?</content>
-	<content contentuid="haed454bagffa1g49d5g9aa7gda5c555bd111" version="1">Ta dự định sẽ đến một Tổ ấp Githyanki để loại bỏ lũ ký sinh. Nhưng thay vào đó, chúng ta giờ lại lang thang trên một vùng đất bị màn đêm vây hãm.</content>
+	<content contentuid="haed454bagffa1g49d5g9aa7gda5c555bd111" version="1">Ta dự định sẽ đến một Tổ Thành Githyanki để loại bỏ lũ ký sinh. Nhưng thay vào đó, chúng ta giờ lại lang thang trên một vùng đất bị màn đêm vây hãm.</content>
 	<content contentuid="haed8dcdegbf2dg4f23g869bg529339b7d9b6" version="3">Ông rơi vào tình cảnh "tiến thoái lưỡng nan" rồi nhỉ.</content>
 	<content contentuid="haeda08c2g4535g4fd6g8749g7d97147c9d12" version="2">Không cần. Tôi tin anh, Gale.</content>
 	<content contentuid="haeda1badg52feg4fb9g9f1cg2755096ec40a" version="1">Được. Cảm ơn.</content>
@@ -69081,7 +69077,7 @@ DLSS tăng tốc độ khung hình bằng cách sử dụng học sâu để nâ
 	<content contentuid="hb02cf753g0afcg454ag9062g53471b2e3228" version="1">Anh thực sự mù mờ trước những gì đang đặt trên cán cân sao?</content>
 	<content contentuid="hb02ee372ga5eag4cb9g98eegdf84c040f8f1" version="1">Bị điều khiển</content>
 	<content contentuid="hb02ee4a1g66f3g4f18gb544g7b2348c3bd2d" version="1">Vậy thì hẹn gặp sau.</content>
-	<content contentuid="hb02f0be4g3017g4376gb329g5f388f3a8816" version="1">Chiến binh Githyanki tên Lae'zel đã gia nhập đội. Cô ta hứa rằng chúng ta sẽ được thanh tẩy khỏi lũ ký sinh tại một Tổ ấp Githyanki. Cô ta cho rằng chúng ta có thể sẽ tìm được manh mối dẫn đến đó trên người một trong những chiến binh chúng ta đã đánh bại.</content>
+	<content contentuid="hb02f0be4g3017g4376gb329g5f388f3a8816" version="1">Chiến binh Githyanki tên Lae'zel đã gia nhập đội. Cô ta hứa rằng chúng ta sẽ được thanh tẩy khỏi lũ ký sinh tại một Tổ Thành Githyanki. Cô ta cho rằng chúng ta có thể sẽ tìm được manh mối dẫn đến đó trên người một trong những chiến binh chúng ta đã đánh bại.</content>
 	<content contentuid="hb02f3bcag8294g48faga185gb80dc875e739" version="1">Sách Phép</content>
 	<content contentuid="hb02fbbb4ge947g47b5gb22eg0aafc2c0b90c" version="3">Vô hiệu hoá Trụ pháo Phép thuật bằng Hoa Sussur.</content>
 	<content contentuid="hb03044e3ged5bg45cbga028gd1a2b74a2fa8" version="3">Bị ép chứa một con nòng nọc trong đầu đã đủ tệ rồi. Thật không thể tin nổi anh lại thực sự tự nuốt &lt;i&gt;thêm &lt;/i&gt;một con nữa vào người...</content>
@@ -69803,7 +69799,7 @@ DLSS tăng tốc độ khung hình bằng cách sử dụng học sâu để nâ
 	<content contentuid="hb219cd36gbaaag4446g83c4g98168331eb7b" version="1">Những thành phố của chúng sẽ bị đốt trụi.</content>
 	<content contentuid="hb219f3f4ge158g4182gbb85g753d6200fb2c" version="1">Anh thừa biết cái nào mới là đúng.</content>
 	<content contentuid="hb219fadbg9420g4301gb16dg51f5dbbbfbcb" version="1">Nhưng giả sử nếu tôi biến đổi... anh sẽ làm gì?</content>
-	<content contentuid="hb21a4cf7g40d7g4616g8a7agd38217d79bc5" version="1">Tìm Tổ ấp Githyanki.</content>
+	<content contentuid="hb21a4cf7g40d7g4616g8a7agd38217d79bc5" version="1">Tìm Tổ Thành Githyanki.</content>
 	<content contentuid="hb21bdfd2gef1eg40f8g8a87g1b976a9fae70" version="1">Mật động này là trái tim của thiên nhiên - tôi rất vinh dự khi được bảo vệ nó.</content>
 	<content contentuid="hb21e7604g769ag43c0g9e35g5f6bb5e96cf3" version="1">Ờm, vậy thì cũng giải thích được phần nào về những đêm *** bị trói chặt trong khi cố gắng cứa rách cổ tôi. Bố khỉ thật, một &lt;i&gt;Bhaalspawn&lt;/i&gt; cơ đấy.</content>
 	<content contentuid="hb21f3850g163eg42afgacc0g53fabee88dae" version="2">Kỳ lạ nhỉ, tôi cũng định nói với anh như vậy đấy. Đêm ấy thật kỳ diệu, cả về nghĩa bóng lẫn nghĩa đen.</content>
@@ -70319,7 +70315,7 @@ Giúp lẩn trốn.</content>
 	<content contentuid="hb365ed2fg3bb2g4749g86bfgfbb2317ca3d0" version="2">&lt;i&gt;Biến Tara thành một con mèo trụi lông.&lt;/i&gt;</content>
 	<content contentuid="hb366836eg68a3g43fcgad79gafed91a6a802" version="1">Người như tôi, khả năng cao sẽ châm lửa đốt nhà rồi ngủ trong tù.</content>
 	<content contentuid="hb366d9e0g1d0cg443cg9e7fge4afc414c6b4" version="1">Phải công nhậ một điều. Mắt anh tinh đấy. Đến cả lũ &lt;i&gt;jargh&lt;/i&gt; cũng có ích.</content>
-	<content contentuid="hb36735a8g2435g4d1agbd2ag6b475c794b0f" version="1">Đường tới Tổ ấp Githyanki</content>
+	<content contentuid="hb36735a8g2435g4d1agbd2ag6b475c794b0f" version="1">Đường tới Tổ Thành Githyanki</content>
 	<content contentuid="hb36750efg64cfg41bcgbedfge29ec7369691" version="1">*Con Myconid chuẩn bị tấn công. Ngươi sẽ bị trù dập.*</content>
 	<content contentuid="hb367c47cg990eg4a9dg895agdee58232684b" version="1">Chuyện này... tất cả chuyện này cảm giác như một cơn ác mộng. Nhưng nó là thật... phải không? Tôi đã đứng trước Nightsong. Tôi đã nghe những lời nói từ chính Thần Shar... và tôi đã phụ lòng Người.</content>
 	<content contentuid="hb367d6d9gc152g4798g86d0gbad0be1eada8" version="1">NGƯƠI! Ngươi đã làm gì? Ngươi đã làm gì ta?!</content>
@@ -70619,7 +70615,7 @@ Giúp lẩn trốn.</content>
 	<content contentuid="hb426d511g60b6g457egb343gbdb0b9db5360" version="1">Ta là kẻ duy nhất có thể phản kháng tầm ảnh hưởng của Đấng Tuyệt Đối. Bởi vậy nó e sợ ta, nó &lt;i&gt;khao khát&lt;/i&gt; ta.</content>
 	<content contentuid="hb426f5f5gffd1g4da8ga515g94b6f7606ce7" version="2">Màn kiểm soát an ninh này là do vụ cha xứ bị giết hả?</content>
 	<content contentuid="hb426f608ga7f6g41c6g9bb1g38b02784f14a" version="1">Đại kiếm</content>
-	<content contentuid="hb428b4d0g5f29g4dfbg9921gf8be181dcb87" version="5">Tìm một Tổ ấp Githyanki trong khu vực Bờ Lưỡi Kiếm.</content>
+	<content contentuid="hb428b4d0g5f29g4dfbg9921gf8be181dcb87" version="5">Tìm một Tổ Thành Githyanki trong khu vực Bờ Lưỡi Kiếm.</content>
 	<content contentuid="hb428ba05g83b5g40e1g9b25g8d8ab239ddd1" version="1">Nói chuyện, đối với ta, tốn công sức không hề đáng kể. Hơn nữa, thời gian dùng để làm chi, nếu không để đàm luận? </content>
 	<content contentuid="hb428c286g4623g47f8gbd27g49dbc232db78" version="2">Mị lực Oai hùng: Ra lệnh</content>
 	<content contentuid="hb4299f86gb138g42e7g8d96g2d71f596dca9" version="2">Chỉ dùng được một lần mỗi lượt Cuồng nộ.</content>
@@ -70901,7 +70897,7 @@ Giúp lẩn trốn.</content>
 	<content contentuid="hb4e3f817g559eg4338g913fg7791b783ec17" version="1">Tín đồ Goblin</content>
 	<content contentuid="hb4e54181g9a81g477bg96fcge3379d81a0dd" version="1">Tôi sẽ tự dẫn lối cho bản thân, nếu ông có thể làm mẫu trước.</content>
 	<content contentuid="hb4e55b9ag5d41g4d63ga224g90ec9576e767" version="1">Mẹ ngủ ngon nhé. Yêu mẹ nhiều.</content>
-	<content contentuid="hb4e590e7g5a2dg4fc3g893fg7ded1d06c3ae" version="1">Những người Githyanki đang đi tìm món cổ vật chúng ta đang đem theo. Họ nói rằng ở gần đây có một Tổ ấp Githyanki. Có lẽ chúng ta sẽ có thể biết thêm về món cổ vật ở đó.</content>
+	<content contentuid="hb4e590e7g5a2dg4fc3g893fg7ded1d06c3ae" version="1">Những người Githyanki đang đi tìm món cổ vật chúng ta đang đem theo. Họ nói rằng ở gần đây có một Tổ Thành Githyanki. Có lẽ chúng ta sẽ có thể biết thêm về món cổ vật ở đó.</content>
 	<content contentuid="hb4e6369bg0b42g4dd0g8970g214968d51411" version="2">Cầu thần Silvanus che chở nếu lũ Goblin vào được đây.</content>
 	<content contentuid="hb4e7e9e0g6baeg4567g93cfg2b02de2e4107" version="1">Anh nói thế là sao?</content>
 	<content contentuid="hb4e8a7c9g0c97g4535g8dcag5c2e8ec58e6d" version="1">Chúng tôi rất nóng lòng.</content>
@@ -73351,7 +73347,7 @@ Giúp lẩn trốn.</content>
 	<content contentuid="hbb176635ge381g4216gb204gd4efdc07e2c1" version="1">Hiện không thể sử dụng.</content>
 	<content contentuid="hbb181950gbb1cg4b0bgab7bgf2e27cc0bbbc" version="1">Thích ngắm cảnh máu chảy hả? Cứ tưởng anh được ngắm chán chê lúc ở cổng rồi chứ.</content>
 	<content contentuid="hbb18517eg501fg4750ga6feg421839e19c05" version="3">&lt;b&gt;&lt;i&gt;Sẽ không còn tự do. Chúng sẽ dùng ta để thâu tóm thế giới này trong xiềng xích...&lt;/i&gt;&lt;/b&gt;</content>
-	<content contentuid="hbb185ce4g2655g446fgaabcgf9c25eaefe89" version="2">Chúng ta đã đến đèo núi. Chúng ta nên tìm kiếm Tổ ấp Githyanki được ẩn giấu tại nơi này.</content>
+	<content contentuid="hbb185ce4g2655g446fgaabcgf9c25eaefe89" version="2">Chúng ta đã đến đèo núi. Chúng ta nên tìm kiếm Tổ Thành Githyanki được ẩn giấu tại nơi này.</content>
 	<content contentuid="hbb18ebccg7a14g4f4dga697gdb6b5061fce9" version="1">Thật mừng vì được vào lại bên trong tường. Dù được bao lâu đi nữa.</content>
 	<content contentuid="hbb19e1d9gfc4dg426fgb44dga81893e61308" version="1">Thần chức Tri thức</content>
 	<content contentuid="hbb1a3bc1ga528g410dga9feg45e6a925f47d" version="4">&lt;b&gt;&lt;i&gt;GRÀOOO.&lt;/i&gt;&lt;/b&gt;</content>
@@ -74989,7 +74985,7 @@ Giúp lẩn trốn.</content>
 	<content contentuid="hbf3c1f71g2657g4d67g8931g1387496b6836" version="1">Có thể, nhưng tôi sẽ cần sắt hỏa ngục. Và cầu nguyện rằng búa tôi đủ bền.</content>
 	<content contentuid="hbf3d69c5g8e5dg45a7g855eg5000fb7673b4" version="2">Khách bộ hành Mỏi mệt</content>
 	<content contentuid="hbf3d6fdbg2e14g4458g97dage7f101a9c8db" version="1">Cảnh cáo nhé, Astarion: Tôi có vị &lt;i&gt;cực kỳ&lt;/i&gt; tệ đấy. Tránh xa ra.</content>
-	<content contentuid="hbf3e0f3cg6211g41b7g8417gce3850779e69" version="2">Đừng quá nóng lòng làm theo lời của Halsin. Hãy nhớ rằng Tổ ấp Githyanki vẫn là ưu tiên số một của chúng ta.</content>
+	<content contentuid="hbf3e0f3cg6211g41b7g8417gce3850779e69" version="2">Đừng quá nóng lòng làm theo lời của Halsin. Hãy nhớ rằng Tổ Thành Githyanki vẫn là ưu tiên số một của chúng ta.</content>
 	<content contentuid="hbf3e6b1cgc195g447eg8abcg1990ff0bc9b9" version="2">Anh phải nói chậm thôi. Tôi đang rất khó để tập trung khi căn bệnh này đang gặm nhấm tâm hồn tôi nhiệt tình như một con Thú Đảo Vị đang thay răng.</content>
 	<content contentuid="hbf3e9b10g8a15g4cd7g8333g74fa166abc3e" version="2">Sẵn sàng hợp tác chưa?</content>
 	<content contentuid="hbf3eac0dge878g4beag8ecdg03d0149c9999" version="2">Sỉ nhục Trưởng Hạc Cầm là tội phải trả bằng máu.</content>
@@ -75468,7 +75464,7 @@ Giúp lẩn trốn.</content>
 	<content contentuid="hc07a2620g8a77g4878g80bcg399f36479595" version="2">Những đồng bạc này có thể vận hành Động cơ Hỏa ngục.</content>
 	<content contentuid="hc07a75ddgc269g44f1g82d7g897c48012d74" version="1">Trước khi phục vụ Đấng Tuyệt Đối - Ngươi là ai?</content>
 	<content contentuid="hc07ad925ga886g4902gbd10gc2c866ab917e" version="1">Chào nha!</content>
-	<content contentuid="hc07b65ffg3bc1g4983gb09fg8cf521f86dd5" version="2">Đủ rồi. Chắc chắn ở gần đây có một Tổ ấp Githyanki. Vị &lt;i&gt;ghustil&lt;/i&gt; ở đó sẽ có cách thanh tẩy chúng ta.</content>
+	<content contentuid="hc07b65ffg3bc1g4983gb09fg8cf521f86dd5" version="2">Đủ rồi. Chắc chắn ở gần đây có một Tổ Thành Githyanki. Vị &lt;i&gt;ghustil&lt;/i&gt; ở đó sẽ có cách thanh tẩy chúng ta.</content>
 	<content contentuid="hc07bc024gc000g42e1g890dg1c7a2368ca47" version="1">...Nhưng ngươi không thuộc &lt;i&gt;khẩu vị&lt;/i&gt; của ta.</content>
 	<content contentuid="hc07c0e34geafag401ag81ffg559fec9d1b47" version="4">Vậy còn ký sinh của chúng? Ông có biết gì không?</content>
 	<content contentuid="hc07ca8edg0c77g40dcgbca9ge88b7b1dcabf" version="1">Với một ý chí trong sáng và lòng gan dạ kiên cường thì ai cũng có thể vượt qua bản tính của mình. </content>
@@ -75621,7 +75617,7 @@ Giúp lẩn trốn.</content>
 	<content contentuid="hc0e67409g8740g4f53g9051g5eca4ddf3408" version="1">Sức mạnh và lòng trung thành của Halsin chắc chắn sẽ củng cố tinh thần cho anh vào thời khắc nguy nan.</content>
 	<content contentuid="hc0e7163fg35c6g41c8g984eg6197f99f4658" version="1">Cung thủ Ma pháp</content>
 	<content contentuid="hc0e74977g42afg4c75g813cg6df6db6f5b59" version="3">Những bộ giáp tấm sống nhờ phép thuật. Kiên cường và rất ngoan cố, những kiến trúc này thường được sử dụng để làm hộ vệ.</content>
-	<content contentuid="hc0e78887gabf7g4838g9b12g1ae97aaffec8" version="1">Quay về Tổ ấp Githyanki.</content>
+	<content contentuid="hc0e78887gabf7g4838g9b12g1ae97aaffec8" version="1">Quay về Tổ Thành Githyanki.</content>
 	<content contentuid="hc0e7c142g5bc6g469cgb07ag5c5d8dd55078" version="2">Mê hoặc</content>
 	<content contentuid="hc0e8356eg4835g4480ga4b9g47d663b55339" version="6">Một điều cần thiết, thưa quý ngài! Cảnh Vệ Thép rất thích giả vờ rằng Rivington không tồn tại.</content>
 	<content contentuid="hc0ea32f0g8069g4571g8275g5b4ebd588724" version="1">Tôn trọng? Raphael đang giở trò lừa lọc. Chỉ đồng tộc của ta mới có thể thanh tẩy chúng ta.</content>
@@ -76304,7 +76300,7 @@ Giúp lẩn trốn.</content>
 	<content contentuid="hc29c49fdg89feg4912gb506g1f4eddbf036a" version="1">Tín đồ Shar? Tôi không thường coi họ là kẻ thù - hay là đồng minh.</content>
 	<content contentuid="hc29c98d2gdcdfg4dfag88d1g5eef11e74344" version="1">Chiến tích Đã chọn</content>
 	<content contentuid="hc29cd5b8g093ag4091gb3f4g5e252b06a6b9" version="1">Chút bẽn lẽn trước rạng đông à?</content>
-	<content contentuid="hc29d32ebg682cg481ega997gfb3e7160fd07" version="1">Ta dự định sẽ đến một Tổ ấp Githyanki để loại bỏ lũ ký sinh. Nhưng thay vào đó, chúng ta giờ lại lang thang trên một vùng đất bị màn đêm vây hãm.</content>
+	<content contentuid="hc29d32ebg682cg481ega997gfb3e7160fd07" version="1">Ta dự định sẽ đến một Tổ Thành Githyanki để loại bỏ lũ ký sinh. Nhưng thay vào đó, chúng ta giờ lại lang thang trên một vùng đất bị màn đêm vây hãm.</content>
 	<content contentuid="hc29d40b4gb74fg40cbg9dc0g304ee6578e26" version="2">Người sống ở đây có một sở thích cực kỳ nguy hiểm. Những món đồ chơi này không thể để lọt vào tay trẻ em.&lt;br&gt;</content>
 	<content contentuid="hc29e4e61g13a4g45c6g8c1egd24a48599fda" version="1">Hàng sách</content>
 	<content contentuid="hc2a01170gc1bfg405cg80d8gd470f1e0a684" version="1">Đèn đuốc</content>
@@ -76928,7 +76924,7 @@ Giúp lẩn trốn.</content>
 	<content contentuid="hc41a948bg37cbg42edga3cfg2527fe892a85" version="1">Đầu 2</content>
 	<content contentuid="hc41b6e8cgd692g475eg8be4gc550cb60b414" version="3">Ngài Tướng Quân sẽ hài lòng nếu cô giơ tay chịu trói.</content>
 	<content contentuid="hc41b7af0g94d7g4e1ag979cg904a9146c941" version="1">Lưu thủ công</content>
-	<content contentuid="hc41e1b73gc2feg4882g9fefgd901707e9fc0" version="1">Anh đã rất dũng cảm, khi xâm nhập vào một Tổ ấp Githyanki đang lọt vào tầm ngắm của Vlaakith. </content>
+	<content contentuid="hc41e1b73gc2feg4882g9fefgd901707e9fc0" version="1">Anh đã rất dũng cảm, khi xâm nhập vào một Tổ Thành Githyanki đang lọt vào tầm ngắm của Vlaakith. </content>
 	<content contentuid="hc41ebdbegf23eg4611g9dceg2a226740cd4d" version="4">Cái ấy tôi không ý kiến. Tôi chỉ bảo là chúng nó vô dụng ở đây thôi.</content>
 	<content contentuid="hc41f6cddg316dg4eb9g906cge5529af70911" version="1">Ta sẽ đợi ở trại. Đợi, một cách nhẫn nại.</content>
 	<content contentuid="hc42192a7g7ef4g40ecg8e24g748685d3c656" version="1">&lt;i&gt;Thong thả đứng nhìn. &lt;/i&gt;</content>
@@ -77681,7 +77677,7 @@ Giúp lẩn trốn.</content>
 	<content contentuid="hc60cd40bg0951g470aga636g4e8e8feb9170" version="3">Con trâu ở Mật động. Làm thế quái nào mà nó đến được tận đây chứ?</content>
 	<content contentuid="hc60cd5e0g7b4ag4e10gaa82g8ddc87874b2e" version="3">Đây. Tôi định lấy cái này để thưởng cho Barnabus, nhưng nó chẳng đáng được thưởng gì nữa rồi.</content>
 	<content contentuid="hc60d6755g14e1g49d2g87aag548837ef7f41" version="2">Trợ lý Mẫu mực</content>
-	<content contentuid="hc60da7b7g6dd7g45dega659g292946eb5508" version="1">Cuối cùng ta cũng đến được một Tổ ấp Githyanki. Ta phải tìm một Ghustil; chiếc Zaith'isk của họ sẽ thanh tẩy ta khỏi con ký sinh, theo như điều lệ đã quy định.</content>
+	<content contentuid="hc60da7b7g6dd7g45dega659g292946eb5508" version="1">Cuối cùng ta cũng đến được một Tổ Thành Githyanki. Ta phải tìm một Ghustil; chiếc Zaith'isk của họ sẽ thanh tẩy ta khỏi con ký sinh, theo như điều lệ đã quy định.</content>
 	<content contentuid="hc60e630bg777bg4872ga8f0gb3a3edb1e4d4" version="2">Hoàn toàn tán thành. Cô bé đó không phải là vô tội, nhưng không có nghĩa là phải chịu tội.</content>
 	<content contentuid="hc60e6f8fg6f15g4248g833fgaecce71d07e7" version="1">Ngh - này đồng chí, tôi... à, tôi thấy không khỏe lắm.</content>
 	<content contentuid="hc60e82cfg5626g4cc8g8644g9d33aa167a0b" version="2">Phải. </content>
@@ -78307,7 +78303,7 @@ Hoá thành hình dạng của Sứ thần&lt;br&gt;
 	<content contentuid="hc7947d27gde2eg45c2g8dabg36dfbad80b1a" version="4">Beholder non nhồi bông</content>
 	<content contentuid="hc795110dg1041g4ff6gaa2bg8e48d8831d9f" version="1">Ugh, vâng vâng, biết anh &lt;i&gt;giỏi lắm&lt;/i&gt; rồi. Nhưng để tôi yên đi.</content>
 	<content contentuid="hc7951897g8fa6g4807g8f38g2b1ad1528bce" version="1">&lt;i&gt;Đây có thể là tác phẩm của tín đồ thần Shar. Ngươi nên tìm thêm dấu hiệu.&lt;/i&gt;</content>
-	<content contentuid="hc795a561ge090g41f3gb3b6g0d5f801bb191" version="2">Ngươi có biết Tổ Ấp Githyanki ở đâu không?</content>
+	<content contentuid="hc795a561ge090g41f3gb3b6g0d5f801bb191" version="2">Ngươi có biết Tổ Thành Githyanki ở đâu không?</content>
 	<content contentuid="hc795bdf2g869dg4289gaf8fgeb818931b21c" version="3">Với bộ đồ màu đen với khoang cổ áo trắng, người quý tộc rướn lông mày nhìn vào khán giả, như thể đang chờ ngươi làm điều gì đó thú vị cho lão xem.</content>
 	<content contentuid="hc796faa6g642dg4c07ga5bag2d8b401a599e" version="1">Độc Wyvern - hừ! Thức uống ôi thiu này còn khuya mới đủ để hạ gục Lae'zel từ Tổ ấp K'liir.</content>
 	<content contentuid="hc79706b4g6bd7g435fgabbagd47e6adfd020" version="2">Phần cạnh bạc sắc nhọn của chiếc nhẫn gần như găm sâu vào viên bảo ngọc lạ mắt được đính ở phần tâm.</content>
@@ -78802,7 +78798,7 @@ Off: Keep the character you had selected when combat ended.</content>
 	<content contentuid="hc8d19ef2gc0a5g4326g8d58g77d22868efff" version="1">Chuyện thường ở huyện.</content>
 	<content contentuid="hc8d38c88gbdf3g42b1gbaaegeceb47c9f296" version="1">Lần tới, đến lượt thằng Grib canh cổng, đúng không đại ca?</content>
 	<content contentuid="hc8d3fb9bg63c6g42c5g9e64g5d3b3d0e7b5c" version="5">Bên ngoài quán trọ... chôn cạnh nghĩa trang... bị cô ta phát hiện... </content>
-	<content contentuid="hc8d48a5bg24ccg4ec1gab13gbe221192f12f" version="2">Kêu gọi các Mạo hiểm giả: Khám phá cuộc tranh luận "Bản chất và Dưỡng dục"&lt;br&gt;Hội Sáng Kiến xin trân trọng thông báo tuyển mộ các mạo hiểm giả tham gia vào dự án nghiên cứu chấn động về chủ đề gây kích thích nhưng cũng không kém phần trường kỳ là "Bản chất và Dưỡng dục". Mục đích của dự án này là khám phá những yếu tố liên quan đến hai phạm trù thuộc "bản chất" và "dưỡng dục" đóng góp làm nên tính cách, đức tính và kết quả.&lt;br&gt;Giả thiết của chúng tôi: Một người Githyanki, khi được nuôi nấng trong một môi trường yên bình và giàu yêu thương, sẽ vượt qua bản chất vốn có của nó để trở thành một thành viên tích cực xây dựng và cấp tiến của xã hội.&lt;br&gt;Đóng góp của quý vị: Chúng tôi cần một quả trứng Githyanki, chưa nở và đang trong tình trạng tốt, được lấy trực tiếp từ một Tổ ấp Githyanki. &lt;br&gt;Hứa hẹn phần thưởng cực kỳ hào phóng khi hoàn thành nhiệm vụ. &lt;br&gt;Vui lòng liên hệ với Havkelaag tại Nhà Họp để biết thêm chi tiết. </content>
+	<content contentuid="hc8d48a5bg24ccg4ec1gab13gbe221192f12f" version="2">Kêu gọi các Mạo hiểm giả: Khám phá cuộc tranh luận "Bản chất và Dưỡng dục"&lt;br&gt;Hội Sáng Kiến xin trân trọng thông báo tuyển mộ các mạo hiểm giả tham gia vào dự án nghiên cứu chấn động về chủ đề gây kích thích nhưng cũng không kém phần trường kỳ là "Bản chất và Dưỡng dục". Mục đích của dự án này là khám phá những yếu tố liên quan đến hai phạm trù thuộc "bản chất" và "dưỡng dục" đóng góp làm nên tính cách, đức tính và kết quả.&lt;br&gt;Giả thiết của chúng tôi: Một người Githyanki, khi được nuôi nấng trong một môi trường yên bình và giàu yêu thương, sẽ vượt qua bản chất vốn có của nó để trở thành một thành viên tích cực xây dựng và cấp tiến của xã hội.&lt;br&gt;Đóng góp của quý vị: Chúng tôi cần một quả trứng Githyanki, chưa nở và đang trong tình trạng tốt, được lấy trực tiếp từ một Tổ Thành Githyanki. &lt;br&gt;Hứa hẹn phần thưởng cực kỳ hào phóng khi hoàn thành nhiệm vụ. &lt;br&gt;Vui lòng liên hệ với Havkelaag tại Nhà Họp để biết thêm chi tiết. </content>
 	<content contentuid="hc8d49216gccefg4fc2gb186g4ce540a5f2a1" version="1">Tượng của Selûne. Đống đổ nát này hẳn từng là nơi thờ phụng mụ ta.&lt;br&gt;</content>
 	<content contentuid="hc8d4e129gcef2g4530gad0bge3da1d1ef23c" version="3">Bạn anh trông có vẻ nguy hiểm đấy.</content>
 	<content contentuid="hc8d4eb67gfbd5g46e5g8ad4g322dba772478" version="2">Này, Lae'zel, người Githyanki có thường xuyên nảy sinh tình yêu không?</content>
@@ -80061,7 +80057,7 @@ Off: Keep the character you had selected when combat ended.</content>
 	<content contentuid="hcc146586g7132g4e06gaa3fgc1d63b604727" version="2">Ketheric đang toan tính gì đó xấu xa. Rất xấu xa.</content>
 	<content contentuid="hcc147fb4gd2ceg42feg93c5g1343986cd0d2" version="2">Chỉ mất nửa chi phí khi học phép thuật trường phái Kết giới từ Cuộn phép. Học những phép thuật trường phái này sẽ chỉ tốn 25g với mỗi cấp phép thuật.</content>
 	<content contentuid="hcc15355bg313ag49cfg8eaag19e2de20f47d" version="2">Thần ơi, tôi ghét hề quá. Có khi đến cả hề còn không ưa nổi hề nữa.&lt;br&gt;</content>
-	<content contentuid="hcc15362ag4fa4g45aeg9680gb347d21f6934" version="7">Chiến binh Githyanki tên Lae'zel đã gia nhập đội. Cô ta hứa rằng chúng ta sẽ được thanh tẩy khỏi lũ ký sinh tại một Tổ ấp Githyanki. Theo như chiếc bản đồ chúng ta tìm thấy, có một Tổ ấp nằm lọt thỏm giữa những rặng núi, đi qua cây cầu phía Tây.</content>
+	<content contentuid="hcc15362ag4fa4g45aeg9680gb347d21f6934" version="7">Chiến binh Githyanki tên Lae'zel đã gia nhập đội. Cô ta hứa rằng chúng ta sẽ được thanh tẩy khỏi lũ ký sinh tại một Tổ Thành Githyanki. Theo như chiếc bản đồ chúng ta tìm thấy, có một Tổ ấp nằm lọt thỏm giữa những rặng núi, đi qua cây cầu phía Tây.</content>
 	<content contentuid="hcc153d5dgc0fag4494ga28agc5a33cafcb68" version="2">Giọng 3</content>
 	<content contentuid="hcc166473gbff2g443cgb04dg0f680b87534c" version="1">Thật đáng thất vọng làm sao.</content>
 	<content contentuid="hcc179a7dgac84g4433gbbf5gbbaf15339bfa" version="1">Không, tôi không có hứng thú.</content>
@@ -81218,7 +81214,7 @@ Các thương nhân có thể sẽ giảm hoặc tăng giá mua bán, tùy vào 
 	<content contentuid="hcee48520g678cg47d4g9767g6d72ffb834d0" version="5">Quán Mỹ ngư E ấp thẳng tiến. Hơi tạp nham, nhưng được cái bia rẻ.</content>
 	<content contentuid="hcee51496g8453g4494g9797g07e4a2cfcf9e" version="1">Nhưng khát máu lại là một chuyện khác. Nhưng có lẽ sẽ không phải là vấn đề to tát, nếu thứ anh thèm xé xác là thịt tà thần hay ác quỷ.</content>
 	<content contentuid="hcee585fagc006g4a8fga6f6g5a5e31c9e840" version="1">Cặn bã! Yến tiệc thật ở bên dưới. Họ xả xác xuống đường hầm - đủ để nuôi ăn cả một đội quân chúng ta.</content>
-	<content contentuid="hcee5a88ag8736g46aega143ga92e37eed9ab" version="1">Quên Halsin đi. Chỉ có Tổ ấp Githyanki mới nắm giữ cách chữa trị.</content>
+	<content contentuid="hcee5a88ag8736g46aega143ga92e37eed9ab" version="1">Quên Halsin đi. Chỉ có Tổ Thành Githyanki mới nắm giữ cách chữa trị.</content>
 	<content contentuid="hcee682c4g3a73g4fd1gad3bg59570cf68881" version="2">Rời khỏi đây đã rồi hẵng dừng lại nói chuyện.</content>
 	<content contentuid="hcee72e47g0691g49fbga9e0g8d42fea72be2" version="2">Karlach! Cứ tưởng cô đã lạc đường trong bóng tối rồi. Mừng là cô vẫn bình an vô sự.</content>
 	<content contentuid="hcee74f70gf288g41cagb34fgc26b99f908dc" version="2">Ngươi sẽ phải xin được chết trước khi ta cho ngươi chết!</content>
@@ -81833,7 +81829,7 @@ Các thương nhân có thể sẽ giảm hoặc tăng giá mua bán, tùy vào 
 	<content contentuid="hd06d6e87gbbe3g467aga61cg7da81a240b9b" version="1">Nếu hợp nhau thì cũng đâu cần phải đường ai nấy đi.</content>
 	<content contentuid="hd06d81c6g7738g4776g95d5g02ded7bf590b" version="2">Đêm nay thật tuyệt vời. Tôi đã rất sung sướng.</content>
 	<content contentuid="hd06dc751g98afg43b0gbb22g8e3991ca2094" version="2">Vòng cổ chó</content>
-	<content contentuid="hd06f5751g6662g48c4ga5ecgd6da59b4d26a" version="1">Ta dự định sẽ đến một Tổ ấp Githyanki để loại bỏ lũ ký sinh. Nhưng thay vào đó, chúng ta giờ lại lang thang trên một vùng đất bị màn đêm vây hãm.</content>
+	<content contentuid="hd06f5751g6662g48c4ga5ecgd6da59b4d26a" version="1">Ta dự định sẽ đến một Tổ Thành Githyanki để loại bỏ lũ ký sinh. Nhưng thay vào đó, chúng ta giờ lại lang thang trên một vùng đất bị màn đêm vây hãm.</content>
 	<content contentuid="hd0713144g78c8g4682g9205gd239520b27bb" version="2">Anh ấy đã có dấu hiệu tỉnh lại chưa?</content>
 	<content contentuid="hd07250ecg34feg4200g92f5g5123c7c10a76" version="2">Chúng ta nên đến Tổ ấp càng sớm càng tốt.</content>
 	<content contentuid="hd07291d2g217dg47fdg8fd3ga02a235f6b7b" version="1">Mọi thứ vẫn ổn chứ...?</content>
@@ -81843,7 +81839,7 @@ Các thương nhân có thể sẽ giảm hoặc tăng giá mua bán, tùy vào 
 	<content contentuid="hd0760128gf56eg4bd7gbac4g81a6fee670e9" version="1">*Tâm trí ngươi được lấp đầy, bung tỏa cảm giác đê mê pha lẫn một nỗi kinh hoàng. Cuối cùng, nó cũng được biến đổi. Ngươi cũng được biến đổi.*</content>
 	<content contentuid="hd0764b1fg18f9g432eg8735g64b9a574ff07" version="2">Sinh vật này không còn sống, nên không cần không khí, thức ăn, nước uống hay ngủ nghỉ.</content>
 	<content contentuid="hd0777e8fg65c2g41a7g9d73g89bb3e69a58f" version="1">Cung dài</content>
-	<content contentuid="hd0779071g2a6bg4969ga348g2ce23e3a6756" version="1">Tìm kiếm chiết Zaith'isk trong Tổ ấp Githyanki.</content>
+	<content contentuid="hd0779071g2a6bg4969ga348g2ce23e3a6756" version="1">Tìm kiếm chiết Zaith'isk trong Tổ Thành Githyanki.</content>
 	<content contentuid="hd07959dcgc77ag465fga67egbf64af6dd4d2" version="2">Tất cả đều là mánh khoé. Cút đi đi. </content>
 	<content contentuid="hd07b1478g4d9eg4000g90e9g0daf073d2989" version="3">VÀNG KHÔNG DÀNH CHO TA! HAY NGƯƠI! VÀNG DÀNH CHO NGÂN KHỐ! KHÔNG THẤY SAO? KHÔNG THẤY SAO?!</content>
 	<content contentuid="hd07bddb5g0abeg4570ga3aag569a8cd660af" version="1">Phiến đá Cổ tự</content>
@@ -81990,7 +81986,7 @@ Các thương nhân có thể sẽ giảm hoặc tăng giá mua bán, tùy vào 
 	<content contentuid="hd0cd884ag7bf9g4f15g9b1egd7a5472bfcd8" version="2">Vuốt Thép</content>
 	<content contentuid="hd0cdbcd9g48e0g4719gb680g53318e00bd41" version="1">Việc của mình thì tự đi mà lo.</content>
 	<content contentuid="hd0ce1dceg17fcg427cga007gad73bae7e0ab" version="1">Trại Nghỉ</content>
-	<content contentuid="hd0cfc17egc6e4g4523g8c4agfedc08fe78fe" version="2">Tấm bản đồ đã rõ - ta sẽ sớm đến được Tổ ấp Githyanki. Nó nằm trong một ngôi đền cổ ở đèo núi.&lt;br&gt;</content>
+	<content contentuid="hd0cfc17egc6e4g4523g8c4agfedc08fe78fe" version="2">Tấm bản đồ đã rõ - ta sẽ sớm đến được Tổ Thành Githyanki. Nó nằm trong một ngôi đền cổ ở đèo núi.&lt;br&gt;</content>
 	<content contentuid="hd0d1c389g5162g491ega0b3gcabdc0a29d9a" version="2">Ngươi tận hưởng 'bài giảng' nhỏ của chúng ta chứ? Chỉ là một móng tay so với sức mạnh mà Tổ ấp Y'llek sở hữu.</content>
 	<content contentuid="hd0d3226dg4edag4df7g8628g3bcc955db9e5" version="2">Giết Bác Sĩ bằng cách lợi dụng những nữ y tá của lão.</content>
 	<content contentuid="hd0d38021gd6deg42e3ga781g1af84a360543" version="2">Chúng ta đã tìm thấy một cây Đèn Nguyệt Quang. Thứ này sẽ bảo vệ chúng ta khỏi những góc khuất tối tăm nhất của Vùng đất Ám nguyền.</content>
@@ -82249,7 +82245,7 @@ Các thương nhân có thể sẽ giảm hoặc tăng giá mua bán, tùy vào 
 	<content contentuid="hd17f0521ga59ag48b1g841egf07295f680c3" version="1">Tấn công bằng móng vuốt lạnh như băng.</content>
 	<content contentuid="hd17fc4d9g41d5g4d92g9618g35c7be4489d3" version="1">Khay bạc</content>
 	<content contentuid="hd180cb66g7371g4ba9g91edgdfeb3c3b7060" version="2">Lừa gác cổng gánh xiếc để được vào</content>
-	<content contentuid="hd1816c28ge222g4419gbaaeg04c5d81713ac" version="1">Chúng ta đã thâm nhập được vào Tổ ấp Githyanki. Chúng ta nên tìm thiết bị chuyên dùng để thanh tẩy người bị nhiễm ký sinh.</content>
+	<content contentuid="hd1816c28ge222g4419gbaaeg04c5d81713ac" version="1">Chúng ta đã thâm nhập được vào Tổ Thành Githyanki. Chúng ta nên tìm thiết bị chuyên dùng để thanh tẩy người bị nhiễm ký sinh.</content>
 	<content contentuid="hd181a3b4g7e36g4a87g866ag4f68c6d86fac" version="3">Cơ thể đó có chứa một con ký sinh. Anh nên lấy nó.</content>
 	<content contentuid="hd1821970ge4b4g4c20g91d3ga8c9fe0f390d" version="1">Hành động Đặc cấp: Bảo chứng Huyễn hoặc (2)</content>
 	<content contentuid="hd1831497g55a4g4ab7ga42cg1218e5341938" version="1">Một trong những bạn đồng hành đang từ chối sử dụng sức mạnh của Illthid - có lẽ họ cần được nói chuyện và thuyết phục.</content>
@@ -83680,7 +83676,7 @@ Có thể thay đổi các phép thuật đã soạn khi ở ngoài giao tranh.<
 	<content contentuid="hd534a1a0gd8c9g45d7g9e11g0652c9d5d81a" version="1">Ta mong anh đã sẵn sàng để đối diện với cơn thịnh nộ của Vlaakith. Toàn bộ Tổ ấp sẽ sẵn sàng giết anh vì mụ ta. </content>
 	<content contentuid="hd53520b1g51cag4c55g8838gd917a4e23cd0" version="1">Monk: Hạc túc tấn</content>
 	<content contentuid="hd536e805g68cbg4d49gb894gd199f9daa532" version="1">Lớp lông viền quanh chiếc chiếu ngủ lữ hành dính một chút đất bẩn.</content>
-	<content contentuid="hd536fb1cg82f8g4e6bg8676g2c30c03bf872" version="1">Quên Halsin đi. Chỉ có Tổ ấp Githyanki mới nắm giữ cách chữa trị.</content>
+	<content contentuid="hd536fb1cg82f8g4e6bg8676g2c30c03bf872" version="1">Quên Halsin đi. Chỉ có Tổ Thành Githyanki mới nắm giữ cách chữa trị.</content>
 	<content contentuid="hd5376a5cg5d55g4adcga78bgfdfbe93460a6" version="1">Cái mặt hằm hằm của anh đủ dọa được cả Troll đấy. </content>
 	<content contentuid="hd537810fga402g4a8dg8dacgc6acdd8ea8c7" version="2">Trói buộc</content>
 	<content contentuid="hd537fbe0g7714g4e90ga186gd0ddcc937493" version="3">Tôi bị gán cho tội giết người, trong khi bụng vẫn phải chịu đói? Nực cười. Hoàn toàn nực cười.</content>
@@ -84059,7 +84055,7 @@ Có thể thay đổi các phép thuật đã soạn khi ở ngoài giao tranh.<
 	<content contentuid="hd6377a28g14eeg4b84g8133g03da16d0450f" version="1">&lt;i&gt;Cầu nguyện đến Nữ hoàng Rừng xanh trong thời khắc nguy nan.&lt;/i&gt;</content>
 	<content contentuid="hd637bf1eg9694g410dgacb1g18a391faa056" version="1">Hồi phục [1].[2][3]</content>
 	<content contentuid="hd6387e16g64f6g4549g8dfcge7fbeff0240c" version="1">[Mặt bìa bên trong được ghi nguệch ngoạc và gạch chân đậm dòng chữ: "SỔ THEO DÕI VẬT TƯ". Những trang giấy lốm đốm bụi bẩn tiếp nối theo dõi quá trình nhập kho - phân phát thức ăn và vật tư y tế. Những dòng ghi chi chít ở trang cuối cho thấy kho lương nơi này đang ở mức sắp cạn kiệt.]</content>
-	<content contentuid="hd638ca44gd952g4f1cga0b2g31b26c6642a1" version="1">Zorru đã rời mật động. Chúng ta sẽ phải tìm một manh mối khác để đến được Tổ ấp Githyanki.</content>
+	<content contentuid="hd638ca44gd952g4f1cga0b2g31b26c6642a1" version="1">Zorru đã rời mật động. Chúng ta sẽ phải tìm một manh mối khác để đến được Tổ Thành Githyanki.</content>
 	<content contentuid="hd639ad7fg1ccfg43cfgb78dg6b934659ab27" version="1">&lt;i&gt;Rời đi.&lt;/i&gt;</content>
 	<content contentuid="hd63a4d30ge0e1g41e5gb5fdg5e72bf605e0f" version="3">Phải, chúng ta có nghĩa vụ. Chúng ta sẽ dẫn chúng về nhà, thưa Điện Hạ.</content>
 	<content contentuid="hd63c9c73g671eg4c05gacacg8c5147b281dd" version="2">Đúng là không phải ngày nào cũng được giết Kẻ được chọn của thần đâu.</content>
@@ -86120,7 +86116,7 @@ Có thể thay đổi các phép thuật đã soạn khi ở ngoài giao tranh.<
 	<content contentuid="hdbbba06bgdf39g48a3g8d1bg0573eab3da2e" version="1">Bản đồ</content>
 	<content contentuid="hdbbcbd58g319fg4c89gab99g284a86d09797" version="1">Tôi không muốn nhắc lại việc tôi đã hy sinh vì cô đâu, Karlach.</content>
 	<content contentuid="hdbbd6ef4g07eag49a7gb7a7g44e579513fd1" version="1">Vậy để tôi 'thực nghiệm' xem nhé?</content>
-	<content contentuid="hdbbe6155gc2b7g467cg9206g5c16565cb3bf" version="1">Tôi đã kích hoạt một cỗ máy cổ và phá hủy Tổ ấp Githyanki trước khi nói chuyện với vị Phán quan. Bây giờ, tôi chỉ có thể đi tiếp.</content>
+	<content contentuid="hdbbe6155gc2b7g467cg9206g5c16565cb3bf" version="1">Tôi đã kích hoạt một cỗ máy cổ và phá hủy Tổ Thành Githyanki trước khi nói chuyện với vị Phán quan. Bây giờ, tôi chỉ có thể đi tiếp.</content>
 	<content contentuid="hdbbe6758g0e0bg40b5g9912g2c6b9419360b" version="1">Người con tuyệt đẹp, đầy sám hối của ta. </content>
 	<content contentuid="hdbbf8391ge5bbg4dc7ga293g61f785f5604d" version="5">Một trong hàng ngàn chiếc lông ngự trên thân thể vĩ đại của loài đại bàng khổng lồ. Ngươi chỉ có thể hy vọng rằng đây là lông của một bộ phận thanh lịch (ví dụ như cánh) của con chim, chứ không phải là phần khác không mấy tự hào để kể, ví như lông nách cánh trái.</content>
 	<content contentuid="hdbc008afg7ccfg4738gae9fgd0be821d9447" version="3">Chưa từng thấy con Rothé nào kêu như thế. Đã ai chọc tiết nó đâu.</content>
@@ -86602,7 +86598,7 @@ Phubbs - Greeting guests</content>
 	<content contentuid="hdcf00561g7882g497ag8f0cg9d27f956d011" version="2">Có lẽ ai đó ở Baldur's Gate sẽ giúp được chúng tôi. Connor luôn nói muốn tìm gì thì cứ đến thành phố đó là sẽ có. </content>
 	<content contentuid="hdcf062bdg490bg46b1g97deg003a4c6e510d" version="1">&lt;i&gt;Rời đi.&lt;/i&gt;</content>
 	<content contentuid="hdcf0b0bbge16bg47b6gaee3g00ca6c352a34" version="4">Phần đó, Bhaal đã không thể dập tắt. Thế nên thay vì tiêu diệt ngươi, hắn đã khiến ngươi được tái sinh thành người mới.</content>
-	<content contentuid="hdcf16664g6726g43f8gbca9gebc8be3bf333" version="2">Một Tổ ấp Githyanki thực sự. Rất hiếm có người ngoài nào được chiêm ngưỡng những bí mật tại những nơi như thế này. Và người còn sống để chia sẻ trải nghiệm của mình lại còn hiếm hơn. Có lẽ ở đây, chúng ta nên "mắt như diều hâu, lưỡi như mèo tha" thì hơn.</content>
+	<content contentuid="hdcf16664g6726g43f8gbca9gebc8be3bf333" version="2">Một Tổ Thành Githyanki thực sự. Rất hiếm có người ngoài nào được chiêm ngưỡng những bí mật tại những nơi như thế này. Và người còn sống để chia sẻ trải nghiệm của mình lại còn hiếm hơn. Có lẽ ở đây, chúng ta nên "mắt như diều hâu, lưỡi như mèo tha" thì hơn.</content>
 	<content contentuid="hdcf22da0g5f14g46e5g871egc8fffe16b7ab" version="3">Anh đã tìm được gì thêm về Nightsong chưa?</content>
 	<content contentuid="hdcf2ca05g1baeg421fg9309g1343a141e3ae" version="1">Ta thờ Đấng Tuyệt Đối, nhưng ta đâu nhất thiết phải chấp nhận thứ dị hợm như ngươi.</content>
 	<content contentuid="hdcf2db79gcc05g4bdbg9e42gf8c86d38e95b" version="3">Không cần kể. Mất cả một con mắt thì thật không dễ chút nào. Xứng đáng một bài ca chất đầy xương máu.</content>
@@ -87511,7 +87507,7 @@ Phubbs - Greeting guests</content>
 	<content contentuid="hdf4e23bagf696g4588gb28bga03b28e7458e" version="3">Gaerdal Ironhand, hãy nghe con - &lt;i&gt;hãy trả tự do cho con!&lt;/i&gt;</content>
 	<content contentuid="hdf4f1602g23f5g46cbgb10dg1f4dd8ec553b" version="4">Bóng tối đã biến mất, sự chữa lành sẽ bắt đầu.</content>
 	<content contentuid="hdf4fa9b1gcb7fg4fc6ga055g11f4bd5cfbda" version="1">[Một cuốn sách văn xuôi dài dòng, hứa hẹn có thể loại bỏ mọi cảm xúc tiêu cực, được gọi chung là các "tâm bệnh".] &lt;br&gt;&lt;br&gt;Nhưng hỡi các độc giả, Tâm bệnh nào mới là Tâm bệnh các vị đang mắc phải? Tất cả chúng ta đều chịu khổ ải, nhưng không ai là bằng ai. Sau đây là một số căn bệnh thường thấy nhất của tâm hồn: &lt;br&gt;&lt;br&gt;Trái tim Bạo lực &lt;br&gt;Trái tim Sầu đau &lt;br&gt;Trái tim Hèn nhát &lt;br&gt;Trái tim Giả dối &lt;br&gt;Trái tim Tọc mạch &lt;br&gt;Trái tim Ghen tuông &lt;br&gt;&lt;br&gt;[Cuốn sách tiếp tục kéo dài, hứa hẹn sẽ có các tập sách sau tập trung khai thác sâu vào mỗi Tâm bệnh, có thể mua tại Dinh thự Sầu đau.]</content>
-	<content contentuid="hdf4fb4f2g91ccg45f2g820eg28fdf41095fa" version="2">Chắc chắn ở gần đây có một Tổ ấp Githyanki. Vị &lt;i&gt;ghustil&lt;/i&gt; ở đó sẽ có cách thanh tẩy chúng ta.</content>
+	<content contentuid="hdf4fb4f2g91ccg45f2g820eg28fdf41095fa" version="2">Chắc chắn ở gần đây có một Tổ Thành Githyanki. Vị &lt;i&gt;ghustil&lt;/i&gt; ở đó sẽ có cách thanh tẩy chúng ta.</content>
 	<content contentuid="hdf505853g3437g496dg8732gf741d6ae1ebb" version="1">Xua đuổi Kẻ bất tin</content>
 	<content contentuid="hdf50f2a0g3756g4a90g97c9g9fb25fc3bc0f" version="1">Kết giới Phép thuật</content>
 	<content contentuid="hdf51b04eg690cg4776gb742gd451365ef445" version="1">Cô học chiến đấu như thế ở đâu vậy?</content>
@@ -87919,7 +87915,7 @@ Phubbs - Greeting guests</content>
 	<content contentuid="he0604443g37d4g4b3egbb10g3a0c67ffc4ae" version="1">&lt;i&gt;Rời đi.&lt;/i&gt;</content>
 	<content contentuid="he0607d96g0953g4795gb644g9de98b08ebdb" version="2">Ha! Không nhé, tình yêu. *** và Shadowheart thích làm gì thì làm. Chẳng việc gì tôi phải để tâm.</content>
 	<content contentuid="he060fbc8g1469g4bd0gbd23g04cf5c697f11" version="1">Y hệt như thế giới này và những cư dân thiếu kỷ luật của nó.</content>
-	<content contentuid="he0613b93gdf8eg489ag8e08g466d8bb991de" version="1">Vlaakith và Phán quan W'wargaz đã cố trừ khử chúng ta. Có thể chúng ta vẫn nên điều tra Tổ ấp Githyanki để tìm cách loại bỏ ký sinh.</content>
+	<content contentuid="he0613b93gdf8eg489ag8e08g466d8bb991de" version="1">Vlaakith và Phán quan W'wargaz đã cố trừ khử chúng ta. Có thể chúng ta vẫn nên điều tra Tổ Thành Githyanki để tìm cách loại bỏ ký sinh.</content>
 	<content contentuid="he0624607g33d6g427fg9e4eg68be330d1486" version="1">Đây hẳn là vị thần họ thờ. Tôi không nhận ra là ai.</content>
 	<content contentuid="he0626c66g44f9g4954g87bag2f161d4c543a" version="1">&lt;i&gt;Rời đi.&lt;/i&gt;</content>
 	<content contentuid="he062b838g26f5g42e2ga520g41edcd047ea0" version="1">Giúp? ***... Tôi suýt bị *** giết rồi đấy!</content>
@@ -88144,7 +88140,7 @@ Phubbs - Greeting guests</content>
 	<content contentuid="he0e535f1ga95fg4453g8bf2gf25b6fc9a414" version="2">Chả giúp gì được ai cả!</content>
 	<content contentuid="he0e59087g9fd6g44a5gb9ddg0ab39d46f015" version="2">Tôi nghe lỏm được rằng lũ tà giáo đang chuyển mọi tù binh bắt được về tháp Moonrise.</content>
 	<content contentuid="he0e5fa10g9e41g42e3g8ce7gb92edcf90238" version="2">Thứ não phẳng tròn.</content>
-	<content contentuid="he0e65b9ag0d85g41d0gb37dgba2e6c7f12b7" version="5">Giúp Lae'zel tìm một Tổ ấp Githyanki.</content>
+	<content contentuid="he0e65b9ag0d85g41d0gb37dgba2e6c7f12b7" version="5">Giúp Lae'zel tìm một Tổ Thành Githyanki.</content>
 	<content contentuid="he0e67a0fg4407g4584g91f3gfff83af74781" version="1">Trung tâm của Giáo phái Đấng Tuyệt Đối nằm ở Tháp Moonrise. Có lẽ đó là nơi cha tôi bị giải tới</content>
 	<content contentuid="he0e75bd6g2e96g4b3bg8da1g5d78a202b13a" version="2">Thực thể này Miễn nhiễm với đòn đánh của bạn và không nhận sát thương. Xem xét thực thể để xem nó Miễn nhiễm với những gì. </content>
 	<content contentuid="he0e7b605g2fbbg45a1g9f91g4956c0024c60" version="2">*Thi thể trả lời ngươi một cách vô hồn.*</content>
@@ -90348,7 +90344,7 @@ Phubbs - Greeting guests</content>
 	<content contentuid="he6799709g405cg4fb2gb2a4g057fdd48621b" version="3">&lt;i&gt;Cố gắng dùng mồm mép.&lt;/i&gt;</content>
 	<content contentuid="he679f140g7a15g4f06gaf71ge8602b933165" version="3">*Có vẻ như cái giá của tự do đắt hơn ngươi tưởng. Ngươi chỉ đủ tiền mua nhà lao...*</content>
 	<content contentuid="he67a3ee1g062eg4619gbf5bgdb8f3ba03cfa" version="5">Ca lên một tiếng than ai oán để làm tổn thương cho những kẻ địch xung quanh.</content>
-	<content contentuid="he67b0782g445ag47a3g9d5bg5da1aef5f250" version="4">Tìm kiếm manh mối về Tổ ấp Githyanki cạnh con đèo núi về phía Tây Bắc.</content>
+	<content contentuid="he67b0782g445ag47a3g9d5bg5da1aef5f250" version="4">Tìm kiếm manh mối về Tổ Thành Githyanki cạnh con đèo núi về phía Tây Bắc.</content>
 	<content contentuid="he67b20abg85ddg4df2g9307g61fd7438dca6" version="2">Thi thể của chiến binh Githyanki. Chắc chắn gần đây có một Tổ ấp.</content>
 	<content contentuid="he67bdcf7ga2cdg44e2gad16g05b06c4d7357" version="1">Lời nguyền Ma Kiếm</content>
 	<content contentuid="he67c3bfcg03adg4a0ag8152g50bd868ed13c" version="1">Cứ cố mà chạy chữa. Cúng vái tứ phương, cầu xin, vay mượn, rồi trộm cắp đi. Hãy cứ thử hết mọi khả năng cho đến khi không còn cách nào khác đi.</content>
@@ -90721,12 +90717,12 @@ Phubbs - Greeting guests</content>
 	<content contentuid="he76102f9g1ac4g4b3bg8d9cgeb26f6966c68" version="1">Rồi - triển thôi! Đứng im một chỗ ngứa ngáy da thịt quá.</content>
 	<content contentuid="he761b680ge0a9g4466g81beg9429ec532db5" version="4">Có vẻ là một cái khuôn. Dùng để nung vũ khí hoặc giáp. Giờ chỉ cần tìm lò rèn của nó thôi.</content>
 	<content contentuid="he761c014gac57g4769gb98dgae474be10f6c" version="1">Mở khoá [1] công thức mới.</content>
-	<content contentuid="he7628ef5g742eg4b9eg858cg6dde60761cf4" version="2">Chắc chắn ở gần đây có một Tổ ấp Githyanki. Vị &lt;i&gt;ghustil&lt;/i&gt; ở đó sẽ có cách thanh tẩy chúng ta.</content>
+	<content contentuid="he7628ef5g742eg4b9eg858cg6dde60761cf4" version="2">Chắc chắn ở gần đây có một Tổ Thành Githyanki. Vị &lt;i&gt;ghustil&lt;/i&gt; ở đó sẽ có cách thanh tẩy chúng ta.</content>
 	<content contentuid="he764bc55g70bcg437agbd7bg7509bfac2bfe" version="2">Tôi sắp chạy hết nhiên liệu rồi. Tôi phải thoát khỏi bóng tối này, hoặc tìm ánh sáng.</content>
 	<content contentuid="he764c593gcfffg4601g8f06g10a869409e0f" version="2">I feel like a rothé in a tea shop.</content>
 	<content contentuid="he76559c8gde82g4e3cg9711g0c3fb7a51076" version="2">Mặc dù đa phần chỉ là đá thường, những miếng vảy dày cộp này ánh lên một màu sáng tinh thề mà không một loại đá nào tại Thực Thể Giới có được.</content>
 	<content contentuid="he765cf2cg359ag4bd9g8206g87f3b71f7c83" version="1">Viên đá này từng thuộc sở hữu của Orin, một trong ba kẻ điều khiển Vương miện của Karsus.</content>
-	<content contentuid="he76773begdaf9g40e6gbb61gc7b557ac04e5" version="1">Mọi Tổ ấp Githyanki đều chứa một &lt;i&gt;Zaith'isk&lt;/i&gt; - một thiết bị thanh tẩy.</content>
+	<content contentuid="he76773begdaf9g40e6gbb61gc7b557ac04e5" version="1">Mọi Tổ Thành Githyanki đều chứa một &lt;i&gt;Zaith'isk&lt;/i&gt; - một thiết bị thanh tẩy.</content>
 	<content contentuid="he767813cg2224g4a8eg97f1g726e4877fb26" version="1">Các sinh vật đi qua lớp thực vật um tùm này sẽ bị chia bốn phạm vi di chuyển.</content>
 	<content contentuid="he7682875g9c93g41f6g8158ga0ee597933a3" version="1">'Mụ ta sẽ huỷ diệt Baldur's Gate. Hãy trao linh hồn cho ta - rồi ta sẽ cho ngươi sức mạnh để cứu nó.'</content>
 	<content contentuid="he7689ca1ge9d4g4e3fg8818g17817f0701c9" version="5">'Sớm" vẫn còn hơi mơ hồ. Rốt cuộc là bao giờ?</content>
@@ -93700,7 +93696,7 @@ Yếu: Nhận gấp đôi sát thương A-xít.</content>
 	<content contentuid="hef3f4908gffe6g4e71g908bg26d934de2547" version="3">*Máu ngươi chảy xiết, ào ạt lấp đầy khoảng không trống rỗng sâu trong tâm trí ngươi.*</content>
 	<content contentuid="hef40e6cfg5070g4de6g9c41g4b49eaacad64" version="1">Bàn gỗ hồng sắc</content>
 	<content contentuid="hef40ebf7gb762g4a58gb132g4c744833b6a8" version="1">&lt;i&gt;Rời đi.&lt;/i&gt;</content>
-	<content contentuid="hef412547ged7bg4353g9187g33f69a042802" version="1">Chúng ta tìm thấy một đội tuần tra Githyanki cạnh đèo núi. Chúng ta nên nói chuyện với họ - có thể họ biết cách tìm đến Tổ ấp Githyanki nơi chúng ta có thể loại bỏ con ký sinh Illithid.</content>
+	<content contentuid="hef412547ged7bg4353g9187g33f69a042802" version="1">Chúng ta tìm thấy một đội tuần tra Githyanki cạnh đèo núi. Chúng ta nên nói chuyện với họ - có thể họ biết cách tìm đến Tổ Thành Githyanki nơi chúng ta có thể loại bỏ con ký sinh Illithid.</content>
 	<content contentuid="hef417935g46c2g4551g8204g7405794f0176" version="1">Một lời nguyền làm xói mòn cả đất đai? Cũng ấn tượng phết. </content>
 	<content contentuid="hef417e47g3380g402fgbb62gfe084e11a1d1" version="2">Nếu Jaheira tin anh, tôi cũng sẽ tin anh. Nhưng nói tôi không sợ con giun não của anh thì sẽ là nói dối.</content>
 	<content contentuid="hef419297gbca8g4a69g97edgbacfe85020ba" version="1">Gọi mưa rơi xuống. Nó sẽ dập tắt những ngọn lửa lộ thiên và tạo ra một bề mặt nước.</content>
@@ -93956,7 +93952,7 @@ Yếu: Nhận gấp đôi sát thương A-xít.</content>
 	<content contentuid="hefdc9e13g9cebg40b8ga950g50347660e60b" version="1">Linh hồn của ông ta đã bị thần chết đầu độc. Ông ta đã bị tha hoá bởi chính sự tận hiến lệch lạc của mình.</content>
 	<content contentuid="hefdca950g289ag4a16g9d72g4fd2e9d29e46" version="1">Đặt dấu chấm hết cho cuộc đời ngu xuẩn của các ngươi sẽ là một ơn huệ.</content>
 	<content contentuid="hefdd72c5g69b3g4784gad62g6b897dd105e8" version="1">Tôi thực sự xin chia buồn.</content>
-	<content contentuid="hefdd90d5gcd44g4dc9ga8e7g501f39bdef29" version="1">Ta đã đánh bại những chiến binh Githyanki, nhưng vẫn chưa tìm được một Tổ ấp Githyanki. Có lẽ trên người một trong số họ sẽ có manh mối.</content>
+	<content contentuid="hefdd90d5gcd44g4dc9ga8e7g501f39bdef29" version="1">Ta đã đánh bại những chiến binh Githyanki, nhưng vẫn chưa tìm được một Tổ Thành Githyanki. Có lẽ trên người một trong số họ sẽ có manh mối.</content>
 	<content contentuid="hefde8780g0d4cg4ae6ga618gdec8285af6dd" version="3">Súp thập cẩm</content>
 	<content contentuid="hefdeeb64g42d0g4766g9b48g25a2e70e1edb" version="2">Gọi Sét</content>
 	<content contentuid="hefdfa212gcb33g42b1ga00fg5bc20f45d168" version="1">Anh muốn mua hắn hả? Muốn ra giá thì nói, còn muốn dọa dẫm thì quên đi.</content>
@@ -95587,7 +95583,7 @@ Yếu: Nhận gấp đôi sát thương A-xít.</content>
 	<content contentuid="hf427f81cg0597g4cfagb224gf9c3de9ec128" version="1">Ông định làm gì cô ta?</content>
 	<content contentuid="hf4280a87g092ag4af4gabd1gf6c05afaf101" version="1">Tôi chỉ muốn nghỉ ngơi thôi. Cái chết có vẻ thật yên bình.</content>
 	<content contentuid="hf42833c5g903ag44acg8cccg6147859c68ab" version="1">Xin anh cân nhắc lại. Những người trong trại này cần giúp đỡ. Sức tôi cũng có hạn mà thôi.</content>
-	<content contentuid="hf428821dg1ff4g453egab5age7eb07e8d2f3" version="1">Tìm lối vào Tổ ấp Githyanki.</content>
+	<content contentuid="hf428821dg1ff4g453egab5age7eb07e8d2f3" version="1">Tìm lối vào Tổ Thành Githyanki.</content>
 	<content contentuid="hf4294048g42beg4e06g8a4cg40c28fffbd00" version="2">Phải đánh bằng cả đầu óc lẫn tay chân. Vũ khí hữu hiệu nhất chính là sự lanh lẹ!</content>
 	<content contentuid="hf429d4b8g0b55g4a96ga5dbg39fbb12f3b1e" version="2">Ôi thưa đức ngài đáng kính, thật là vinh dự làm sao khi được diện kiến cung điện hùng vĩ của ngài.</content>
 	<content contentuid="hf42ac514gc712g4ec5ga040ge6825cb20249" version="1">Một con mắt vàng khè trợn ngược bị đâm xuyên qua đầu mũi giáo.</content>
@@ -97177,7 +97173,7 @@ Yếu: Nhận gấp đôi sát thương A-xít.</content>
 	<content contentuid="hf816442eg9b73g437fgaf8age8da0a28ad01" version="1">Giờ không phải lúc - tôi bận rồi.</content>
 	<content contentuid="hf816c1dcgc03cg402ega406g188eaaf3bf12" version="1">Rào chông gãy</content>
 	<content contentuid="hf816e555ga950g40c5ga0fbgdbb4e15eb7bf" version="2">Ừ nhưng cô ấy gật đầu với&lt;i&gt; tôi&lt;/i&gt;. Một cách đầy ẩn ý nữa nhé.</content>
-	<content contentuid="hf8177bebgf3d5g40b7g8317ga99c079516b2" version="5">Tôi bị nhiễm ký sinh illithid, và được bảo rằng phải đến tìm Tổ ấp Githyanki. </content>
+	<content contentuid="hf8177bebgf3d5g40b7g8317ga99c079516b2" version="5">Tôi bị nhiễm ký sinh illithid, và được bảo rằng phải đến tìm Tổ Thành Githyanki. </content>
 	<content contentuid="hf818ad22gfbbbg41b8g980fgf720b78debf2" version="2">hoá thú: Myrmidon Lửa</content>
 	<content contentuid="hf818dc9bg378cg45d4g8a0bgda2cf62e521b" version="2">Tôi không muốn nói đâu, nhưng chúng ta nên cẩn thận. Chúng ta nên hiểu sức mạnh này trước khi sử dụng nó.</content>
 	<content contentuid="hf819a496g0e64g40c3gbb41g7be4cea766c7" version="1">Cho tôi biết thêm về gã thợ săn này đi - rõ ràng hắn không phải là ma cà rồng rồi. </content>
@@ -97278,7 +97274,7 @@ Yếu: Nhận gấp đôi sát thương A-xít.</content>
 	<content contentuid="hf8510048gea84g44adgb258gce0553e772f8" version="1">&lt;i&gt;--quỳ gối--&lt;/i&gt;</content>
 	<content contentuid="hf85124c6ge160g4e0cg862ag4ead9bb7475b" version="1">Rào chông gãy</content>
 	<content contentuid="hf8515c6cg7e44g4100gbba8g80b92f16c5ce" version="2">Khiên thủ: Chặn đòn</content>
-	<content contentuid="hf8518766g384ag4446g8e6dgf624fdc931b5" version="1">Chúng ta sẽ không thể nào đến được Tổ ấp Githyanki được nữa. Chúng ta nên bàn với Lae'zel về nước đi tiếp theo.</content>
+	<content contentuid="hf8518766g384ag4446g8e6dgf624fdc931b5" version="1">Chúng ta sẽ không thể nào đến được Tổ Thành Githyanki được nữa. Chúng ta nên bàn với Lae'zel về nước đi tiếp theo.</content>
 	<content contentuid="hf851abd4g2792g4419gbfd4gd540b839ee6f" version="1">Rào chông gãy</content>
 	<content contentuid="hf852a4b8gfd6cg40f4g8270gd6bd667d5de8" version="1">Chúng tôi đang xử lý.</content>
 	<content contentuid="hf8534f84g8f8bg482dg89cbgde46892168c2" version="1">Ta chỉ ngửi được thôi. Và ta biết thứ động cơ đang cháy bên trong ngươi chắc chắn sớm muộn gì cũng phát nổ. Mùi khét của động cơ và mùi của sợ hãi - hai thứ ấy toả &lt;i&gt;đầy &lt;/i&gt;khắp người ngươi.</content>
@@ -97460,7 +97456,7 @@ Yếu: Nhận gấp đôi sát thương A-xít.</content>
 	<content contentuid="hf8cc0aedg5ec8g473bg86a5g37c28ac0b00d" version="1">Quá khứ rất quan trọng. Tôi cần biết do đâu mà anh lại trở thành như thế này.</content>
 	<content contentuid="hf8cdf19cg45f2g45ecg975dg95f8a5f441bc" version="3">Khốn kiếp. Đến lúc rời chạy khỏi tầng mái này rồi.</content>
 	<content contentuid="hf8ce3ea6ge33eg4cf0g9daeg70fa65d90e8c" version="2">Chắc là rầm một cái rồi nổ cái toẹt.</content>
-	<content contentuid="hf8ce7c1agcb40g493agb502gc3e538df983e" version="1">Nói chuyện với vị chỉ huy ở Tổ ấp Githyanki.</content>
+	<content contentuid="hf8ce7c1agcb40g493agb502gc3e538df983e" version="1">Nói chuyện với vị chỉ huy ở Tổ Thành Githyanki.</content>
 	<content contentuid="hf8cee483g322fg452fgbd9fg11ff10244f79" version="1">*Cơn thịnh nộ của ngươi vang vọng khắp các nẻo bóng tối - tạo ra một sự kết nối. Thứ gì đó đã &lt;i&gt;chú ý&lt;/i&gt; đến ngươi.*</content>
 	<content contentuid="hf8cf035fg71b1g4d03g83f8g52aff0f4377e" version="1">Bảo chứng Hỏa ngục</content>
 	<content contentuid="hf8cf95a2ge1e4g4213gb0aeg971ba0dbe6cc" version="2">&lt;i&gt;Xem xét vết cắn kỹ hơn xem nó là răng của thứ gì.&lt;/i&gt;</content>
@@ -99593,7 +99589,7 @@ Yếu: Nhận gấp đôi sát thương A-xít.</content>
 	<content contentuid="hfe6fbda0g5c67g4f5dgad75ga125dd85b700" version="3">Welcome to Bách Phẩm Pháp Cụ, where every item carries the personal guarantee of Lorroakan, &lt;i&gt;Immortal&lt;/i&gt; Master of Ramazith's Tower. How can I help you?</content>
 	<content contentuid="hfe71557agca13g41fagbf08g8c2227a35fb7" version="2">Đến lúc rồi. Bắt Isobel thôi.</content>
 	<content contentuid="hfe718efegc840g4cebgbd21gf2d19778f3cf" version="1">Ờ, có phải ai sinh ra cũng được ngậm thìa vàng đâu.</content>
-	<content contentuid="hfe71a445g24cfg4900g9f61gfd99b5bb7ae2" version="3">Quên Halsin đi. Chỉ có Tổ ấp Githyanki mới nắm giữ cách chữa trị.</content>
+	<content contentuid="hfe71a445g24cfg4900g9f61gfd99b5bb7ae2" version="3">Quên Halsin đi. Chỉ có Tổ Thành Githyanki mới nắm giữ cách chữa trị.</content>
 	<content contentuid="hfe7262b9gc126g4799gb806g6181085bd75a" version="1">Phải có Phản xạ dùng được. </content>
 	<content contentuid="hfe72ce0dg10dfg4e5fga1deg78cbf699db68" version="2">Mind Flayer không có tên.</content>
 	<content contentuid="hfe7300bfg199fg41f5gb73eg531e43e644e0" version="3">Anh có biết tôi thích &lt;i&gt;nhất &lt;/i&gt;điểm gì ở anh không? Khi anh đóng vai một gã cao to ít nói. Nên muốn nói gì thì nói ngắn gọn thôi nhé?&lt;br&gt;&lt;br&gt;</content>
@@ -100213,10 +100209,12 @@ Yếu: Nhận gấp đôi sát thương A-xít.</content>
 	<content contentuid="hffff7744g4e5fg4b3agb876g7ce0dac94931" version="3">Dĩ nhiên là có rồi. Chú ấy đời nào đi đâu mà không rủ bạn theo. Mình vào thôi!</content>
 	<content contentuid="hffff8e50gcd5ag4d97gbc03gf783776542b4" version="3">Đừng làm vậy...</content>
 	<content contentuid="h5a7c3527gf45eg4b9bg8dbfge5cab021bb4c" version="60">'Điều mà các người khốn khổ không thể hiểu được là tất cả những trò phép thuật phù phiếm này đối với ta dễ dàng đến mức nào!' - Một pháp sư rất ngớ ngẩn tại buổi dạ hội của học viện pháp thuật. </content>
+	<!--/LỜI THOẠI VIỆT HÓA CCT -->
 
+	
 
 	<!-- [ĐỂ CUỐI CÙNG] THOẠI LỚN -->
-	<content contentuid="h1f7426e4g5353g4782g929agc070ab85e7fc" version="2">
+	<content contentuid="h1f7426e4g5353g4782g929agc070ab85e7fc" version="60">
     Yến Tiệc Cho Một Thập Nhật&lt;br&gt;&lt;br&gt;
         
     Phương phương (công thức) này cần một ngày hoặc hơn để hoàn tất;&lt;br&gt;
@@ -100263,7 +100261,7 @@ Yếu: Nhận gấp đôi sát thương A-xít.</content>
     Vị đầu bếp này ưa pasta; thật nhiều phô mai cứng mặn; trứng luộc chín kỹ; và một đĩa rau trộn xanh giòn mát bên cạnh.&lt;br&gt;
     </content>
 
-	<content contentuid="hb62d77f7g85a6g40cdgbcddg0628a2207325" version="1">
+	<content contentuid="hb62d77f7g85a6g40cdgbcddg0628a2207325" version="60">
 		Thoả Thuận Cấp Phép Người Dùng Cuối (EULA) hay Giao Ước Bị Nguyền Rủa Của Chúng Ta
 		Chào mừng, hỡi linh hồn phàm tục.
 
