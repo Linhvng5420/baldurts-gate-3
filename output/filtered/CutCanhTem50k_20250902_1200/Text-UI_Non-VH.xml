@@ -2,7 +2,7 @@
 <!-- Extracted Workkeys from BG3 English.xml -->
 <!-- Extracted on: 2025-09-02 13:46:47 -->
 <contentList>
-	<!-- TỔNG CONTENTUID: 1207 -->
+	<!-- TỔNG CONTENTUID: 1184 -->
 	 
 	<!-- Pattern: GEN_CheckMagicPocketGold - 195 entries -->
 	<content contentuid="h0027ee0agf662g41e1g9ed9g4317bcff54a0" version="2">If you want to read about it, you'll have to buy a copy. ([GEN_CheckMagicPocketGold_6057ad05-9492-4630-9f0a-be548b134c54]) </content>
@@ -224,7 +224,6 @@
 	<content contentuid="h07708944g3e02g4be0g8bafg95268664f882" version="1">Fever squeezes huge drops of thick oily sweat from the creature's pores, impairing its &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt;.</content>
 	<content contentuid="h08b62ef2g16aeg45f7g919bg4a96f8e1ffff" version="1">NO_LEVELTEMPLATE_TRANSFER tooltip</content>
 	<content contentuid="h08e1d767g6a07g4545ga409g90a35598e906" version="1">UI Scroll Tooltip Up</content>
-	
 	<content contentuid="h09b547ecgece1g477dga88dgfd31d33ecde6" version="1">| from &lt;LSTag Tooltip="Ability"&gt;Ability&lt;/LSTag&gt; </content>
 	<content contentuid="h0a95a4d7g545ag4b77gaef8gee58619c97fe" version="1">HENCHMAN tooltip</content>
 	<content contentuid="h0ae5615ega7f3g40fdgab13gc840ed1c1e8a" version="1">NOT_MESSING_AROUND tooltip</content>
@@ -246,7 +245,6 @@
 	<content contentuid="h17780eddg8deag4c3agb599ge2f6fb9d50df" version="1">Unless you are Undead, each time you cast a spell you receive [1] per spell level. In addition, you have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on all &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
 	<content contentuid="h18054e9dgf1d8g4499gb0e6g3f09c6331670" version="1">RECORD_QUEST tooltip</content>
 	<content contentuid="h18116268g0fc3g4732g87acg1906d2592035" version="1">SUMMON tooltip</content>
-	
 	<content contentuid="h19791e78g0714g44c2g8d91g832221a69b7a" version="1">METAL tooltip</content>
 	<content contentuid="h19802bd8gfd4cg4c83g9ab0g1128cda303f4" version="2">You are unaffected by &lt;LSTag Type="Status" Tooltip="HIDEOUS_LAUGHTER"&gt;Hideous Laughter&lt;/LSTag&gt;.</content>
 	<content contentuid="h1aad3e58gc805g4ffeg8b03ge9b40dbf38f8" version="2">Trap an enemy in your web to &lt;LSTag Type="Status" Tooltip="ENTOMBED"&gt;Entomb&lt;/LSTag&gt; it.</content>
@@ -268,7 +266,6 @@
 	<content contentuid="h27583d46ga884g46b4g9545gfb81cb82fe91" version="1">The fiend cannot &lt;LSTag Type="Status" Tooltip="INCUBUS_CHARM"&gt;Fiendishly Seduce&lt;/LSTag&gt; more than one creature at a time.</content>
 	<content contentuid="h27a2db44g01bag492cga4e9gd09f2a77b41a" version="3">Vlaakith has increased this creature's &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by [1] and all of its ability scores by [2]. It now fires [3] beams when it casts &lt;LSTag Type="Spell" Tooltip="Projectile_EldritchBlast"&gt;Eldritch Blast&lt;/LSTag&gt;.</content>
 	<content contentuid="h280c3e34g68b9g407cgb6a5g9f9995cc9917" version="2">Slather a target in mud, &lt;LSTag Type="Status" Tooltip="SLOW"&gt;Slowing&lt;/LSTag&gt; them.</content>
-	
 	<content contentuid="h292da459g6647g42a7ga7fcg731f45ae1b57" version="1">SEVEREDHEAD tooltip</content>
 	<content contentuid="h2a70fe3fg9251g483cga71bgc5489fc03330" version="2">You can't use this attack if you have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
 	<content contentuid="h2a717645g00aag465aga086g45e057c8d4af" version="2">Adjust how the supply cost of &lt;LSTag Tooltip="LongRest"&gt;Long Rests&lt;/LSTag&gt; grow.</content>
@@ -290,7 +287,6 @@
 	<content contentuid="h323c0ab7gc3c3g4891g926ega382f154fd18" version="1">Loose a bolt of necrotic energy. You can spend &lt;LSTag Type="Status" Tooltip="LOW_HOUNDMASTER_PREDATORESSENCE_1"&gt;Predator Essence&lt;/LSTag&gt; to empower the shot.</content>
 	<content contentuid="h3250febdg171dg4a5aga787g299cafc22b79" version="2">Locked through magical means. Can't be opened by lockpicking or the use of &lt;LSTag Type="Spell" Tooltip="Target_Knock"&gt;Knock&lt;/LSTag&gt;.</content>
 	<content contentuid="h332249d0g0aa7g4f50g983agf8fc9c27999b" version="1">Heals and removes &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt;.</content>
-	
 	<content contentuid="h33879b04g1d2fg4ce4ga654g34cf01dea723" version="1">IGNORE_HEIGHT_DIFFERENCE tooltip</content>
 	<content contentuid="h33a462e5gded0g44b1g8253g3fd7f87330ae" version="3">Give your Houndmaster the &lt;LSTag Type="Status" Tooltip="LOW_HOUNDMASTER_PREYESSENCE_1"&gt;Prey Essence&lt;/LSTag&gt; you collected.</content>
 	<content contentuid="h3473edefgdc77g4959ga02bgebcf133c828e" version="1">AVATAR tooltip</content>
@@ -312,7 +308,6 @@
 	<content contentuid="h4270e93fg9bccg4e0cg84aeg81b20a15a4d6" version="2">Hope always begins combat under the effects of &lt;LSTag Type="Status" Tooltip="DEATH_WARD"&gt;Death Ward&lt;/LSTag&gt;.</content>
 	<content contentuid="h43059bb4g290dg4898gbe73g9b483c1171e9" version="6">Raphael has consumed the power of a destroyed Soul Pillar. He is unable to cast spells using Souls until he transforms into the &lt;LSTag Type="Status" Tooltip="LOW_RAPHAEL_MONSTER_FORM"&gt;Ascended Fiend&lt;/LSTag&gt;.</content>
 	<content contentuid="h43d5b96ag1811g49c7g8b35gc918d096f393" version="6">Bestow &lt;LSTag Type="Status" Tooltip="LOW_FATHERCARRION_GREATERCURSE_1"&gt;Mystic Carrion's Poisoned Curse&lt;/LSTag&gt; on a foe.</content>
-	
 	<content contentuid="h4471c3a0g0931g4718ga17eg0d8db0101330" version="1">This grants Undead &lt;LSTag Type="Status" Tooltip="LOW_FATHERCARRION_SPIRITPARADE_BUFF"&gt;Guardian Wraiths&lt;/LSTag&gt; while haunting other creatures with &lt;LSTag Type="Status" Tooltip="LOW_FATHERCARRION_SPIRITPARADE_DEBUFF"&gt;Wrathful Spirits&lt;/LSTag&gt;.</content>
 	<content contentuid="h456d0b39gf734g4afbgbce4g2213a6e1dffe" version="4">Casting a spell or &lt;LSTag Tooltip="Cantrip"&gt;cantrip&lt;/LSTag&gt; makes you switch positions with a targeted creature.</content>
 	<content contentuid="h45b07718g2cd1g4a34g9dc2gca54629a883a" version="1">&lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silence&lt;/LSTag&gt; a creature with a psionic command.</content>
@@ -334,7 +329,6 @@
 	<content contentuid="h4fb6fbc5gae54g4a57gadadg0e4d4ba7b26e" version="4">Loose a bolt of necrotic energy. You can spend &lt;LSTag Type="Status" Tooltip="LOW_HOUNDMASTER_PREDATORESSENCE_1"&gt;Predator Essence&lt;/LSTag&gt; to empower the shot.</content>
 	<content contentuid="h501088aag0abdg4eb5gbe88gbda3e9c638cc" version="1">GNOLL_FLESHGNAWER tooltip</content>
 	<content contentuid="h50b7bc7bgbba1g4025g85a0gbd472d553b4d" version="1">PIG tooltip</content>
-	
 	<content contentuid="h51d24524gb7a1g439agafe5g4e372d841ddd" version="1">CHICKEN tooltip</content>
 	<content contentuid="h52c4f80fge03cg4feega2d8g1ec4ce8c1f1b" version="1">The scent of blood sends the sahuagin into a &lt;LSTag Type="Status" Tooltip="RAGE_SAHUAGIN"&gt;Blood-scent Frenzy&lt;/LSTag&gt;!</content>
 	<content contentuid="h52df6e9cg76d9g46acgafb9gf44b76eb59ef" version="5">While in their lair, the hag and her doubles have &lt;LSTag Type="Passive" Tooltip="MagicResistance"&gt;Magic Resistance&lt;/LSTag&gt;.</content>
@@ -356,7 +350,6 @@
 	<content contentuid="h5a0ccc93gcd6dg4771g8caegb97ea9040e95" version="1">Reward tooltip</content>
 	<content contentuid="h5a64703cg9082g4017gb22ag36c968896123" version="3">When you deal damage with a spell, inflict [1] turn of &lt;LSTag Type="Status" Tooltip="MAG_THUNDER_REVERBERATION"&gt;Reverberation&lt;/LSTag&gt; upon the target(s).</content>
 	<content contentuid="h5a6bfb57gf737g4996g8d9fg3da18df33343" version="1">&lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charm&lt;/LSTag&gt; an enemy attacking you. They will attack a new target if possible.</content>
-	
 	<content contentuid="h5aa47d18gb676g4157gbc61g66d25f0d4c4c" version="1">Channelling primordial might. Until the end of your &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt;, your weapon will deal an additional [1] and gain the &lt;LSTag Tooltip="Thrown"&gt;Thrown&lt;/LSTag&gt; property. If thrown, it will immediately reappear in your hand.</content>
 	<content contentuid="h5b8fcec2g6f9bg412egb7f5gd50c4ef456cd" version="1">Channelling primordial might. Until the end of your &lt;LSTag Type="Status" Tooltip="RAGE"&gt;Rage&lt;/LSTag&gt;, your weapon will deal an additional [1] and gain the &lt;LSTag Tooltip="Thrown"&gt;Thrown&lt;/LSTag&gt; property. If thrown, it will immediately reappear in your hand.</content>
 	<content contentuid="h5c1b65edgccd5g4afdgb88eg91eb0dfc06b8" version="1">AiHint_Teleport tooltip</content>
@@ -378,7 +371,6 @@
 	<content contentuid="h6837fcc6g5dafg4ae3g8aa3gb252e0d071d3" version="3">&lt;LSTag Type="Status" Tooltip="PARALYZED_SPECTATOR"&gt;Paralyzes&lt;/LSTag&gt; its target.</content>
 	<content contentuid="h69268682g18ddg43d8gbeb6g46fe886bd5d3" version="1">AI_PREFERRED_TARGET tooltip</content>
 	<content contentuid="h6a2bf69fg45d1g432cg8e57g5f3ce777a77d" version="1">&lt;LSTag Type="Status" Tooltip="CHILLED"&gt;Chilled&lt;/LSTag&gt; targets take double damage.</content>
-	
 	<content contentuid="h6be6d196g3e6dg44cagb363g1f45c6d092b8" version="6">Once per turn when an allied undead is slain, Mystic Carrion can use &lt;LSTag Type="Spell" Tooltip="Zone_LOW_FatherCarrion_SpiritParade"&gt;Torrential Undeath&lt;/LSTag&gt;.</content>
 	<content contentuid="h6d0d8f32ge23fg46f2ga40agfaaacdcd3a30" version="1">Intricate arcane lockmaking prevents &lt;LSTag Type="Spell" Tooltip="Target_Knock"&gt;Knock&lt;/LSTag&gt; spells from opening this safe.</content>
 	<content contentuid="h6d6eec7dgba28g4c6fg8a12gd9be912faef5" version="5">Magically &lt;LSTag Type="Status" Tooltip="INCUBUS_CHARM"&gt;Charm&lt;/LSTag&gt; a humanoid. </content>
@@ -400,7 +392,6 @@
 	<content contentuid="h75872263gcca1g4ee8g8d60g02c7372774fe" version="1">BADASSCIVILIAN tooltip</content>
 	<content contentuid="h75ac3596g5c28g4944g9568g6e487ff433e1" version="1">AiHint_Summoner tooltip</content>
 	<content contentuid="h75d86c29g8f55g4683ga8a4g6fca35a47f12" version="4">Sweep a warped appendage in front of you to &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;Bleed&lt;/LSTag&gt; targets and knock them back [1]. </content>
-	
 	<content contentuid="h7685afbegc152g4044gab41g0d617cebd137" version="1">MONSTROSITY tooltip</content>
 	<content contentuid="h76d453acgeab3g4378g9916g94d1b467999d" version="1">You can't use this attack if you have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
 	<content contentuid="h78de42e5g1bc7g4d55g82bag572d80d4ef6a" version="3">Cast your empty eyes towards a creature and &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frighten&lt;/LSTag&gt; it.</content>
@@ -422,7 +413,6 @@
 	<content contentuid="h849ee60fga4d5g4118ga868g0b41e0bf26ac" version="1">Fire a hefty ballista bolt that may &lt;LSTag Type="Status" Tooltip="PIN_DOWN"&gt;Pin Down&lt;/LSTag&gt; the target. </content>
 	<content contentuid="h84cac376gc86ag4944g9a09gdb4b4951e780" version="1">ABERRATION tooltip</content>
 	<content contentuid="h84e4ae21g94bcg45a3g84c7gf5da2d2932b1" version="2">Touch a foe with a heat like the bright core of a furnace, searing and &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt; them.</content>
-	
 	<content contentuid="h85587d88gc10bg4e22g8f6dgb7661c02737e" version="3">Each Predator Essence heals the Houndmaster for [2]. Moreover, he deals an additional [1] when he casts &lt;LSTag Type="Spell" Tooltip="Projectile_LOW_Houndmaster_GraveShot"&gt;Grave Shot&lt;/LSTag&gt;.</content>
 	<content contentuid="h896262dcge3c4g4f82g9341g721bdc1905ca" version="3">Fling a Flashblinder bomb that &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinds&lt;/LSTag&gt; foes.</content>
 	<content contentuid="h8aad0850g6da1g475eg97ebg7a89a01af744" version="1">BOOK tooltip</content>
@@ -444,7 +434,6 @@
 	<content contentuid="h97222a4ag47b5g4685ga09bg0c979aeaa848" version="5">If a foe moves in front of this active device, it'll launch a &lt;LSTag Type="Spell" Tooltip="Projectile_WYR_GrenadeLauncher_Gortash_Explosion"&gt;Concussion Grenade&lt;/LSTag&gt; at the end of the round, dealing [1] to all caught in the blast.</content>
 	<content contentuid="h973ec23dgd13dg4a86ga141g631f3310fd99" version="1">JAILOR tooltip</content>
 	<content contentuid="h9787a335g7658g4ec1g83f6g7c05f226822c" version="1">POISONED tooltip</content>
-	
 	<content contentuid="h97cd681bg7233g4a47gb550g872ebe0ec690" version="1">NO_PATHFINDING_PORTAL tooltip</content>
 	<content contentuid="h9977108ag3859g45b0ga68ag9dfe3c69a0e3" version="4">Characters attacking you in melee become &lt;LSTag Type="Status" Tooltip="STINKING_CLOUD"&gt;Nauseous&lt;/LSTag&gt;.</content>
 	<content contentuid="h9b7c0925g2827g4114gb190g64e463dbd0eb" version="4">Observe your prey carefully, allowing you to use &lt;LSTag Type="Spell" Tooltip="Target_SHA_Orthon_BlindingPursuit_Ranged"&gt;Blinding Ambush&lt;/LSTag&gt; when it attempts to attack or cast a spell.</content>
@@ -466,7 +455,6 @@
 	<content contentuid="ha2331aa8gbb2ag489dg899agbfebe92b19d4" version="2">Begin a ritual that will end in you casting &lt;LSTag Type="Spell" Tooltip="Shout_LOW_BhaalCultist_PowerWordKill_Ritual"&gt;Power Word Kill&lt;/LSTag&gt; upon the next eligible target you see.</content>
 	<content contentuid="ha23cec43g0ab4g457ag8c3cg4676cb62d9e4" version="2">&lt;LSTag Type="Status" Tooltip="POISONED"&gt;Poison&lt;/LSTag&gt; a target.</content>
 	<content contentuid="ha310aaf8ge08cg4f8bga24ega5a94e64d883" version="2">If you make a weapon attack, you can &lt;LSTag Type="Spell" Tooltip="Target_ShieldShove"&gt;Shove&lt;/LSTag&gt; a creature with your shield as a bonus action.</content>
-	
 	<content contentuid="ha3a08c23g045eg455cg8365g0aab1c2fccd0" version="2">You can't use this attack if you have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
 	<content contentuid="ha3abedd9g331bg442bg8d7bgc23a0ecc3382" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; Redcap must be under the effects of &lt;LSTag Type="Status" Tooltip="BLOODLUST_REDCAP"&gt;Bloodlust&lt;/LSTag&gt;.</content>
 	<content contentuid="ha3e20467g66abg4096g9dd8g09d7c1fd7070" version="1">FEY tooltip</content>
@@ -488,7 +476,6 @@
 	<content contentuid="hafc11d71g6c18g45f7g8d29g3a0d44aebe4a" version="4">This Steel Watcher is preparing to &lt;LSTag Type="Spell" Tooltip="Projectile_SteelWatcher_Biped_SelfDestructExplosion"&gt;Self-Detonate&lt;/LSTag&gt;.</content>
 	<content contentuid="hb006eae7g40acg4ec7gb38cg29ce9846dd53" version="7">The Justiciar strikes at their foe's brain with pure malice, inflicting &lt;LSTag Type="Status" Tooltip="SHA_JUSTICIAR_CALLOFTHEDARK"&gt;Call of the Dark Lady&lt;/LSTag&gt;.</content>
 	<content contentuid="hb0f60b08g9b0bg4ebegbb12g1abbef2285fb" version="2">Use a &lt;LSTag Type="ActionResource" Tooltip="BonusActionPoint"&gt;bonus action&lt;/LSTag&gt; to attack the next closest target with the same attack.</content>
-	
 	<content contentuid="hb143ad7cgf0b8g468eg8d08g55d4a7e29164" version="1">NIGHTMARE tooltip</content>
 	<content contentuid="hb2df6449g45c1g4c11g8127g68840eaa527b" version="11">The Netherbrain is too powerful for even the Momentary God's magic - &lt;LSTag Type="Spell" Tooltip="Target_END_Mindflayer_CrownDomination"&gt;Karsus' Compulsion&lt;/LSTag&gt; could not dominate it completely.&lt;br&gt;&lt;br&gt;The spell has instead bound the brain's will in place temporarily. To complete the domination, you must strike it down. </content>
 	<content contentuid="hb5821feag2ff1g4781gbae9g883a69741d6a" version="4">The warlock bound to this weapon is always &lt;LSTag Tooltip="Proficiency"&gt;Proficient&lt;/LSTag&gt; with it. The weapon's damage is magical and uses the warlock's &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; modifier.</content>
@@ -510,7 +497,6 @@
 	<content contentuid="hbc96611cg280eg4695g9993g2caa7ae379c0" version="7">Once per round, Yurgir can spend a Legendary Action to &lt;LSTag Type="Spell" Tooltip="Projectile_SHA_Orthon_BlindingPursuit_Ranged"&gt;Blinding Ambush&lt;/LSTag&gt; a &lt;LSTag Type="Status" Tooltip="SHA_ORTHON_TRACKED"&gt;Hunted&lt;/LSTag&gt; creature when it attempts to attack or cast a spell.</content>
 	<content contentuid="hbc9b865agf6bbg4803g9bbegd89f4e452ba7" version="1">SHOVEL tooltip</content>
 	<content contentuid="hbd51aa9eg9734g4926g9b94gee5bb933f306" version="1">Once per round, after being hit, Ptaris can spend a Legendary Action to surround his attacker in &lt;LSTag Type="Status" Tooltip="LOW_GITHYANKIPRODIGY_PACIFIED_AURA"&gt;Ptarian Pacifism&lt;/LSTag&gt;.</content>
-	
 	<content contentuid="hbf281dd9g2836g4511gb690g1ba7ae352d35" version="1">Sarevok can use &lt;LSTag Type="Spell" Tooltip="Target_LOW_DeathbringerAssault_Sarevok"&gt;Deathbringer Assault&lt;/LSTag&gt; until the end of his next turn.</content>
 	<content contentuid="hc06ef6dagbd19g4b83gb0a9gfaaae2bf2b42" version="1">AiHint_Mage tooltip</content>
 	<content contentuid="hc10e99dfgff45g440cg86c0g19e1424a2f35" version="1">Shoot an eye ray that &lt;LSTag Type="Status" Tooltip="CONFUSION_RAY"&gt;Befuddles&lt;/LSTag&gt; its target.</content>
@@ -532,7 +518,6 @@
 	<content contentuid="hccead8c1ga3c9g4943ga5a6gfb03af0f2e20" version="4">Put a creature to &lt;LSTag Type="Status" Tooltip="SLEEP"&gt;sleep&lt;/LSTag&gt;.</content>
 	<content contentuid="hcd0bcadeg809eg42deg8a97g2f8ca330a296" version="5">The Nightbringer's dark arcana stops this entity being directly targeted by spells or attacks until it takes a harmful action. Areas of effect can still harm this entity. Viconia can still use &lt;LSTag Type="Spell" Tooltip="Target_LOW_Viconia_HeartWrench"&gt;Heartwrench&lt;/LSTag&gt; and keep this protection.</content>
 	<content contentuid="hcfd80f1cg558eg4e06gabfag6ec2128f44d0" version="2">Expel crystalline scales outward, possibly causing targets to &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;Bleed&lt;/LSTag&gt;.</content>
-	
 	<content contentuid="hd0149b8dg0c29g48c7gbcf1g571f26915947" version="1">COMPANION tooltip</content>
 	<content contentuid="hd02115dagfffeg4bf3g8fefge2a9a7bca9c6" version="2">You learn how to cast &lt;LSTag Type="Spell" Tooltip="Target_Levitate"&gt;Levitate&lt;/LSTag&gt;.</content>
 	<content contentuid="hd0c5788fg3f9dg4b9egbea5g0178ed7298a7" version="1">You must &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt; to use this feature again.</content>
@@ -554,7 +539,6 @@
 	<content contentuid="hd96a4b1dgf5eag4249gaa62ga8203c8a6c59" version="2">Dragonborn hatch with different natural &lt;LSTag Tooltip="Resistant"&gt;Resistances&lt;/LSTag&gt; and devastating breath attacks based on their scale pigment.</content>
 	<content contentuid="hd9d931cag8004g4e18gbd00g324929d4b3e9" version="8">The Crown of Karsus can crush the nearest enemy with its &lt;LSTag Type="Spell" Tooltip="Projectile_EnervationRay"&gt;Karsite Grip&lt;/LSTag&gt;. This ancient spell immediately strikes 3 additional targets within [2]. </content>
 	<content contentuid="hda4eb1b3gce2ag443cg93c7gdaea828b2f72" version="6">Anyone within the &lt;LSTag Type="Spell" Tooltip="Target_TAD_MindSanctuary&gt;Mind Sanctuary&lt;/LSTag&gt; can take actions and bonus actions interchangeably.</content>
-	
 	<content contentuid="hdab1f97ege808g4347g8214g95f48e19ba9e" version="1">Shoot an eye ray that &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightens&lt;/LSTag&gt; its target.</content>
 	<content contentuid="hdae7d863gabf7g4c50gb58egb247253629e5" version="1">AGGRESSIVEBEAST tooltip</content>
 	<content contentuid="hdb2da0b8g6265g4f49g8b72g859bf0b9598a" version="1">Your Dexterity &lt;LSTag Tooltip="Abilities"&gt;score&lt;/LSTag&gt; is reduced by 2.</content>
@@ -576,7 +560,6 @@
 	<content contentuid="he3751091g438ag4400g91d2gab42b3279db8" version="2">Strike a creature with the Flail of Dread Skulls and possibly drive it &lt;LSTag Type="Status" Tooltip="MADNESS"&gt;Mad&lt;/LSTag&gt;.</content>
 	<content contentuid="he53b3210g8058g4595gaa3fg3f08810a3ae3" version="1">TIGER tooltip</content>
 	<content contentuid="he6667f83g377ag49bega8f1gf5f6ea5d7206" version="2">You are Downed - take a &lt;LSTag Tooltip="ShortRest"&gt;Short Rest&lt;/LSTag&gt; to heal.</content>
-	
 	<content contentuid="he6ec8318g1da6g40d0g9fb6gbc2f544f0ecf" version="1">GNOLL_FLIND tooltip</content>
 	<content contentuid="he7084d83g8395g4d83gb231ge9d673a1cca8" version="5">Give in to the owlbear's base instincts to increase your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; and &lt;LSTag Tooltip="Constitution"&gt;Constitution&lt;/LSTag&gt; by [1], gain [2], and possibly make nearby creatures &lt;LSTag Type="Status" Tooltip="FEARED"&gt;Fearful&lt;/LSTag&gt;.</content>
 	<content contentuid="he7ac956fge836g48f8g9c9bgbb327a4e7803" version="2">Paladin Har'rak can use a Legendary Action to cast &lt;LSTag Type="Spell" Tooltip="Target_LOW_GithyankiPaladin_VlaakithsCry"&gt;Tu'narath's Embrace&lt;/LSTag&gt; on an ally to prevent an &lt;LSTag Tooltip="IncapacitatingCondition"&gt;Incapacitating Condition&lt;/LSTag&gt;.</content>
@@ -590,7 +573,6 @@
 	<content contentuid="hec16e5d8gb583g4194gbaccg0ee450c6b113" version="2">Take 2 &lt;LSTag Tooltip="Action"&gt;actions&lt;/LSTag&gt; per round.</content>
 	<content contentuid="hed0fb6c4gb8cdg480agafdbgb2a99e317a91" version="3">This scion of the Lich Queen has had its &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; increased by [1], all of its Ability Scores increased by [1], and fires [3] beams when casting &lt;LSTag Type="Spell" Tooltip="Projectile_EldritchBlast"&gt;Eldritch Blast&lt;/LSTag&gt;.</content>
 	<content contentuid="hed1cbe26g950fg481dg90fbgda57056754e7" version="1">When you make Intelligence or Wisdom &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; or Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;, replace rolls of 9 or lower with a 10.</content>
-	
 	<content contentuid="hee8636degfdeag4206g8846gd1d1eaf930f3" version="1">IGNOREVANDALISE tooltip</content>
 	<content contentuid="heebc23deg28bbg4929g8253g4c1091c49dfe" version="5">Possibly &lt;LSTag Type="Status" Tooltip="STAGGERING_SMITE"&gt;Stagger&lt;/LSTag&gt; your target. It can't take reactions and is more likely to miss.</content>
 	<content contentuid="hef066eb2g40cbg4d5dg9802gd75b151ccdb9" version="1">Undead creatures summoned by &lt;LSTag Type="Spell" Tooltip="Target_CursedTome_WakeTheDead"&gt;Danse Macabre&lt;/LSTag&gt; are also hostile towards you.</content>
@@ -1210,32 +1192,6 @@
 	<content contentuid="heeb6ed3eg7678g4800g9b37gbdfd0653966b" version="1">| SpeakTo Normal &lt;br&gt;Relation_Netural v2 |&lt;br&gt;</content>
 	<content contentuid="hf9b438bbgca78g491dgaaa5g64110719af76" version="1">| SpeakTo Normal &lt;br&gt;Relation_Romantic v6 |</content>
 	<content contentuid="hfe6b4202g3753g4a9cgb7a7g10566fdc044b" version="1">| SpeakTo Normal &lt;br&gt;Relation_Negative v10 |</content>
-
-	<!-- Pattern: SpeakTo Shadowheart - 24 entries -->
-	<content contentuid="h02f34894g0791g4184g8b2dg1de7c0d3cdfc" version="1">|SpeakTo Shadowheart Sneaking v7 </content>
-	<content contentuid="h0459005bg41cbg4c72gac18ge92596ca626f" version="1">|SpeakTo Shadowheart Normal v3 </content>
-	<content contentuid="h13422e4fg6101g44ddgb0bdge8661a9af93a" version="1">|SpeakTo Shadowheart Sneaking v3 </content>
-	<content contentuid="h2dbf44d0g1c89g4181g97f5gb97fa5e3834e" version="1">|SpeakTo Shadowheart Normal v8 |</content>
-	<content contentuid="h30013fd3gd845g4cd3g9692gf2021f343e3a" version="1">|SpeakTo Shadowheart Normal v1 |</content>
-	<content contentuid="h37a95f96ge95bg4febg9739gc0adf0456d61" version="1">|SpeakTo Shadowheart Normal v9 |</content>
-	<content contentuid="h42a74075gb213g40a4g84dcgde2488b64067" version="1">|SpeakTo Shadowheart Normal v5 |&lt;br&gt;&lt;br&gt;</content>
-	<content contentuid="h4a0bbcc3g69e0g4d30gbcd2g5eabda68344f" version="1">|SpeakTo Shadowheart Sneaking v1 |</content>
-	<content contentuid="h5666557bg5d8eg4408g9a43g3f9d18aa6c07" version="1">|SpeakTo Shadowheart Normal v7 |</content>
-	<content contentuid="h5c5a9576gdd51g4105ga3c4g5a07f2dafe2a" version="1">|SpeakTo Shadowheart Normal v10 |&lt;br&gt;</content>
-	<content contentuid="h61093c82g1a03g47a3g8316gcab8d707e822" version="1">|SpeakTo Shadowheart Normal v11 |&lt;br&gt;&lt;br&gt;</content>
-	<content contentuid="h675702eeg3591g460agaa1eg572b84a6ced9" version="1">|SpeakTo Shadowheart Normal v2 |</content>
-	<content contentuid="h6a75fec2gc6c3g49b2g8207g44f951f1f524" version="1">|SpeakTo Shadowheart Normal v12 |</content>
-	<content contentuid="h6b65b0beg2cb7g44e1ga486gc70b670b34af" version="1">|SpeakTo Shadowheart Sneaking v8 |</content>
-	<content contentuid="h6df792b8gca78g46e5g8589g1b24a2e13f07" version="1">|SpeakTo Shadowheart Normal v4 |&lt;br&gt;</content>
-	<content contentuid="h7f944d8age776g481bgb990g395c3b1fda94" version="1">|SpeakTo Shadowheart Sneaking v2 |</content>
-	<content contentuid="h80ab97e2g7319g4452g93a1g4f32825c90ff" version="1">|SpeakTo Shadowheart Normal v6 |</content>
-	<content contentuid="h8705354fg87d8g4183g8f4cgdfa0cd34fb41" version="1">|SpeakTo Shadowheart Sneaking v11 |&lt;br&gt;&lt;br&gt;</content>
-	<content contentuid="h873245f2g1731g4de1g9df8g15d501edb0c6" version="1">|SpeakTo Shadowheart Sneaking v10 |&lt;br&gt;</content>
-	<content contentuid="ha4f7977bg8642g49f4g93dcge3be5468c5c6" version="1">|SpeakTo Shadowheart Sneaking v4 |&lt;br&gt;</content>
-	<content contentuid="hd0c82423gf5b0g42e1g85a6gbf70c1b669ad" version="1">|SpeakTo Shadowheart Sneaking v9 |</content>
-	<content contentuid="hd7d0afdag10f3g4548ga8bcg1882a2703932" version="1">|SpeakTo Shadowheart Sneaking v12 |</content>
-	<content contentuid="hde681920g3553g4ac5ga2b6gd6f2e16ad686" version="1">|SpeakTo Shadowheart Sneaking v6 |</content>
-	<content contentuid="hef333726g9a41g46a3gaf05gd4ec050e915b" version="1">|SpeakTo Shadowheart Sneaking v5 |&lt;br&gt;&lt;br&gt;</content>
 
 	<!-- Pattern: SpeakTo Shadowheart - 24 entries -->
 	<content contentuid="h02f34894g0791g4184g8b2dg1de7c0d3cdfc" version="1">|SpeakTo Shadowheart Sneaking v7 </content>

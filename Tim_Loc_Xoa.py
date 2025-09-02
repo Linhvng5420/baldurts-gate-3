@@ -147,7 +147,7 @@ def xuat_ket_qua_ra_xml(ket_qua, noi_dung_tim_kiem):
 
 def xoa_noi_dung(duong_dan_file, ket_qua):
     """
-    Xóa nội dung đã tìm thấy từ file
+    Xóa nội dung đã tìm thấy từ file bằng cách xóa dòng, giữ nguyên format gốc
     
     Args:
         duong_dan_file (str): Đường dẫn đến file XML cần xóa nội dung
@@ -157,45 +157,71 @@ def xoa_noi_dung(duong_dan_file, ket_qua):
         bool: True nếu xóa thành công, False nếu có lỗi
     """
     try:
-        # Đọc file XML
-        tree = ET.parse(duong_dan_file)
-        root = tree.getroot()
+        # Đọc toàn bộ nội dung file
+        with open(duong_dan_file, 'r', encoding='utf-8') as f:
+            lines = f.readlines()
+        
+        # Tạo file backup trước khi sửa đổi
+        backup_dir = os.path.dirname(duong_dan_file)
+        backup_file = os.path.join(backup_dir, f"backup_{os.path.basename(duong_dan_file)}")
+        
+        with open(backup_file, 'w', encoding='utf-8') as f:
+            f.writelines(lines)
+            
+        print(f"Đã tạo file backup: {backup_file}")
         
         # Tạo danh sách contentuid cần xóa
         uid_can_xoa = [item[0] for item in ket_qua]
         
-        # Đếm số phần tử bị xóa
+        # Tìm và đánh dấu các dòng cần xóa
+        dong_can_xoa = set()
         so_luong_xoa = 0
         
-        # Tìm và xóa các phần tử content có contentuid trong danh sách cần xóa
-        for content in root.findall('.//content'):
-            content_uid = content.get('contentuid')
-            if content_uid in uid_can_xoa:
-                root.remove(content)
-                so_luong_xoa += 1
+        i = 0
+        while i < len(lines):
+            line = lines[i].strip()
+            # Tìm dòng bắt đầu thẻ content
+            if '<content contentuid=' in line:
+                # Tìm contentuid trong dòng này
+                for uid in uid_can_xoa:
+                    if f'contentuid="{uid}"' in line:
+                        # Đánh dấu dòng bắt đầu để xóa
+                        start_line = i
+                        
+                        # Nếu thẻ đóng trên cùng dòng
+                        if '</content>' in line:
+                            dong_can_xoa.add(i)
+                            so_luong_xoa += 1
+                        else:
+                            # Tìm dòng kết thúc thẻ content
+                            j = i + 1
+                            while j < len(lines):
+                                if '</content>' in lines[j]:
+                                    # Đánh dấu tất cả dòng từ start_line đến j
+                                    for k in range(start_line, j + 1):
+                                        dong_can_xoa.add(k)
+                                    so_luong_xoa += 1
+                                    break
+                                j += 1
+                        break
+            i += 1
         
-        # Kiểm tra nếu số lượng xóa khác với số lượng tìm thấy
+        # Tạo nội dung mới bằng cách loại bỏ các dòng đã đánh dấu
+        new_lines = []
+        for i, line in enumerate(lines):
+            if i not in dong_can_xoa:
+                new_lines.append(line)
+        
+        # Ghi lại file gốc với nội dung đã xóa, giữ nguyên format
+        with open(duong_dan_file, 'w', encoding='utf-8') as f:
+            f.writelines(new_lines)
+        
+        print(f"Đã xóa {so_luong_xoa} phần tử từ file: {duong_dan_file}")
+        
+        # Kiểm tra nếu số lượng xóa khác với số lượng yêu cầu
         if so_luong_xoa != len(uid_can_xoa):
             print(f"Cảnh báo: Chỉ tìm thấy và xóa {so_luong_xoa}/{len(uid_can_xoa)} phần tử")
         
-        # Tạo file backup trước khi ghi đè
-        backup_dir = os.path.dirname(duong_dan_file)
-        backup_file = os.path.join(backup_dir, f"backup_{os.path.basename(duong_dan_file)}")
-        
-        # Ghi file backup với định dạng đẹp
-        formatted_xml = format_xml(root)
-        with open(backup_file, 'w', encoding='utf-8') as f:
-            f.write('<?xml version="1.0" encoding="utf-8"?>\n')
-            f.write(formatted_xml)
-            
-        print(f"Đã tạo file backup: {backup_file}")
-        
-        # Ghi lại file gốc với định dạng đẹp
-        with open(duong_dan_file, 'w', encoding='utf-8') as f:
-            f.write('<?xml version="1.0" encoding="utf-8"?>\n')
-            f.write(formatted_xml)
-        
-        print(f"Đã xóa {so_luong_xoa} phần tử từ file: {duong_dan_file}")
         return True
         
     except Exception as e:
@@ -234,8 +260,12 @@ def phan_tich_file_xml(duong_dan_file):
         tree = ET.parse(duong_dan_file)
         root = tree.getroot()
         
-        # Đếm số lượng phần tử content
+        # Đếm số lượng phần tử content và contentUID duy nhất
         so_luong_content = len(root.findall('.//content'))
+        contentuid_list = [content.get('contentuid') for content in root.findall('.//content')]
+        contentuid_duy_nhat = list(set(contentuid_list))
+        so_luong_contentuid_duy_nhat = len(contentuid_duy_nhat)
+        so_luong_contentuid_trung_lap = so_luong_content - so_luong_contentuid_duy_nhat
         
         # Lấy thông tin về kích thước file
         kich_thuoc_file = os.path.getsize(duong_dan_file)
@@ -246,7 +276,10 @@ def phan_tich_file_xml(duong_dan_file):
         print(f"- Tổng số dòng: {tong_so_dong}")
         print(f"- Số dòng trống: {so_dong_trong}")
         print(f"- Số dòng không trống: {so_dong_khong_trong}")
-        print(f"- Số lượng contentuid: {so_luong_content}")
+        print(f"- Số lượng content: {so_luong_content}")
+        print(f"- Số lượng contentUID duy nhất: {so_luong_contentuid_duy_nhat}")
+        if so_luong_contentuid_trung_lap > 0:
+            print(f"- Số lượng contentUID trùng lặp: {so_luong_contentuid_trung_lap}")
         print(f"- Kích thước file: {kich_thuoc_kb:.2f} KB")
         
         return {
@@ -255,12 +288,66 @@ def phan_tich_file_xml(duong_dan_file):
             'so_dong_trong': so_dong_trong,
             'so_dong_khong_trong': so_dong_khong_trong,
             'so_luong_content': so_luong_content,
+            'so_luong_contentuid_duy_nhat': so_luong_contentuid_duy_nhat,
+            'so_luong_contentuid_trung_lap': so_luong_contentuid_trung_lap,
             'kich_thuoc_kb': kich_thuoc_kb,
-            'contentuid_list': [content.get('contentuid') for content in root.findall('.//content')]
+            'contentuid_list': contentuid_duy_nhat
         }
         
     except Exception as e:
         print(f"Lỗi khi phân tích file: {e}")
+        return None
+
+def tim_contentuid_trung_lap_trong_file(duong_dan_file):
+    """
+    Tìm các contentUID trùng lặp trong cùng một file
+    
+    Args:
+        duong_dan_file (str): Đường dẫn đến file XML
+        
+    Returns:
+        dict: Thông tin về các contentUID trùng lặp
+    """
+    try:
+        tree = ET.parse(duong_dan_file)
+        root = tree.getroot()
+        
+        contentuid_count = {}
+        contentuid_trung_lap = {}
+        
+        # Đếm số lần xuất hiện của mỗi contentUID
+        for content in root.findall('.//content'):
+            contentuid = content.get('contentuid')
+            if contentuid:
+                if contentuid in contentuid_count:
+                    contentuid_count[contentuid] += 1
+                    if contentuid not in contentuid_trung_lap:
+                        contentuid_trung_lap[contentuid] = []
+                    contentuid_trung_lap[contentuid].append(content.text)
+                else:
+                    contentuid_count[contentuid] = 1
+        
+        # Lọc ra những contentUID xuất hiện nhiều hơn 1 lần
+        contentuid_trung_lap_filtered = {k: v for k, v in contentuid_trung_lap.items() if contentuid_count[k] > 1}
+        
+        if contentuid_trung_lap_filtered:
+            print(f"\nTìm thấy {len(contentuid_trung_lap_filtered)} contentUID trùng lặp trong file:")
+            for contentuid, noi_dung_list in contentuid_trung_lap_filtered.items():
+                print(f"- {contentuid}: xuất hiện {contentuid_count[contentuid]} lần")
+                for i, noi_dung in enumerate(noi_dung_list):
+                    noi_dung_rut_gon = noi_dung[:50] + "..." if len(noi_dung) > 50 else noi_dung
+                    print(f"  {i+1}. {noi_dung_rut_gon}")
+        else:
+            print("\nKhông tìm thấy contentUID trùng lặp trong file")
+            
+        return {
+            'so_luong_trung_lap': len(contentuid_trung_lap_filtered),
+            'contentuid_trung_lap': contentuid_trung_lap_filtered,
+            'contentuid_count': contentuid_count
+        }
+        
+    except Exception as e:
+        print(f"Lỗi khi tìm contentUID trùng lặp: {e}")
         return None
 
 def so_sanh_hai_file_xml(file_a, file_b):
@@ -608,7 +695,13 @@ def phan_tich():
             continue
         
         # Thực hiện phân tích
-        phan_tich_file_xml(duong_dan_file)
+        ket_qua = phan_tich_file_xml(duong_dan_file)
+        
+        if ket_qua and ket_qua['so_luong_contentuid_trung_lap'] > 0:
+            print(f"\n⚠️  Phát hiện {ket_qua['so_luong_contentuid_trung_lap']} contentUID trùng lặp!")
+            kiem_tra = input("Bạn có muốn xem chi tiết các contentUID trùng lặp? (y/n): ")
+            if kiem_tra.lower() == 'y':
+                tim_contentuid_trung_lap_trong_file(duong_dan_file)
 
 def so_sanh():
     """
@@ -663,11 +756,14 @@ def so_sanh():
         print("9. Lọc các contentUID chỉ có trong file B ra file")
         print("10. Lọc các contentUID không trùng nhau ở cả hai file")
         print("0. Quay lại")
+        print("00. Quay về màn hình chính")
         
         lua_chon = input("\nNhập lựa chọn của bạn: ")
         
         if lua_chon == "0":
             continue
+        elif lua_chon == "00":
+            break
             
         elif lua_chon == "1":
             # Lọc ra file
