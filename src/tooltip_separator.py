@@ -17,6 +17,11 @@ def extract_tooltips_from_line(line):
     tooltips = re.findall(tooltip_pattern, line)
     return tooltips
 
+def extract_text_content(line):
+    """Trích xuất nội dung text từ dòng XML"""
+    text_match = re.search(r'>([^<]*)', line)
+    return text_match.group(1) if text_match else ""
+
 def categorize_content_by_tooltips(input_file):
     """Phân loại nội dung theo tooltips"""
     tooltip_contents = defaultdict(list)
@@ -51,8 +56,8 @@ def categorize_content_by_tooltips(input_file):
     
     return tooltip_contents
 
-def save_tooltip_report(tooltip_contents, output_dir):
-    """Lưu file báo cáo thống kê tooltip"""
+def save_tooltip_report(tooltip_contents, output_dir, sort_content=False):
+    """Lưu file báo cáo thống kê tooltip và file XML phân nhóm theo tooltip"""
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
     
@@ -65,7 +70,10 @@ def save_tooltip_report(tooltip_contents, output_dir):
     with open(report_file, 'w', encoding='utf-8') as report:
         report.write("=== BÁO CÁO PHÂN LOẠI TOOLTIP ===\n")
         report.write(f"Thời gian tạo: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
-        report.write(f"Tổng số tooltip khác nhau: {len(tooltip_contents)}\n\n")
+        report.write(f"Tổng số tooltip khác nhau: {len(tooltip_contents)}\n")
+        if sort_content:
+            report.write("Nội dung được sắp xếp theo thứ tự a-z trong mỗi nhóm tooltip\n")
+        report.write("\n")
         
         # Tính tổng số entries
         total_entries = sum(len(contents) for contents in tooltip_contents.values())
@@ -128,13 +136,17 @@ def save_tooltip_report(tooltip_contents, output_dir):
                 report.write("-" * 50 + "\n")
                 
                 # Hiển thị tối đa 10 ví dụ đầu tiên
-                for i, content in enumerate(contents[:10]):
+                # Sắp xếp dữ liệu nếu cần
+                contents_to_show = contents
+                if sort_content:
+                    contents_to_show = sorted(contents, key=lambda x: extract_text_content(x['line']).lower())
+                
+                for i, content in enumerate(contents_to_show[:10]):
                     uid = re.search(r'contentuid="([^"]+)"', content['line'])
                     uid_text = uid.group(1) if uid else "N/A"
                     
                     # Lấy text content (phần sau >)
-                    text_match = re.search(r'>([^<]*)', content['line'])
-                    text_content = text_match.group(1) if text_match else ""
+                    text_content = extract_text_content(content['line'])
                     text_display = text_content[:50] + "..." if len(text_content) > 50 else text_content
                     
                     report.write(f"  {i+1:2d}. UID: {uid_text:<30} | Text: {text_display}\n")
@@ -156,13 +168,17 @@ def save_tooltip_report(tooltip_contents, output_dir):
                 report.write(f"\n  >>> {tooltip} ({count} entries):\n")
                 
                 # Chỉ hiển thị 1 ví dụ đầu tiên
-                content = contents[0]
+                # Sắp xếp nếu cần
+                if sort_content:
+                    content = sorted(contents, key=lambda x: extract_text_content(x['line']).lower())[0]
+                else:
+                    content = contents[0]
+                
                 uid = re.search(r'contentuid="([^"]+)"', content['line'])
                 uid_text = uid.group(1) if uid else "N/A"
                 
                 # Lấy text content (phần sau >)
-                text_match = re.search(r'>([^<]*)', content['line'])
-                text_content = text_match.group(1) if text_match else ""
+                text_content = extract_text_content(content['line'])
                 text_display = text_content[:40] + "..." if len(text_content) > 40 else text_content
                 
                 report.write(f"    1. UID: {uid_text:<25} | Text: {text_display}\n")
@@ -183,21 +199,38 @@ def save_tooltip_report(tooltip_contents, output_dir):
         for tooltip, contents in large_tooltips:
             count = len(contents)
             xml_out.write(f'    <!-- Pattern: {tooltip} - {count} entries -->\n')
-            for content in contents:
-                xml_out.write(f'\t{content["line"]}\n')
+            
+            # Sắp xếp nội dung theo thứ tự alphabet nếu được yêu cầu
+            if sort_content:
+                # Tạo bản sao nội dung để sắp xếp
+                contents_to_write = sorted(contents, key=lambda x: extract_text_content(x['line']).lower())
+                for content in contents_to_write:
+                    xml_out.write(f'\t{content["line"]}\n')
+            else:
+                for content in contents:
+                    xml_out.write(f'\t{content["line"]}\n')
         
         # Xuất small tooltips theo nhóm
         if small_tooltips:
             # Gộp tất cả small tooltips vào một comment
             total_small = len(small_tooltip_contents)
             xml_out.write(f'    <!-- Pattern: TOOLTIP_NHỎ - {total_small} entries -->\n')
-            for content in small_tooltip_contents:
-                xml_out.write(f'\t{content["line"]}\n')
+            
+            # Sắp xếp nội dung nhỏ nếu được yêu cầu
+            if sort_content:
+                # Tạo bản sao nội dung để sắp xếp
+                small_contents_to_write = sorted(small_tooltip_contents, key=lambda x: extract_text_content(x['line']).lower())
+                for content in small_contents_to_write:
+                    xml_out.write(f'\t{content["line"]}\n')
+            else:
+                for content in small_tooltip_contents:
+                    xml_out.write(f'\t{content["line"]}\n')
         
         xml_out.write('</contentList>\n')
     
+    sort_status = "đã sắp xếp theo thứ tự a-z" if sort_content else "theo thứ tự gốc"
     print(f"Đã tạo file báo cáo: {report_file}")
-    print(f"Đã tạo file XML: {xml_file}")
+    print(f"Đã tạo file XML ({sort_status}): {xml_file}")
     return report_file, xml_file
 
 def main():
@@ -209,6 +242,8 @@ def main():
                        help='Thư mục output (mặc định: output/tooltip_separated)')
     parser.add_argument('--interactive', '-i', action='store_true',
                        help='Chế độ tương tác (nhập đường dẫn thủ công)')
+    parser.add_argument('--sort', '-s', action='store_true',
+                       help='Sắp xếp nội dung theo thứ tự a-z trong mỗi nhóm tooltip')
     
     args = parser.parse_args()
     
@@ -254,8 +289,16 @@ def main():
             input("Nhấn Enter để thoát...")
         return 1
     
+    # Xác định tùy chọn sắp xếp
+    should_sort = args.sort
+    if args.interactive and not should_sort:
+        print("Sắp xếp nội dung theo thứ tự a-z trong mỗi nhóm tooltip? (y/n, mặc định: n):")
+        sort_response = input().strip().lower()
+        should_sort = sort_response in ('y', 'yes', 'có', 'co')
+    
     print(f"File input: {input_file}")
     print(f"Thư mục output: {output_dir}")
+    print(f"Sắp xếp nội dung: {'Có' if should_sort else 'Không'}")
     print("Bắt đầu phân tích tooltip...")
     
     try:
@@ -265,7 +308,7 @@ def main():
         print(f"\nĐã tìm thấy {len(tooltip_contents)} tooltip khác nhau")
         
         # Lưu file báo cáo
-        report_file, xml_file = save_tooltip_report(tooltip_contents, output_dir)
+        report_file, xml_file = save_tooltip_report(tooltip_contents, output_dir, should_sort)
         
         print("\n=== HOÀN THÀNH ===")
         print(f"File báo cáo đã được tạo: {report_file}")

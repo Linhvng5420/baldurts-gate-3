@@ -27,9 +27,6 @@ class BG3XMLManager:
         # Create interface
         self.create_interface()
         
-        # Load config
-        self.load_config()
-        
     def setup_variables(self):
         """Setup all tkinter variables"""
         self.eng_file_path = tk.StringVar()
@@ -63,9 +60,6 @@ class BG3XMLManager:
         self.progress_var = tk.DoubleVar()
         self.status_text = tk.StringVar(value="Sẵn sàng")
         
-        # Config path
-        self.config_path = "src/config.json"
-        
     def create_interface(self):
         """Create main interface"""
         # Title
@@ -84,7 +78,6 @@ class BG3XMLManager:
         self.create_search_tab()
         self.create_check_tab()
         self.create_stats_tab()
-        self.create_settings_tab()
         
         # Status bar
         self.status_bar = ttk.Frame(self.root)
@@ -274,39 +267,19 @@ class BG3XMLManager:
         import subprocess
         try:
             # Try to run the enhanced filter tool
-            subprocess.Popen([sys.executable, "src/bg3_filter_enhanced.py", "--help"], 
+            subprocess.Popen([sys.executable, "src/vietnamese_filter.py", "--gui"], 
                            creationflags=subprocess.CREATE_NEW_CONSOLE)
+            self.log_message("Đã mở BG3 Filter Tool")
         except Exception as e:
-            messagebox.showerror("Lỗi", f"Không thể mở Filter Tool: {e}")
+            try:
+                # Fallback to simpler filter tool
+                subprocess.Popen([sys.executable, "src/filter_creche.py", "--gui"], 
+                               creationflags=subprocess.CREATE_NEW_CONSOLE)
+                self.log_message("Đã mở BG3 Filter Tool (legacy)")
+            except Exception as e2:
+                messagebox.showerror("Lỗi", f"Không thể mở Filter Tool: {e2}")
+                self.log_message(f"Lỗi khi mở Filter Tool: {e}")
         
-    def create_settings_tab(self):
-        """Tab cài đặt"""
-        settings_frame = ttk.Frame(self.notebook)
-        self.notebook.add(settings_frame, text="⚙️ Cài Đặt")
-        
-        # General
-        general_section = ttk.LabelFrame(settings_frame, text="Cài Đặt", padding=10)
-        general_section.pack(fill=tk.X, padx=10, pady=5)
-        
-        ttk.Checkbutton(general_section, text="Hiển thị thông báo", 
-                       variable=self.show_notifications).grid(row=0, column=0, sticky=tk.W, pady=2)
-        
-        ttk.Label(general_section, text="Giao diện:").grid(row=1, column=0, sticky=tk.W, pady=2)
-        theme_combo = ttk.Combobox(general_section, textvariable=self.theme_var, 
-                                  values=["dark", "light"], state="readonly")
-        theme_combo.grid(row=1, column=1, sticky=tk.W, padx=5, pady=2)
-        
-        # Config buttons
-        config_frame = ttk.Frame(settings_frame)
-        config_frame.pack(fill=tk.X, padx=10, pady=10)
-        
-        ttk.Button(config_frame, text="💾 Lưu", 
-                  command=self.save_config).pack(side=tk.LEFT, padx=5)
-        ttk.Button(config_frame, text="🔄 Tải", 
-                  command=self.load_config).pack(side=tk.LEFT, padx=5)
-        ttk.Button(config_frame, text="🗑️ Reset", 
-                  command=self.reset_config).pack(side=tk.LEFT, padx=5)
-    
     def update_clock(self):
         """Update clock"""
         current_time = datetime.now().strftime("%H:%M:%S - %d/%m/%Y")
@@ -333,7 +306,7 @@ class BG3XMLManager:
         )
         if filename:
             self.eng_file_path.set(filename)
-            
+            self.log_message(f"Đã chọn file tiếng Anh: {os.path.basename(filename)}")
     def select_vie_file(self):
         filename = filedialog.askopenfilename(
             title="Chọn file tiếng Việt",
@@ -341,11 +314,13 @@ class BG3XMLManager:
         )
         if filename:
             self.vie_file_path.set(filename)
+            self.log_message(f"Đã chọn file tiếng Việt: {os.path.basename(filename)}")
             
     def select_output_dir(self):
         dirname = filedialog.askdirectory(title="Chọn thư mục output")
         if dirname:
             self.output_dir.set(dirname)
+            self.log_message(f"Đã chọn thư mục output: {dirname}")
             
     def select_search_file(self):
         filename = filedialog.askopenfilename(
@@ -354,6 +329,7 @@ class BG3XMLManager:
         )
         if filename:
             self.search_file_path.set(filename)
+            self.update_status(f"Đã chọn file tìm kiếm: {os.path.basename(filename)}")
             
     def select_check_eng_file(self):
         filename = filedialog.askopenfilename(
@@ -362,6 +338,7 @@ class BG3XMLManager:
         )
         if filename:
             self.check_eng_path.set(filename)
+            self.update_status(f"Đã chọn file gốc: {os.path.basename(filename)}")
             
     def select_check_merged_file(self):
         filename = filedialog.askopenfilename(
@@ -370,6 +347,7 @@ class BG3XMLManager:
         )
         if filename:
             self.check_merged_path.set(filename)
+            self.update_status(f"Đã chọn file đã gộp: {os.path.basename(filename)}")
             
     def select_stats_file(self):
         filename = filedialog.askopenfilename(
@@ -378,6 +356,7 @@ class BG3XMLManager:
         )
         if filename:
             self.stats_file_path.set(filename)
+            self.update_status(f"Đã chọn file phân tích: {os.path.basename(filename)}")
 
     # Main functionality methods
     def start_merge(self):
@@ -514,9 +493,180 @@ class BG3XMLManager:
             self.progress_var.set(0)
 
     def preview_merge(self):
-        """Preview merge results"""
-        # Implementation for preview
-        messagebox.showinfo("Xem trước", "Tính năng xem trước sẽ được triển khai sau")
+        """Preview merge results without saving files"""
+        if not self.eng_file_path.get() or not self.vie_file_path.get():
+            messagebox.showerror("Lỗi", "Vui lòng chọn đủ file!")
+            return
+            
+        try:
+            # Create preview window
+            preview_window = tk.Toplevel(self.root)
+            preview_window.title("Xem trước kết quả gộp")
+            preview_window.geometry("800x600")
+            preview_window.configure(bg="#2b2b2b")
+            
+            # Make it modal
+            preview_window.transient(self.root)
+            preview_window.grab_set()
+            
+            # Center the window
+            preview_window.update_idletasks()
+            x = (preview_window.winfo_screenwidth() // 2) - (preview_window.winfo_width() // 2)
+            y = (preview_window.winfo_screenheight() // 2) - (preview_window.winfo_height() // 2)
+            preview_window.geometry(f"+{x}+{y}")
+            
+            # Progress label
+            progress_label = ttk.Label(preview_window, text="Đang phân tích file...")
+            progress_label.pack(pady=10)
+            
+            # Preview notebook
+            notebook = ttk.Notebook(preview_window)
+            notebook.pack(fill=tk.BOTH, expand=True, padx=10, pady=10)
+            
+            # Result frames
+            matched_frame = ttk.Frame(notebook)
+            unmatched_frame = ttk.Frame(notebook)
+            stats_frame = ttk.Frame(notebook)
+            
+            notebook.add(matched_frame, text="✅ Đã Việt hóa")
+            notebook.add(unmatched_frame, text="❌ Chưa Việt hóa")
+            notebook.add(stats_frame, text="📊 Thống kê")
+            
+            # Create text areas for preview
+            matched_text = scrolledtext.ScrolledText(matched_frame, bg="#1e1e1e", fg="#ffffff")
+            matched_text.pack(fill=tk.BOTH, expand=True, padx=5, pady=5)
+            
+            unmatched_text = scrolledtext.ScrolledText(unmatched_frame, bg="#1e1e1e", fg="#ffffff")
+            unmatched_text.pack(fill=tk.BOTH, expand=True, padx=5, pady=5)
+            
+            stats_text = scrolledtext.ScrolledText(stats_frame, bg="#1e1e1e", fg="#ffffff")
+            stats_text.pack(fill=tk.BOTH, expand=True, padx=5, pady=5)
+            
+            # Run analysis in a thread
+            def analyze_files():
+                try:
+                    # Read files
+                    tree_eng = ET.parse(self.eng_file_path.get())
+                    tree_vie = ET.parse(self.vie_file_path.get())
+                    root_eng = tree_eng.getroot()
+                    root_vie = tree_vie.getroot()
+                    
+                    # Create dictionaries
+                    vie_dict = {}
+                    for c in root_vie.findall("content"):
+                        uid = c.attrib.get("contentuid", "")
+                        if uid:
+                            vie_dict[uid] = c
+                    
+                    matched_count = 0
+                    unmatched_count = 0
+                    matched_samples = []
+                    unmatched_samples = []
+                    
+                    # Process each English content
+                    for eng_content in root_eng.findall("content"):
+                        uid = eng_content.attrib.get("contentuid", "")
+                        
+                        if uid and uid in vie_dict:
+                            # Use Vietnamese content
+                            vie_content = vie_dict[uid]
+                            version = eng_content.attrib.get("version", "1") if self.preserve_version.get() else self.content_version.get()
+                            
+                            matched_count += 1
+                            # Collect sample for preview (limit to 100 samples)
+                            if matched_count <= 100:
+                                eng_text = eng_content.text or ""
+                                vie_text = vie_content.text or ""
+                                matched_samples.append((uid, version, eng_text, vie_text))
+                        else:
+                            unmatched_count += 1
+                            # Collect sample for preview (limit to 100 samples)
+                            if unmatched_count <= 100:
+                                eng_text = eng_content.text or ""
+                                version = eng_content.attrib.get("version", "1")
+                                unmatched_samples.append((uid, version, eng_text))
+                    
+                    # Update UI in main thread
+                    preview_window.after(0, lambda: update_preview(
+                        matched_count, unmatched_count, matched_samples, unmatched_samples))
+                    
+                except Exception as e:
+                    preview_window.after(0, lambda: messagebox.showerror(
+                        "Lỗi", f"Lỗi khi phân tích: {str(e)}"))
+                    preview_window.after(0, preview_window.destroy)
+            
+            def update_preview(matched_count, unmatched_count, matched_samples, unmatched_samples):
+                # Hide progress label
+                progress_label.pack_forget()
+                
+                # Update matched tab
+                matched_text.insert(tk.END, "✅ CÁC MỤC ĐÃ VIỆT HÓA (MẪU)\n")
+                matched_text.insert(tk.END, "=" * 80 + "\n\n")
+                
+                for uid, version, eng_text, vie_text in matched_samples:
+                    matched_text.insert(tk.END, f"🔹 UID: {uid} (version: {version})\n")
+                    matched_text.insert(tk.END, f"🇬🇧 {eng_text}\n")
+                    matched_text.insert(tk.END, f"🇻🇳 {vie_text}\n\n")
+                    matched_text.insert(tk.END, "-" * 80 + "\n\n")
+                
+                if matched_count > 100:
+                    matched_text.insert(tk.END, f"... và {matched_count - 100} mục khác\n")
+                
+                # Update unmatched tab
+                unmatched_text.insert(tk.END, "❌ CÁC MỤC CHƯA VIỆT HÓA (MẪU)\n")
+                unmatched_text.insert(tk.END, "=" * 80 + "\n\n")
+                
+                for uid, version, eng_text in unmatched_samples:
+                    unmatched_text.insert(tk.END, f"🔹 UID: {uid} (version: {version})\n")
+                    unmatched_text.insert(tk.END, f"🇬🇧 {eng_text}\n\n")
+                    unmatched_text.insert(tk.END, "-" * 80 + "\n\n")
+                    
+                if unmatched_count > 100:
+                    unmatched_text.insert(tk.END, f"... và {unmatched_count - 100} mục khác\n")
+                
+                # Update stats tab
+                stats_text.insert(tk.END, "📊 THỐNG KÊ XEM TRƯỚC\n")
+                stats_text.insert(tk.END, "=" * 80 + "\n\n")
+                
+                total = matched_count + unmatched_count
+                matched_percent = (matched_count / total * 100) if total > 0 else 0
+                
+                stats_text.insert(tk.END, f"🔢 TỔNG SỐ MỤC: {total:,}\n\n")
+                stats_text.insert(tk.END, f"✅ ĐÃ VIỆT HÓA: {matched_count:,} ({matched_percent:.1f}%)\n")
+                stats_text.insert(tk.END, f"❌ CHƯA VIỆT HÓA: {unmatched_count:,} ({100-matched_percent:.1f}%)\n\n")
+                
+                # Content version info
+                stats_text.insert(tk.END, "⚙️ THÔNG TIN VERSION:\n")
+                if self.preserve_version.get():
+                    stats_text.insert(tk.END, "- Giữ nguyên version từ file gốc\n")
+                else:
+                    stats_text.insert(tk.END, f"- Sử dụng version: {self.content_version.get()}\n")
+                    
+                # Output directory info
+                output_dir = self.output_dir.get()
+                custom_folder = self.custom_folder_name.get().strip()
+                if custom_folder:
+                    final_dir = os.path.join(output_dir, custom_folder)
+                else:
+                    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+                    final_dir = os.path.join(output_dir, f"merge_{timestamp}")
+                    
+                stats_text.insert(tk.END, f"\n📁 THÔNG TIN THƯ MỤC OUTPUT:\n")
+                stats_text.insert(tk.END, f"- Thư mục: {final_dir}\n")
+                stats_text.insert(tk.END, f"- File kết quả: english_VH.xml và english_Not-VH.xml\n")
+            
+            # Button to close preview
+            button_frame = ttk.Frame(preview_window)
+            button_frame.pack(fill=tk.X, padx=10, pady=10)
+            
+            ttk.Button(button_frame, text="✅ Đóng", 
+                      command=preview_window.destroy).pack(side=tk.RIGHT)
+            
+            # Start analysis thread
+            threading.Thread(target=analyze_files, daemon=True).start()
+            
+        except Exception as e:
+            messagebox.showerror("Lỗi", f"Lỗi khi xem trước: {str(e)}")
 
     def reset_merge(self):
         """Reset merge form"""
@@ -673,22 +823,271 @@ class BG3XMLManager:
         help_text.focus_set()
 
     def search_keywords(self):
-        """Search keywords"""
+        """Search keywords in XML file"""
+        if not self.search_file_path.get():
+            messagebox.showerror("Lỗi", "Vui lòng chọn file XML để tìm kiếm!")
+            return
+            
+        keywords = self.keywords_entry.get().strip()
+        if not keywords:
+            messagebox.showerror("Lỗi", "Vui lòng nhập từ khóa tìm kiếm!")
+            return
+            
+        # Clear previous results
+        for item in self.search_tree.get_children():
+            self.search_tree.delete(item)
+            
+        try:
+            self.update_status("Đang tìm kiếm...")
+            
+            # Parse the XML file
+            tree = ET.parse(self.search_file_path.get())
+            root = tree.getroot()
+            
+            # Prepare regex pattern if needed
+            pattern = None
+            if self.regex_search.get():
+                try:
+                    flags = 0 if self.case_sensitive.get() else re.IGNORECASE
+                    pattern = re.compile(keywords, flags)
+                except re.error:
+                    messagebox.showerror("Lỗi", "Regex không hợp lệ!")
+                    return
+                    
+            # Prepare for search
+            results = []
+            
+            # Search through all content elements
+            for content in root.findall("content"):
+                uid = content.attrib.get("contentuid", "")
+                version = content.attrib.get("version", "")
+                text = content.text or ""
+                
+                found = False
+                
+                # Check UID if option is enabled
+                if self.search_in_uid.get():
+                    if pattern:
+                        if pattern.search(uid):
+                            found = True
+                    elif self.case_sensitive.get():
+                        if keywords in uid:
+                            found = True
+                    else:
+                        if keywords.lower() in uid.lower():
+                            found = True
+                            
+                # Check text content
+                if not found:
+                    if pattern:
+                        if pattern.search(text):
+                            found = True
+                    elif self.case_sensitive.get():
+                        if keywords in text:
+                            found = True
+                    else:
+                        if keywords.lower() in text.lower():
+                            found = True
+                            
+                if found:
+                    # Limit text length for display
+                    display_text = text[:100] + "..." if len(text) > 100 else text
+                    results.append((uid, version, display_text))
+                    
+            # Display results
+            for idx, (uid, version, text) in enumerate(results):
+                self.search_tree.insert("", tk.END, values=(uid, version, text))
+                
+            self.update_status(f"Tìm thấy {len(results)} kết quả")
+            
+        except Exception as e:
+            messagebox.showerror("Lỗi", f"Lỗi khi tìm kiếm: {str(e)}")
+            self.update_status("Đã xảy ra lỗi")
+            
         # Implementation for search
         messagebox.showinfo("Tìm kiếm", "Tính năng tìm kiếm sẽ được triển khai sau")
 
     def check_lost_data(self):
-        """Check lost data"""
+        """Check for lost data between original and merged files"""
+        if not self.check_eng_path.get() or not self.check_merged_path.get():
+            messagebox.showerror("Lỗi", "Vui lòng chọn đủ file để kiểm tra!")
+            return
+        
+        try:
+            self.update_status("Đang kiểm tra dữ liệu...")
+            self.check_results.delete(1.0, tk.END)
+            
+            # Parse XML files
+            eng_tree = ET.parse(self.check_eng_path.get())
+            merged_tree = ET.parse(self.check_merged_path.get())
+            
+            eng_root = eng_tree.getroot()
+            merged_root = merged_tree.getroot()
+            
+            # Create dictionary of merged content
+            merged_dict = {}
+            for content in merged_root.findall("content"):
+                uid = content.attrib.get("contentuid", "")
+                if uid:
+                    merged_dict[uid] = content
+                    
+            # Check for missing content
+            missing_count = 0
+            total_count = 0
+            
+            self.check_results.insert(tk.END, "🔍 BÁO CÁO KIỂM TRA DỮ LIỆU\n")
+            self.check_results.insert(tk.END, "=" * 60 + "\n\n")
+            
+            for eng_content in eng_root.findall("content"):
+                total_count += 1
+                uid = eng_content.attrib.get("contentuid", "")
+                
+                if uid and uid not in merged_dict:
+                    missing_count += 1
+                    
+                    # Get the text content and limit length for display
+                    text = eng_content.text or ""
+                    display_text = text[:100] + "..." if len(text) > 100 else text
+                    
+                    # Add to report
+                    self.check_results.insert(tk.END, f"❌ UID thiếu: {uid}\n")
+                    self.check_results.insert(tk.END, f"   Nội dung: {display_text}\n\n")
+                    
+            # Add summary
+            self.check_results.insert(tk.END, "\n" + "=" * 60 + "\n")
+            self.check_results.insert(tk.END, f"📊 THỐNG KÊ:\n")
+            self.check_results.insert(tk.END, f"- Tổng số mục: {total_count:,}\n")
+            self.check_results.insert(tk.END, f"- Số mục bị thiếu: {missing_count:,}\n")
+            if total_count > 0:
+                self.check_results.insert(tk.END, f"- Tỷ lệ thiếu: {missing_count/total_count*100:.2f}%\n")
+            
+            self.update_status(f"Hoàn thành kiểm tra: {missing_count} mục thiếu")
+            
+        except Exception as e:
+            messagebox.showerror("Lỗi", f"Lỗi khi kiểm tra: {str(e)}")
+            self.update_status("Đã xảy ra lỗi")
+            
         # Implementation for check
         messagebox.showinfo("Kiểm tra", "Tính năng kiểm tra sẽ được triển khai sau")
 
     def analyze_file(self):
-        """Analyze file"""
+        """Analyze XML file and display statistics"""
+        if not self.stats_file_path.get():
+            messagebox.showerror("Lỗi", "Vui lòng chọn file XML để phân tích!")
+            return
+        
+        try:
+            self.update_status("Đang phân tích file...")
+            self.stats_text.delete(1.0, tk.END)
+            
+            # Parse the XML file
+            tree = ET.parse(self.stats_file_path.get())
+            root = tree.getroot()
+            
+            # Collect statistics
+            total_entries = 0
+            total_chars = 0
+            versions = {}
+            content_lengths = []
+            word_count = 0
+            
+            for content in root.findall("content"):
+                total_entries += 1
+                version = content.attrib.get("version", "unknown")
+                text = content.text or ""
+                
+                # Count characters
+                text_length = len(text)
+                total_chars += text_length
+                content_lengths.append(text_length)
+                
+                # Count words (approximate)
+                words = len(re.findall(r'\S+', text))
+                word_count += words
+                
+                # Track versions
+                versions[version] = versions.get(version, 0) + 1
+            
+            # Calculate averages and statistics
+            avg_length = total_chars / total_entries if total_entries > 0 else 0
+            max_length = max(content_lengths) if content_lengths else 0
+            min_length = min(content_lengths) if content_lengths else 0
+            
+            # Count entries by length
+            short_entries = sum(1 for l in content_lengths if l < 50)
+            medium_entries = sum(1 for l in content_lengths if 50 <= l < 200)
+            long_entries = sum(1 for l in content_lengths if l >= 200)
+            
+            # Display results
+            self.stats_text.insert(tk.END, "📊 PHÂN TÍCH FILE XML\n")
+            self.stats_text.insert(tk.END, "=" * 60 + "\n\n")
+            
+            # General statistics
+            self.stats_text.insert(tk.END, f"🔢 THỐNG KÊ CHUNG:\n")
+            self.stats_text.insert(tk.END, f"- Tổng số mục: {total_entries:,}\n")
+            self.stats_text.insert(tk.END, f"- Tổng số ký tự: {total_chars:,}\n")
+            self.stats_text.insert(tk.END, f"- Tổng số từ (ước lượng): {word_count:,}\n")
+            self.stats_text.insert(tk.END, f"- Độ dài trung bình: {avg_length:.1f} ký tự\n")
+            self.stats_text.insert(tk.END, f"- Mục ngắn nhất: {min_length} ký tự\n")
+            self.stats_text.insert(tk.END, f"- Mục dài nhất: {max_length} ký tự\n\n")
+            
+            # Content length distribution
+            self.stats_text.insert(tk.END, f"📏 PHÂN BỐ ĐỘ DÀI:\n")
+            if total_entries > 0:
+                self.stats_text.insert(tk.END, f"- Ngắn (<50 ký tự): {short_entries} ({short_entries/total_entries*100:.1f}%)\n")
+                self.stats_text.insert(tk.END, f"- Trung bình (50-199 ký tự): {medium_entries} ({medium_entries/total_entries*100:.1f}%)\n")
+                self.stats_text.insert(tk.END, f"- Dài (≥200 ký tự): {long_entries} ({long_entries/total_entries*100:.1f}%)\n\n")
+            
+            # Version distribution
+            self.stats_text.insert(tk.END, f"🔢 PHÂN BỐ VERSION:\n")
+            for version, count in sorted(versions.items()):
+                if total_entries > 0:
+                    percentage = count / total_entries * 100
+                    self.stats_text.insert(tk.END, f"- Version {version}: {count} ({percentage:.1f}%)\n")
+            
+            # File information
+            file_path = self.stats_file_path.get()
+            file_size = os.path.getsize(file_path) / 1024  # Size in KB
+            file_modified = datetime.fromtimestamp(os.path.getmtime(file_path)).strftime("%Y-%m-%d %H:%M:%S")
+            
+            self.stats_text.insert(tk.END, f"\n📁 THÔNG TIN FILE:\n")
+            self.stats_text.insert(tk.END, f"- Đường dẫn: {file_path}\n")
+            self.stats_text.insert(tk.END, f"- Kích thước: {file_size:.1f} KB\n")
+            self.stats_text.insert(tk.END, f"- Chỉnh sửa lần cuối: {file_modified}\n")
+            
+            self.update_status(f"Đã phân tích: {total_entries} mục, {total_chars} ký tự")
+            
+        except Exception as e:
+            messagebox.showerror("Lỗi", f"Lỗi khi phân tích: {str(e)}")
+            self.update_status("Đã xảy ra lỗi")
+            
         # Implementation for analysis
         messagebox.showinfo("Phân tích", "Tính năng phân tích sẽ được triển khai sau")
 
     def open_output_folder(self):
-        """Open output folder"""
+        """Open output folder in file explorer"""
+        output_dir = self.output_dir.get()
+        if not output_dir:
+            output_dir = "output"
+            
+        try:
+            # Ensure the directory exists
+            os.makedirs(output_dir, exist_ok=True)
+            
+            # Open the folder
+            if sys.platform == "win32":
+                os.startfile(output_dir)
+            elif sys.platform == "darwin":  # macOS
+                subprocess.Popen(["open", output_dir])
+            else:  # Linux
+                subprocess.Popen(["xdg-open", output_dir])
+                
+            self.update_status(f"Đã mở thư mục: {output_dir}")
+        except Exception as e:
+            messagebox.showerror("Lỗi", f"Không thể mở thư mục: {str(e)}")
+            self.log_message(f"Lỗi khi mở thư mục output: {e}")
+
+        # Simple implementation for open folder
         output_dir = self.output_dir.get()
         if os.path.exists(output_dir):
             os.startfile(output_dir)
@@ -696,67 +1095,11 @@ class BG3XMLManager:
             messagebox.showwarning("Cảnh báo", "Thư mục output không tồn tại!")
 
     # Config methods
-    def save_config(self):
-        """Save configuration"""
-        try:
-            config = {
-                'output_dir': self.output_dir.get(),
-                'show_notifications': self.show_notifications.get(),
-                'theme': self.theme_var.get(),
-                'preserve_version': self.preserve_version.get(),
-                'merge_duplicates': self.merge_duplicates.get(),
-                'content_version': self.content_version.get(),
-                'custom_folder_name': self.custom_folder_name.get()
-            }
-            
-            os.makedirs(os.path.dirname(self.config_path), exist_ok=True)
-            with open(self.config_path, 'w', encoding='utf-8') as f:
-                json.dump(config, f, indent=2, ensure_ascii=False)
-                
-            messagebox.showinfo("Thành công", "Đã lưu cấu hình!")
-            
-        except Exception as e:
-            messagebox.showerror("Lỗi", f"Lỗi khi lưu: {str(e)}")
 
-    def load_config(self):
-        """Load configuration"""
-        try:
-            if os.path.exists(self.config_path):
-                with open(self.config_path, 'r', encoding='utf-8') as f:
-                    config = json.load(f)
-                    
-                self.output_dir.set(config.get('output_dir', "output/conflict"))
-                self.show_notifications.set(config.get('show_notifications', True))
-                self.theme_var.set(config.get('theme', 'dark'))
-                self.preserve_version.set(config.get('preserve_version', False))
-                self.merge_duplicates.set(config.get('merge_duplicates', True))
-                self.content_version.set(config.get('content_version', '50'))
-                self.custom_folder_name.set(config.get('custom_folder_name', ''))
-                
-        except Exception:
-            # Use defaults if config doesn't exist or is corrupted
-            pass
 
-    def reset_config(self):
-        """Reset configuration"""
-        if messagebox.askyesno("Xác nhận", "Reset về cài đặt mặc định?"):
-            try:
-                if os.path.exists(self.config_path):
-                    os.remove(self.config_path)
-                    
-                # Reset variables to default values
-                self.output_dir.set("output/conflict")
-                self.show_notifications.set(True)
-                self.theme_var.set("dark")
-                self.preserve_version.set(False)
-                self.merge_duplicates.set(True)
-                self.content_version.set("50")
-                self.custom_folder_name.set("")
-                
-                messagebox.showinfo("Hoàn thành", "Đã reset!")
-                
-            except Exception as e:
-                messagebox.showerror("Lỗi", f"Lỗi khi reset: {str(e)}")
+
+
+
 
 
 def main():
