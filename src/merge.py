@@ -1,68 +1,62 @@
-import xml.etree.ElementTree as ET
-import os
+import re
 
-# Hàm format XML đẹp (pretty print)
-def indent(elem, level=0):
-    i = "\n" + level * "\t"
-    if len(elem):
-        if not elem.text or not elem.text.strip():
-            elem.text = i + "\t"
-        for child in elem:
-            indent(child, level + 1)
-        if not elem.tail or not elem.tail.strip():
-            elem.tail = i
-    else:
-        if level and (not elem.tail or not elem.tail.strip()):
-            elem.tail = i
+# Nhập đường dẫn file
+file_a = r"D:\Games\Baldurt's Gate VH\baldurts-gate-3\output\filtered\CutCanhTem50k_20250902_1200\workkeys_extracted_Vietnamese_20250902_094615_20250902_133600.xml"
+file_b = r"D:\Games\Baldurt's Gate VH\baldurts-gate-3\output\filtered\vietnamese_VH.xml"
 
-# Nhập đường dẫn file từ bàn phím
-file_a = input("👉 Nhập đường dẫn file A (nguồn): ").strip()
-file_b = input("👉 Nhập đường dẫn file B (đích): ").strip()
+# Đọc file gốc
+with open(file_a, "r", encoding="utf-8") as f:
+    content_a = f.read()
 
-# Đọc file
-try:
-    tree_a = ET.parse(file_a)
-    tree_b = ET.parse(file_b)
-except Exception as e:
-    print(f"❌ Lỗi khi đọc file: {e}")
-    exit()
+with open(file_b, "r", encoding="utf-8") as f:
+    content_b = f.read()
 
-root_a = tree_a.getroot()
-root_b = tree_b.getroot()
+# Regex bắt <content ...> ... </content> (nhiều dòng)
+pattern = re.compile(r'<content\s+contentuid="([^"]+)"[^>]*>.*?</content>', re.DOTALL)
 
-# Tạo map contentuid cho file B
-b_dict = {c.attrib["contentuid"]: c for c in root_b.findall("content")}
+# Tạo dict từ file B
+b_dict = {m.group(1): m.group(0) for m in pattern.finditer(content_b)}
 
-update_count = 0
-add_count = 0
+# Lưu contentuid trong A
+a_uids = set()
+output_parts = []
+last_end = 0
+update_count, add_count = 0, 0
 
-# Duyệt qua các content trong file A
-for a_content in root_a.findall("content"):
-    uid = a_content.attrib["contentuid"]
-    text = a_content.text if a_content.text else ""
+# Duyệt qua từng block trong A
+for m in pattern.finditer(content_a):
+    uid = m.group(1)
+    a_uids.add(uid)
+    block = m.group(0)
 
+    # Nếu có trong B → thay
     if uid in b_dict:
-        # Nếu đã có trong B → cập nhật text
-        b_dict[uid].text = text
-        update_count += 1
-    else:
-        # Nếu chưa có → thêm vào B (giữ nguyên version của A)
-        new_content = ET.Element("content", {
-            "contentuid": uid,
-            "version": a_content.attrib.get("version", "0")
-        })
-        new_content.text = text
-        root_b.append(new_content)
+        if block != b_dict[uid]:
+            block = b_dict[uid]
+            update_count += 1
+    output_parts.append(content_a[last_end:m.start()])
+    output_parts.append(block)
+    last_end = m.end()
+
+# Thêm phần còn lại (sau content cuối cùng)
+output_parts.append(content_a[last_end:])
+
+# Thêm mới ở cuối file
+new_uids = [uid for uid in b_dict if uid not in a_uids]
+if new_uids:
+    # Thêm comment trước
+    output_parts.append("\n\t<!-- Thêm Việt Hóa Mới -->\n")
+    for uid in new_uids:
+        # Thêm tab thụt vào
+        new_block = "\t" + b_dict[uid].replace("\n", "\n\t") + "\n"
+        output_parts.append(new_block)
         add_count += 1
 
-# Format XML đẹp
-indent(root_b)
+# Ghi đè file A
+with open(file_a, "w", encoding="utf-8") as f:
+    f.write("".join(output_parts))
 
-# Xuất ra file mới để an toàn
-output_file = os.path.splitext(file_b)[0] + "_merged.xml"
-tree_b.write(output_file, encoding="utf-8", xml_declaration=True)
-
-print(f"✅ Hoàn thành!")
+print(f"✅ Hoàn thành update trực tiếp trong file A.")
 print(f"   - Đã cập nhật {update_count} dòng.")
-print(f"   - Đã thêm mới {add_count} dòng.")
-print(f"   - File kết quả: {output_file}")
+print(f"   - Đã thêm mới {add_count} dòng (có tab + comment).")
+print(f"   - File kết quả: {file_a}")
