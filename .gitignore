@@ -37,7 +37,6 @@ Thumbs.db
 *.swo
 
 # Large XML files
-*.xml
 !data/sample*.xml
 
 # Test files
