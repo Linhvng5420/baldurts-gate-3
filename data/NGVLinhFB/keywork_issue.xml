@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contentList>
+    <!-- Các dòng có Key State Event, có liên quan tới Action, Dịch cẩn thận: Bản Gốc -->
+	<content contentuid="hf7adafa6g1ddbg450dgb5e9g2cfad78c309c" version="0">| PortraitClick Thông Thường &lt;br&gt;NarrativeArch_Start v12|</content>
+	<content contentuid="hf92ed25eg91c9g4216gbd81g14868e897674" version="0">| HelpGeneral Chiến Đấu &lt;br&gt;Relation_Negative v15| </content>
+	<content contentuid="hffc6253bg6711g451ag992dgd1dc56fc4318" version="0">| BuffTarget Thông Thường &lt;br&gt;Relation_Neutral v1 |</content>
+	<content contentuid="hfe6b4202g3753g4a9cgb7a7g10566fdc044b" version="0">| SpeakTo Thông Thường &lt;br&gt;Relation_Negative v10 |</content>
+	<content contentuid="h8c61c93egbb7fg4c3aga05bgee5d1e69c6e1" version="0">| BuffTarget Lén Lút &lt;br&gt;Relation_Positive v6 |&lt;br&gt;</content>
+	<content contentuid="h1a45a4cegc4c3g41c4g848fg558875d007ad" version="0">| PortraitClick Lén Lút &lt;br&gt;NarrativeArch_Start v17 |</content>
+	<content contentuid="hf8bb6cb7gf00bg4169gb858g0624736422c7" version="0">| SpeakTo Lén Lút &lt;br&gt;Relation_Netural v1 |</content>
+	<content contentuid="h001f4eb4gec65g4937g9485g0b1f158cc260" version="60">| BuffTarget Chiến Đấu &lt;br&gt;Relation_Neutral v1 |</content>
+	<content contentuid="h030b6e19ga778g4983gb91bg8ea313b6d88f" version="60">[HirelingName_1_03d3080c-4144-7335-8478-a4fb38a54eb9] có thể ở lại trại.</content>
+	<content contentuid="h2fce3151gda87g46bbgaa97g79f614bf72bc" version="0">| HelpImmobilized Lén Lút &lt;br&gt;Relation_Negative v2|</content>
+	<content contentuid="h1895bbaag8ed2g4f76gae9bg88568554babc" version="60">[IE_ToggleInventory] Mở Hành Trang</content>
+	<content contentuid="h6eae5bb6gf11cg4115gad7cg98c5206972a1" version="50">Không &lt;LSTag Tooltip="Proficiency"&gt;Thông Thạo&lt;/LSTag&gt; với [1]</content>
+	<content contentuid="h741ffa11gd01eg4adcg8504g300327fd008d" version="0"> | PortraitClick Lén Lút &lt;br&gt;NarrativeArch_Start v1 |</content>
+	<content contentuid="h5e56ac01g420eg4f3egb64eg31ed5d79f272" version="60">| PortraitClick Bình Thường &lt;br&gt;NarrativeArch_Start v1 |&lt;br&gt;</content>
+	<content contentuid="h66602ac2geebfg4141gbd94gf76742d74639" version="60">| PortraitClickSpam Bình Thường &lt;br&gt;NarrativeArch_Start v3 |</content>
+	<content contentuid="h6a0a48d4g992dg4c33g85cegcfbf9d2dda6c" version="60">| PortraitClick Bình Thường &lt;br&gt;NarrativeArch_Start v11|</content>
+	<content contentuid="h75fdaf38g23a9g442fgb4c4g34fdba211d0c" version="60">| PortraitClickSpam Chiến Đấu &lt;br&gt;NarrativeArch_Start v3 |</content>
+	<content contentuid="h84d7337cgd4f1g4d10gbb16g1a74c914f246" version="60">| PortraitClick Chiến Đấu &lt;br&gt;NarrativeArch_Start v14 |</content>
+	<content contentuid="h8984b550g3540g4d3fg8a10g5e3eb4c8ce7d" version="60">| PortraitClick Chiến Đấu &lt;br&gt;NarrativeArch_Start v8 |&lt;br&gt;</content>
+	<content contentuid="h8fb28810ge7f6g4e06g896ageaa5d753dd45" version="60">| PortraitClick Chiến Đấu &lt;br&gt;NarrativeArch_Start v7 |</content>
+	<content contentuid="h947c311dgc4b0g429eg8993gb52874cbd288" version="60">| PortraitClick Chiến Đấu &lt;br&gt;NarrativeArch_Start v18 |</content>
+	<content contentuid="h9ed8f641g2712g4352g8716g960188a577be" version="60">| PortraitClick Chiến Đấu &lt;br&gt;NarrativeArch_Start v1 |</content>
+	<content contentuid="ha6ec4446g87f4g4c94gb396gfa4974125bc2" version="60">| PortraitClick Chiến Đấu &lt;br&gt;NarrativeArch_Start v11 |</content>
+	<content contentuid="hac4df87ag2b13g41d6g8698g9115ef97dd64" version="60">| PortraitClick Chiến Đấu &lt;br&gt;NarrativeArch_Start v12 |&lt;br&gt;</content>
+	<content contentuid="hb90092c1gfec6g4941ga5e0ga9df969fc6da" version="60">| PortraitClick Chiến Đấu &lt;br&gt;NarrativeArch_Start v15 |</content>
+	<content contentuid="hbb71ee2cgc980g4869gbb13g4bb250254c32" version="60">| PortraitClickSpam Chiến Đấu &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="hc3a98808gf18cg4f7ag9995g43a793ac7439" version="60">| PortraitClick Chiến Đấu &lt;br&gt;NarrativeArch_Start v9 |</content>
+	<content contentuid="he92cee76g0dcdg4556g9461gd155a2074d54" version="60">| PortraitClick Chiến Đấu &lt;br&gt;NarrativeArch_Start v6 |</content>
+	<content contentuid="hf2114ba5g0f39g4479gb7e8g0d307a0c2bbc" version="60">| PortraitClick Chiến Đấu &lt;br&gt;NarrativeArch_Start v10 |</content>
+	<content contentuid="h07af72a1g328bg4503gb4d9gf5e1a45d817a" version="60">| PortraitClick Chiến Đấu &lt;br&gt;NarrativeArch_Start v5 |&lt;br&gt;</content>
+	<content contentuid="h1278f5b8gf6bdg44efg8b33g2fc6b3c76d1b" version="60">| PortraitClickSpam Chiến Đấu &lt;br&gt;NarrativeArch_Start v1 &lt;br&gt;Các dòng Easter Egg có thể trở nên điên rồ ;) |&lt;br&gt;</content>
+	<content contentuid="h1448984agd28eg4186g95f6g8f998f9ffab4" version="60">| PortraitClick Chiến Đấu &lt;br&gt;NarrativeArch_Start v3 |</content>
+	<content contentuid="h250d3cb1g5e8fg4991g9886g288c616fc30c" version="60">| PortraitClickSpam Chiến Đấu &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="h2ba9efabg45adg484agab83gda9408fdecdb" version="60">| PortraitClick Chiến Đấu &lt;br&gt;NarrativeArch_Start v17 |</content>
+	<content contentuid="h2e0d5c40g8279g4b5agbcacg32bb3512180d" version="60">| PortraitClick Chiến Đấu &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="h36a3a674gae10g4573g9b5dgfdc080f53aec" version="60">| PortraitClick Chiến Đấu &lt;br&gt;NarrativeArch_Start v13 |</content>
+	<content contentuid="h51b2163dg70a1g4485ga49ag81f7d464914b" version="60">| PortraitClick Chiến Đấu &lt;br&gt;NarrativeArch_Start v16 |&lt;br&gt;</content>
+	<content contentuid="h5b0c84dbg3162g4445g821agad88cfa8c5fc" version="60">| PortraitClick Chiến Đấu &lt;br&gt;NarrativeArch_Start v2 |&lt;br&gt;</content>
+	
+	<content contentuid="h00a38000g414fg48e9ga406g808ead180089" version="60">|PortraitClick ShadowHeart Bình Thường v15 |</content>
+	<content contentuid="h1b7afdc4g5e56g4faag8042gcc154da091d0" version="60">|PortraitClick ShadowHeart Lén Lút v17 |</content>
+	<content contentuid="h31d288cag2dcdg46a0gab0dgad949f85c1b2" version="60">|PortraitClick ShadowHeart Lén Lút v10 |</content>
+	<content contentuid="h36984fc1g0ce4g4a58g8d3aga41603e7ceea" version="60">|PortraitClick ShadowHeart Lén Lút v8 |</content>
+	<content contentuid="h3d6429bdg474cg4d0egb93eg7c81a86d7e9c" version="60">|PortraitClick ShadowHeart Lén Lút v16 |</content>
+	<content contentuid="h4bdf7534g438bg4ec2g8b05gf9a2d0a2f3bf" version="60">|PortraitClick ShadowHeart Lén Lút v6 |</content>
+	<content contentuid="h5118d6a4g45b7g4fdbg86e1g9e008c180183" version="60">|PortraitClick ShadowHeart Lén Lút v1 |</content>
+	<content contentuid="h64129698g3be0g4f8ag9520g5dc0d621183d" version="60">|PortraitClick ShadowHeart Lén Lút v15 |</content>
+	<content contentuid="h6a03e84egbafbg422eg97afg42c67da4a9ca" version="60">|PortraitClick ShadowHeart Lén Lút v12 |</content>
+	<content contentuid="h6d154197ga4d4g4f92g88fcgef7a73fdbc09" version="60"> |PortraitClick ShadowHeart Lén Lút v4 |</content>
+	<content contentuid="h6ed2ab27g87cdg47dcgb1cdgf280200ff800" version="60"> |PortraitClick ShadowHeart Lén Lút v9 |</content>
+	<content contentuid="h7bc10bfdg4a10g41a6g841bgc127f7444e38" version="60">|PortraitClick ShadowHeart Lén Lút v2 |</content>
+	<content contentuid="h8b44dffag42ebg498bga5d9g121d2ca64901" version="60">|PortraitClick ShadowHeart Lén Lút v14 |</content>
+	<content contentuid="haa42d056gb2efg44c0g8b42ge2a014c52327" version="60">|PortraitClick ShadowHeart Lén Lút v7 |</content>
+	<content contentuid="hc251fd90g1803g47c1gb4e8g43d6e530722f" version="60">|PortraitClick ShadowHeart Bình Thường v17 |</content>
+	<content contentuid="hc459b6ceg6900g4b81gb966g9d8b6a3af9be" version="60">|PortraitClick ShadowHeart Bình Thường v18 |</content>
+	<content contentuid="hc7b078d3gb480g4a1agb897g7a4676fab9e4" version="60">|PortraitClick ShadowHeart Lén Lút v3 |</content>
+	<content contentuid="hea9ce5b0gb163g4e88g98a2g18f3bd809e4d" version="60">|PortraitClick ShadowHeart Bình Thường v16 |</content>
+	<content contentuid="hed6b62dagf7c5g481cga244gba4a6bc2dc32" version="60">|PortraitClick ShadowHeart Lén Lút v18 |&lt;br&gt;</content>
+	<content contentuid="hf309528egeeacg4feag94b9ga8d2f4eea5f7" version="60">|PortraitClick ShadowHeart Lén Lút v13 |</content>
+	<content contentuid="hfa0b0fefg268bg4e6dg9689g1372bc9775ec" version="60"> |MoveTo ShadowHeart Thông Thường v18 |</content>
+	<content contentuid="hfb1ebd2agf5ecg4662g9ddagd8fb4fb97185" version="60"> |PortraitClick ShadowHeart Lén Lút v11 |</content>
+	<content contentuid="hfb1ebd2agf5ecg4662g9ddagd8fb4fb97185" version="60"> |PortraitClick ShadowHeart Lén Lút v11 |</content>
+	<content contentuid="hf8f95613gd5b2g4c35g996bgff249ec31de9" version="60"> |MoveTo ShadowHeart Lén Lút v2 |&lt;br&gt;</content>
+	<content contentuid="hfbbbdfc6gfac4g4049ga78bgdd03f1897383" version="60"> |PortraitClick ShadowHeart Lén Lút v5 |</content>	
+	<content contentuid="ha6ab215eg6e5bg42d0g97a9g6adfd763475f" version="60"> |PortraitClick ShadowHeart Thông Thường v8 |</content>
+
+	<content contentuid="h741ffa11gd01eg4adcg8504g300327fd008d" version="60"> | PortraitClick  Lén Lút  &lt;br&gt;NarrativeArch_Start v1 |</content>
+	<content contentuid="h741ffa11gd01eg4adcg8504g300327fd008d" version="60"> | PortraitClick  Lén Lút  &lt;br&gt;NarrativeArch_Start v1 |</content>
+	<content contentuid="h83bf3d6dgd428g4645ga47bg702884b16851" version="60"> | PortraitClick  Lén Lút  &lt;br&gt;NarrativeArch_Start v6 |</content>
+	<content contentuid="h8c832b38gb510g405eg99f3gdb736887d5e4" version="60"> | PortraitClick  Lén Lút  &lt;br&gt;NarrativeArch_Start v9 |</content>
+	<content contentuid="h9c4977c7gf1feg480bg94f0g42440cc280ef" version="60"> | PortraitClick  Lén Lút  &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="hb13fc7c1gbb77g4bb3g8a1dg7a0ada7ba1cf" version="60"> | PortraitClick  Lén Lút  &lt;br&gt;NarrativeArch_Start v2 |&lt;br&gt;</content>
+	<content contentuid="hb73f0b57gbd09g4225gaedfg938f1d7db554" version="60"> | PortraitClick  Lén Lút  &lt;br&gt;NarrativeArch_Start v12 |&lt;br&gt;</content>
+	<content contentuid="hbc461af8gfbdfg4b0dgaa78gf396ef967b67" version="60"> | PortraitClick  Lén Lút  &lt;br&gt;NarrativeArch_Start v10 |</content>
+	<content contentuid="hd839d0c0gda48g4d99ga0c5gb705ebcbb0bc" version="60"> | PortraitClick  Lén Lút  &lt;br&gt;NarrativeArch_Start v14 |</content>
+	<content contentuid="he3c74097g17a1g44f4gb5a9g622862df5f9a" version="60"> | PortraitClick  Lén Lút  &lt;br&gt;NarrativeArch_Start v13 |</content>
+	<content contentuid="hf03661adg35c1g46fdgaf92g36b36790ef25" version="60"> | PortraitClick  Lén Lút  &lt;br&gt;NarrativeArch_Start v11 |</content>
+	<content contentuid="hf5ecb82cg7841g4a55g848eg1eb5115bc080" version="60"> | PortraitClick  Lén Lút  &lt;br&gt;NarrativeArch_Start v5 |&lt;br&gt;</content>
+	<content contentuid="hf6df8071g2824g4650g83f7g17ebf1d35f50" version="60"> | PortraitClick  Lén Lút  &lt;br&gt;NarrativeArch_Start v15 |</content>
+	<content contentuid="h03e50d44ga81eg40e1gbbddge3190a98658e" version="60"> | PortraitClick  Lén Lút  &lt;br&gt;NarrativeArch_Start v8 |&lt;br&gt;</content>
+	<content contentuid="h13e9206dg696bg41d0g9bf7gef2c792316d9" version="60"> | PortraitClick  Lén Lút  &lt;br&gt;NarrativeArch_Start v18 |</content>
+	<content contentuid="h22dd9170g7a30g4d10gbb4dg06d8bfd0f2ed" version="60"> | PortraitClick  Lén Lút  &lt;br&gt;NarrativeArch_Start v3 |</content>
+	<content contentuid="h365ffcccg5bfcg4dc7ga972g32846c8d4a38" version="60"> | PortraitClick  Lén Lút  &lt;br&gt;NarrativeArch_Start v16 |&lt;br&gt;</content>
+	<content contentuid="h44ca6dd9gba08g4a11gbbafg3b679666fa3d" version="60"> | PortraitClick  Lén Lút  &lt;br&gt;NarrativeArch_Start v7 |</content>
+	
+    <content contentuid="h735f5a49g5a5cg4ea3gb0c1g42fe883e2a01" version="60"> | PortraitClickSpam Bình Thường &lt;br&gt;NarrativeArch_Start v1 &lt;br&gt;Các dòng Easter Egg có thể phát điên ;) |</content>
+
+	<content contentuid="h7a5dc055gbf8cg4f52g88d4gb56e91a596fc" version="60">| PortraitClick Bình Thường &lt;br&gt;NarrativeArch_Start v2 |&lt;br&gt;</content>
+	<content contentuid="h7beb2becg48b5g4a07g95b3gcd440f1afdd4" version="60">| PortraitClickSpam Bình Thường &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="h7fab1d68g9eeeg4247ga749g6c527a988748" version="60">| PortraitClickSpam Bình Thường &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="h90682f2dg95fbg47edga4cfg17113e286318" version="60">| PortraitClick Bình Thường &lt;br&gt;NarrativeArch_Start v9 |&lt;br&gt;</content>
+	<content contentuid="h92be6654g26c0g4e8bga52cge705cd579c67" version="60">| PortraitClick Bình Thường &lt;br&gt;NarrativeArch_Start v10|&lt;br&gt;</content>
+	<content contentuid="h9637ecb5gb85bg4415g8771gd879e4f02079" version="60">| PortraitClick Bình Thường &lt;br&gt;NarrativeArch_Start v17|&lt;br&gt;</content>
+	<content contentuid="hb9615959g8c7eg45b1gb645g53d49d7c828f" version="60">| PortraitClick Bình Thường &lt;br&gt;NarrativeArch_Start v15|</content>
+	<content contentuid="hbc6a3b0bg467dg4801gb6eagfa1e97aa3c80" version="60">| PortraitClick Bình Thường &lt;br&gt;NarrativeArch_Start v13|&lt;br&gt;</content>
+	<content contentuid="hc6a25fa8g3e1ag47efgb607g1b00bd86e50f" version="60">| PortraitClick Bình Thường &lt;br&gt;NarrativeArch_Start v4 |&lt;br&gt;</content>
+	<content contentuid="hf48d5b63gb659g4637g9928ga96286f0322b" version="60">| PortraitClick Bình Thường &lt;br&gt;NarrativeArch_Start v3 |&lt;br&gt;</content>
+	<content contentuid="hf76e918fg9137g4c5cga88eg23e51e13e3a4" version="60">| PortraitClick Bình Thường &lt;br&gt;NarrativeArch_Start v16|&lt;br&gt;</content>
+	<content contentuid="h0fb6219fg2d72g45a7g971dgbe038fad7399" version="60">| PortraitClick Bình Thường &lt;br&gt;NarrativeArch_Start v8 |&lt;br&gt;</content>
+	<content contentuid="h1eee79afga443g42a3g8bb4g7d63ec79cb3b" version="60">| PortraitClick Bình Thường &lt;br&gt;NarrativeArch_Start v5 |&lt;br&gt;</content>
+	<content contentuid="h23339eaagf931g4868ga2c2g081d086afeff" version="60">| PortraitClick Bình Thường &lt;br&gt;NarrativeArch_Start v6 |</content>
+	<content contentuid="h39e61ebbgceecg44ccg977dg74f5ad94c2d4" version="60">| PortraitClick Bình Thường &lt;br&gt;NarrativeArch_Start v7 |&lt;br&gt;</content>
+	<content contentuid="h4ff8885bgabbag4897g9ec5g484e5c0dbe56" version="60">| PortraitClick Bình Thường &lt;br&gt;NarrativeArch_Start v14|&lt;br&gt;</content>
+
+
+    <!-- Các dòng có Key State Event, có liên quan tới Action, Dịch cẩn thận: Bản Lỗi -->
+	<content contentuid="h76bb40d2g0f94g4af3gbe12gafdaee419b4e" version="60">PortraitClickSpam lén lút &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="h8c942e1cg7d45g431ag962agd05d5a833d9f" version="60">| PortraitClickSpam lén lút &lt;br&gt;NarrativeArch_Start v3 |</content>
+	<content contentuid="h08ee074fg7c19g4b83gad64g1086bfe25d34" version="60">| HealBuff Shadowheart Thông Thường v12|&lt;br&gt;&lt;br&gt;&lt;br&gt;</content>
+	<content contentuid="h024e7c41g2337g4defg8f60g6993fd71a0d3" version="60">[Kế hoạch cho buổi trình diễn nghệ thuật sắp tới tại House Jannath - 'Strange Tides: Bản Thân-Portraits from the Sword Coast'.]&lt;br&gt;&lt;br&gt;&lt;i&gt;Những gợi ý tuyệt vời, Mnemonis. Vui lòng xem ghi chú của tôi bên dưới để biết cách chuẩn bị - Quý bà Jannath&lt;/i&gt;&lt;br&gt;&lt;br&gt;Những người được mời&lt;br&gt;Mssr. Rewth Linnacker + 1&lt;br&gt;Quý cô Harette Oberon + 1&lt;br&gt;Ser Yarrick Sashenstar + 3 (&lt;i&gt;Anh ấy nhất quyết mang theo ba đứa trẻ sinh ba. Hãy nhắc anh ấy rằng chúng tôi không cung cấp bảo mẫu nào để chăm sóc chúng.&lt;/i&gt;)&lt;br &gt;Vin Valle (&lt;i&gt;Tác phẩm 'Suy ngẫm về Umberlee' của họ sẽ được trưng bày. Hãy đảm bảo rằng họ được biết về điều này.&lt;/i&gt;)&lt;br&gt;Mssr. Polton Karrick (&lt;i&gt;Vẫn chưa giao tĩnh vật mà tôi đã mua. Hãy nhắc anh ấy về điều này - một cách nhẹ nhàng.&lt;/i&gt;)&lt;br&gt;&lt;br&gt;Chất dinh dưỡng&lt;br&gt;Ba thùng rượu vang (&lt;i&gt;Cái tốt nhất bạn có thể tìm. Người phục vụ rượu vang của tôi ở Manorborn nên có thứ gì đó.&lt;/i&gt;)&lt;br&gt;Súp nấm rừng&lt;br&gt;Món bít tết với măng tây&lt;br&gt;Bánh lê vàng</content>
+	<content contentuid="h06e9f897gfe82g45e7ga33bged02472fccf4" version="60">| PortraitClickSpam lén lút &lt;br&gt;NarrativeArch_Start v1&lt;br&gt;Dòng Easter Egg có thể trở nên điên rồ ;) |&lt;br&gt;</content>
+	<content contentuid="h4f3d1b9cg95b8g4e76g9267gb10494ce3a47" version="60">| PortraitClickSpam lén lút &lt;br&gt;NarrativeArch_Start v4 |</content>
+
+
+	<content contentuid="h4e8ccd4cgd056g41e3g95a5g29b78126e9a2" version="0">Spells using &lt;LSTag Type="Image" Info="WarlockSpellSlot"/&gt; can be replaced on &lt;LSTag Type="Image" Info="TutorialLevelUp"/&gt;&lt;hl&gt;Level Up&lt;/hl&gt;.</content>
+	<content contentuid="he5c71af9g2194g4b47g9613g79eeef5ccbea" version="0">Spells using &lt;LSTag Type="Image" Info="WarlockSpellSlotPAD"/&gt; Warlock Spell Slots can be replaced on &lt;LSTag Type="Image" Info="TutorialLevelUp"/&gt;&lt;hl&gt;Level Up&lt;/hl&gt;.</content>
+	<content contentuid="hdefb242eg8d0bg4680gb37cg763784a9fdfe" version="0">Spells using &lt;LSTag Type="Image" Info="SpellSlotPAD"/&gt; Spell Slots can be replaced on &lt;LSTag Type="Image" Info="TutorialLevelUp"/&gt;&lt;hl&gt;Level Up&lt;/hl&gt;. </content>
+	<content contentuid="h6cbb2d29g46c1g4b0agb271gcb95f4e4b3f0" version="0">Spells using &lt;LSTag Type="Image" Info="SpellSlot"/&gt; can be replaced on &lt;LSTag Type="Image" Info="TutorialLevelUp"/&gt;&lt;hl&gt;Level Up&lt;/hl&gt;.</content>
+</contentList>
