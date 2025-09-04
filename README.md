@@ -1,4 +1,4 @@
-# Hướng Dẫn Việt Hóa Game Baldur's Gate 3
+# 1.Hướng Dẫn Việt Hóa Game Baldur's Gate 3
 
 ## 1. CHUẨN BỊ
 
@@ -49,38 +49,20 @@ Tool ExportTool có sẵn trong thư mục: `tool\ExportTool-v1.19.5`
 **`Package Location` (bản gốc):**
 ```
 └── Localization/
-    └── English/
-        ├── english_M_to_X.loca
-        ├── english_to_F.loca
-        ├── english.loca
-        ├── english.xml
-        └── Gender/
-            ├── Female/
-            │   ├── english_F_to_X.loca
-            │   ├── english_to_F.loca
-            │   └── english.loca
-            └── Neutral/
-                ├── english_X_to_F.loca
-                ├── english_X_to_M.loca
-                └── english_X_to_X.loca
-```
-
-**`Package Nén Mod Việt Hóa` (không có `english.loca`):**
-```
-└── Localization/
-    └── English/
-        ├── english_M_to_X.loca
-        ├── english_to_F.loca
-        ├── english.xml
-        └── Gender/
-            ├── Female/
-            │   ├── english_F_to_X.loca
-            │   ├── english_to_F.loca
-            │   └── english.loca
-            └── Neutral/
-                ├── english_X_to_F.loca
-                ├── english_X_to_M.loca
-                └── english_X_to_X.loca
+   ├── english.xml
+   └── English/
+      ├── english_M_to_X.loca
+      ├── english_to_F.loca
+      ├── english.loca
+      └── Gender/
+         ├── Female/
+         │   ├── english_F_to_X.loca
+         │   ├── english_to_F.loca
+         │   └── english.loca
+         └── Neutral/
+            ├── english_X_to_F.loca
+            ├── english_X_to_M.loca
+            └── english_X_to_X.loca
 ```
 
 ### 2.4. Chuyển đổi english.loca thành english.xml
@@ -134,13 +116,33 @@ Tool ExportTool có sẵn trong: `tool\ExportTool-v1.19.5`
 
 ### 4.2. Chuyển đổi english.xml thành english.loca
 
+**Nhớ Xóa english.loca cũ đi**
+
 1. **Mở ExportTool và chọn tab `Localization`**
 
 2. **Thiết lập đường dẫn:**
    - **Input file path:** Chọn file `english.xml` đã được việt hóa
    - **Output file path:** Chọn folder `Package Nén Mod Việt Hóa`, đặt tên file là `english.loca`
 
-3. **Nhấn `Convert`**
+3. **Nhấn `Convert`** thành `english.local`. Sau khi convert xóa `english.xml` đi. 
+
+**`Package Nén Mod Việt Hóa` (Lưu ý: không có `english.xml`):**
+```
+└── Localization/
+   └── English/
+      ├── english_M_to_X.loca
+      ├── english_to_F.loca
+      ├── english.loca
+      └── Gender/
+         ├── Female/
+         │   ├── english_F_to_X.loca
+         │   ├── english_to_F.loca
+         │   └── english.loca
+         └── Neutral/
+            ├── english_X_to_F.loca
+            ├── english_X_to_M.loca
+            └── english_X_to_X.loca
+```
 
 ### 4.3. Tạo file Mod Việt Hóa (.pak)
 
@@ -163,3 +165,13 @@ Copy file `.pak` vừa tạo vào thư mục `Localization` của BG3:
    ```
 
 ---
+
+# 2.Hướng Đẫn Bằng Hình Ảnh
+
+## 2.1. Giải Nén File English.pak
+![Hướng dẫn giải nén](.HDPic/Giai_Nen/1.png)
+![Hướng dẫn giải nén](.HDPic/Giai_Nen/2.png)
+
+## 2.2. Nén Lại Thành Mod
+![Hướng dẫn nén lại](.HDPic/Nen_Lai/1.png)
+![Hướng dẫn nén lại](.HDPic/Nen_Lai/2.png)
