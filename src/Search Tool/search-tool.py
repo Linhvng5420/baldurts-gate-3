@@ -6,6 +6,7 @@ Search-Tool-UI.py - Giao diện người dùng cho công cụ tìm kiếm và x�
 
 import os
 import re
+import time
 import tkinter as tk
 from tkinter import ttk, filedialog, scrolledtext, messagebox
 import threading
@@ -196,13 +197,174 @@ def xoa_noi_dung(file_path, contents_to_remove):
 
 def phan_tich_file_xml(file_path):
     try:
+        # Lấy thông tin file
+        file_stat = os.stat(file_path)
+        file_size = file_stat.st_size
+        file_name = os.path.basename(file_path)
+        
+        # Chuyển đổi timestamp thành ngày tháng dễ đọc
+        file_created = time.strftime('%d/%m/%Y %H:%M:%S', time.localtime(file_stat.st_ctime))
+        file_modified = time.strftime('%d/%m/%Y %H:%M:%S', time.localtime(file_stat.st_mtime))
+        
+        print(f"📁 Tên file: {file_name}")
+        print(f"📅 Ngày tạo: {file_created}")
+        print(f"📅 Ngày sửa đổi: {file_modified}")
+        print(f"📊 Kích thước: {file_size:,} bytes ({file_size/1024:.2f} KB)")
+        print()
+        
         with open(file_path, 'r', encoding='utf-8') as file:
             content = file.read()
-            content_elements = re.findall(r'<content.*?</content>', content, re.DOTALL)
-            return len(content_elements)
+            
+        # Phân tích nội dung file
+        lines = content.split('\n')
+        total_lines = len(lines)
+        
+        # Đếm số dòng content
+        content_elements = re.findall(r'<content.*?</content>', content, re.DOTALL)
+        content_lines = len(content_elements)
+        
+        # Đếm số dòng có comment (<!-- ... -->)
+        comment_lines = 0
+        for line in lines:
+            if '<!--' in line or '-->' in line:
+                comment_lines += 1
+        
+        # Đếm số dòng trống
+        empty_lines = 0
+        for line in lines:
+            if line.strip() == '':
+                empty_lines += 1
+        
+        # Đếm các dòng có nội dung thực (không trống, không phải comment)
+        content_real_lines = total_lines - empty_lines - comment_lines
+        
+        print(f"📋 Thống kê nội dung file:")
+        print(f"   • Tổng số dòng: {total_lines:,}")
+        print(f"   • Số dòng content: {content_lines:,}")
+        print(f"   • Số dòng có comment: {comment_lines:,}")
+        print(f"   • Số dòng trống: {empty_lines:,}")
+        print(f"   • Số dòng có nội dung thực: {content_real_lines:,}")
+        print()
+        
+        # Phân tích thêm về cấu trúc XML
+        contentlist_count = content.count('<contentList>')
+        if contentlist_count > 0:
+            print(f"📦 Cấu trúc XML:")
+            print(f"   • Số thẻ <contentList>: {contentlist_count}")
+            
+            # Tìm các contentuid duy nhất
+            contentuid_list = re.findall(r'contentuid="([^"]*)"', content)
+            unique_uids = set(contentuid_list)
+            duplicate_uids = len(contentuid_list) - len(unique_uids)
+            
+            print(f"   • Tổng ContentUID: {len(contentuid_list):,}")
+            print(f"   • ContentUID duy nhất: {len(unique_uids):,}")
+            if duplicate_uids > 0:
+                print(f"   • ContentUID trùng lặp: {duplicate_uids:,}")
+        
+        return {
+            'total_lines': total_lines,
+            'content_lines': content_lines,
+            'comment_lines': comment_lines,
+            'empty_lines': empty_lines,
+            'content_real_lines': content_real_lines,
+            'file_size': file_size,
+            'content_elements': content_elements
+        }
     except Exception as e:
-        print(f"Lỗi khi phân tích file: {str(e)}")
-        return 0
+        print(f"❌ Lỗi khi phân tích file: {str(e)}")
+        return None
+
+def chia_file_xml(file_path, content_per_file):
+    """
+    Chia file XML thành nhiều file nhỏ với số lượng content elements được chỉ định
+    
+    Args:
+        file_path (str): Đường dẫn đến file XML gốc
+        content_per_file (int): Số lượng content elements mỗi file
+        
+    Returns:
+        list: Danh sách đường dẫn các file đã tạo
+    """
+    try:
+        print(f"📂 Đang đọc file: {os.path.basename(file_path)}")
+        
+        with open(file_path, 'r', encoding='utf-8') as file:
+            content = file.read()
+        
+        # Tìm tất cả content elements với format chính xác
+        pattern = r'(\t<content[^>]*>.*?</content>)'
+        content_elements = re.findall(pattern, content, re.DOTALL)
+        
+        if not content_elements:
+            print("❌ Không tìm thấy content elements nào trong file!")
+            return []
+        
+        total_elements = len(content_elements)
+        print(f"📊 Tổng số content elements: {total_elements:,}")
+        print(f"📋 Chia mỗi file: {content_per_file:,} elements")
+        
+        # Tính số file cần tạo
+        total_files = (total_elements + content_per_file - 1) // content_per_file
+        print(f"📁 Số file sẽ tạo: {total_files}")
+        
+        # Tạo thư mục output
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        project_root = os.path.dirname(os.path.dirname(script_dir))
+        output_dir = os.path.join(project_root, "output")
+        os.makedirs(output_dir, exist_ok=True)
+        
+        # Tạo timestamp để tránh trùng tên
+        from datetime import datetime
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        
+        base_name = os.path.splitext(os.path.basename(file_path))[0]
+        created_files = []
+        
+        # Lấy header và footer của file gốc
+        header_match = re.search(r'^(.*?<contentList>\s*)', content, re.DOTALL)
+        footer_match = re.search(r'(\s*</contentList>.*?)$', content, re.DOTALL)
+        
+        header = header_match.group(1) if header_match else '<?xml version="1.0" encoding="utf-8"?>\n<contentList>\n'
+        footer = footer_match.group(1) if footer_match else '\n</contentList>'
+        
+        print("\n🔄 Đang tạo các file...")
+        
+        for i in range(total_files):
+            start_idx = i * content_per_file
+            end_idx = min(start_idx + content_per_file, total_elements)
+            
+            # Lấy content elements cho file này
+            file_elements = content_elements[start_idx:end_idx]
+            
+            # Tạo tên file
+            file_number = i + 1
+            output_filename = f"{base_name}_part_{file_number:03d}_of_{total_files:03d}_{timestamp}.xml"
+            output_path = os.path.join(output_dir, output_filename)
+            
+            # Tạo nội dung file
+            file_content = header
+            for element in file_elements:
+                file_content += element + '\n'
+            file_content += footer
+            
+            # Ghi file
+            with open(output_path, 'w', encoding='utf-8') as output_file:
+                output_file.write(file_content)
+            
+            created_files.append(output_path)
+            
+            print(f"✅ File {file_number:3d}/{total_files}: {output_filename} ({len(file_elements):,} elements)")
+        
+        print(f"\n🎉 Chia file hoàn tất!")
+        print(f"📁 Tạo thành công {len(created_files)} file trong thư mục output")
+        print(f"📊 Tổng {total_elements:,} elements được chia đều")
+        
+        return created_files
+        
+    except Exception as e:
+        print(f"❌ Lỗi khi chia file: {str(e)}")
+        return []
 
 def tim_contentuid_trung_lap_trong_file(file_path):
     try:
@@ -399,12 +561,17 @@ class SearchToolUI:
         self.tab3 = ttk.Frame(self.tab_control)
         self.tab_control.add(self.tab3, text='So sánh hai file')
         
+        # Tab 4: Chia file XML
+        self.tab4 = ttk.Frame(self.tab_control)
+        self.tab_control.add(self.tab4, text='Chia file XML')
+        
         self.tab_control.pack(expand=1, fill="both")
         
         # Thiết lập các tab
         self.setup_search_tab()
         self.setup_analyze_tab()
         self.setup_compare_tab()
+        self.setup_split_tab()
         
         # Thiết lập khu vực hiển thị kết quả
         self.setup_output_area()
@@ -505,6 +672,11 @@ class SearchToolUI:
         if hasattr(self, 'file_b_path_entry'):
             self.file_b_path_entry['values'] = self.path_history
             print("Đã cập nhật file_b_path_entry")
+        
+        # Cập nhật combobox trong tab chia file
+        if hasattr(self, 'split_path_entry'):
+            self.split_path_entry['values'] = self.path_history
+            print("Đã cập nhật split_path_entry")
 
     def setup_search_tab(self):
         """Thiết lập tab tìm kiếm và xóa nội dung"""
@@ -724,6 +896,77 @@ class SearchToolUI:
         
         ttk.Button(khong_trung_frame, text="Lọc tất cả contentUID không trùng nhau", 
                   command=lambda: self.export_unique_uids('AB')).pack(side=tk.LEFT, padx=5, pady=2)
+
+    def setup_split_tab(self):
+        """Thiết lập tab chia file XML"""
+        frame = ttk.LabelFrame(self.tab4, text="Chia file XML thành nhiều file nhỏ")
+        frame.pack(fill="both", expand=True, padx=10, pady=10)
+        
+        # Thông báo hướng dẫn
+        info_frame = ttk.Frame(frame)
+        info_frame.pack(fill="x", padx=5, pady=5)
+        
+        info_text = "💡 Chia file XML lớn thành nhiều file nhỏ để dễ quản lý và xử lý"
+        ttk.Label(info_frame, text=info_text, font=("Arial", 9), foreground="blue").pack(side=tk.LEFT)
+        
+        # Frame cho đường dẫn file
+        path_frame = ttk.Frame(frame)
+        path_frame.pack(fill="x", padx=5, pady=5)
+        
+        ttk.Label(path_frame, text="Đường dẫn file XML:").pack(side=tk.LEFT)
+        
+        self.split_path_var = tk.StringVar()
+        # Sử dụng Combobox để có dropdown lịch sử
+        self.split_path_entry = ttk.Combobox(path_frame, textvariable=self.split_path_var, width=50)
+        self.split_path_entry['values'] = self.path_history
+        self.split_path_entry.pack(side=tk.LEFT, padx=5, fill="x", expand=True)
+        
+        # Nút duyệt file
+        ttk.Button(path_frame, text="Duyệt...", command=lambda: self.browse_file(self.split_path_var)).pack(side=tk.LEFT, padx=5)
+        
+        # Nút lấy đường dẫn từ clipboard
+        ttk.Button(path_frame, text="Lấy từ clipboard", command=lambda: self.parse_clipboard(self.split_path_var)).pack(side=tk.LEFT)
+        
+        # Nút xóa đường dẫn hiện tại khỏi lịch sử
+        ttk.Button(path_frame, text="🗑️", command=lambda: self.remove_current_path(self.split_path_var)).pack(side=tk.LEFT, padx=2)
+        
+        # Frame cho cài đặt chia file
+        settings_frame = ttk.Frame(frame)
+        settings_frame.pack(fill="x", padx=5, pady=10)
+        
+        ttk.Label(settings_frame, text="Số content elements mỗi file:").pack(side=tk.LEFT)
+        
+        self.content_per_file_var = tk.StringVar(value="1000")
+        content_entry = ttk.Entry(settings_frame, textvariable=self.content_per_file_var, width=10)
+        content_entry.pack(side=tk.LEFT, padx=5)
+        
+        # Thêm các gợi ý số lượng
+        suggestion_frame = ttk.Frame(frame)
+        suggestion_frame.pack(fill="x", padx=5, pady=5)
+        
+        ttk.Label(suggestion_frame, text="Gợi ý:").pack(side=tk.LEFT)
+        
+        ttk.Button(suggestion_frame, text="500", 
+                  command=lambda: self.content_per_file_var.set("500")).pack(side=tk.LEFT, padx=2)
+        ttk.Button(suggestion_frame, text="1000", 
+                  command=lambda: self.content_per_file_var.set("1000")).pack(side=tk.LEFT, padx=2)
+        ttk.Button(suggestion_frame, text="2000", 
+                  command=lambda: self.content_per_file_var.set("2000")).pack(side=tk.LEFT, padx=2)
+        ttk.Button(suggestion_frame, text="5000", 
+                  command=lambda: self.content_per_file_var.set("5000")).pack(side=tk.LEFT, padx=2)
+        
+        # Frame cho các nút chức năng
+        button_frame = ttk.Frame(frame)
+        button_frame.pack(fill="x", padx=5, pady=10)
+        
+        ttk.Button(button_frame, text="📊 Phân tích file trước", command=self.analyze_before_split).pack(side=tk.LEFT, padx=5)
+        ttk.Button(button_frame, text="✂️ Chia file", command=self.run_split_file).pack(side=tk.LEFT, padx=5)
+        
+        # Frame cho thông tin phân tích
+        self.split_info_frame = ttk.LabelFrame(frame, text="Thông tin phân tích")
+        
+        # Biến lưu thông tin phân tích
+        self.split_analysis_result = None
 
     def setup_output_area(self):
         """Thiết lập khu vực hiển thị kết quả"""
@@ -1457,6 +1700,157 @@ class SearchToolUI:
         except Exception as e:
             self.print_to_output(f"❌ Lỗi khi xuất file combined: {str(e)}")
 
+    def analyze_before_split(self):
+        """Phân tích file trước khi chia"""
+        file_path = self.split_path_var.get()
+        
+        if not file_path:
+            messagebox.showerror("Lỗi", "Vui lòng chọn file XML để phân tích")
+            return
+            
+        if not os.path.exists(file_path):
+            messagebox.showerror("Lỗi", f"File {file_path} không tồn tại")
+            return
+        
+        # Thực hiện phân tích trong luồng riêng
+        self.clear_output()
+        threading.Thread(target=self._analyze_split_thread, args=(file_path,)).start()
+
+    def _analyze_split_thread(self, file_path):
+        """
+        Luồng phân tích file cho tab chia file
+        
+        Args:
+            file_path (str): Đường dẫn đến file XML
+        """
+        try:
+            self.print_to_output(f"🔍 Đang phân tích file: {os.path.basename(file_path)}")
+            
+            # Thực hiện phân tích
+            analysis_result = phan_tich_file_xml(file_path)
+            
+            if analysis_result:
+                self.split_analysis_result = analysis_result
+                content_count = analysis_result['content_lines']
+                
+                # Hiển thị thông tin chia file
+                self.print_to_output(f"\n📋 Dự đoán chia file:")
+                
+                try:
+                    content_per_file = int(self.content_per_file_var.get())
+                    if content_per_file <= 0:
+                        raise ValueError("Số lượng phải > 0")
+                    
+                    total_files = (content_count + content_per_file - 1) // content_per_file
+                    
+                    self.print_to_output(f"   • Với {content_per_file:,} content/file → Sẽ tạo {total_files} file")
+                    
+                    # Hiển thị bảng dự đoán cho các kích thước khác nhau
+                    suggestions = [500, 1000, 2000, 5000, 10000]
+                    self.print_to_output(f"\n📊 Bảng dự đoán:")
+                    for suggestion in suggestions:
+                        if suggestion <= content_count:
+                            files_needed = (content_count + suggestion - 1) // suggestion
+                            self.print_to_output(f"   • {suggestion:5,} content/file → {files_needed:3d} file{'s' if files_needed > 1 else ''}")
+                    
+                    # Hiển thị frame thông tin
+                    self.master.after(0, self.show_split_info)
+                    
+                except ValueError:
+                    self.print_to_output("❌ Vui lòng nhập số nguyên dương cho số content mỗi file")
+            else:
+                self.print_to_output("❌ Không thể phân tích file")
+                
+        except Exception as e:
+            self.print_to_output(f"❌ Lỗi khi phân tích: {str(e)}")
+
+    def show_split_info(self):
+        """Hiển thị thông tin phân tích trong frame"""
+        if not self.split_analysis_result:
+            return
+        
+        # Hiển thị frame thông tin
+        self.split_info_frame.pack(fill="x", padx=5, pady=5)
+        
+        # Xóa các widget cũ
+        for widget in self.split_info_frame.winfo_children():
+            widget.destroy()
+        
+        result = self.split_analysis_result
+        
+        # Hiển thị thông tin tóm tắt
+        info_text = f"Tổng content: {result['content_lines']:,} | Kích thước: {result['file_size']/1024:.1f} KB | Dòng: {result['total_lines']:,}"
+        ttk.Label(self.split_info_frame, text=info_text, font=("Arial", 9)).pack(pady=2)
+
+    def run_split_file(self):
+        """Chạy tính năng chia file"""
+        file_path = self.split_path_var.get()
+        
+        if not file_path:
+            messagebox.showerror("Lỗi", "Vui lòng chọn file XML để chia")
+            return
+            
+        if not os.path.exists(file_path):
+            messagebox.showerror("Lỗi", f"File {file_path} không tồn tại")
+            return
+        
+        try:
+            content_per_file = int(self.content_per_file_var.get())
+            if content_per_file <= 0:
+                raise ValueError("Số lượng phải lớn hơn 0")
+        except ValueError:
+            messagebox.showerror("Lỗi", "Vui lòng nhập số nguyên dương cho số content mỗi file")
+            return
+        
+        # Hỏi xác nhận
+        confirm = messagebox.askyesno(
+            "Xác nhận chia file", 
+            f"Bạn có chắc chắn muốn chia file thành các file nhỏ với {content_per_file:,} content elements mỗi file?\n\n"
+            f"File: {os.path.basename(file_path)}"
+        )
+        
+        if not confirm:
+            return
+        
+        # Thực hiện chia file trong luồng riêng
+        self.clear_output()
+        threading.Thread(target=self._split_file_thread, args=(file_path, content_per_file)).start()
+
+    def _split_file_thread(self, file_path, content_per_file):
+        """
+        Luồng chia file để không làm treo UI
+        
+        Args:
+            file_path (str): Đường dẫn đến file XML
+            content_per_file (int): Số content elements mỗi file
+        """
+        try:
+            self.print_to_output(f"✂️ Bắt đầu chia file: {os.path.basename(file_path)}")
+            self.print_to_output(f"📋 Cài đặt: {content_per_file:,} content elements mỗi file")
+            
+            # Thực hiện chia file
+            created_files = chia_file_xml(file_path, content_per_file)
+            
+            if created_files:
+                self.print_to_output(f"\n🎉 Chia file hoàn tất!")
+                self.print_to_output(f"📁 Đã tạo {len(created_files)} file trong thư mục output")
+                
+                # Hiển thị danh sách file đã tạo
+                self.print_to_output(f"\n📋 Danh sách file đã tạo:")
+                for i, file_path in enumerate(created_files, 1):
+                    file_name = os.path.basename(file_path)
+                    self.print_to_output(f"   {i:2d}. {file_name}")
+                
+                # Thêm đường dẫn vào lịch sử
+                self.add_to_history(self.split_path_var.get())
+                
+                self.print_to_output(f"\n💡 Các file đã được lưu trong thư mục 'output' của project.")
+            else:
+                self.print_to_output("❌ Chia file không thành công")
+                
+        except Exception as e:
+            self.print_to_output(f"❌ Lỗi khi chia file: {str(e)}")
+
 def main():
     # Tạo thư mục output trong thư mục gốc của project nếu chưa tồn tại
     script_dir = os.path.dirname(os.path.abspath(__file__))
@@ -1478,11 +1872,15 @@ def main():
     root.geometry("1000x700")
     
     # Hiển thị thông báo hướng dẫn
-    app.print_to_output("Chào mừng đến với Công cụ xử lý XML!")
-    app.print_to_output("Sử dụng các tab để truy cập các chức năng khác nhau.")
-    app.print_to_output("Sử dụng nút 'Duyệt...' để chọn file XML hoặc 'Lấy từ clipboard' để dán đường dẫn.")
-    app.print_to_output("📚 Tính năng mới: Lịch sử đường dẫn - Nhấn vào dropdown để chọn từ lịch sử.")
-    app.print_to_output("🗑️ Sử dụng nút 🗑️ để xóa đường dẫn hiện tại khỏi lịch sử.")
+    app.print_to_output("🎉 Chào mừng đến với Công cụ xử lý XML!")
+    app.print_to_output("✨ CẬP NHẬT: Đã sửa tính năng phân tích file và thêm tính năng chia file XML!")
+    app.print_to_output("📂 Sử dụng các tab để truy cập các chức năng:")
+    app.print_to_output("   • Tab 1: Tìm kiếm và xóa nội dung")
+    app.print_to_output("   • Tab 2: Phân tích file (đã cải thiện)")
+    app.print_to_output("   • Tab 3: So sánh hai file")
+    app.print_to_output("   • Tab 4: Chia file XML (MỚI)")
+    app.print_to_output("📚 Lịch sử đường dẫn: Nhấn dropdown để chọn từ lịch sử | Nút 🗑️ để xóa")
+    app.print_to_output("� Tip: Sử dụng 'Lấy từ clipboard' để dán đường dẫn nhanh!")
     
     root.mainloop()
 
