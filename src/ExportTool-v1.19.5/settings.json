@@ -9,10 +9,10 @@
     "ConformPath": null
   },
   "PAK": {
-    "ExtractInputPath": "D:\\Games\\Baldurt's Gate VH\\Game Backup\\English.pak",
-    "ExtractOutputPath": "D:\\Games\\Baldurt's Gate VH\\Game Backup\\",
-    "CreateInputPath": "D:\\Games\\Baldurt's Gate VH\\baldurts-gate-3\\input\\Package Create Mod VH\\",
-    "CreateOutputPath": "C:\\Users\\ngvli\\Downloads\\BG3\\English.pak",
+    "ExtractInputPath": "C:\\Users\\ngvli\\Downloads\\BG3\\Mod Mystra's Spells\\Mod Mystra's Spells.pak",
+    "ExtractOutputPath": "C:\\Users\\ngvli\\Downloads\\BG3\\Mod Mystra's Spells",
+    "CreateInputPath": "C:\\Users\\ngvli\\Downloads\\BG3\\Mod Mystra's Spells\\Nen VH",
+    "CreateOutputPath": "C:\\Users\\ngvli\\Downloads\\BG3\\Mod Mystra's Spells\\Nen VH\\Test_4b516620-9c56-aa18-96ae-a9ee4f57b515.pak",
     "CreatePackageVersion": 0,
     "CreatePackageCompression": 4
   },

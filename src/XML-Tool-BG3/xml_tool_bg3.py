@@ -422,8 +422,8 @@ def chia_file_xml(file_path, content_per_file):
         with open(file_path, 'r', encoding='utf-8') as file:
             content = file.read()
         
-        # Tìm tất cả content elements với format chính xác
-        pattern = r'(\t<content[^>]*>.*?</content>)'
+        # Tìm tất cả content elements với format chính xác (hỗ trợ cả tab và spaces)
+        pattern = r'([ \t]*<content[^>]*>.*?</content>)'
         content_elements = re.findall(pattern, content, re.DOTALL)
         
         if not content_elements:

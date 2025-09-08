@@ -1,0 +1,504 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+    <content contentuid="h8d5ead38g9868gb40fg46edg7fcda77de85a" version="3">&lt;LSTag Type="Status" Tooltip="INCITE_GREED"&gt;Charm&lt;/LSTag&gt; creatures into walking peacefully towards you.</content>
+    <content contentuid="ha9e56162gdff9g3d3bg3f51gd46c623295be" version="1">Incite Greed</content>
+    <content contentuid="hc68671c0gb344gc8fbgbd05g277b9c1ecd73" version="2">Affected entity has to move towards the spellcaster using the shortest route possible and can't take any other actions or bonus actions.&lt;br&gt;&lt;br&gt;Removed by taking damage or passing a Wisdom save at the end of each turn.</content>
+    <content contentuid="h8038da23g4effge0a7gc31ag49bfd76260e4" version="1">Intellect Fortress</content>
+    <content contentuid="h6c88d1f1g37dag0481g1338g4648aac76771" version="1">Grant yourself or a target &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to psychic damage as well as &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Intelligence, Wisdom and Charisma &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+    <content contentuid="h4bbdaa74g4136g3267g0e15g4325904371a3" version="1">Intellect Fortress</content>
+    <content contentuid="hed56a379gd0e2g1165g5815gcaff566d431f" version="3">Has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Intelligence, Wisdom, and Charisma &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; and &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to psychic damage.</content>
+    <content contentuid="h27248c0dg1c19ga1e2g324dg589d96900f5d" version="1">Life Transference</content>
+    <content contentuid="hc98a80f1g3c32g8160g97d7g8b39f07c38a6" version="4">Sacrifice your health to mend another creature's injuries. Deals [1] to yourself.</content>
+    <content contentuid="h8f6f1b47g39ffg880fg70e4gdb529cb64b64" version="1">Cure Wounds</content>
+    <content contentuid="hd33cd0bcgceecgb9bag7d5ag77653d0ceee7" version="1">Heal a creature you can touch.</content>
+    <content contentuid="h16bdb27eg61e2gf8e7g4f8dgb05423a65560" version="1">The caster must not be resistant or immune to necrotic damage.</content>
+    <content contentuid="hb68b825agf05cge857g84e6gb0a004ed5e1a" version="1">Melf's Minute Meteors</content>
+    <content contentuid="he9e1d010gd0d2g48f8g91b1g49d103134ba8" version="2">Conjure [2] flaming meteors that can be thrown at enemies to explode in a [3] radius dealing [1].</content>
+    <content contentuid="ha785fc92g442dg8f18gf4c8g115bda549ab9" version="1">Melf's Minute Meteors</content>
+    <content contentuid="h33f67305g974eg1a8fgff3dgd4f2c0a58a7b" version="1">Can throw minute meteors at enemies.</content>
+    <content contentuid="h9740fb09g50dcg54f2g66f3g11949796556c" version="1">Melf's Minute Meteors</content>
+    <content contentuid="h2f481cfbg6f34g0493gf7e7g8123d1e8bfed" version="1">Can throw minute meteors at enemies.</content>
+    <content contentuid="h1f265b48gc68dgdc53gb5f2g553895878072" version="2">Melf's Minute Meteors (Bonus)</content>
+    <content contentuid="h2f4d92d8gbe40g2cbcgb176gaf8a140fa7f3" version="2">Hurl a minute meteor at the target that explodes in a [1] radius.</content>
+    <content contentuid="h3fe0e198gc928gd061g4965gf08db5c18a4d" version="1">Melf's Minute Meteors (Free)</content>
+    <content contentuid="h2f753524g21bfg88dage58dgdd19529c2e84" version="1">Melf's Minute Meteors</content>
+    <content contentuid="h405f1153g7202g345fgba40g62f6ad16dc3f" version="1">Can throw minute meteors at enemies for free.</content>
+    <content contentuid="h1a034193g7318g30bbga1e2g4b9aa563b365" version="1">Melf's Minute Meteors</content>
+    <content contentuid="hd96b5d55g731dg1ca9gce63gcef63d4497b3" version="1">Can throw minute meteors at enemies.</content>
+    <content contentuid="h0fba3845g045cg6cb3g3383gb138c7e5d20e" version="2">Motivational Speech</content>
+    <content contentuid="h1d39fed6g31fbg21c9g6068g9783f21e133f" version="3">Motivate up to 5 creatures. They gain +[1] and advantage on Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;If an affected entity is hit by an attack it has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on the next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
+    <content contentuid="hae774d17g7873ged57g0192g63a0ff10520f" version="1">Motivational Speech</content>
+    <content contentuid="h4b9cdc80g0a8fg9f77g3642gd2a0f221c86c" version="3">Gained [1] &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt; and &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;If hit by an attack gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on the next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
+    <content contentuid="h02b2d78age3adg9bb3g6384gc31881d8e020" version="3">Motivational Speech: Attack</content>
+    <content contentuid="h6ea0ef8fg4814ga8f3ga86ag2d307cd46b82" version="1">Has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on the next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
+    <content contentuid="h71a8cde3g9846gc65bg2d35gb5ee241b7296" version="2">Motivational Speech</content>
+    <content contentuid="h31b7345bg8261g91efg9551gbe61d33528e6" version="1">Motivational Speech</content>
+    <content contentuid="h3e02f68bg1debgb3dcg22eagb3cce4066fd2" version="1">Gained [1] &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt; and &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;If hit by an attack gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on the next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
+    <content contentuid="h8f279dffg6146g21cfg56a4g8d584a05412d" version="1">Motivational Speech</content>
+    <content contentuid="h42b0a7b2gb16bga2ebg8431g22eacc4f0277" version="1">Gained [1] &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt; and &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;If hit by an attack gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on the next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
+    <content contentuid="h5759ce07gd190gf8dagfd5bg6545752af588" version="1">Motivational Speech</content>
+    <content contentuid="h268f1556g6a8cg4a3fgc995g613770205505" version="1">Gained [1] &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt; and &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;If hit by an attack gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on the next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
+    <content contentuid="hd578a41eg1cd4gd5cdgdbf3g5dddaeee579a" version="1">Psionic Blast</content>
+    <content contentuid="h72f20998gd8b5ged4fg3727g058fc70b1f78" version="2">Unleash a destructive wave of mental power that pushes away all creatures and objects, knocking them &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+    <content contentuid="h56276993g5c35g3ac4ge25fg6327671984f0" version="1">Pulse Wave: Push</content>
+    <content contentuid="h4dfe7cf3g5e75g3721gc4c3g774da34bd420" version="1">Create intense pressure that pulls creatures and objects.</content>
+    <content contentuid="h3505f4a6g6395gf0c1g6f1dg2860e30f0e83" version="1">Pulse Wave</content>
+    <content contentuid="h715aa66cg229ag287egb138g8d291c264817" version="1">Create intense pressure that pushes or pulls creatures and objects in the area.</content>
+    <content contentuid="h7c77d80dg16e3g5952g0f79g1e47611a424b" version="1">Pulse Wave: Pull</content>
+    <content contentuid="h652c381bg0067g38d6g1232g7b5b314337c0" version="1">Create intense pressure that pushes away creatures and objects.</content>
+    <content contentuid="h6dca0860ga3d9ge55dg54d8gf72320d543ca" version="1">Spirit Shroud</content>
+    <content contentuid="h8f5ceadag04fdge406g7790g4f1b62e31967" version="6">Call forth spirits to fight. Nearby enemies have [1] of reduced movement speed.&lt;br&gt;&lt;br&gt;When you attack a nearby enemy deal an extra [2] or [3] or [4] and prevent them from regaining hit points until your next turn.</content>
+    <content contentuid="h46b8601fga50dgfb61g3924g0cbe979f4302" version="2">Spirit Shroud: Radiant</content>
+    <content contentuid="hdec3b7aag41fdg1534g3ccfg91165599aed0" version="2">Nearby enemies have [1] of reduced movement speed.&lt;br&gt;&lt;br&gt;When you attack a nearby enemy deal an extra [2] and prevent them from regaining hit points until your next turn.</content>
+    <content contentuid="h3f09552dg71bcga311g7d32g62306427b214" version="1">Spirit Shroud Vulnerable</content>
+    <content contentuid="hd484197ag23d4g63a4g53d1g1d2483f6c0ba" version="2">Takes bonus damage when attacked by the source of the spirit shroud.</content>
+    <content contentuid="h49c1a4e0gc524gd597gecc8g78e7bfe3de5b" version="2">Spirit Shroud: Radiant</content>
+    <content contentuid="had96a748gd904gc05fgde41gcf98d988f128" version="1">Spirit Shroud: Necrotic</content>
+    <content contentuid="h78c7a3ecg3953g314bg26e6g02d730bcac17" version="1">Spirit Shroud: Radiant</content>
+    <content contentuid="h0834e27eg7cb7g9784gcb75gdceb6f842bf7" version="1">Call forth spirits to fight. Nearby enemies have [2] of reduced movement speed, can't regain hit points until your next turn, and take [1] extra damage when you attack them.</content>
+    <content contentuid="hba92c893g3ec4ga35cg4a1ag61ae51304d5a" version="1">Spirit Shroud: Cold</content>
+    <content contentuid="h5fd28eacg9f44gb448g5654g145eb3987b68" version="3">Call forth spirits to fight. Nearby enemies have [1] of reduced movement speed.&lt;br&gt;&lt;br&gt;When you attack a nearby enemy deal an extra [2] and prevent them from regaining hit points until your next turn.</content>
+    <content contentuid="hc937b506ga87fg6930g7e9fg5fe8e0a9d5af" version="1">Spirit Shroud: Necrotic</content>
+    <content contentuid="hddb29463gd28fg8a7cg4bc8g4d60a55cec14" version="1">Spirit Shroud: Cold</content>
+    <content contentuid="h3dd28fcege882g504dg5963g98166b8e6b06" version="1">Spirit Shroud: Necrotic</content>
+    <content contentuid="h05939d90gf26cge1e4g93b0gd764346acb95" version="1">Spirit Shroud: Cold</content>
+    <content contentuid="h92612203g9339g2bedg500ag184c4e281d1b" version="1">Spirit Shroud: Necrotic</content>
+    <content contentuid="h303b7c93g06dcgb20fg97f9ge3c453f7d14a" version="1">Spirit Shroud: Cold</content>
+    <content contentuid="hea9c0c71g72e1gad29gd880g19d3c58e8e5c" version="2">Spirit Shroud Chilled</content>
+    <content contentuid="hbcdd29f4g2665gec29gf256g1d47acff01e4" version="2">Cannot regain &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;.</content>
+    <content contentuid="hf9b10db4g0c0agbe21g1db3g59ce04cbc16f" version="1">Spirit Shroud</content>
+    <content contentuid="hd9eea0e5gcc6dgf569gad2ag7f11dc0bc887" version="1">Tidal Wave</content>
+    <content contentuid="h0c60b84eg90a2g6dcag842bg4372249f1309" version="2">Conjure a wave of water that knocks enemies &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt; within a [1] radius of the target location.</content>
+    <content contentuid="hf4f2a5b3g25d7g7f4cg41cfgca5fc8e96179" version="1">Aura of Life</content>
+    <content contentuid="h152ffb6dgdb36gb4fegca87g3fb36d8e7629" version="4">Radiate an aura that grants all nearby allies &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to necrotic damage.&lt;br&gt;&lt;br&gt;Downed allies will also regain 1 hit point.</content>
+    <content contentuid="hd57e5c8cg728cg13b9g58b6g4b8916ea345d" version="2">Aura of Life</content>
+    <content contentuid="h6340f3e7gc550g5a42ga9abg5696953fd435" version="1">Affected entity can use &lt;LSTag Type="Spell" Tooltip="Target_AuraOfVitality_Activate"&gt;Restore Vitality&lt;/LSTag&gt; to heal itself or nearby allies.</content>
+    <content contentuid="h6196e9dfg8ed1g6e53g7a5bgc25b7d9f9f02" version="2">Radiate an aura that grants all nearby allies &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to necrotic damage.&lt;br&gt;&lt;br&gt;Downed allies will also regain 1 hit point.</content>
+    <content contentuid="h6ff5aafcg9d18gf5e5ge4f1g8ab94dbc74ac" version="1">Aura of Life</content>
+    <content contentuid="hacf09405g8c14g7b34gfefcg358d9b5e3726" version="2">Has &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to necrotic damage.&lt;br&gt;&lt;br&gt;Regain 1 hit point when downed.</content>
+    <content contentuid="hfe67e3f3gb3d3g9b79gee8egfb1dc9cc7c25" version="1">Aura of Purity</content>
+    <content contentuid="h7404946fg97f3g1026g9500g51657f9cab96" version="2">Radiate an aura that grants all nearby allies &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to poison damage and &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+    <content contentuid="h2a9ece75g648fg80e0g6f50g768f1341a548" version="1">Aura of Purity</content>
+    <content contentuid="haece53b4g7c5eg1027g1536g5cd5b88e088e" version="2">Radiate an aura that grants all nearby allies &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to poison damage and &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+    <content contentuid="hd4f7606eg1109g13bcg0f76g48a6ec4cffef" version="1">Aura of Purity</content>
+    <content contentuid="h283b72f5gb545g6a6dgdba1g7aac991bbda8" version="2">Has &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to poison damage and &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+    <content contentuid="hdc123ab9g7e83gc7c2gecf9g227da02a87e6" version="1">Ego Whip</content>
+    <content contentuid="hf2ea1fceg237egeb3eg9d2fg4bc7afdb3162" version="1">Invade a target's mind and fill it with despair. The target has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;, and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; and it can't cast spells.</content>
+    <content contentuid="h931660bcgc349g15c5g67c1ge2d433a99bd4" version="1">Ego Whip</content>
+    <content contentuid="hf6cdb497g7d5fg3d83g9f5cg72b7e8ae0f64" version="1">Filled with despair. Has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;, and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; and it can't cast spells.</content>
+    <content contentuid="h87427671gdabag2764g89d3gf64809e09655" version="1">Charm Monster</content>
+    <content contentuid="h927e9fdfg7fd8g661fg0c5cg0e22f309863c" version="1">&lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charm&lt;/LSTag&gt; a creature to prevent it from attacking you. You gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Charisma &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt; in dialogue.</content>
+    <content contentuid="h85b6babfg57abg2c64gb1cfg125763ed4da1" version="1">Enemies have Advantage on &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; against being Charmed.</content>
+    <content contentuid="h078e54b7g120eg88a9g1522g866568b488fd" version="1">Gravity Sinkhole</content>
+    <content contentuid="h4f64334ag25dag940bgcf45g4b0734698beb" version="2">Create a sphere of crushing force that pulls enemies towards it.</content>
+    <content contentuid="h80c40265g0516g5fdbgc416ge92127d954c8" version="1">Psychic Lance</content>
+    <content contentuid="h2e6b352bgcdcdg1735g6b64g1be00de13b80" version="2">Raulothim's Psychic Lance</content>
+    <content contentuid="h6911a7b2g3542g138agea9egca1299401b09" version="1">Psychically attack the target's mind and &lt;LSTag Type="Status" Tooltip="PSYCHIC_LANCE"&gt;Incapacitate&lt;/LSTag&gt; them.</content>
+    <content contentuid="h698eb271gbaeegb03dg28b9gff44c8ce54aa" version="2">Summon Moonblade (Fire)</content>
+    <content contentuid="h1f46e5ffg2529g27fdg0803g74575ad39c89" version="6">Summon a +[3] magical flaming shortsword that deals a bonus [1] and sheds bright light in a [2] radius.</content>
+    <content contentuid="he692b584g3797gf6c8ga334g2f2ef5b3cb24" version="3">Upcasting the spell upgrades the weapon in different ways.</content>
+    <content contentuid="hc7812500g42e8ga40fg452cg61ef55a9a43b" version="2">Shortsword +2</content>
+    <content contentuid="h53a991f5gf010g106cgc381gdc95a6f7b381" version="2">This potent weapon was created by the smiths of ancient Myth Drannor. Moonblades are used in the long process of selecting a ruler for the isle of Evermeet.</content>
+    <content contentuid="h42d6e700gb2e6gc8c1gd674gb5f4f125a10f" version="10">Moonblade</content>
+    <content contentuid="h02edad25g8ca3g2075g132dg04fd092033bb" version="10">Moonblades are used in the long process of selecting a ruler for the isle of Evermeet.</content>
+    <content contentuid="h9b4dedfbgd577g2a54g5930g4d23442fa013" version="1">Ever-burning</content>
+    <content contentuid="hb39634e2gfc0fg2482gd274gfcdf038d27bb" version="1">An arcane flame that cannot be quenched.</content>
+    <content contentuid="hb6df9c88gb91ag88eag88fag45d20dcd5e11" version="3">Moonblade (Fire)</content>
+    <content contentuid="h8b6c6a95g0950g5b03g7f39g7686856b373d" version="4">When unsheathed, the blade is engulfed in blue flames.</content>
+    <content contentuid="h3896c629g91b3g908bg7613g2d905572c31d" version="1">Moonblade</content>
+    <content contentuid="hc686f04fgb46ag1bc7g3488gd2bf0431b031" version="1">Moonblade</content>
+    <content contentuid="h935d6af2g5270gb935g330eg990f0946d029" version="1">Has &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to fire damage.</content>
+    <content contentuid="h2be746bbgec19g6e16g590bgac0b0456386b" version="2">Increases &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 1.</content>
+    <content contentuid="hc0515b93g0884gc80bga4a8g54ef56fd479f" version="2">Summon a +[3] magical flaming shortsword that deals a bonus [1] and sheds bright light in a [2] radius.&lt;br&gt;&lt;br&gt;Increases &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 1.</content>
+    <content contentuid="h50e75110gdac4g2f3ag2cc3g110fbb69f70a" version="2">Summon a +[3] magical flaming shortsword that deals a bonus [1] and sheds bright light in a [2] radius.&lt;br&gt;&lt;br&gt;Increases &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 1.</content>
+    <content contentuid="h7cf2a6dag1799gc9d8g08fag68408ac6d549" version="2">Summon a +[3] magical flaming shortsword that deals a bonus [1] and sheds bright light in a [2] radius.&lt;br&gt;&lt;br&gt;Increases &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 1.&lt;br&gt;&lt;br&gt;Grants &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to fire damage.</content>
+    <content contentuid="h666b1dd1g40fag60c0g706cg5fe1a1a20a9e" version="1">Moonblade: AC</content>
+    <content contentuid="h39c1f9d1ge402g1d07g7776g01f6f384ad90" version="1">Increases &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 1.</content>
+    <content contentuid="hdc415ab0g664ag981bg5463g13b559ec5e5f" version="1">Moonblade: Resistance</content>
+    <content contentuid="hff7d41edg3ef1g17begacbcg332e1f1beac6" version="1">Grants &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to fire damage.</content>
+    <content contentuid="h3c8b0d4fg8270g689cgc09cg31864595ed19" version="4">Summon a +[2] magical flaming shortsword that deals a bonus [1].</content>
+    <content contentuid="h7d546258g10dcg57d7g977agbec96eadfff6" version="3">Moonblade Slash (Cold)</content>
+    <content contentuid="hf64270d7gc84dg1834g3064g219881ff4f6d" version="4">Perform a flaming flourish that &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burns&lt;/LSTag&gt;.</content>
+    <content contentuid="h73adc5abga7c5gbafegb8e0g29df79b4a357" version="1">Summon Moonblade</content>
+    <content contentuid="h202779e1ga1d9g3a06gb1f8g97507703deb6" version="5">Summon a +[1] magical flaming or chilling shortsword.</content>
+    <content contentuid="h1748052eg087eg08c5g7944ga9b8892b5a64" version="2">Summon Moonblade (Cold)</content>
+    <content contentuid="h3703df10g0476gd135g2b08g865e9d7709c2" version="2">Summon a +[3] magical chilling shortsword that sheds bright light in a [2] radius.&lt;br&gt;&lt;br&gt;Deals a bonus [1].&lt;br&gt;&lt;br&gt;Increases &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 1.&lt;br&gt;&lt;br&gt;Grants &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Cold damage.</content>
+    <content contentuid="h83ef90b0gc928g4886g36abg2883921b842c" version="4">Moonblade</content>
+    <content contentuid="hf12888c3g45ceg5a5ag758agddb34b86da57" version="4">Moonblades are used in the long process of selecting a ruler for the isle of Evermeet.</content>
+    <content contentuid="hceea2313g44c6g26ffg9720g785d4ccc3f8a" version="3">Moonblade Slash (Cold)</content>
+    <content contentuid="h6250a6b3g5355g96c9g9469ga06418acbfda" version="2">Perform a chilling flourish that reduces &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; by [1].</content>
+    <content contentuid="hba308e00gebbag1a2eg2bacg77ac308954de" version="1">Moonblade (Cold)</content>
+    <content contentuid="h1a6bfbd1g4c47g2441gaeb5g4f1289558c64" version="1">When unsheathed, the blade is engulfed in blue frost.</content>
+    <content contentuid="hd6e48c03g241egf957g2db7g69123d0a4b0b" version="1">Moonblade Slash (Fire)</content>
+    <content contentuid="hff34b1fbge915g9001g647ag469c87513699" version="1">Elemental Bane</content>
+    <content contentuid="h7f02cb43g1ee9g9b6eg0f5cgb81fad2241bb" version="2">The first time each turn the target takes damage of the chosen type they take an extra [1] of that type.&lt;br&gt;&lt;br&gt;The target loses &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to the chosen damage type.</content>
+    <content contentuid="ha5fec75bg4ba6gd19dg5743g5d7bbf20e764" version="1">Elemental Bane: Cold</content>
+    <content contentuid="h916a54d4gee67gdfd2gc353g2046e29808af" version="1">The first time each turn the target takes cold damage they take an extra [1].&lt;br&gt;&lt;br&gt;The target loses &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to the chosen damage type.</content>
+    <content contentuid="h372729a9g700fg0b22g49ecgd2ad8762ddb2" version="1">Elemental Bane: Acid</content>
+    <content contentuid="h49141c43gad38gf2ecgb0f3ga5fedd82fb45" version="1">The first time each turn the target takes acid damage they take an extra [1].&lt;br&gt;&lt;br&gt;The target loses &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to the chosen damage type.</content>
+    <content contentuid="h328d2f52gd601gba65g77ccg10e5952295ac" version="1">Elemental Bane: Fire</content>
+    <content contentuid="h611ecac7gec60g6f0eg183ege6a18cf3ae77" version="1">The first time each turn the target takes fire damage they take an extra [1].&lt;br&gt;&lt;br&gt;The target loses &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to the chosen damage type.</content>
+    <content contentuid="h39051ef3gdbe8g3ac2g329dgefef87d12627" version="1">Elemental Bane: Lightning</content>
+    <content contentuid="hddb4171bg08c5gd698gf349ga1491278148b" version="1">The first time each turn the target takes lightning damage they take an extra [1].&lt;br&gt;&lt;br&gt;The target loses &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to the chosen damage type.</content>
+    <content contentuid="hf54a1acag5efag36bdg87f1gbb5221ea608b" version="1">Elemental Bane: Thunder</content>
+    <content contentuid="ha1bfc0f2g31f4ge28eg3629g2f19812edf79" version="1">The first time each turn the target takes thunder damage they take an extra [1].&lt;br&gt;&lt;br&gt;The target loses &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to the chosen damage type.</content>
+    <content contentuid="h5c96d9a6g8be9gc216gfe15gee46eded3535" version="1">Elemental Bane: Acid</content>
+    <content contentuid="hc8a5ed73g35dfg66fbg4e03g2f852aebe3e7" version="3">Removes [2] resistance. The first time each turn the target takes [2] damage they take an additional [1].</content>
+    <content contentuid="h7611a398g2ee8gbe7bg83deg78ca286e85a2" version="1">Elemental Bane: Acid</content>
+    <content contentuid="hc07c213dga7f9g958bg755cg90f9ea34b7b8" version="1">Elemental Bane: Cold</content>
+    <content contentuid="h54c77483g6c5cg5125g51edge25829cc34b1" version="1">Elemental Bane: Fire</content>
+    <content contentuid="h3ed4cbeag6fa9gceb1g09d2ge61b0e68f27b" version="1">Elemental Bane: Lightning</content>
+    <content contentuid="h72a553d2g099cg45aag8e12g59c11a9b62bf" version="1">Elemental Bane: Thunder</content>
+    <content contentuid="h645695ccgcb41g1c08gfdb2g380aac4c1c7a" version="1">Elemental Bane: Acid</content>
+    <content contentuid="hb4bb0aa4gcd4bg3a2dgd70eg0083df7fb900" version="1">The next instance of [2] damage deals an additional [1].</content>
+    <content contentuid="h0f3c5523gc217g8a74gfc54ga3536c2318bf" version="1">Elemental Bane: Cold</content>
+    <content contentuid="h5232629cg02acg5968g4c7dg19f8187d3249" version="1">Elemental Bane: Fire</content>
+    <content contentuid="h710c4c9agf965g8086g31d4g4e784fe591e9" version="1">Elemental Bane: Lightning</content>
+    <content contentuid="he851d156g219egfea2g8227g249cae178a7b" version="1">Elemental Bane: Thunder</content>
+    <content contentuid="h014ba0a8g6e31g0c01g4b7cg4a262907ba74" version="1">Web of Fire</content>
+    <content contentuid="h751e154dg0b69ge5b5g87a0gb1f204d0d3fe" version="1">[1] streaks of fire snake towards different enemies. Each streak deals [2].&lt;br&gt;&lt;br&gt;Can focus all streaks on one enemy for [3] instead.</content>
+    <content contentuid="hf77b2565g00d5g22e4g5b63g1ac83d39212a" version="1">Web of Fire (Multi)</content>
+    <content contentuid="h246c5e02gd62dgd1f7g37ffgab52ba96bcfd" version="1">[1] streaks of fire snake towards different enemies. Each streak deals [2].</content>
+    <content contentuid="h78890867gd437g5f67gb66eg702f4b54eec0" version="1">Web of Fire (Single)</content>
+    <content contentuid="h7a9c02f9g044eg0a40g45b9gb6bd539b7367" version="1">[1] streaks of fire snake towards the target dealing [3].</content>
+    <content contentuid="h82b19e2fg7e87g919fg29a5g7396627c14b0" version="1">Sense Vitals</content>
+    <content contentuid="h4570889fg9d62gda4bgceebg1f0c735b7051" version="4">Sense the vital points of all enemies within [1].&lt;br&gt;&lt;br&gt;Attacks against sensed enemies, gain a +[2] bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, deal a bonus [3] on critical hits, and reduce the roll needed for &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hits&lt;/LSTag&gt; by 1.</content>
+    <content contentuid="h3c9c20b5g5089g95d3g6a0bge5fe08ad0080" version="1">You can remain hidden while casting this spell.&lt;br&gt;&lt;br&gt;This spell can be cast while you are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.</content>
+    <content contentuid="h588068c0gfa78g501cgea22ge16a410e412a" version="2">Sense Vitals</content>
+    <content contentuid="hbe8c46acgbeaeg0c29g7154g9d8a27f05153" version="3">Sensing enemies within [1].&lt;br&gt;&lt;br&gt;Attacks against sensed enemies, gain a +[2] bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, deal a bonus [3] on critical hits, and reduce the roll needed for &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hits&lt;/LSTag&gt; by 1.</content>
+    <content contentuid="h8660c281g1bd5g21c0gc2d9gef5fc696bbfc" version="1">Sense Vitals</content>
+    <content contentuid="h59dbcb0fg9b4cg6073gda31g8f972dde2794" version="1">Being sensed.&lt;br&gt;&lt;br&gt;The source entity's attacks gain a +[2] bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, deal a bonus [3] on critical hits, and reduce the roll needed for &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hits&lt;/LSTag&gt; by 1.</content>
+    <content contentuid="h2808f1b8gcfc1gdc13g0868g1be19ce5ab2e" version="3">Macabre Explosion</content>
+    <content contentuid="he6ac9674g2decgff09g5c76gc48d9a2f36c9" version="5">Necrotic energy bursts forth from a corpse or undead body.</content>
+    <content contentuid="h13128b6bg0610g9172gb8cfgf4aa7b254c18" version="1">Dream</content>
+    <content contentuid="h05890060gcbd1gb2ecgdebcg0384fe7df44a" version="4">Lash out at the target's mind and place them in a magical slumber which deals psychic damage to them upon waking.</content>
+    <content contentuid="h0d587092gb412g784dgd17cg33abb505ede4" version="1">Enervation</content>
+    <content contentuid="h6f5f8dcdg37c7gbb50g85c2g4623454c6fc9" version="1">Link yourself to a target with a tendril of darkness. Deal an additional [1] each turn by activating it and regain &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt; equal to half the damage dealt.</content>
+    <content contentuid="h2dc47e7ag6f64gf22dg0bb6gfde6b31fe93d" version="2">Activate Enervation</content>
+    <content contentuid="h2d7c4d72g462bge3ddg21abg7ac41f9c9de4" version="2">Activate the enervation and deal [1].</content>
+    <content contentuid="hfe791463gaf8eg2e45gef38g7ec0448b5490" version="1">Enervation Owner</content>
+    <content contentuid="hd641c170ga8efga79dg462cg0e9365fbaf5b" version="1">Unlocked Enervation: Activate</content>
+    <content contentuid="h0d1a7014g9cebgad63g4dbeg8a1fc23ca0af" version="2">Enervation</content>
+    <content contentuid="h93c7702cg02b2g1204g1688gb3bce9273bbc" version="2">The spellcaster can activate the trendril linking it to this creature to automatically deal 4d8 Necrotic damage.</content>
+    <content contentuid="h194fe559g786cg37f3g98b5g75a9029c0b8d" version="1">%%% EMPTY</content>
+    <content contentuid="h3dcc8e03g67d5g40b6g5d80g3ab794768c9a" version="1">Activate Enervation</content>
+    <content contentuid="h288ebef1g8fd3g2903g1734g078148fa28af" version="2">Activate the enervation and deal [1].</content>
+    <content contentuid="haa889aa4g77d4g2d86g295ag92847839ff6f" version="1">Enervation Owner</content>
+    <content contentuid="h3ea38074g063cgc200gaca7gd07ca74188ed" version="1">Unlocked Enervation: Activate</content>
+    <content contentuid="haa97688eg7888g5bc5gfa4fged9f35a5320a" version="1">The spellcaster can activate the trendril linking it to this creature to automatically deal 5d8 Necrotic damage.</content>
+    <content contentuid="h5b6de96dg8f22gabceg9ac4g7912dd81eaf5" version="1">Far Step</content>
+    <content contentuid="h075aeffdge5dcg68d2g2b8eg321d25347067" version="2">Teleport to an unoccupied space you can see.</content>
+    <content contentuid="h6ba4b0f6gaa70gfc97gb0edg16b4dd5fa3d3" version="1">Far Step</content>
+    <content contentuid="h6ba207a7gb8f2gf0c3g987ag586af4475e7a" version="1">Can teleport each turn.</content>
+    <content contentuid="h36977af5gab0fg14e5ge1f5ga9826aac3c2c" version="1">For 10 turns, you can use Far Step again without expending an additional spell slot.</content>
+    <content contentuid="h8973df4cg6603gf1cagc3abg522fb4ad9033" version="1">Far Step</content>
+    <content contentuid="hdefaa94fga56bg9151g1cc4gf15b3e6f8e42" version="1">Teleport to an unoccupied space you can see.</content>
+    <content contentuid="hd784d337gb5bfg21bbg250eg2e2cd7593602" version="1">Far Step</content>
+    <content contentuid="hfbb986e3ge582ga7e4gb9b5g08696856608b" version="1">Teleport to an unoccupied space you can see.</content>
+    <content contentuid="hbec80ee7g5777gaae0gdf32g500f492bf937" version="1">For 10 turns, you can use Far Step again without expending an additional spell slot.</content>
+    <content contentuid="h3a67b318g4b45g74eegde58g4d4f4f5bbb8d" version="1">Holy Weapon</content>
+    <content contentuid="hde1f3761g52f7gec3dg1f0bg7a7b2f7477a8" version="1">Imbue a weapon with holy power to deal an additional [1].&lt;br&gt;&lt;br&gt;The weapon count as magical for the purpose of overcoming &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; to non-magical damage.&lt;br&gt;&lt;br&gt;It also emits bright light over [2].</content>
+    <content contentuid="h11cdcee8gafedg866cgf669gae98d76d40d4" version="1">You can dispel the effect with a bonus action to emit a burst of radiance that deals [1] and &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinds&lt;/LSTag&gt;.</content>
+    <content contentuid="h59e6cce2g7f37geae8gc5e3g40e4a9f2d1ab" version="1">Holy Weapon</content>
+    <content contentuid="hf8c7bbc9gb178ged5dg0354g72a77d1d7a9b" version="1">Imbue a weapon with holy power to deal an additional [1].&lt;br&gt;&lt;br&gt;The weapon becomes magical for the purpose of overcoming &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; to non-magical damage.&lt;br&gt;&lt;br&gt;It also emits bright light over [2].</content>
+    <content contentuid="h8eda5494g5b30g7dc6ga2a3g3d87c67c0f67" version="3">As a bonus action you can emit a burst of radiance that deals [1] and &lt;LSTag Type="Status" Tooltip="HOLY_WEAPON_BLIND"&gt;Blinds&lt;/LSTag&gt; enemies.</content>
+    <content contentuid="h653b30ffg8b2cgc9d0g3619g4ebb228ebce5" version="1">Holy Weapon</content>
+    <content contentuid="h4152ad19g13aeg3006g4e3dgeda108525524" version="1">Weapon has become magical and deals an additional [1].</content>
+    <content contentuid="heaaa8562g912fg00a7g05a8g2dbbbdf11f8f" version="2">Holy Burst</content>
+    <content contentuid="h0f40bc66g96c5g587fga5d1g5b75a08e09a6" version="1">Burning radiance erupts from your weapon to damage nearby creatures.</content>
+    <content contentuid="h4a110923g257ag5161g9f3bgbf905e263c70" version="1">Holy Weapon Burst</content>
+    <content contentuid="h81d7a94cgb8eagb5e2g4966g5ff864602792" version="1">Emit a burst of radiance that deals [1] and &lt;LSTag Type="Status" Tooltip="HOLY_WEAPON_BLIND"&gt;Blinds&lt;/LSTag&gt; enemies.</content>
+    <content contentuid="h5e2bd695gafaega312g2986geb6039e88920" version="1">Holy Burst</content>
+    <content contentuid="h03b4b5f0g14f4g0029g6e55ge30cc7f95628" version="1">Can emit a burst of radiance that deals [1] and &lt;LSTag Type="Status" Tooltip="HOLY_WEAPON_BLIND"&gt;Blinds&lt;/LSTag&gt; enemies.</content>
+    <content contentuid="hf6fa8be6g1da2gc2efg273eg59feb1f64008" version="1">Blinded</content>
+    <content contentuid="hec1b4f76g53f0g5031g50ffg181f4e3011f8" version="1">Has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;. Range of attacks and spells reduced to [1]. &lt;br&gt;&lt;br&gt;Attack Rolls against Blinded creatures have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Makes a save each turn to end the effect.</content>
+    <content contentuid="hbaa97bdag35f5g6465g9024g51abde4d3bff" version="1">Immolation</content>
+    <content contentuid="h7be3c478g9aa5g9719ga280gd50f635c2d5c" version="2">Point at the target and set them alight dealing [1] and &lt;LSTag Type="Status" Tooltip="IMMOLATION"&gt;Immolating&lt;/LSTag&gt; every turn.</content>
+    <content contentuid="h4531a63egd9b4g33beg6befg1bcfec115211" version="1">Immolation</content>
+    <content contentuid="ha380ce3cg5fbege37bgfa19gc0e96f7972bd" version="5">Inextinguishable flames burn the entity for [1] each turn. Removed by passing a Dexterity Saving Throw at the end of each turn.</content>
+    <content contentuid="hae231395g9332g4e6ag1237g41aaa8ab1d6b" version="2">Point at the target and set them alight dealing [1] and &lt;LSTag Type="Status" Tooltip="IMMOLATION_6"&gt;Immolating&lt;/LSTag&gt; every turn.</content>
+    <content contentuid="h3a3fe8c2g480egb47dg17b6gc3c9436522ec" version="1">Steel Wind Strike</content>
+    <content contentuid="h887acff3g0cecg2f4fgab80g36b38ddc58f6" version="2">Vanish into the wind and strike [1] different targets. Then teleport next to one of them.</content>
+    <content contentuid="h6ee1b5a2g86dcg6cbag1d57g8d4ad2ff3827" version="1">Steel Wind Strike</content>
+    <content contentuid="h28e6256ag579dg2f98gade7ge9653af81cb2" version="2">While stationary, can teleport to a target hit by Steel Wind Strike.</content>
+    <content contentuid="h99682e40g2523g3fd6gce2fgf97e7d91d98d" version="2">Steel Wind Strike Target</content>
+    <content contentuid="hf7d76ef2ge95ag2549g8601g49e2c7a8dde2" version="2">Can be teleported to after casting Steel Wind Strike.</content>
+    <content contentuid="h95316902g78fag8d11gf41egb28ef36e7057" version="1">Steel Wind Strike: Teleport</content>
+    <content contentuid="hb1514cdbge04ag0564gb932g9e50210b113f" version="2">Teleport next to a target of Steel Wind Strike.</content>
+    <content contentuid="h95ef0b31g1512g401cg2394g0881c84cdd01" version="1">Synaptic Static</content>
+    <content contentuid="h6aa13215g08f9g85a1g116egeb115e3a1997" version="3">Detonate psychic energy that inflicts targets with a -1d6 penalty to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt; and Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+    <content contentuid="h2ed4e95cg1db1gc06cgd788gefa1aea8381a" version="1">Does not affect creatures with less than 2 Intelligence.</content>
+    <content contentuid="h4bedaf3egfb9eg3f76gaa5bg9ef0c93c2063" version="1">Synaptic Static</content>
+    <content contentuid="h66c9c768g3fb9g8aeegb3bfg6e94082d5680" version="3">Has a -1d6 penalty to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt; and Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. Makes an Intelligence saving throw each turn to break free.</content>
+    <content contentuid="hb644457dg7e58g81e0g089cgfe060a0530d6" version="1">Banishment</content>
+    <content contentuid="hd29a807fg6420g6a35g9affgcd8d5ec1eb69" version="1">Temporarily &lt;LSTag Type="Status" Tooltip="BANISHED"&gt;Banish&lt;/LSTag&gt; your target to another plane of existence.</content>
+    <content contentuid="h55ee3361g611fgd5e1g420ag0eacb8ce33af" version="1">Nullify another creature's spell as a reaction. The spell must be 3rd Level or lower. If it is higher, you must succeed a &lt;LSTag Tooltip="AbilityCheck"&gt;Check&lt;/LSTag&gt; to nullify it, the difficulty of which is based on  the spell's Level.</content>
+    <content contentuid="h611136b6ge81egb165gdb59g0fa890e73e99" version="1">Failed Counterspell</content>
+    <content contentuid="h81759f73g0e60g2965g2065g7d6648a9bd98" version="2">Astral Disjunction</content>
+    <content contentuid="h2d4c4c51g2fa9g977eg27ffg1829312260d5" version="2">Prevent an enemy attack or spell by temporarily &lt;LSTag Type="Status" Tooltip="BANISHED"&gt;Banishing&lt;/LSTag&gt; them to another plane of existence.</content>
+    <content contentuid="h19c863d4g18ffgc82dg0dc3g24690aee36fb" version="1">If it is higher level than the &lt;LSTag Tooltip="SpellSlot"&gt;spell slot&lt;/LSTag&gt; you used to Counterspell, you must make a &lt;LSTag Tooltip="AbilityCheck"&gt;check&lt;/LSTag&gt; using your spellcasting ability to prevent it. The check's difficulty is equal to [1] plus the level of the spell you are trying to counter. </content>
+    <content contentuid="h7b5b7616g8140g52eag71c9gb888569d0b07" version="1">Astral Disjunction</content>
+    <content contentuid="hf70575e7g92ecg10f3g3508g4fd85734baf3" version="2">&lt;LSTag Type="Status" Tooltip="BANISHED"&gt;Banish&lt;/LSTag&gt; the attacking or casting creature until the start of their next turn.</content>
+    <content contentuid="h7a564a8dg49b9g3f4dg2b8agdc245dd50cde" version="1">Banishment</content>
+    <content contentuid="h7a5d8665g9d26g8d51g676ag354b8ca51141" version="1">Temporarily &lt;LSTag Type="Status" Tooltip="BANISHED"&gt;Banish&lt;/LSTag&gt; your target to another plane of existence.</content>
+    <content contentuid="h813773d1gc666g2d15ge9f5g3345e8190edc" version="1">Failed Astral Disjunction</content>
+    <content contentuid="hf88a9d06gb724gce55g863egb4c828f1ca3e" version="1">Prevent an enemy attack or spell by temporarily &lt;LSTag Type="Status" Tooltip="BANISHED"&gt;Banishing&lt;/LSTag&gt; them to another plane of existence.</content>
+    <content contentuid="he181b1d3g9196g0d6dg5b4bgdf192c14413a" version="1">Astral Disjunction</content>
+    <content contentuid="h9bc6283ag1ecag96d8g2d87ge1143deb5f09" version="1">Prevent an enemy attack or spell by temporarily &lt;LSTag Type="Status" Tooltip="BANISHED"&gt;Banishing&lt;/LSTag&gt; them to another plane of existence.</content>
+    <content contentuid="hfec3f7cbg0b81gf851g93dag2cab1e6b1c92" version="1">Fissure</content>
+    <content contentuid="h54107b0fgb939g1fdega452gf3e1709a7a5f" version="4">Sunder the earth, knocking creatures &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+    <content contentuid="h47287382g61a6gc196gb96eg47ba315bbc86" version="1">Bigby's Hand</content>
+    <content contentuid="h3ee9e50bg2894g2e2ega83agf543ce51663e" version="1">Create a magical hand of translucent force that can strike, push, and grapple with enemies.</content>
+    <content contentuid="hb280f6deg02fdg020eg5266g8230ad4ad504" version="1">Clenched Fist</content>
+    <content contentuid="h0565cc0aga9feg4429g6cc3g94ec0d6d9187" version="2">Hit a target with a forceful fist.</content>
+    <content contentuid="h2e1a7485g1568g89ffgba63g9f1905a0892e" version="4">Bigby's Hand</content>
+    <content contentuid="h3a171bdbg31dcg70a3ge4abg10fe230aaddb" version="1">Clenched Fist</content>
+    <content contentuid="h2e7e10bcg2a5fgfdddgda97g993668e39316" version="2">Grasping Hand</content>
+    <content contentuid="hbe745b6dgba33g0ac1g503bgb9a9ebfccf6a" version="3">&lt;LSTag Type="Status" Tooltip="BIGBY_GRASPING"&gt;Grasp&lt;/LSTag&gt; a Huge or smaller creature.</content>
+    <content contentuid="h31fe1b28gb198ga69egf7f6g5c96fc46906c" version="1">Interposing Hand</content>
+    <content contentuid="h6e1a2352g837ag44cdgd146g042e39c7a430" version="2">Inhibit a creature's movement.</content>
+    <content contentuid="hb4e8e12bgbff4gc614g6286g3167e1e2c0d6" version="1">Crushing Hand</content>
+    <content contentuid="h87aff197g8f43g63b1g5bf1gd85203d93ec8" version="1">Crush a creature and knock it &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+    <content contentuid="h0bc72c63gdf6cg8057g072eg38e407736f6b" version="1">Interposed</content>
+    <content contentuid="hb9ce6a7fg3909g9403g040bg28f2158bdd79" version="1">&lt;LSTag Tooltip="MovementSpeed"&gt;Movement speed&lt;/LSTag&gt; reduced by [1].</content>
+    <content contentuid="h13b72722gb3a5gfdc4g14bbg96d780db552f" version="1">Grasped</content>
+    <content contentuid="h3b897c72g7352ge86cg9f8fgae87ddb7cb2d" version="1">Affected entity can't move.&lt;br&gt;&lt;br&gt;&lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against it have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;, while its Attack Rolls and Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
+    <content contentuid="hd4a672e0gc19fg2a37ge68cg89c38b55cb7c" version="2">Bigby's Hand</content>
+    <content contentuid="hff469a2bg64a6g61e5g3985g3139aa5c6957" version="1">Bigby's Hand</content>
+    <content contentuid="h69032c36gfe6dg7195gc5dbg7462b3105040" version="2">Bigby's Hand</content>
+    <content contentuid="hdaf42a4cgda54g54b0g051bge6e6a8e1e910" version="1">Summon Lesser Demons</content>
+    <content contentuid="hf17320bfgbcf4g3b45g1160gddc1ad621ba4" version="1">Summons an Imp and a Quasit.</content>
+    <content contentuid="ha3d1e02cg7a6bg64d7g7869g6706c03b569b" version="1">Terror Frenzy</content>
+    <content contentuid="h5474f989gcb85gaa22g8511g6e5c75d28cd0" version="1">&lt;LSTag Tooltip="AttackRoll"&gt;Attacks&lt;/LSTag&gt; made from against &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt; targets have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;.</content>
+    <content contentuid="h4788ca21gf885g2d0fg8abdgbaa57b3390c4" version="1">Weight of Sorrow</content>
+    <content contentuid="hef9399dbg56c9g3c3agc3c5g979d0ca5942e" version="1">Enemy &lt;LSTag Tooltip="MovementSpeed"&gt;Movement speed&lt;/LSTag&gt; within [1] is reduced by [2].</content>
+    <content contentuid="hcca1bf07g5d88gc77bg78aagf56f32d50db1" version="1">Weight of Sorrow: Aura</content>
+    <content contentuid="h59de4930gc5a4g8768g52f2g681e3f3f78a0" version="1">Enemy &lt;LSTag Tooltip="MovementSpeed"&gt;Movement speed&lt;/LSTag&gt; within [1] is reduced by [2].</content>
+    <content contentuid="h56604a44g95c7g7002g49b5g2ca23b2ae21b" version="1">Weight of Sorrow</content>
+    <content contentuid="h2ce1a24eg1e42g57eagad47g9465a4402031" version="2">Has &lt;LSTag Tooltip="MovementSpeed"&gt;Movement speed&lt;/LSTag&gt; reduced by [1].</content>
+    <content contentuid="h1bb2deb9g0d18gdb01g027bgea5c3ddacb01" version="1">Shadow Stealth: Hide</content>
+    <content contentuid="hcbdc524ag440dg0a72g8d0bg71832539e6e1" version="1">Summon Shadowspawn</content>
+    <content contentuid="h061475b6gffafgad5ag77c2g98e204a639ce" version="2">Summons a shadow spirit of &lt;LSTag Type="Spell" Tooltip="Target_SummonShadowspawn_Fury"&gt;Fury&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_SummonShadowspawn_Despair"&gt;Despair&lt;/LSTag&gt;, or &lt;LSTag Type="Spell" Tooltip="Target_SummonShadowspawn_Fear"&gt;Fear&lt;/LSTag&gt;.</content>
+    <content contentuid="hf9ddf262g901cg0c70g536fga78b882bb5fa" version="1">Chilling Hand</content>
+    <content contentuid="h31b8dc1dg2a83g03c7g2a4dg6da624514750" version="2">Strike the target with a freezing cold touch.</content>
+    <content contentuid="hd12fe6feg6723gfc1aga51cg5ca99d0e02b5" version="1">Shadow Claws</content>
+    <content contentuid="h26198344ga14cg54ceg62a7g316f0e8a9b16" version="2">Lash out with deadly claws.</content>
+    <content contentuid="hc574a649g2a2cgf54dgde28ge00616393f74" version="1">Dreadful Scream</content>
+    <content contentuid="h50a96e4bg143cg1ee2gb4b6g7839146e59ad" version="1">Induce fear to nearby creatures.</content>
+    <content contentuid="hf6e087d8gd3dfg4ca3g9362ga020920e07ef" version="1">Frightened</content>
+    <content contentuid="h1c1794e5gda2eg1f0fgc14fgec8a6f8b5d29" version="1">Cannot move. Frightened entities also have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt; and &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.</content>
+    <content contentuid="hd0879462gbdabg9890gfaa4g616b1e6c8374" version="4">Shadow of Fear</content>
+    <content contentuid="h476e2a64g3257g2410gae40g4ada2f4fd2a8" version="4">Shadow of Fury</content>
+    <content contentuid="hb0df386dg094fg4382g1cdfg28c151e7ff4d" version="4">Shadow of Despair</content>
+    <content contentuid="hdb43b64cg758eg1a62g89f1g692a68b0ae28" version="1">Summon Shadowspawn of Fury</content>
+    <content contentuid="h3b7d1f20g6450ge933g68fag87a7767909d3" version="1">Summons a shadow spirit of Fury that has advantage on attack rolls against Frightened creatures.</content>
+    <content contentuid="h4bd16300g8604gf101g0a6ag1cba6d925b05" version="1">Summon Shadowspawn of Despair</content>
+    <content contentuid="hc12ea166ge57ag17b6ga902g839adbfaacff" version="1">Summons a shadow spirit of Despair that slows enemies around it.</content>
+    <content contentuid="h2500a190gcc91g27aaga741ga15e3907c524" version="1">Summon Shadowspawn of Fear</content>
+    <content contentuid="h10fbf35cg9fafga90cgb85eg3ee772d63a0d" version="1">Summons a shadow spirit of Fear that can hide in dim light or darkness as a bonus action.</content>
+    <content contentuid="hf8271bcegd785g6835g9eb5gd6b2b6bebb4f" version="1">Lash out with multiple claw attacks.</content>
+    <content contentuid="h5adcb7f8gc840g5105g22b4g38bc13021376" version="1">Lash out with multiple claw attacks.</content>
+    <content contentuid="h6e8deb0agbe1cgd9e6ge6a3ge427feda512f" version="3">Shadow of Fear</content>
+    <content contentuid="hcc0246c3g3e33gb86cgc553gc0054debe366" version="3">Shadow of Despair</content>
+    <content contentuid="h859e3d40g8eefg4836g1481gce27ffc57afe" version="3">Shadow of Fury</content>
+    <content contentuid="ha53b06e6gc3e0g1553g3831gafe9b5066a57" version="3">Shadow of Despair</content>
+    <content contentuid="h52a43942g91f6gd635g916agcb07ce4a26b1" version="3">Shadow of Fear</content>
+    <content contentuid="hf2b07e57g24ecg8158g9f32g9a2df21d6367" version="3">Shadow of Fury</content>
+    <content contentuid="h6a1d0e2dgef8fgeae0gbe7fg26a7e14945c3" version="3">Shadow of Despair</content>
+    <content contentuid="h5c1d086aga47agb9f4g8ea5g28e4e0a1c00f" version="3">Shadow of Fear</content>
+    <content contentuid="hb74514bdg2184gd24dg23b3gbd330263204f" version="3">Shadow of Fury</content>
+    <content contentuid="hdbdff708g60b1g6af9g723fg5ad600d292c3" version="1">Summons two Imps and two Quasits.</content>
+    <content contentuid="h5863acdbgc540g0b95g5213gf878b2715360" version="1">Rake your claws across a foe. The target must have less than 60% of its &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;.</content>
+    <content contentuid="hfb7663d0g6ae5g88e5g2956gdde05f6d66ce" version="1">Multiattack</content>
+    <content contentuid="h308bdde9g6bd9gc828g7ad8g249dd3e540d9" version="2">Recast Discordant Melody</content>
+    <content contentuid="h72e88cb1g7dc9gb972geaffg29c63d707d76" version="1">Create shockwaves of booming thunder.</content>
+    <content contentuid="hf59dc53cgd4b9gf0b0g6adag6ca7782f168a" version="1">Discordant Melody</content>
+    <content contentuid="h1cefa08bg85eeg0ad3g9a29g04ae6c0d7d06" version="1">Create shockwaves of booming thunder.</content>
+    <content contentuid="h72cc5522gcf5bg5f1egc70cg3b5e4b96fe3c" version="2">For 5 turns, you can use Discordant Melody again without expending an additional spell slot.</content>
+    <content contentuid="h5b87f50ag2520g2ef6gebddg603a1fa9a129" version="1">Discordant Melody</content>
+    <content contentuid="hd13d62acgc395g0a19gac02g2135b0e63a08" version="1">Can play a discordant melody for free.</content>
+    <content contentuid="h6bac0374gec4egc5f7gaf6fg0786bd923a4d" version="1">Discordant Melody</content>
+    <content contentuid="h51c1917egdf30g7c27g1173g7b38329996dc" version="1">For 5 turns, you can use Discordant Harmony again without expending an additional spell slot.</content>
+    <content contentuid="he3d3116cg5a53gdd85g07d7ga6ffb2a089d7" version="1">Discordant Melody</content>
+    <content contentuid="h79906a39g6df5gc900ga7eaga89e9e804d67" version="1">For 5 turns, you can use Discordant Harmony again without expending an additional spell slot.</content>
+    <content contentuid="hb79bf241ge09fg3a44g8bdcgc05668713400" version="1">Discordant Melody</content>
+    <content contentuid="h0b8d13cfg4e52gd7b4g68f4g785528c3540a" version="1">For 5 turns, you can use Discordant Harmony again without expending an additional spell slot.</content>
+    <content contentuid="h1c2ef37bg8d19g6597g0e62g5c999f39fe63" version="1">For 5 turns, you can use Discordant Melody again without expending an additional spell slot.</content>
+    <content contentuid="hf391653fg11c6g9ac9g19b3gf2c4aac585d3" version="1">For 5 turns, you can use Discordant Melody again without expending an additional spell slot.</content>
+    <content contentuid="h18bb01f5g62f7gfd6bgfa23g0ea999013c11" version="1">For 5 turns, you can use Discordant Melody again without expending an additional spell slot.</content>
+    <content contentuid="h3e1f3dbfg0b18g05d1g313bg741679fbf688" version="1">Mesmer's Lullaby</content>
+    <content contentuid="ha32b409eg4081g5c36g8ce3g37f5fccb96ba" version="3">Play a song to &lt;LSTag Type="Status" Tooltip="MESMERS_LULLABY"&gt;Hypnotise&lt;/LSTag&gt; enemies that start their turn near you.</content>
+    <content contentuid="h3a5b3c90g8e00g95eege783g1d0d2b1ca589" version="1">Mesmer's Lullaby: Aura</content>
+    <content contentuid="h0d30077fg0bbag6ed8gcbb8g42b784708f2e" version="1">Playing a &lt;LSTag Type="Status" Tooltip="MESMERS_LULLABY"&gt;Hypnotic&lt;/LSTag&gt; song that incapacitates nearby enemies.</content>
+    <content contentuid="hccc4b73dgf773gd6a9g6475g212b86dff952" version="1">Mesmer's Lullaby</content>
+    <content contentuid="h4a9d9551gb10fg7451g56f1g2960d7d32c16" version="1">Has &lt;LSTag Tooltip="MovementSpeed"&gt;Movement speed&lt;/LSTag&gt; reduced by [1].</content>
+    <content contentuid="h4a8c73deg788dg12c3g4fd6g6f14c5d50c34" version="1">Mesmer's Lullaby</content>
+    <content contentuid="hc99e6b81g91b1g4bdbgd441gf05f555b6276" version="1">Can't move or take actions, bonus actions, or reactions. &lt;br&gt;&lt;br&gt;Removed by taking damage or when &lt;LSTag Type="Spell" Tooltip="Target_Help"&gt;Helped&lt;/LSTag&gt;.</content>
+    <content contentuid="hd1c6672dg834fg16a3gd4dcg348ca6b3c5a5" version="1">Playing a song to &lt;LSTag Type="Status" Tooltip="MESMERS_LULLABY"&gt;Hypnotise&lt;/LSTag&gt; enemies that start their turn nearby.</content>
+    <content contentuid="ha0f3df48ge6d0gbf1bg16f4g15a3957e8968" version="2">Mesmer's Lullaby Immune</content>
+    <content contentuid="hc090e18cg94d3gcddagddf9g7ce423d205c0" version="2">Precursor to Mesmer's Lullaby</content>
+    <content contentuid="h353484b6g5c2cg4aa3g5578g1033c72f64f8" version="3">Possibly &lt;LSTag Type="Status" Tooltip="MESMERS_LULLABY"&gt;Hypnotised&lt;/LSTag&gt; if it stays near the source of the lullaby.</content>
+    <content contentuid="h55d0c2b8ga866g4178g01cbg0e369a776bf5" version="1">Immune to Mesmer's Lullaby.</content>
+    <content contentuid="h6f05dc0dgf05eg6298g7facg734b468e06ba" version="1">Elemental Investiture</content>
+    <content contentuid="h687a4edagd7eegf717gd3fcg3d9017121175" version="1">Embody yourself with an element of your choice, gaining &lt;LSTag Tooltip="Immune"&gt;Immunities&lt;/LSTag&gt;, &lt;LSTag Tooltip="Resistant"&gt;Resistances&lt;/LSTag&gt; and other elemental abilities.</content>
+    <content contentuid="h4e085fc1gf467g1e4cg3dbfgd50000280002" version="1">Investiture of Ice</content>
+    <content contentuid="hb99ef997g435dge485g7ad9g44e2b7d3101c" version="7">Your body becomes covered with ice.</content>
+    <content contentuid="h225acd6egc59bg809bg4453g32c0a00306e1" version="1">Investiture of Fire</content>
+    <content contentuid="hfdc892aag0debg370dg3a52g2ee9e71b2416" version="4">Wreathe your body in flames.</content>
+    <content contentuid="hc52b25e5g1d40g828cg8e37g67e8c3a130a2" version="1">Investiture of Stone</content>
+    <content contentuid="h1c944e23ged87g4afdg2359g1a35f9c2b3d3" version="5">Envelop your body with rocks.</content>
+    <content contentuid="he304288agda7agd773gcebfg8242ffa18f8d" version="1">Investiture of Wind</content>
+    <content contentuid="h641c6244g9a37ge29fg6c60gce87a02ec6d7" version="5">Encircle your body with magical wind.</content>
+    <content contentuid="h165b4ec6ga4acgb833g8d7cgf3b129543544" version="1">Investiture of Flame</content>
+    <content contentuid="h2e5b94e1g0e20gfbf7g8366g1cf207924c2e" version="4">Wreathed in flames.&lt;br&gt;&lt;br&gt;Increases &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by [4].&lt;br&gt;&lt;br&gt;Gain &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; to Fire and &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Cold.&lt;br&gt;&lt;br&gt;You can move through difficult terrain without spending extra movement and cannot fall prone.&lt;br&gt;&lt;br&gt;Deal [2] to enemies within [1].&lt;br&gt;&lt;br&gt;Gain the ability to blast a line of fire that deals [3].</content>
+    <content contentuid="h40ce6dbfg4587g59f8g5c32g43d32316883b" version="1">Investiture of Flame</content>
+    <content contentuid="habb8cda7g0aa9g101dg8d2bgb3d3fcf9523f" version="1">Wreathed in flames.&lt;br&gt;&lt;br&gt;Gain &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; to Fire and &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Cold.&lt;br&gt;&lt;br&gt;Deal [2] to enemies within [1].&lt;br&gt;&lt;br&gt;Gain the ability to blast a line of fire that deals [3].</content>
+    <content contentuid="h6f875938gbec0gcbe1gdd39gc818c2092b51" version="1">Takes [1] per turn.&lt;br&gt;&lt;br&gt;Removed upon leaving the area.</content>
+    <content contentuid="h9e564379g1c60gff56g0a5bgb251258162c5" version="2">Flame Blast</content>
+    <content contentuid="hb56f6743g4c31gd360gf8deg48e433ec7ca1" version="2">Summon a stream of fire that burns enemies.</content>
+    <content contentuid="h8f774321gc58egd77dgcb38gaf6a6d8e206b" version="1">Investiture of Ice</content>
+    <content contentuid="h1c0d84a0geb9dg0fd7g0390gad05d8e20549" version="4">Covered with ice.&lt;br&gt;&lt;br&gt;Increases &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by [3].&lt;br&gt;&lt;br&gt;Gain &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; to Cold and &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Fire.&lt;br&gt;&lt;br&gt;You can move through difficult terrain without spending extra movement and cannot fall prone.&lt;br&gt;&lt;br&gt;At the end of each turn create an icy surface over a [1] radius.&lt;br&gt;&lt;br&gt;Gain the ability to call forth freezing wind that deals [2].</content>
+    <content contentuid="hd79657adg74e2g37fdg484ag367bdc62682e" version="2">Investiture of Stone</content>
+    <content contentuid="hec7d1eb0g3c42g7b15ge5c4gaccb4b0e7f75" version="3">Enveloped in stones.&lt;br&gt;&lt;br&gt;Increases &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by [2].&lt;br&gt;&lt;br&gt;Gain &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to bludgeoning, piercing and slashing damage from non-magical weapons.&lt;br&gt;&lt;br&gt;You can move through difficult terrain without spending extra movement and cannot fall prone.&lt;br&gt;&lt;br&gt;Gain the ability to slam the ground for [1] and possibly knock nearby creatures &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+    <content contentuid="h6c406088gf1bdga16eg8a08g81afc8d1d65b" version="1">Investiture of Wind</content>
+    <content contentuid="h4956ff90ge9cbg732ega610gc8c4f67fcb10" version="3">Encircle your body with magical wind.&lt;br&gt;&lt;br&gt;Increases &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by [3].&lt;br&gt;&lt;br&gt;Ranged weapon attacks have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; against you.&lt;br&gt;&lt;br&gt;You can move through difficult terrain without spending extra movement and cannot fall prone.&lt;br&gt;&lt;br&gt;Gain the ability to fly.&lt;br&gt;&lt;br&gt;Gain the ability to push enemies away from you and deal [2].</content>
+    <content contentuid="hae3b82b9gc4aege58fg919ag56de2f94d3ad" version="1">Ice Blast</content>
+    <content contentuid="h0d3bf560g2d65gfcdfg2b23gb9297efb1ff2" version="1">Freezing cold air bursts from your hands.</content>
+    <content contentuid="h0fda73a8g872fg438eg3425gcaad8c63d970" version="2">Stone Spike Blast</content>
+    <content contentuid="h4a7dc828g0191gdc59gfe1bg11f4c8d60ad0" version="1">Sunder the earth and possibly knock nearby creatures &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+    <content contentuid="h2dde9760gc9c2g1b68g770cgda56cf1a9e43" version="1">Wind Blast</content>
+    <content contentuid="h6b2acd51g525eg75c3gf01dg0803d8e480ac" version="1">A burst of air pushes enemies away from you.</content>
+    <content contentuid="hd3ce3ae5gdf55g7a59g398cg89a7c8b0711d" version="1">Wind Blast</content>
+    <content contentuid="h6fbc97a9ga4f8gd1e5ga5f8gf11afb08f9e7" version="1">A burst of air pushes enemies away from you.</content>
+    <content contentuid="h4d45db6bgca8agff52gdcd2g5121c221de00" version="1">Elemental Investiture: Ice Aura</content>
+    <content contentuid="h7d440199g5634gd024g4b6cgf00be935feca" version="2">Create a surface of Ice at the end of each turn.</content>
+    <content contentuid="h17052f0bgd1a7g2050ge5bfg2d6654f8420e" version="1">Tenser's Transformation</content>
+    <content contentuid="hf47f1331gb878ga72fg6304gb8c985fb0081" version="5">Transform yourself into the perfect warrior.</content>
+    <content contentuid="h8e1d0471ge3c5g63e1g18c3g27b1c90e28ca" version="1">Tenser's Transformation</content>
+    <content contentuid="hb8597edcg7daaga7b4gf0bbgd038d12af9af" version="1">Gain [1].&lt;br&gt;&lt;br&gt;Gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on weapon &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Weapon attacks deal an additional [2].&lt;br&gt;&lt;br&gt;Can make an additional free attack after making an unarmed or weapon attack. If you gain the Extra Attack feature from more than one class, they don't add together.&lt;br&gt;&lt;br&gt;Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; with all weapons, armors and shields.&lt;br&gt;&lt;br&gt;Gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Strength and Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+    <content contentuid="h2800a2degdd3dg3e3ag1113g635fd0da55df" version="1">Tenser's Transformation: Transmutation School</content>
+    <content contentuid="ha31b6865g265dg0e36g2248g7d17d6aa8e64" version="2">Increases &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by [1].&lt;br&gt;&lt;br&gt;&lt;LSTag Tooltip="MovementSpeed"&gt;Movement speed&lt;/LSTag&gt; is increased by [2].&lt;br&gt;&lt;br&gt;Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in Athletics and Acrobatics.</content>
+    <content contentuid="h1aa5deb7g55c6g0776g79ebgc319e77d3098" version="3">Transmutation Wizards with access to Shapechanger gain a &lt;LSTag Type="Status" Tooltip="TENSERS_TRANSFORMATION_BONUS"&gt;Bonus Effect&lt;/LSTag&gt; when casting this spell.&lt;br&gt;&lt;br&gt;When the condition ends, pass a DC 15 Constitution check or become &lt;LSTag Type="Status" Tooltip="HASTE_LETHARGY"&gt;Lethargic&lt;/LSTag&gt;.</content>
+    <content contentuid="h8bf69686ge218g4c84gfa8fg5e44a26f223e" version="2">Cannot cast spells.&lt;br&gt;&lt;br&gt;Gain [1].&lt;br&gt;&lt;br&gt;Weapon attacks gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and deal an additional [2].&lt;br&gt;&lt;br&gt;Can make an additional free attack after making an unarmed or weapon attack. This Extra Attack does not stack with other sources.&lt;br&gt;&lt;br&gt;Gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; with all weapons, armors and shields.&lt;br&gt;&lt;br&gt;Gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Strength and Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+    <content contentuid="ha3e8acc7g875cg0912gb19eg66c13c1efd58" version="1">True Seeing</content>
+    <content contentuid="hdd6bad06g35beg1b6eg20adgb4f7d8f99b4f" version="1">Allow the target to see everything within [1] as it actually is. They also gain a +20 bonus to Perception &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
+    <content contentuid="he330aca3g3716gd2d6g61ccgd64e997f9aeb" version="1">True Seeing</content>
+    <content contentuid="h391d7b66gf4c8g1638g8449gdb5916e53058" version="1">Can see everything within [1] as it actually is. Gains a +20 bonus to Perception &lt;LSTag Tooltip="AbilityCheck"&gt;Checks&lt;/LSTag&gt;.</content>
+    <content contentuid="hca8b503bg43c3ga43bgefa2g72871eaed8e9" version="1">Seen</content>
+    <content contentuid="hddd4d4b2gd227g0b2cg3008g0d485f7466f8" version="1">%%% EMPTY</content>
+    <content contentuid="h7ca26edfga6a0gff6bgf909g55e948865cc9" version="1">Revealed</content>
+    <content contentuid="hc0b38e65g0210g4e9egcc68g68f9afe591d5" version="2">Affected entity lost its &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisibility&lt;/LSTag&gt; due to the effects of &lt;LSTag Type="Spell" Tooltip="Target_TrueSeeing"&gt;True Seeing&lt;/LSTag&gt;.</content>
+    <content contentuid="h75a01b08g1d66g9792ge9bdgb9fd949c7636" version="1">Psychic Crush</content>
+    <content contentuid="hce6ed758gce69g09bag9736g3ca0fcd446a4" version="1">Overload a creature's mind.</content>
+    <content contentuid="hafc6547eg10eeg1123gd430gd53d835ac67a" version="2">Psychic Crush</content>
+    <content contentuid="h7dd63474ga439g9411gf3ffgb2abc9f77984" version="2">Can't move or take actions, bonus actions, or reactions. Removed by passing an Intelligence Saving Throw at the end of each turn.</content>
+    <content contentuid="h22b61442gc953g43ecge9d0g64e3a3dce337" version="2">Lesser Regeneration</content>
+    <content contentuid="h5d3b9b05gcebagc83fgbfbag45ed1b2f952b" version="2">The target continuously regains [1] at the start of each turn unless it recently took Acid or Fire damage.</content>
+    <content contentuid="h17dc2be3ge338gf0e7g93c2g22ddb103d3cc" version="1">Lesser Regeneration</content>
+    <content contentuid="h61b91cccgc7fag4a46g88fcg343c29491910" version="2">Regain [1] at the start of each turn unless it recently took Acid or Fire damage.</content>
+    <content contentuid="h16bd545bgab15g92aegc939g12e71802b4a7" version="1">Lesser Regeneration Broken</content>
+    <content contentuid="h9cc9b5c3gc134g8bb7ge80egada4bdaf8643" version="2">Took Acid or Fire damage and will not &lt;LSTag Type="Status" Tooltip="LESSER_REGENERATE"&gt;regenerate&lt;/LSTag&gt; at the start of your next turn.</content>
+    <content contentuid="hd85f5883g177ag3c13ge7dcgf9fefe2a04c6" version="2">Lesser Regeneeration</content>
+    <content contentuid="hb5e200feg4629g2042g1a2agcb3a941bd1ec" version="5">Cambion</content>
+    <content contentuid="h1bfbb89ag5f81gfb76gc2e6g6464d58a0300" version="2">Infernal Control</content>
+    <content contentuid="h7bfd24fdg1633g2988gf727gb6732efd0d23" version="1">Weapon attacks deal an additional [1].</content>
+    <content contentuid="h797d335eg1915gf33cgaeecgc97e8bbfa4fb" version="1">Conjure a fiendish cambion to fight alongside you. It can cast &lt;LSTag Type="Spell" Tooltip="Target_FiendishCharm_Cambion"&gt;Fiendish Charm&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_DrainingKiss_Cambion"&gt;Draining Kiss&lt;/LSTag&gt;, and &lt;LSTag Type="Spell" Tooltip="Projectile_FireRay_Cambion"&gt;Rays of Fire&lt;/LSTag&gt;.</content>
+    <content contentuid="h2fb0a4f6ge240g4addgc55dg98a0eaf54d54" version="1">Planar Ally: Cambion</content>
+    <content contentuid="h8bc77a9dg072bg7e2eg9516g5f093db9a93f" version="3">Utter a dark incantation to summon forth a devil from the Nine Hells.</content>
+    <content contentuid="h1e15e44cg10e5gbf4ag996egb71514c0dee4" version="1">Infernal Calling</content>
+    <content contentuid="h8cafdbe4gdf73g4388gf29bg1b86e59eb735" version="9">After 5 turns, the Devil makes a Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; against your Charisma spell DC once per turn. If it succeeds, it breaks free from your control and becomes hostile to everyone.&lt;br&gt;&lt;br&gt;The 5 turns of guaranteed control are skipped when damaged by an ally.</content>
+    <content contentuid="h8ebc14fdge6cfg3b45ga0ccgb865460978ff" version="4">Cambion</content>
+    <content contentuid="h62171aa6g1a97g8eabgfcecgeac6453bdefc" version="3">Infernal Influence</content>
+    <content contentuid="h2b5605e6g9cb0g1bb3ga66cg3c6d0613e1bb" version="5">After [1] turns the entity must pass a Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; each turn or become hostile to everyone.&lt;br&gt;&lt;br&gt;Activates early when damaged by an ally.</content>
+    <content contentuid="h26fe5510g5ef4g0a57g6451gaeee60979ffa" version="2">Infernal Freedom</content>
+    <content contentuid="h3ec1fc1eg184ag3664geceage4b0f4ee365c" version="6">Each turn the entity makes a Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; against your Charisma spell DC. If it succeeds, it breaks free from your control and becomes hostile to everyone.</content>
+    <content contentuid="hfcb9042eg58daga884gf729gc284d60d066f" version="2">Infernal Conflict</content>
+    <content contentuid="he7a9df0cgad96gbaceg62ccg163ded1b1086" version="2">Hostile to everyone.</content>
+    <content contentuid="h0fcbaf3eg5d01g9eebg1070g406a6c24fd03" version="1">Dismiss Gaseous Form</content>
+    <content contentuid="h10a2bfb5g3441g9be8g3201g281cd5074b2a" version="1">Dismiss your gaseous shape and turn back into your original form.</content>
+    <content contentuid="h5513d9f7g16dbge242g0a5ege9ccc9b1b406" version="1">Dismiss Tenser's Transformation</content>
+    <content contentuid="hba3360f9g5731gb5b0g4e81g5e4427712af1" version="1">Dismiss Tenser's Transformation and turn back into your original form.</content>
+    <content contentuid="h2d48a856g951egc027g8eb8g72ef32e30cba" version="1">Summon a Fey creature.</content>
+    <content contentuid="h6c8023c5g0b4ag1d8dge28dg7cea49d99996" version="1">Conjure Fey</content>
+    <content contentuid="h07b759c8g3a12g900agb48agf92c09676ef6" version="2">Summon a Dusk Hag. It can cast &lt;LSTag Type="Spell" Tooltip="Target_Dream_DuskHag"&gt;Dream&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_Sleep_DuskHag"&gt;Sleep&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_HypnoticPattern_DuskHag"&gt;Hypnotic Pattern&lt;/LSTag&gt;, and &lt;LSTag Type="Spell" Tooltip="Target_NightmareTouch_DuskHag"&gt;Nightmare Touch&lt;/LSTag&gt;. It has &lt;LSTag Type="Passive" Tooltip="MagicResistance"&gt;Magic Resistance&lt;/LSTag&gt;.</content>
+    <content contentuid="hab2df0f1g8e80gb997gd935g8c71d4a880ee" version="2">Conjure Fey: Dusk Hag</content>
+    <content contentuid="heb7a7acbg8fdag41c4gaa69g2ef72f1a9fe4" version="1">Sleep</content>
+    <content contentuid="h3f75e57ag743aged9fgd391g25d2c048d880" version="1">Put creatures into a magical slumber. Select targets up to a combined [1].</content>
+    <content contentuid="hf74d49b5gf47cgfbc4g479cg0043497d0ecc" version="1">Dream</content>
+    <content contentuid="hf532f8c9ga59fg1511g334fg2aef34146ffd" version="1">Lash out at the target's mind and place them in a magical slumber.</content>
+    <content contentuid="h2ca2736fgc159g9787geac8g337034f77adc" version="1">Hypnotic Pattern</content>
+    <content contentuid="h69e8235dgb21cgea34g51aagf51f91cdde9e" version="1">&lt;LSTag Type="Status" Tooltip="HYPNOTIC_PATTERN"&gt;Hypnotise&lt;/LSTag&gt; creatures that can see the pattern. They cannot attack you. They cannot move or act.</content>
+    <content contentuid="h6fb48a87gdb15g8f0eg16f4g949040f05688" version="1">This spell can be cast while you are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.</content>
+    <content contentuid="h86e78bd9g5aa8gcf0fgb7fag70a0d346f9d3" version="1">Nightmare Touch</content>
+    <content contentuid="hb8cc04d3geea4g721fg7ee7g1c0a19c1f516" version="2">Instill an enemy with nightmares. Unconscious targets take an additional [1].</content>
+    <content contentuid="hfe786f77g0363g5f93g0587ge5eb249d6230" version="8">Dusk Hag</content>
+    <content contentuid="hb6dc8a58g20bdge705geeedga4944ff9f804" version="1">Multiattack</content>
+    <content contentuid="h5b58d75eg093cg98abg7575g1ce40204cd35" version="2">Instill an enemy with multiple nightmares. Unconscious targets take an additional [1].</content>
+    <content contentuid="h0aa02bafg32e1g9927g329fgc77ddf87383b" version="1">Open Wounds</content>
+    <content contentuid="h0ef249fagb196gdc4bg5978g0f509e25bb9a" version="1">Rend a creature's flesh and make them &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;Bleed&lt;/LSTag&gt;.</content>
+    <content contentuid="h8054bcdbgc98bg7f31g5a50gb0aa99713074" version="1">Ironbound Pursuit</content>
+    <content contentuid="hd9b3bbb9gab19g8195g22d1g38a4777c5630" version="1">Launch a flying kick that pushes the target back [1] and knocks it &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+    <content contentuid="hc2ec6d75g32a3g1037g4d43g69fcb7397222" version="6">Greater Redcap</content>
+    <content contentuid="h3fe9d530gfecag820bg4cbag664b16c6296c" version="3">Summon a Greater Redcap. It can cast &lt;LSTag Type="Spell" Tooltip="Target_OpenWounds_Redcap_Greater"&gt;Open Wounds&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_BloodCap_Redcap_Greater"&gt;Blood Cap&lt;/LSTag&gt;, and &lt;LSTag Type="Spell" Tooltip="Target_IronboundPursuit_RedCap_Greater"&gt;Ironbound Pursuit&lt;/LSTag&gt;. It has &lt;LSTag Type="Passive" Tooltip="BloodThirsty_Redcap"&gt;Steeped in Slaughter&lt;/LSTag&gt;.</content>
+    <content contentuid="h66ecfad8gf782g85d7gdec5g123ca8b6aa7c" version="2">Conjure Fey: Greater Redcap</content>
+    <content contentuid="he8986b59gb870g91c0g8a48g6a56f6717f30" version="1">Blood Cap</content>
+    <content contentuid="h7ee3bbfdge9e6gcfe7g4831gc3e0caf43f82" version="4">Gain a +[1] bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and deal an additional [2].&lt;br&gt;&lt;br&gt;Regains [3] when landing a killing blow.</content>
+    <content contentuid="hb8bf1111gcabcge1cbg9503g313ff6297da2" version="1">Blood Cap</content>
+    <content contentuid="h04e9094egc89dg4194gb4f2g9beeb26754ea" version="2">Bathe in the blood of a a &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;Bleeding&lt;/LSTag&gt; target to &lt;LSTag Type="Status" Tooltip="BLOODCAP_REDCAP_GREATER"&gt;Empower&lt;/LSTag&gt; yourself.</content>
+    <content contentuid="h228c4939g11dag184ag47b1gcff11321114c" version="1">Blood Cap</content>
+    <content contentuid="h27f1071bg4a06g483dg8479gdd23389fabe6" version="1">Ironbound Pursuit</content>
+    <content contentuid="he7d5342ag2cddg0484ge2ebg65fd2672e14c" version="1">Launch a flying kick that pushes the target back [1] and knocks it &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+    <content contentuid="h42775adfg2e3eg833ag750fg6d8c2772aaf1" version="1">Bloodlust</content>
+    <content contentuid="h7c3459e9gf67egca0eg4bd3g1cacc862c2f6" version="1">Illusory Weapon</content>
+    <content contentuid="hcc19959bga6dfg95d8g5746g0c07a4c05898" version="4">Turn an ally's weapon into an &lt;LSTag Type="Status" Tooltip="ILLUSORY_WEAPON_BUFF"&gt;Illusory Weapon&lt;/LSTag&gt;.</content>
+    <content contentuid="hd03c9df3gc596g7349g0566g336b3a8d4195" version="2">Illusion School Wizards gain a &lt;LSTag Type="Status" Tooltip="ILLUSORY_WEAPON_BONUS"&gt;Bonus Effect&lt;/LSTag&gt; when casting this spell.&lt;br&gt;&lt;br&gt;You can remain hidden while casting this spell.&lt;br&gt;&lt;br&gt;This spell can be cast while you are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.</content>
+    <content contentuid="he07f6df6g236cg2bd5g7291ga69bc55ecc9f" version="1">Illusory Weapon</content>
+    <content contentuid="h7ee61842g9136g0df3gfc42g0438e550ca79" version="4">This weapon cannot be disarmed.&lt;br&gt;&lt;br&gt;While Illusory, provides &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and reduces the roll needed for a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; by 1.&lt;br&gt;&lt;br&gt;On a missed &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, the weapon turns visible and loses its attack bonuses.</content>
+    <content contentuid="hc7d1e182gf32fg04acg56edga097cce4cb9f" version="1">Illusory Weapon</content>
+    <content contentuid="ha358f7c5g894bg0f9dgeb29g90deac8adb13" version="3">This weapon is &lt;LSTag Type="Status" Tooltip="ILLUSORY_WEAPON_BUFF"&gt;Illusory&lt;/LSTag&gt; while equipped. It loses this property for 1 round on a missed &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
+    <content contentuid="h4046e091gd8c3g7bf5g358cg7989f2cf39b7" version="2">Illusory Weapon</content>
+    <content contentuid="h8fd5f5e6g0328g8cd8ga84bgc0f6c7cb2415" version="1">Affected entity can't be disarmed. It has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;. It scores a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; when rolling a [1].</content>
+    <content contentuid="hd87c5837gded2g3a92g7b4fge503f8579fc6" version="2">Illusion Sundered</content>
+    <content contentuid="h001b46cega106g6972g04a4g049bc93b29f3" version="4">Until the start of next turn, your weapon is no longer &lt;LSTag Type="Status" Tooltip="ILLUSORY_WEAPON_BUFF"&gt;Illusory&lt;/LSTag&gt;.</content>
+    <content contentuid="hdab64899g6d25ge1dcgdb42g3f68a933e288" version="1">Affected entity has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and reduce the roll needed for a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; by 1.</content>
+    <content contentuid="h23957449gfa04g297age940gf605209e0b22" version="1">Affected entity cannot be disarmed, has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, and reduces the roll needed for a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; by 1.</content>
+    <content contentuid="hb729c050g403dg965eg214bgf53f4d4ad56d" version="1">This weapon cannot be disarmed, provides &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, and reduces the roll needed for a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; by 1.</content>
+    <content contentuid="hd8feb05agc0bbga929ge321gc0d104c241c3" version="2">This weapon cannot be disarmed.&lt;br&gt;&lt;br&gt;While Illusory, provides &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and reduces the roll needed for a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; by 1.&lt;br&gt;&lt;br&gt;On a missed &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, the weapon turns visible and loses its bonuses.</content>
+    <content contentuid="hcaad76d2ga298gdc01ga46fgc68ca186d131" version="1">Illusory Weapon: Illusion School</content>
+    <content contentuid="h4f18a3dbg423cg1a2ag3c76gda0212a09f1e" version="1">While Illusory, deals a bonus [1].</content>
+    <content contentuid="h49d915b2g6961g9381gf7ebg3e692f64ffe6" version="1">Illusory Weapon</content>
+    <content contentuid="h8c0b2775g660aga546g9690gcbc1a288afa7" version="1">This weapon is &lt;LSTag Type="Status" Tooltip="ILLUSORY_WEAPON_BUFF"&gt;Illusory&lt;/LSTag&gt; while equipped. It loses this property for 1 round on a missed &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
+    <content contentuid="h20e5ee78g1bffg183bgc0f9gd4afa4d20cfa" version="1">Illusory Weapon</content>
+    <content contentuid="hd747abddgff0dgc3b9ge37cg7661fc661717" version="1">This weapon cannot be disarmed.&lt;br&gt;&lt;br&gt;While Illusory, provides &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; and reduces the roll needed for a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; by 1.&lt;br&gt;&lt;br&gt;On a missed &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, the weapon turns visible and loses its attack bonuses.</content>
+    <content contentuid="hd1c424daga41cgf989g2decga457c3732909" version="1">Fireworks</content>
+    <content contentuid="hc8bec32fg2a9bgf60bgd046g6c16a5b94442" version="1">Fireworks</content>
+    <content contentuid="h0341fe63g410cg1bbcgc097gb6977f9223c8" version="1">Fireworks</content>
+    <content contentuid="h4711ed35gaef0g548eg1d0agc50b9a068d71" version="1">Fireworks</content>
+    <content contentuid="h988c68abg47a6g99f0gd796g4a544c228e40" version="1">Force Weapon</content>
+    <content contentuid="h75db7b91gaf55ga8ddg6047g98c77ae1d2ea" version="1">Infuse a weapon with arcane force. The weapon becomes magical, receiving a +[1] bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack&lt;/LSTag&gt; and Damage Rolls and deals a bonus [2].</content>
+    <content contentuid="hc49016b4gc1e7gd3bcg60f4g094f64e4748f" version="1">Force Weapon</content>
+    <content contentuid="hb58f3ca7gba22g844ag784dg253bd1a58e85" version="1">Weapon has become magical, receiving a +[1] bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack&lt;/LSTag&gt; and Damage Rolls and deals a bonus [2].</content>
+    <content contentuid="h6af979c7g4405gca5cge5f0gd68214e82c8f" version="1">Blind Faith</content>
+    <content contentuid="haf433cecg28c2g97e8g9d12gbeef32e16338" version="4">In an act of reverence to your god, you willingly &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blind&lt;/LSTag&gt; yourself. In exchange, you receive a holy blessing that empowers your weapon attacks to deal an additional [1] and heal allies within [3] for [2].</content>
+    <content contentuid="h43f64805g7216g6bbag7d3cg0d1dfb2f09e8" version="1">Blind Faith</content>
+    <content contentuid="h39f74cf4g71f7gb733g31ddg5deea2fe2dfe" version="4">Has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;. Range of attacks and spells reduced to [4]. &lt;br&gt;&lt;br&gt;Attack Rolls against Blinded creatures have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Weapon attacks deal an additional [1] and heal allies within [3] for [2].</content>
+    <content contentuid="hc5d8aa96ga638g0e10ga36cgb42547bfd78a" version="1">Divine Strike: Radiant (Ranged)</content>
+    <content contentuid="h1ee39ea3g0601g86e7gee8fgc54af9f05b14" version="1">Deal an additional [1].</content>
+    <content contentuid="h26b5f950g18fbg1b91g239cgb939ccf8e51b" version="1">Divine Strike: Radiant (Ranged)</content>
+    <content contentuid="hc8331bc2g473cg2e5fg58e2g5866eaaad5f7" version="1">Deal an additional [1].</content>
+    <content contentuid="h8677e009gb24ag5167g740cg2460a7bc0f80" version="1">Blind Faith</content>
+    <content contentuid="h2d97434bg57a8gd411g6c40gbd0ba8bb6d5f" version="1">Heal allies within [3] for [2].</content>
+    <content contentuid="h56757976g16afg9262g8b49g544a8a0ebde7" version="1">Blind Faith</content>
+    <content contentuid="h8f359373g13e4g39d4gb990g24451b2c9c72" version="1">Green Flame Blade</content>
+    <content contentuid="he1aa7370g495bg325aga66dg9996a0793305" version="1">Green-Flame Blade (Once)</content>
+    <content contentuid="ha2a87805g5eecg1913ge58dg74e7c81517b0" version="2">Can only use Green-Flame Blade once per action.</content>
+    <content contentuid="he2ce3ff3g6f09gf934g18e4g98014d0fa122" version="1">Booming Blade (Once)</content>
+    <content contentuid="h3e81ef1ag5844g7ea3g0b5cgd369ee7246d5" version="2">Can only use Booming Blade once per action.</content>
+    <content contentuid="hf048f5d1g28c8ge1f0gd963gb03a24a7671e" version="1">%%% Empty</content>
+    <content contentuid="h65e7702fgb752g5f5cg83feg48d19bcb4b11" version="2">This reaction will trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot be stacked with Green-Flame Blade.</content>
+    <content contentuid="h47765148g910dg649eg5776g467e25c1575e" version="2">This reaction will trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot be stacked with Booming Blade.</content>
+    <content contentuid="hd8506ee2g97dbgde66g5c03gecfdb28645f0" version="1">Attack Cantrip (Once)</content>
+    <content contentuid="hfce2f1e9g150bgeb3bg556agb20c4acac483" version="3">Can only cast Booming Blade or Green-Flame Blade once per action.</content>
+    <content contentuid="h008a6b1ag3cdbg3e4bga14agb124a5a131a1" version="4">Blade cantrips do not stack with &lt;LSTag Type="Status" Tooltip="EXTRA_ATTACK"&gt;Extra Attack&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;This spell can be cast while you are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;The bonus on hit damage starts at 0 and increases by [1] every 5 levels.</content>
+
+</contentList>

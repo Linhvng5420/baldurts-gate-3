@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glossary>
+    <!-- Thuật ngữ gameplay -->
+    <term><source>Hit Points</source><target>Điểm Sinh Mệnh</target></term>
+    <term><source>Spell Slot</source><target>Ô phép</target></term>
+    <term><source>Cantrip</source><target>Thủ Pháp</target></term>
+    <term><source>Long Rest</source><target>Nghỉ Dài</target></term>
+    <term><source>Short Rest</source><target>Nghỉ Ngắn</target></term>
+    <term><source>Saving Throw</source><target>Cứu Nguy</target></term>
+    <term><source>Ability Check</source><target>Kiểm Tra Khả Năng</target></term>
+    <term><source>Skill Check</source><target>Kiểm Tra Kỹ Năng</target></term>
+    <term><source>Proficiency</source><target>Thông Thạo</target></term>
+    <term><source>Advantage</source><target>Lợi Thế</target></term>
+    <term><source>Disadvantage</source><target>Bất lợi</target></term>
+    <term><source>Inspiration</source><target>Cảm hứng</target></term>
+    <term><source>Armor Class</source><target>Lớp Giáp (AC)</target></term>
+    <term><source>Initiative</source><target>Chủ Động</target></term>
+    <term><source>Concentration</source><target>Tập Trung</target></term>
+
+    <!-- Chủng tộc -->
+    <term><source>Elf</source><target>Tiên Tộc</target></term>
+    <term><source>Drow</source><target>Hắc Tiên</target></term>
+    <term><source>Dwarf</source><target>Người Lùn</target></term>
+    <term><source>Halfling</source><target>Tiểu Nhân</target></term>
+    <term><source>Githyanki</source><target>Githyanki</target></term>
+    <term><source>Githzerai</source><target>Githzerai</target></term>
+    <term><source>Tiefling</source><target>Tiefling</target></term>
+    <term><source>Dragonborn</source><target>Long Nhân</target></term>
+    <term><source>Half-Elf</source><target>Bán Tiên</target></term>
+    <term><source>Half-Orc</source><target>Bán Orc</target></term>
+    <term><source>Human</source><target>Nhân Loại</target></term>
+    <term><source>Orc</source><target>Orc</target></term>
+    <term><source>Goblin</source><target>Yêu Tinh</target></term>
+
+    <!-- Lớp nhân vật -->
+    <term><source>Paladin</source><target>Kỵ Sĩ Thánh</target></term>
+    <term><source>Fighter</source><target>Chiến Binh</target></term>
+    <term><source>Barbarian</source><target>Cuồng Chiến</target></term>
+    <term><source>Rogue</source><target>Đạo Chích</target></term>
+    <term><source>Ranger</source><target>Du hiệp</target></term>
+    <term><source>Bard</source><target>Thi Nhân</target></term>
+    <term><source>Cleric</source><target>Tư Tế</target></term>
+    <term><source>Druid</source><target>Hiền Giả</target></term>
+    <term><source>Wizard</source><target>Pháp Sư</target></term>
+    <term><source>Sorcerer</source><target>Thuật Sĩ</target></term>
+    <term><source>Warlock</source><target>Pháp Sư Hắc Ám</target></term>
+    <term><source>Monk</source><target>Tu Sĩ</target></term>
+
+    <!-- Quái vật -->
+    <term><source>Mind Flayer</source><target>Kẻ Ăn Não</target></term>
+    <term><source>Illithid</source><target>Illithid</target></term>
+    <term><source>Beholder</source><target>Thần Mục</target></term>
+    <term><source>Owlbear</source><target>Chim Gấu Cú</target></term>
+    <term><source>Nautiloid</source><target>Nautiloid</target></term>
+    <term><source>Ghoul</source><target>Ngạ Quỷ</target></term>
+    <term><source>Specter</source><target>Vong Hồn</target></term>
+    <term><source>Wraith</source><target>Ác Linh</target></term>
+    <term><source>Lich</source><target>Lich</target></term>
+    <term><source>Vampire</source><target>Ma Cà Rồng</target></term>
+    <term><source>Dragon</source><target>Rồng</target></term>
+    <term><source>Devil</source><target>Ác Quỷ</target></term>
+    <term><source>Demon</source><target>Quỷ Dữ</target></term>
+
+    <!-- Vũ khí & vật phẩm -->
+    <term><source>Greatsword</source><target>Đại Kiếm</target></term>
+    <term><source>Longsword</source><target>Trường Kiếm</target></term>
+    <term><source>Shortsword</source><target>Đoản Kiếm</target></term>
+    <term><source>Dagger</source><target>Dao Găm</target></term>
+    <term><source>Battleaxe</source><target>Đại Phủ</target></term>
+    <term><source>Greataxe</source><target>Đại Rìu</target></term>
+    <term><source>Mace</source><target>Chùy</target></term>
+    <term><source>Flail</source><target>Liềm Chùy</target></term>
+    <term><source>Spear</source><target>Thương</target></term>
+    <term><source>Halberd</source><target>Kích</target></term>
+    <term><source>Bow</source><target>Cung</target></term>
+    <term><source>Crossbow</source><target>Nỏ</target></term>
+    <term><source>Staff</source><target>Trượng</target></term>
+    <term><source>Shield</source><target>Khiên</target></term>
+
+    <!-- Địa danh & Thần linh -->
+    <term><source>Baldur's Gate</source><target>Baldur's Gate</target></term>
+    <term><source>Underdark</source><target>Hắc Ám Địa</target></term>
+    <term><source>Shadowfell</source><target>Vực Bóng Tối</target></term>
+    <term><source>Feywild</source><target>Tiên Giới</target></term>
+    <term><source>The Absolute</source><target>Đấng Tuyệt Đối</target></term>
+    <term><source>Avernus</source><target>Avernus</target></term>
+    <term><source>Shar</source><target>Shar</target></term>
+    <term><source>Selûne</source><target>Selûne</target></term>
+    <term><source>Mystra</source><target>Mystra</target></term>
+    <term><source>Bhaal</source><target>Bhaal</target></term>
+    <term><source>Myrkul</source><target>Myrkul</target></term>
+    <term><source>Bane</source><target>Bane</target></term>
+
+    <!-- Không Dịch Tên Phép thuật -->
+</glossary>
+
+Hit Points: Điểm Sinh Mệnh
+Spell Slot: Ô phép
+Cantrip: Thủ Pháp
+Long Rest: Nghỉ Dài
+Short Rest: Nghỉ Ngắn
+Saving Throw: Cứu Nguy
+Ability Check: Kiểm Tra Khả Năng
+Skill Check: Kiểm Tra Kỹ Năng
+Proficiency: Thông Thạo
+Advantage: Lợi Thế
+Disadvantage: Bất lợi
+Inspiration: Cảm hứng
+Armor Class: Lớp Giáp (AC)
+Initiative: Chủ Động
+Concentration: Tập Trung
+Elf: Tiên Tộc
+Drow: Hắc Tiên
+Dwarf: Người Lùn
+Halfling: Tiểu Nhân
+Githyanki: Githyanki
+Githzerai: Githzerai
+Tiefling: Tiefling
+Dragonborn: Long Nhân
+Half-Elf: Bán Tiên
+Half-Orc: Bán Orc
+Human: Nhân Loại
+Orc: Orc
+Goblin: Yêu Tinh
+Paladin: Kỵ Sĩ Thánh
+Fighter: Chiến Binh
+Barbarian: Cuồng Chiến
+Rogue: Đạo Chích
+Ranger: Du hiệp
+Bard: Thi Nhân
+Cleric: Tư Tế
+Druid: Hiền Giả
+Wizard: Pháp Sư
+Sorcerer: Thuật Sĩ
+Warlock: Pháp Sư Hắc Ám
+Monk: Tu Sĩ
+Mind Flayer: Kẻ Ăn Não
+Illithid: Illithid
+Beholder: Thần Mục
+Owlbear: Chim Gấu Cú
+Nautiloid: Nautiloid
+Ghoul: Ngạ Quỷ
+Specter: Vong Hồn
+Wraith: Ác Linh
+Lich: Lich
+Vampire: Ma Cà Rồng
+Dragon: Rồng
+Devil: Ác Quỷ
+Demon: Quỷ Dữ
+Greatsword: Đại Kiếm
+Longsword: Trường Kiếm
+Shortsword: Đoản Kiếm
+Dagger: Dao Găm
+Battleaxe: Đại Phủ
+Greataxe: Đại Rìu
+Mace: Chùy
+Flail: Liềm Chùy
+Spear: Thương
+Halberd: Kích
+Bow: Cung
+Crossbow: Nỏ
+Staff: Trượng
+Shield: Khiên
+Baldur's Gate: Baldur's Gate
+Underdark: Hắc Ám Địa
+Shadowfell: Vực Bóng Tối
+Feywild: Tiên Giới
+The Absolute: Đấng Tuyệt Đối
+Avernus: Avernus
+Shar: Shar
+Selûne: Selûne
+Mystra: Mystra
+Bhaal: Bhaal
+Myrkul: Myrkul
+Bane: Bane
