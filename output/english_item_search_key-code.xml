@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h002f9cb2g8c98g49d5g9aabgc739c02f785e" version="1">| UtilityAction Combat &lt;br&gt;NarrativeArch_Start v12 |</content>
+	<content contentuid="h00721d73g9bf4g4373ga2f2g77cfec8dcd74" version="1">IGNORE_HEIGHT_DIFFERENCE</content>
+	<content contentuid="h00c0abccg9e71g48b0gba5cg8ec5b01fa2bb" version="1">VO_SFX: Clearing his throat</content>
+	<content contentuid="h00d2ef97g68b3g46dbgbd43gf1db9d2260f9" version="3">Well, the price ain't changed. Pockets deep enough? ([LOW_Elfsong_RentFullPrice_522a449e-a7f5-0d9b-c835-fc5a24d49d65])</content>
+	<content contentuid="h00f4c9b0gc6e5g4e7dgaf7ag51b351f9b19d" version="1">| Combat &lt;br&gt;NarrativeArch_Start v7 |</content>
+	<content contentuid="h0123a688gd1c8g4ad3g8c46g4261fa02bc48" version="1">CombatVocals_Generic_Dwarf_Female_02</content>
+	<content contentuid="h01e3042dg60dag4f89gaeffg9e6792de5b42" version="1"> | ItemPickup Sneaking &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="h025537afg9a9ag488cg9255g47e9473fe086" version="1">| UtilityAction Sneaking &lt;br&gt;NarrativeArch_Start v12 |</content>
+	<content contentuid="h02b4d3fag0aabg4a16g8403g0dd6e9a9d386" version="1"> | Dip Normal &lt;br&gt;NarrativeArch_Start v3 |</content>
+	<content contentuid="h02d2024fg0d73g476dg8baeg36a37c6f9a55" version="1">[GLO_CompanionSwap_AvatarName4_fc31b1ba-d511-0552-070f-b57b2b9e6bf7] can stay at camp.</content>
+	<content contentuid="h03f5bf8bg6836g49d5ga0b1g07564e709694" version="1"> | OpenContainer Combat &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="h040edf20g01c5g4376g977eg87c1cde69dea" version="1">TARGET_BOUND_CENTER tooltip</content>
+	<content contentuid="h0431042cgb4e8g4051gb50agf94486bcca4c" version="2">| HealTarget Combat &lt;br&gt;Relation_Neutral v2 |</content>
+	<content contentuid="h046c9fadg9fe0g4775g9844g7dcb49c1b851" version="1">AiHint_TacticalRetreat</content>
+	<content contentuid="h0497e0e0gd2a3g4f84ga9a8gdf19e526c5b1" version="7">You can have the whole upstairs floor until this killer thing blows over. ([LOW_Elfsong_RentFullPrice_522a449e-a7f5-0d9b-c835-fc5a24d49d65])</content>
+	<content contentuid="h06eba21agea0bg4c01gbf3cgb34e06c0c4ff" version="1"> | Pickpocket_Succeeded Sneaking &lt;br&gt;NarrativeArch_Start v3 |&lt;br&gt;</content>
+	<content contentuid="h077f4c57ga218g43fdgae76gde4851cb7fdc" version="1"> | OpenContainer Normal &lt;br&gt;NarrativeArch_Start v7 |&lt;br&gt;</content>
+	<content contentuid="h080a6667g0b91g49e9gb660gf5f604f26a80" version="1"> | OpenLock Normal &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="h088e3679gc0c2g45eag96f5g638f5686a4ea" version="3">I'd like you to return [CAMP_Jergal_HirelingToResurrect_3_ba49d24f-75ee-10b0-57e1-b5fb5ee977bb].</content>
+	<content contentuid="h08b62ef2g16aeg45f7g919bg4a96f8e1ffff" version="1">NO_LEVELTEMPLATE_TRANSFER tooltip</content>
+	<content contentuid="h0912cfb9ge780g4944gbbd0gac3703b712b0" version="1"> | Attack Combat &lt;br&gt;NarrativeArch_Start v4 |&lt;br&gt;</content>
+	<content contentuid="h097035bdg20a0g45a6g8bd1g5a47a7c3265a" version="1">AiHint_Mage</content>
+	<content contentuid="h09aa8648g674fg4940ga1fdgf0682dd8c05c" version="1"> | Attack Combat &lt;br&gt;NarrativeArch_Start v5 |</content>
+	<content contentuid="h0a2c280egaff4g48ceg8d00g7000b9618fbf" version="8">Of course, such a task will require quite the substantial donation to Lord Mammon's coffers. ([LOW_DevilsFee_ExpensiveHoH_b64a3173-46d0-e663-eaf6-ee900355256d])</content>
+	<content contentuid="h0ae5615ega7f3g40fdgab13gc840ed1c1e8a" version="1">NOT_MESSING_AROUND tooltip</content>
+	<content contentuid="h0b56154eg550dg4c23g805dg450b6a1bd968" version="1">CombatVocals_Generic_Elf_Female_03</content>
+	<content contentuid="h0b691014gd08fg4f0cgb3f4g2051267bdecb" version="1">DO_NOT_TRANSLATE</content>
+	<content contentuid="h0c18045fg4141g457fgb162gef9b7dbcfce8" version="2">| HealTarget Sneaking &lt;br&gt;Relation_Romantic v2 |</content>
+	<content contentuid="h0c47be6eg9dabg4c6dg810ag672f802f9907" version="1"> | InteractWith Combat &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="h0c8a8d90g2f93g4286g9393gdc1e2dc7a683" version="1">[GLO_CompanionSwap_AvatarName3_d8706512-5c01-67d4-db8b-6c383dc02331] can stay at camp.</content>
+	<content contentuid="h0c8d8bb1gded0g4d66gbb7bgbeb0152c14f4" version="1">ACT1_HAG_ILLUSIONCRATE</content>
+	<content contentuid="h0cf8d49ag34f4g4963g934ag4523e0aff9cf" version="1">ORI_COM_Astarion_EscapeFromKennel</content>
+	<content contentuid="h0d030af2g8861g4d18g9f58gb87f9e119212" version="1">IGNORE_ANALYSIS</content>
+	<content contentuid="h0d3b28b1gd831g4b01gbf68g51ab3e213b35" version="1"> | Attack Combat &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="h0d4d9f57g161dg4caagbde6g6ed68addef69" version="1"> Effort_Mouth_Closed</content>
+	<content contentuid="h0d7affb0g7027g4796g92f2gbb387e47d075" version="1">CombatVocals_Generic_Dwarf_Female_03</content>
+	<content contentuid="h0de1c63dg6f7ag4cebg8a09gaa4422701c72" version="1">VO_SFX: All surrounding Goblins menacingly cackle as the drunk goblin threatens the player &lt;br&gt;</content>
+	<content contentuid="h0e4b089cg26adg4aeega710g56f9742d470e" version="1"> | Dip Sneaking &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="h0e4d4603gaa63g4773gb747g4eb94e14545e" version="1"> | OpenLock Combat &lt;br&gt;NarrativeArch_Start v6 |</content>
+	<content contentuid="h0edf2f1cgaeabg4676gb3c0g6922ade2e80c" version="1">Laughter_Mocking_Medium&lt;br&gt;Var 2</content>
+	<content contentuid="h0ff281ebg3022g4a10g9730ge309e0ce8a18" version="1">| UtilityAction Combat &lt;br&gt;NarrativeArch_Start v11|</content>
+	<content contentuid="h104547efg6880g4088g896dg067f45079d23" version="2">[GLO_CompanionSwap_AvatarName4_fc31b1ba-d511-0552-070f-b57b2b9e6bf7] can stay at camp.</content>
+	<content contentuid="h104806d5gce95g4bb8gb9a9g02da998d502d" version="1">[GLO_CompanionSwap_AvatarName1_938ab998-0908-f7de-0f9f-3d34dbf5808f] can stay at camp.</content>
+	<content contentuid="h107d4a2fgb478g4fc0ga328g9672f109bd2b" version="1"> | ItemPickup Sneaking &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="h111cb90agefcdg4440gacd0g41f0540304e5" version="1"> | Pickpocket Combat &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="h11343b54gda56g4596g8787g7efef089a88a" version="1">AiHint_Ranger tooltip</content>
+	<content contentuid="h11540883gac25g42c0g9da0g92817992ec91" version="1">AI_IGNORED_TARGET</content>
+	<content contentuid="h131fa450g3969g42c7g868agbd515eff5ed2" version="1">&lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt;</content>
+	<content contentuid="h14051f2fg46e8g46d0g909eg781cb1d5c634" version="1"> | Attack Combat &lt;br&gt;NarrativeArch_Start v14 |</content>
+	<content contentuid="h14200400g6539g4e37g9a3cgcfe44318974f" version="1"> | Dip Normal &lt;br&gt;NarrativeArch_Start v5 |&lt;br&gt;</content>
+	<content contentuid="h14b72c38g109ag4f3fgbcafg9c0d37e679dd" version="1">Effort_Mouth_Open&lt;br&gt;Var 5</content>
+	<content contentuid="h14c6ef25gf106g4994g934agb4c26648c068" version="1">| Attack Sneaking &lt;br&gt;NarrativeArch_Start v3 |</content>
+	<content contentuid="h15b5d683g42ffg450aga8a5g285d3373fe81" version="1">CombatVocals_Generic_Elf_Male_02</content>
+	<content contentuid="h16031b41g359ag42c6g8912ge834b52f3138" version="1">Weight_Large</content>
+	<content contentuid="h16429c66g3d8bg4f13g8c0cg1b3328bec350" version="1">I want to resurrect [CAMP_Jergal_PlayerToResurrect_3_56966d5e-534d-4930-264e-050a2345db3d].</content>
+	<content contentuid="h1651a278g3872g4087g9238gd6e42ff3fe3d" version="1">| Attack Sneaking &lt;br&gt;NarrativeArch_Start v11 |</content>
+	<content contentuid="h169be776gf31fg4bcdgb986ge57225baf48c" version="1"> | InteractWith Normal &lt;br&gt;NarrativeArch_Start v7 |&lt;br&gt;</content>
+	<content contentuid="h1729336ag1b62g4db2gab36g403c60616c68" version="1"> | Attack Normal &lt;br&gt;NarrativeArch_Start v6 |</content>
+	<content contentuid="h1733e1e4g7d05g45b1ga183g1f71ab75e52e" version="1">SFX_Only tooltip</content>
+	<content contentuid="h17a984bag97e2g4dcagb172gf6a2f24483ff" version="1">| HealTarget Sneaking &lt;br&gt;Relation_Romantic v6 |&lt;br&gt;&lt;br&gt;</content>
+	<content contentuid="h18054e9dgf1d8g4499gb0e6g3f09c6331670" version="1">RECORD_QUEST tooltip</content>
+	<content contentuid="h18b6d3a8g07dcg4074g979bgb01d8686fc0a" version="1">| Sneaking &lt;br&gt;NarrativeArch_Start v8 |</content>
+	<content contentuid="h19a2eb55gb35bg44b7g93d8gb1003daa0f62" version="1">RECORD_ANTAGONIST</content>
+	<content contentuid="h19f878a1ga837g47afgad48ga1d44b2bb769" version="1"> | InteractWith Normal &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="h1aaf3302g270eg444bg8547gd54f25ecb2d0" version="1">COMBAT_FORMATIONTACTICS</content>
+	<content contentuid="h1ae29062gc0e6g4c26ga9c8ge64cb6affbc0" version="1">Breath_Fast</content>
+	<content contentuid="h1aeb8300gecf3g4afcgb0d9gfa77b1f87814" version="1"> | Attack Combat &lt;br&gt;NarrativeArch_Start v15 |</content>
+	<content contentuid="h1b1dfa24g429ag4b7cga815g67f4e83f52dd" version="1">BLOCK_PICKPOCKET</content>
+	<content contentuid="h1bc98c10g29fbg4f40g851dg838adb8598a1" version="1">COMBAT_FORMATIONTACTICS tooltip</content>
+	<content contentuid="h1bf2e80cg341eg44b0g8195gedf057bde34d" version="1">[GLO_CompanionSwap_AvatarName2_1cbefe6a-48c2-e77d-4a66-ab7524b61dbe] can stay at camp.</content>
+	<content contentuid="h1c4783ccg50e7g49c5g9803gb0011286c66a" version="1">| Combat &lt;br&gt;NarrativeArch_Start v6 |</content>
+	<content contentuid="h1cfd06e5g9da1g4849g9c41gde39ad657c2d" version="1"> | OpenLock Sneaking &lt;br&gt;NarrativeArch_Start v1 |</content>
+	<content contentuid="h1d538593g6f12g422dg943fgfc7291f0ed3c" version="1">NO_GHOST tooltip</content>
+	<content contentuid="h1d6c2dbag01f2g4b80g80a9g794596682b2b" version="1">| Sneaking &lt;br&gt;NarrativeArch_Start v12 |</content>
+	<content contentuid="h1f748908g6c0ag4996g9dd6g77b9ee1a4367" version="1"> | Attack Combat &lt;br&gt;NarrativeArch_Start v12 |</content>
+	<content contentuid="h1f885e7ag23a8g4a0dgb8ccg27e4c05809b6" version="1">COMBAT_PACKTACTICS</content>
+	<content contentuid="h215dee0ag01cdg4cedg9e7agc83ca3461e2e" version="2">| HealTarget Normal &lt;br&gt;Relation_Neutral v6 |</content>
+	<content contentuid="h220e4427gbd18g4fb6ga1c7g28af64cfccbd" version="1"> | PickupItem Normal &lt;br&gt;NarrativeArch_Start v1 |</content>
+	<content contentuid="h22618894gafd9g4710g8666g20f960e9a9aa" version="2">| HealTarget Normal &lt;br&gt;Relation_Positive v1 |</content>
+	<content contentuid="h23858f9cgfba7g45dbgad85gb7d8ee9706ed" version="1">| UtilityAction Normal &lt;br&gt;NarrativeArch_Start v4 |&lt;br&gt;</content>
+	<content contentuid="h23ad692fg0734g4f27g998egdaabc6bace76" version="1">| UtilityAction Normal &lt;br&gt;NarrativeArch_Start v11 |&lt;br&gt;</content>
+	<content contentuid="h24b5ef82g24dfg4b9cg860cg9454edaee2bd" version="1">Laughter_Mocking_Medium</content>
+	<content contentuid="h24c1627dgd8d2g45b5g9fb1ge92d395f172a" version="1">VO_SFX : Initial Downed&lt;br&gt;</content>
+	<content contentuid="h2529888egf634g447fg9e9ag18c2f44defda" version="1">Brewer_A</content>
+	<content contentuid="h25d021f1gddbfg4198gb47bg57907201b1bb" version="1">CombatVocals_Generic_HumanChild_Male_03</content>
+	<content contentuid="h25d78416gc626g4ed3ga526g2f8aeec3e76b" version="1"> | InteractWith Combat &lt;br&gt;NarrativeArch_Start v1 |&lt;br&gt;</content>
+	<content contentuid="h25e6e0bbg007dg4d5fgb887gd7dd0ec945c3" version="1">| HealTarget Sneaking &lt;br&gt;Relation_Negative v6 |</content>
+	<content contentuid="h264e7175gfdb8g4c1bg9a95gc0769dfd82df" version="1">CombatVocals_Generic_Gith_Male_02</content>
+	<content contentuid="h265e94bbg0e04g43b1gbedcg0b76a8b68649" version="1"> | Pickpocket_Succeeded Sneaking &lt;br&gt;NarrativeArch_Start v11 |&lt;br&gt;</content>
+	<content contentuid="h26644b41g2dc8g4d25g8d43g162ee5e310aa" version="1">| Combat &lt;br&gt;NarrativeArch_Start v3 |</content>
+	<content contentuid="h2667f4a8ge77dg447cg8a09g19bf8c43a71c" version="1"> | ItemPickup Combat &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="h26d13a25gc859g4740g91ceg0dfb20a62004" version="1"> | Attack Normal &lt;br&gt;NarrativeArch_Start v3 |&lt;br&gt;</content>
+	<content contentuid="h270b81a9g3d5dg442ag9f46g802a1b72fcb5" version="1">| UtilityAction Combat &lt;br&gt;NarrativeArch_Start v5 |</content>
+	<content contentuid="h27844453gc478g40dfgab74gc7082233fbd8" version="1">| Attack Sneaking &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="h2796afe9g0979g41a1gb920g3570cd0db90a" version="1">Laughter_Happy_Short&lt;br&gt;Var 3</content>
+	<content contentuid="h2849ba4dga964g4edfg9ea2g319dcc07ac80" version="2">| HealTarget Sneaking &lt;br&gt;Relation_Romantic v4 |</content>
+	<content contentuid="h284b0b3dg2306g4adfgb669g542858c1e423" version="1">CombatVocals_Generic_Goblin_Female_02</content>
+	<content contentuid="h2851ada2g20cbg4677gb432ga4f8222b05e1" version="1"> | InteractWith Combat &lt;br&gt;NarrativeArch_Start v6 |</content>
+	<content contentuid="h2881dd2bgef0cg4dabga172gd39683a9e6d9" version="1"> | Pickpocket_Succeeded Sneaking &lt;br&gt;NarrativeArch_Start v1 |&lt;br&gt;</content>
+	<content contentuid="h28b0951fgc739g4d08g99d6gf085f5c44997" version="1">| UtilityAction Sneaking &lt;br&gt;NarrativeArch_Start v4 |&lt;br&gt;</content>
+	<content contentuid="h2905d5beg0b8fg4727g94abga621a0885a56" version="1">| UtilityAction Normal &lt;br&gt;NarrativeArch_Start v12 |&lt;br&gt;</content>
+	<content contentuid="h29a09dd6g637eg4207gbb5egc297d3dca944" version="1">Proxy_DOOR_RoomTrigger</content>
+	<content contentuid="h2aff02aag1a28g4a23g9398g942e9a64f434" version="1">[GLO_CompanionSwap_AvatarName3_d8706512-5c01-67d4-db8b-6c383dc02331] can stay at camp.</content>
+	<content contentuid="h2b16bfeegda39g4676gbbd4ge4f2eaaaa6c0" version="1">[GLO_CompanionSwap_AvatarName2_1cbefe6a-48c2-e77d-4a66-ab7524b61dbe] can stay at camp.</content>
+	<content contentuid="h2b48ec0ag0513g4a84gbde5g52be316d8450" version="1">COMBAT_PACKTACTICS tooltip</content>
+	<content contentuid="h2b8ab4d2gf249g4a44gade6g439dcef037b9" version="1"> | OpenLock Combat &lt;br&gt;NarrativeArch_Start v3 |&lt;br&gt;</content>
+	<content contentuid="h2cfc2b95gc601g479eg834fg5b8b6199052c" version="1">[GLO_CompanionSwap_AvatarName1_938ab998-0908-f7de-0f9f-3d34dbf5808f] can stay at camp.</content>
+	<content contentuid="h2d45182dg65dfg4f31g82c9g06a7c9cbf776" version="1"> | InteractWith Normal &lt;br&gt;NarrativeArch_Start v3 |</content>
+	<content contentuid="h2d763adbg9901g4711g8b99g0d3965ce2533" version="1">AiHint_Summoner</content>
+	<content contentuid="h2d967424g8f84g49bcg97e8gc57efdd33e30" version="1"> | Dip Normal &lt;br&gt;NarrativeArch_Start v1 |</content>
+	<content contentuid="h2e1bde37g5bb6g403cgaaf5ga0eb004be355" version="1">ACT1_HAG_ILLUSIONCRATE tooltip</content>
+	<content contentuid="h2e3dbf7egec98g4e7bg902ag0a20c59ce562" version="1">CombatVocals_Generic_Goblin_Female_01</content>
+	<content contentuid="h2eb160b7g941cg4effgba87g8cafb5818eb9" version="2">All right then, come on. I'm [GEN_PlayerName_c11eee1e-7815-6143-7233-f2427799fa53].</content>
+	<content contentuid="h2ee913f1g3d1eg4a1cgb289gc5aaba6d92e5" version="2">LOW_IronThrone_PrisonersSwarmEscapeTarget_Hatch</content>
+	<content contentuid="h2f44042bg2f09g4005gace9gee2711fa0101" version="1">Laughter_Happy_Short&lt;br&gt;Var 2</content>
+	<content contentuid="h305f861cgdd33g4f2dg854ag7b8e0b9e8f6a" version="1"> | Attack Normal &lt;br&gt;NarrativeArch_Start v7 |</content>
+	<content contentuid="h308bd8c0gf984g43b1g915bg829650275afc" version="1"> | PickupItem Normal &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="h31455b3eg6bbcg469fg8e09g8aba845e87fe" version="1">CombatVocals_Generic_Gith_Female_02</content>
+	<content contentuid="h319d4679g5542g4dafgb99bg3a6cad884cd2" version="1">SpellVocals_Generic_Human_Female_03</content>
+	<content contentuid="h3329c78dgc59eg451ega41cg40ab94eee83b" version="1">AI_UNPREFERRED_TARGET</content>
+	<content contentuid="h33879b04g1d2fg4ce4ga654g34cf01dea723" version="1">IGNORE_HEIGHT_DIFFERENCE tooltip</content>
+	<content contentuid="h3398b4c5g3f61g479cgbe85gfe1d045de936" version="1">| UtilityAction Combat &lt;br&gt;NarrativeArch_Start v9 |</content>
+	<content contentuid="h33a31915ge142g4470gba65g82a5dad34ad6" version="2">| HealTarget Sneaking &lt;br&gt;Relation_Positive v2 |</content>
+	<content contentuid="h33ec84dcg71a8g4d32gb5a3gb0b24dbebef4" version="1">CombatVocals_Generic_Human_Female_01</content>
+	<content contentuid="h34ef5a1eg19f3g405fgb9ddg76e998609d47" version="1">DEAD_SPEAKER</content>
+	<content contentuid="h351d6ed2gede5g4f16g96fegddaeaa7a0f61" version="1">| UtilityAction Combat &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="h355a92f2g4a59g4936g8ce2g0303e56eb055" version="1">VO_SFX: Gasp before exploding </content>
+	<content contentuid="h365e0640g52b1g4afagb310g4273e649d8bb" version="2">| HealTarget Normal &lt;br&gt;Relation_Negative v3 |</content>
+	<content contentuid="h368ee4fcg9759g4f61gaae0g74e3a09b1b5f" version="1">[GLO_CompanionSwap_AvatarName2_1cbefe6a-48c2-e77d-4a66-ab7524b61dbe] can stay at camp.</content>
+	<content contentuid="h3757e025gb2cbg4a5eg9b3cgef03f1b30975" version="1">RECORD_PROTAGONIST tooltip</content>
+	<content contentuid="h379b07a5gcecbg4b42g87d3ge410d5b46d0e" version="1">NO_GHOST</content>
+	<content contentuid="h38038a90g3e21g4d3dg8471gd9a00d17a7eb" version="2">| HealTarget Normal &lt;br&gt;Relation_Positive v3 |</content>
+	<content contentuid="h3992faf9g8167g4010gad72g9a9ab6e4cefe" version="1"> | Attack Combat &lt;br&gt;NarrativeArch_Start v17 |</content>
+	<content contentuid="h3aa7fad7gd92ag4876g89a6g81a42dca022c" version="1"> | ItemPickup Sneaking &lt;br&gt;NarrativeArch_Start v7|</content>
+	<content contentuid="h3b281ca4gd82cg4c50ga8d2gb8c438015c5f" version="1">I want to resurrect [CAMP_Jergal_PlayerToResurrect_1_c85cdca4-6579-776d-206d-6967e4999281].</content>
+	<content contentuid="h3b3fbe96gbedeg4081ga8dfg5630fa9132fe" version="1"> | Dip Sneaking &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="h3bcb573eg6525g4fe4gac0ag7840748b32a9" version="2">KNOCK_TARGET</content>
+	<content contentuid="h3c680233g932eg45d7ga5c4g5726dfce68fa" version="1"> | OpenContainer Normal &lt;br&gt;NarrativeArch_Start v5 |&lt;br&gt;</content>
+	<content contentuid="h3d03fc58g7c17g441cg8eacg5f6465fc8664" version="2">[GLO_CompanionSwap_AvatarName4_fc31b1ba-d511-0552-070f-b57b2b9e6bf7] can stay at camp.</content>
+	<content contentuid="h3dda3f6fgaecbg4244gb196g4445802f91b4" version="1">AiHint_Ranger</content>
+	<content contentuid="h3e7b2f5fg1278g4e15gacd9g808f131cba9b" version="1">CombatVocals_Generic_Goblin_Male_03</content>
+	<content contentuid="h4007b0bdg263eg473bg9588g8f6c6fd052ef" version="1">RISING_PLATFORM</content>
+	<content contentuid="h40173904g5c9bg48edga2bcg8f4f9ceaf612" version="2">| HealTarget Combat &lt;br&gt;Relation_Negative v1 |</content>
+	<content contentuid="h401fb239g46c6g4338g870bgf23091d6fd5a" version="1"> | Attack Normal &lt;br&gt;NarrativeArch_Start v10 |</content>
+	<content contentuid="h402a9316gc0e6g4434g8c0eg3f87d811be60" version="2">| HealTarget Normal &lt;br&gt;Relation_Negative v6 |</content>
+	<content contentuid="h40611a29g2718g42eag87bagadb441b7b04e" version="1">[GLO_CompanionSwap_AvatarName2_1cbefe6a-48c2-e77d-4a66-ab7524b61dbe] can stay at camp.</content>
+	<content contentuid="h40656116g7badg4fcag88d5gb8c291eda636" version="1">| Combat &lt;br&gt;NarrativeArch_Start v8 |</content>
+	<content contentuid="h40771f0fg9ac3g4e6eg927fg5721acb5e5c1" version="1">VO_SFX: All surrounding Goblins cackle as the drunk goblin point out the player kissed his feet</content>
+	<content contentuid="h40fff8cag8394g4faag8481g002170f559d6" version="1">ENFORCE_ANALYSIS tooltip</content>
+	<content contentuid="h4195db0dg3434g41ddgad59ga959581b4911" version="1"> | OpenLock Sneaking &lt;br&gt;NarrativeArch_Start v6 |</content>
+	<content contentuid="h41b5f5b2g3b5bg4d54g82dfgcfefa58f3ac9" version="1">VO_SFX: Death cry - While turning the wheel to open the gate, Kanon gets hit by an arrow in the neck and dies</content>
+	<content contentuid="h41c82b59g72a1g4c46ga9a5g3b754bbf3780" version="1">[GLO_CompanionSwap_AvatarName1_938ab998-0908-f7de-0f9f-3d34dbf5808f] can stay at camp.</content>
+	<content contentuid="h41cdcc18gc2e8g4e31gac5dgd448ede27963" version="1">TARGET_BOUND_CENTER</content>
+	<content contentuid="h42255f54g2d61g4bd3gb95dga2124dd04c27" version="2">[GLO_CompanionSwap_AvatarName1_938ab998-0908-f7de-0f9f-3d34dbf5808f] can stay at camp.</content>
+	<content contentuid="h427173d0gb87bg4573gb6d7g22a91975eeba" version="1"> | Dip Sneaking &lt;br&gt;NarrativeArch_Start v3 |</content>
+	<content contentuid="h42a7dd56g7d99g4b28gb812g4b176ab5c5c7" version="4">*He gives in and surrenders his find to you.* ([CAMP_Courier_Dog_FetchedItemDescription_50004d01-651b-a7ea-308a-451a9571cb85])</content>
+	<content contentuid="h42b5a445g56c6g4c8cgaf68g10e70c2b688d" version="1"> Effort_Mouth_Open</content>
+	<content contentuid="h43127c3ag7c1cg4d2ag9b90g92c12284830b" version="1"> | ItemPickup Combat &lt;br&gt;NarrativeArch_Start v3 |</content>
+	<content contentuid="h437c2a51g5ca8g439eg8861gf05357aec9ee" version="2">| HealTarget Combat &lt;br&gt;Relation_Negative v2 |</content>
+	<content contentuid="h43bfaebegf9b6g4b45g8bdfge07aa13e7d6e" version="1">CombatVocals_Generic_Tiefling_Male_03</content>
+	<content contentuid="h4415cbbfg66f9g487bg8a77g82a2e211dda2" version="1">[GLO_TadpoleSharing_Generic3_9b66e00d-f77f-2d53-4005-49d74e922698]</content>
+	<content contentuid="h45359e44gdd0fg42ebg9dbegc60dbb6777ab" version="1">| UtilityAction Combat &lt;br&gt;NarrativeArch_Start v6 |&lt;br&gt;</content>
+	<content contentuid="h45cf90e5g7666g4ecegbf99gf44e92e40c16" version="1">| UtilityAction Sneaking &lt;br&gt;NarrativeArch_Start v5 |</content>
+	<content contentuid="h460ccc52ga8d0g4e00ga69ag423760b9474b" version="1">CombatVocals_Generic_Dwarf_Male_03</content>
+	<content contentuid="h460fd693g2ec9g40c3gb157gf8ca35326b8a" version="1">ACT1_FOR_GLADEGUARD</content>
+	<content contentuid="h46378209g1321g4105g9b5dgb83f33c444c7" version="1">CombatVocals_Generic_Elf_Male_01</content>
+	<content contentuid="h46720232g03dcg408eg960bg3375ac719ab8" version="2">I'd like you to return [CAMP_Jergal_DismissedAvatarToResurrect_3_78fa02c7-a3d4-4101-e2de-a5bd18d187fd].</content>
+	<content contentuid="h47e3d20dgedd5g4e21ga692g084c78bac5a1" version="1"> | ItemPickup Combat &lt;br&gt;NarrativeArch_Start v1 |&lt;br&gt;</content>
+	<content contentuid="h486301e1g533dg4d1agbcfdgf19516c8e82d" version="1"> | OpenLock Sneaking &lt;br&gt;NarrativeArch_Start v8 |</content>
+	<content contentuid="h487ee35fgc3c0g402cg8aa2g7edeb90d5bfa" version="4">I want to resurrect [CAMP_Jergal_PlayerToResurrect_1_c85cdca4-6579-776d-206d-6967e4999281].</content>
+	<content contentuid="h48bd7af3g90aag46f8gb594g4711f516b1c1" version="1">VO_SFX : Initial Downed v3</content>
+	<content contentuid="h48d8fe30gcd31g4171gb50dgf05f0f468ff0" version="2">| HealTarget Normal &lt;br&gt;Relation_Neutral v2 |</content>
+	<content contentuid="h48fe331cg6a9fg444bga7d7gccac9d993188" version="1"> | OpenLock Sneaking &lt;br&gt;NarrativeArch_Start v5 |&lt;br&gt;</content>
+	<content contentuid="h4959bfafg0155g4fa3ga1fbga24c3f8c47c3" version="1"> | Attack Normal &lt;br&gt;NarrativeArch_Start v2 |&lt;br&gt;</content>
+	<content contentuid="h4981708bg3ecbg477dg94d4g19f10c529a37" version="1">SFX_Only</content>
+	<content contentuid="h49953275g67beg479eg82b2g9382633e462a" version="1"> | Attack Normal &lt;br&gt;NarrativeArch_Start v13 |</content>
+	<content contentuid="h4999ceaeg2a04g4b4fgada9ge4f95bc8e94b" version="1"> | Pickpocket_Succeeded Sneaking &lt;br&gt;NarrativeArch_Start v2 |&lt;br&gt;</content>
+	<content contentuid="h4a553e0ag9a09g4dd0gb2ffg9c00003e57ab" version="1">| Combat &lt;br&gt;NarrativeArch_Start v9 |</content>
+	<content contentuid="h4a6e73aegd241g48d4gbc9cg9426de269efc" version="1">CombatVocals_Generic_Human_Female_03</content>
+	<content contentuid="h4aadaea9g8d20g4414gaa2bge802cd6fb405" version="1"> | Attack Combat &lt;br&gt;NarrativeArch_Start v1 |</content>
+	<content contentuid="h4ad7046egacb1g4e75g8dd6g873d6f391239" version="1">Press [IE_UIAccept] to continue</content>
+	<content contentuid="h4b35dc40g548eg440agbb15g2656ee13224c" version="1"> | Attack Combat &lt;br&gt;NarrativeArch_Start v8 |</content>
+	<content contentuid="h4ba84b75g9da1g40ecg93f4g90455310a30b" version="2">| HealTarget Normal &lt;br&gt;Relation_Neutral v5 |</content>
+	<content contentuid="h4bac7147gea5eg49cdg96d5ga85b55f52024" version="1">| UtilityAction Sneaking &lt;br&gt;NarrativeArch_Start v1 |</content>
+	<content contentuid="h4bbe3971gd780g4779ga000g805e79ad217c" version="2">Locations of Interest:&lt;br&gt;&lt;br&gt;- Elfsong Tavern&lt;br&gt;- Blushing Mermaid&lt;br&gt;- Moonhaven Ruins&lt;br&gt;- Underdark&lt;br&gt;&lt;br&gt;Wulbren - likely taken by force.&lt;br&gt;Interview unsavoury elements known and unknown.&lt;br&gt;&lt;br&gt;I WILL find him.&lt;br&gt;&lt;br&gt;Dear ____ (Wulbren's mother - her name?),&lt;br&gt;&lt;br&gt;I write to enquire -&lt;br&gt;I write to inform - &lt;br&gt;I write in relation to -&lt;br&gt;&lt;br&gt;Flames&lt;br&gt;Two flames in the - &lt;br&gt;&lt;br&gt;34,5 x 948&lt;br&gt;1.000&lt;br&gt;3&lt;br&gt;445&lt;br&gt;90</content>
+	<content contentuid="h4c4468b1g457bg4ce8g9391g1f1a9ad8209e" version="1">| UtilityAction Sneaking &lt;br&gt;NarrativeArch_Start v6 |&lt;br&gt;</content>
+	<content contentuid="h4c5c9e50g578bg4cb3g9b46g7db30dbd4708" version="2">| HealTarget Combat &lt;br&gt;Relation_Neutral v4 |</content>
+	<content contentuid="h4c9d4691g7612g4437g8f84g4c1ad692f49f" version="2">| HealTarget Normal &lt;br&gt;Relation_Negative v2 |</content>
+	<content contentuid="h4d194806g861eg4a58gbddcg0891c9d52f67" version="2">| HealTarget Combat &lt;br&gt;Relation_Romantic v4 |</content>
+	<content contentuid="h4d226ba6g52d0g47b7g81bdg78199d5f704b" version="1">[GLO_CompanionSwap_AvatarName1_938ab998-0908-f7de-0f9f-3d34dbf5808f] can stay at camp.</content>
+	<content contentuid="h4d3ee261gefc9g4b29gb66cgced9dbbfd081" version="1">[GLO_CompanionSwap_AvatarName4_fc31b1ba-d511-0552-070f-b57b2b9e6bf7] can stay at camp.</content>
+	<content contentuid="h4d64786egb544g4635gaae1g68f0bd32b434" version="1">AI_UNPREFERRED_TARGET tooltip</content>
+	<content contentuid="h4d8ff8d3g3122g418fgb2b1gf44884e63075" version="1">[GLO_CompanionSwap_AvatarName3_d8706512-5c01-67d4-db8b-6c383dc02331] can stay at camp.</content>
+	<content contentuid="h4df686abg0bd1g4fabg8e08g6ef652fd4096" version="1"> | OpenContainer Sneaking &lt;br&gt;NarrativeArch_Start v3 |</content>
+	<content contentuid="h4e198580g4889g4e86g9e58g96ce98e2103e" version="1"> | Pickpocket_Succeeded Sneaking &lt;br&gt;NarrativeArch_Start v7 |&lt;br&gt;</content>
+	<content contentuid="h4e1fc71fgeeffg438cga708g0b2c6a19b423" version="1">| Combat &lt;br&gt;NarrativeArch_Start v4 |&lt;br&gt;</content>
+	<content contentuid="h4e34b981gb1bfg4dacga9c2gf5251384ea70" version="1">ALLOW_PICKPOCKET_FOR_SUBRACE</content>
+	<content contentuid="h4e60a8b3g37efg4410gb741gaee5da95c82b" version="3">Fair point. Here's the money. ([LOW_Elfsong_RentFullPrice_522a449e-a7f5-0d9b-c835-fc5a24d49d65])</content>
+	<content contentuid="h4e7aaadfg1efdg417dg8badg2542bb9da14f" version="1">| Combat &lt;br&gt;NarrativeArch_Start v5 |</content>
+	<content contentuid="h4e82f978gecc2g4114g98b3gcad598dfdf2b" version="1">VO_SFX : Initial Downed v2</content>
+	<content contentuid="h4f4312b2g56e7g4522ga05fg0fa8573f7377" version="1">CombatVocals_Generic_Goblin_Male_01</content>
+	<content contentuid="h4f549375g4fc1g4179g9801gdcf2b1e8cb72" version="1"> | ItemPickup Combat &lt;br&gt;NarrativeArch_Start v5 |&lt;br&gt;</content>
+	<content contentuid="h4f7c89ccgbe8bg49f9gab31g0776290bd722" version="2">| HealTarget Sneaking &lt;br&gt;Relation_Neutral v3 |</content>
+	<content contentuid="h501088aag0abdg4eb5gbe88gbda3e9c638cc" version="1">GNOLL_FLESHGNAWER tooltip</content>
+	<content contentuid="h5096684ag64bdg4fd1ga77fgdef46cdb0044" version="1">Aye, off my rocker me - so you'd best not push me too far, eh? Price is the price. 
+([GEN_CheckMagicPocketGold_6057ad05-9492-4630-9f0a-be548b134c54])</content>
+	<content contentuid="h510b17aeg716cg4f94g8757g09d51ce20130" version="1">CombatVocals_Generic_Gnome_Female_02</content>
+	<content contentuid="h521ce177gf2b4g4b72g9ddag31d74b96961b" version="1">CombatVocals_Generic_Bugbear_Male_01</content>
+	<content contentuid="h5232e543g63c5g41c4gb541ga0045995bf00" version="1">| UtilityAction Normal &lt;br&gt;NarrativeArch_Start v1 |</content>
+	<content contentuid="h528d54b3g257eg45e5ga04fg0aeea053babf" version="2">| HealTarget Normal &lt;br&gt;Relation_Romantic v1 |</content>
+	<content contentuid="h52fb0824g6462g48cagb733g2f6c32b56f68" version="4">I want to resurrect [CAMP_Jergal_PlayerToResurrect_2_b1161c91-1bde-6a1c-297e-ee0bfc1a57c4].</content>
+	<content contentuid="h533c6638g4f84g4ec2ga672g34da0a20187b" version="1">CINE_BrokenBard</content>
+	<content contentuid="h539a4506g0dd1g4558gba35g90ea3e0b6ce8" version="2">| HealTarget Normal &lt;br&gt;Relation_Neutral v4 |</content>
+	<content contentuid="h542b61e0g9238g4986gb7e1g3099e41dd70c" version="1">|Sex is optional, but if your origin does have sex in this scene, please set these object flags: ORI_HadSexWithRufus AND ORI_HadSexWithCompanion, as these are checked elsewhere. Thank you!|</content>
+	<content contentuid="h547e885ag733eg4281g8655ga03299130ef6" version="1">RECORD_PLAYER tooltip</content>
+	<content contentuid="h54bca71fga2abg4821g808bgf6d6690a94b5" version="1"> | OpenContainer Normal &lt;br&gt;NarrativeArch_Start v3 |</content>
+	<content contentuid="h54feb256g4b9fg4bc7g8204gfa83d8f5d264" version="1">ARCHDRUID_KAGHA</content>
+	<content contentuid="h55076cabgaeadg4ffbgb717ga18fbd1a7f71" version="3">I'd like you to return [CAMP_Jergal_HirelingToResurrect_2_d2808a7c-b7db-96a3-1c5f-e050b22a592b].</content>
+	<content contentuid="h55077607gce64g49fdg9128g6cb87f23a029" version="1">RISING_PLATFORM tooltip</content>
+	<content contentuid="h553a41b1g54edg432fgb997gc9643ad96ec9" version="1">| Sneaking &lt;br&gt;NarrativeArch_Start v9 |</content>
+	<content contentuid="h55ac0a8dga58eg4e4ag98d4ga2e630c1afeb" version="4">Try to &lt;LSTag Type="Status" Tootip="LOW_RAPHAEL_CHARMED"&gt;Beguile&lt;/LSTag&gt; your attacker and its nearby allies.</content>
+	<content contentuid="h55fbb7bbgb0cbg448cgb48fg840e32e83af0" version="1">VO_POSTPROCESS</content>
+	<content contentuid="h560a5437g0055g4f7agb07egbb6e7489fca4" version="1">ACT1_GOB_Festivities</content>
+	<content contentuid="h564baa7fg993cg4e67g828egd77730dd62f5" version="1"> | Dip Normal &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="h566d0ba1g0735g4b91gabd2g527ff93964fb" version="1">AiHint_TacticalRetreat tooltip</content>
+	<content contentuid="h566d24cage880g4f19gbc26g0964cf6c80d6" version="1">AI_USEITEM_A</content>
+	<content contentuid="h577cc753g4fdfg40e9g8410g738880d12456" version="1">Breath_Recovery&lt;br&gt;Var 2</content>
+	<content contentuid="h57d92a98gb1efg4a41gab31ga845e124ad59" version="1"> | Attack Normal &lt;br&gt;NarrativeArch_Start v15 |</content>
+	<content contentuid="h58209204g1f0bg4497g99a8g6d4a90b410a3" version="1"> | Pickpocket Sneaking &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="h587b305dgaf69g4c84g90b2g92e0aafa5bfe" version="2">[GLO_CompanionSwap_AvatarName4_fc31b1ba-d511-0552-070f-b57b2b9e6bf7] can stay at camp.</content>
+	<content contentuid="h5923e094ge5b7g4edcgba6bgfa0c3ad35ec5" version="1">RECORD_ANTAGONIST tooltip</content>
+	<content contentuid="h5a1d4537gb30bg4ca6g8f8bga9e829cc6813" version="1">[GLO_TadpoleSharing_Generic2_74875fb0-a452-6999-3773-69bdff48fe5f]</content>
+	<content contentuid="h5a6f23a4gdf7ag4554g978dg8dfa0d1f9738" version="1">| UtilityAction Sneaking &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="h5af375aag0266g4a38gbfc7gf1a4ef5f132b" version="3">I don't know. Maybe you can tell me. ([CAMP_Courier_Dog_FetchedItemDescription_50004d01-651b-a7ea-308a-451a9571cb85])</content>
+	<content contentuid="h5c1b65edgccd5g4afdgb88eg91eb0dfc06b8" version="1">AiHint_Teleport tooltip</content>
+	<content contentuid="h5c9989degb460g4c0dg96eegce50d4a7f699" version="1"> | OpenLock Sneaking &lt;br&gt;NarrativeArch_Start v7 |</content>
+	<content contentuid="h5cf1f135gc3b8g4ad1g838eg3f1af192cdf8" version="1"> | OpenLock Normal &lt;br&gt;NarrativeArch_Start v5 |&lt;br&gt;</content>
+	<content contentuid="h5d18a2e2gf4c1g406cg9588gc98237d5ff47" version="1">GNOLL_FLESHGNAWER</content>
+	<content contentuid="h5d3cc8c7g5e19g4cafg89afga7d331c67280" version="1">[GLO_CompanionSwap_AvatarName2_1cbefe6a-48c2-e77d-4a66-ab7524b61dbe] can stay at camp.</content>
+	<content contentuid="h5d52c01cg3cddg4d41gba69g15465fe20cd3" version="2">I want you to watch over [CAMP_Jergal_PlayerToResurrect_3_56966d5e-534d-4930-264e-050a2345db3d].</content>
+	<content contentuid="h5e3450c7g56d8g4bf8gb333g7f3973a05a10" version="1">CombatVocals_Generic_Gith_Female_01</content>
+	<content contentuid="h5e6eef7bgd3d9g4546ga355g32ce0ff72e83" version="1">NO_LEVELTEMPLATE_TRANSFER</content>
+	<content contentuid="h5e717a82g915eg47aeg893eg07b0f8244ab6" version="4">StruggleAstarionRecruiting_Min0:36-1:23&lt;br&gt;var 1</content>
+	<content contentuid="h5eb621a2gfa88g4493gab30g0b8e5e13ab19" version="2">| HealTarget Normal &lt;br&gt;Relation_Romantic v4 |</content>
+	<content contentuid="h5f96650cg9dd5g4dc8gb119ge992a669b2d9" version="1"> | Attack Combat &lt;br&gt;NarrativeArch_Start v18 |</content>
+	<content contentuid="h5f9912eag3527g434ega02eg6b07ae6e9241" version="1"> | InteractWith Sneaking &lt;br&gt;NarrativeArch_Start v1 |&lt;br&gt;</content>
+	<content contentuid="h5ff40948g589ag4297ga116g30340aaec032" version="1">[GLO_CompanionSwap_AvatarName3_d8706512-5c01-67d4-db8b-6c383dc02331] can stay at camp.</content>
+	<content contentuid="h6132a606g7e19g46efgbc5dg15bd0e092513" version="1">Cough_Ill&lt;br&gt;Var 3</content>
+	<content contentuid="h61478490gae04g4cd6g914cg790b7ad26404" version="1">Gasp_Frightened&lt;br&gt;Var 2</content>
+	<content contentuid="h61bb8cafg1e95g4554gaa5agd596aecc9060" version="1">DGB_Bear Brow R</content>
+	<content contentuid="h61bc7ff8gc2c0g4156gaf29gc32b4ce4f1a7" version="1">[GLO_CompanionSwap_AvatarName2_1cbefe6a-48c2-e77d-4a66-ab7524b61dbe] can stay at camp.</content>
+	<content contentuid="h61c9747cg9ae3g49e5g92b2gc88dd9a82977" version="2">| HealTarget Normal &lt;br&gt;Relation_Neutral v3 |</content>
+	<content contentuid="h6221205bg80f5g4c28gaa70ga81f242ba2e5" version="1">CombatVocals_Generic_Gnome_Male_02</content>
+	<content contentuid="h62bf6cd2g41b5g4826g844dg0ec82a232ef5" version="1">| Combat &lt;br&gt;NarrativeArch_Start v12 |</content>
+	<content contentuid="h63345e32g6db4g4945gbaddg06a0680c6d6b" version="1">SpellVocals_Generic_Human_Female_02</content>
+	<content contentuid="h6354d479g6b0cg4441gb0dbgcdb5503b9140" version="1">CombatVocals_Generic_Tiefling_Female_01</content>
+	<content contentuid="h636f7999gb061g4ca5gaaa7g30cacffffb2f" version="1">VO_SFX: All surrounding Goblins menacingly cackle as the drunk goblin threatens the player </content>
+	<content contentuid="h63975b74g957eg49ceg836cg811aef1847e3" version="2">StruggleAstarionRecruiting_Min1:31_GnashedTeethReaction&lt;br&gt;var 2</content>
+	<content contentuid="h641e5dceg6554g4771ga07fg4859becc9599" version="1">VO_DO_NOT_RECORD</content>
+	<content contentuid="h649e4c20g37c5g48fagae03g1fea8e87c2f5" version="2">| HealTarget Normal &lt;br&gt;Relation_Negative v4 |</content>
+	<content contentuid="h655422f9g73d1g474bg9748g43367585db96" version="1">ACT1_GOB_WARPAINT</content>
+	<content contentuid="h65aae8c0gd1b9g445bgb1aag0b6fbf7d5659" version="1"> | PickupItem Normal &lt;br&gt;NarrativeArch_Start v8 |</content>
+	<content contentuid="h65ba510fg49e9g494fgaa04g4b28b4d8dfc7" version="1"> | OpenContainer Combat &lt;br&gt;NarrativeArch_Start v1 |&lt;br&gt;</content>
+	<content contentuid="h65efd7b6g7632g454eg8779g6ce6e5641ccc" version="2">[GLO_CompanionSwap_AvatarName2_1cbefe6a-48c2-e77d-4a66-ab7524b61dbe] can stay at camp.</content>
+	<content contentuid="h674668e0gb7c2g4777g966bgaddabfe3f812" version="2">| HealTarget Combat &lt;br&gt;Relation_Positive v6 |</content>
+	<content contentuid="h689d3d4egcdb4g4bc9gb0c2gb928e3364ba8" version="2">| HealTarget Normal &lt;br&gt;Relation_Romantic v6 |</content>
+	<content contentuid="h68c81fe3g206ag4471ga9dcg5065a0108e28" version="1">Weight_Huge</content>
+	<content contentuid="h69268682g18ddg43d8gbeb6g46fe886bd5d3" version="1">AI_PREFERRED_TARGET tooltip</content>
+	<content contentuid="h69962b3bgb408g4f0dg922ag905d5a66b6a4" version="1">[GLO_CompanionSwap_AvatarName3_d8706512-5c01-67d4-db8b-6c383dc02331] can stay at camp.</content>
+	<content contentuid="h69d2c19eg4e6cg4a00g92degcc200c787e49" version="1"> | InteractWith Sneaking &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="h6a1158feg6734g4d22gb84bg8b929c74ac47" version="1">AI_PREFERRED_TARGET</content>
+	<content contentuid="h6a8c2901gb38fg4a2dgb167g9902f9a02558" version="1"> | Pickpocket_Succeeded Sneaking &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="h6aa0dc50gd608g4e77g8307g7ca6b06193b3" version="1">| UtilityAction Combat &lt;br&gt;NarrativeArch_Start v3 |</content>
+	<content contentuid="h6afe726eg4166g47a2g8abbg93c346d16d84" version="1">You can cast &lt;LSTag Type="Spell" Tooltip="Shout_Speak_With_Animals"&gt;Speak With Animals&lt;/LSTag&gt; as a ritual.</content>
+	<content contentuid="h6b0cea4ag2188g492ega70cg8550f66be942" version="1"> | OpenLock Combat &lt;br&gt;NarrativeArch_Start v5 |&lt;br&gt;</content>
+	<content contentuid="h6b22027ag99c5g47abgb19cg7dd89c444f27" version="1">CombatVocals_Generic_Elf_Female_01</content>
+	<content contentuid="h6b949f4ag6b23g4245g89aag9f07a1e44872" version="2">Here. I hope you like it. ([CAMP_Courier_Dog_FetchedItemDescription_50004d01-651b-a7ea-308a-451a9571cb85])</content>
+	<content contentuid="h6bc13d0egfa31g4489gb81dgaa51c25cd8b8" version="1"> | OpenContainer Sneaking &lt;br&gt;NarrativeArch_Start v5 |&lt;br&gt;</content>
+	<content contentuid="h6be2b4c2gd9fcg4d2eg8521g2202ab614556" version="2">[GLO_CompanionSwap_AvatarName3_d8706512-5c01-67d4-db8b-6c383dc02331] can stay at camp.</content>
+	<content contentuid="h6c84eae3g66f9g4bb8gb0d6g2ba1bcb8408d" version="1">[GLO_CompanionSwap_AvatarName2_1cbefe6a-48c2-e77d-4a66-ab7524b61dbe] can stay at camp.</content>
+	<content contentuid="h6cc8fe8dg29bbg4085g8467gfba1452dcf9a" version="2">| HealTarget Sneaking &lt;br&gt;Relation_Negative v1 |</content>
+	<content contentuid="h6cd46f40g49ffg4fafg8032gff343df8e16d" version="1"> | InteractWith Combat &lt;br&gt;NarrativeArch_Start v7 |</content>
+	<content contentuid="h6d8addd6g8247g4f44g8866g85bdfcdd7095" version="1">[GLO_CompanionSwap_AvatarName1_938ab998-0908-f7de-0f9f-3d34dbf5808f] can stay at camp.</content>
+	<content contentuid="h6d9fc87eg5a96g4000g9999g347d20bf5124" version="2">[GLO_CompanionSwap_AvatarName3_d8706512-5c01-67d4-db8b-6c383dc02331] can stay at camp.</content>
+	<content contentuid="h6dee43c3g82d3g4f77g868cgea85ea061378" version="1">VO_SFX description: Heavy lifting efforts to try to keep gate open (along with Aradin &amp; Barth). It's too heavy so the gate slams shut</content>
+	<content contentuid="h6e02c3f1g9b93g46cfga2d7g497775d1ef3a" version="1"> | InteractWith Normal &lt;br&gt;NarrativeArch_Start v1 |</content>
+	<content contentuid="h6e57524dg70afg46fag8040g7f8e91963ccf" version="1">HornTipColor_Default</content>
+	<content contentuid="h6eb136cfge157g4828gb5fbg5dee499abbe0" version="2">| HealTarget Sneaking &lt;br&gt;Relation_Positive v1 |</content>
+	<content contentuid="h6ebfdafbgcc1cg406aga8c7g0a9830788629" version="1">DO_NOT_TRANSLATE tooltip</content>
+	<content contentuid="h6f199c45gfc17g4b46g944fge43e82e9f233" version="1">CombatVocals_Generic_HumanChild_Female_03</content>
+	<content contentuid="h6f934da0g504eg429agaf1cg373c9ddd2d09" version="1"> | Pickpocket Combat &lt;br&gt;NarrativeArch_Start v3 |</content>
+	<content contentuid="h6fbec076gf533g47b4gb4dcg7747e7c2e0ab" version="1"> | OpenLock Combat &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="h6fd667aeg6b01g4b41g9857gd2fb797b5427" version="1">AiHint_Unique tooltip</content>
+	<content contentuid="h707e7145g7d18g4776g9362g02374b1a63c5" version="1">VO_SFX: All surrounding Goblins cackle as the drunk goblin point out the player kissed his feet</content>
+	<content contentuid="h719b0505gf96ag4722gbe4age481c5b78322" version="1">| UtilityAction Sneaking &lt;br&gt;NarrativeArch_Start v11|</content>
+	<content contentuid="h71f9924bg3ab7g4b36g92bfg0bbc3ce8fe81" version="1">AiHint_Teleport</content>
+	<content contentuid="h7240fa15g9fd3g4be6g9253gd3ba3ef15db1" version="1"> | Dip Combat &lt;br&gt;NarrativeArch_Start v3 |</content>
+	<content contentuid="h72b05205geb2eg497ag9956g8ad042848258" version="1">Can use &lt;LSTag Type="Spell" Tooltip="Target_BardicInspiration"&gt;Bardic Inspiration&lt;/LSTag&gt;.</content>
+	<content contentuid="h734a44ceg76abg4fe3gbe2cgf72eed73ca77" version="1"> | OpenContainer Combat &lt;br&gt;NarrativeArch_Start v7 |</content>
+	<content contentuid="h739ecd4dg0b68g4555ga037g60b7d7fb37c2" version="1"> | Pickpocket Sneaking &lt;br&gt;NarrativeArch_Start v6 |</content>
+	<content contentuid="h73d284a7gc575g421agbd4fg9f3f30e60cdb" version="2">| HealTarget Combat &lt;br&gt;Relation_Positive v2 |</content>
+	<content contentuid="h73eb9c13g54dfg4cd8g9b8ag0064433730f1" version="1"> | Pickpocket Combat &lt;br&gt;NarrativeArch_Start v1 |&lt;br&gt;</content>
+	<content contentuid="h74a99f57g0c20g4ad8g8172gc5a3e1cd72db" version="1">| UtilityAction Combat &lt;br&gt;NarrativeArch_Start v10|</content>
+	<content contentuid="h752aadc8g8d58g4fa8g847bg33e9591d9cf8" version="1">VO_POSTPROCESS tooltip</content>
+	<content contentuid="h7595daaag930dg4552gb73fg56ff11c5c7dc" version="1">| Attack Sneaking &lt;br&gt;NarrativeArch_Start v6 |</content>
+	<content contentuid="h75ac3596g5c28g4944g9568g6e487ff433e1" version="1">AiHint_Summoner tooltip</content>
+	<content contentuid="h75d9d3e6ge718g4e92g9947gfa99a5ab4c71" version="2">| HealTarget Combat &lt;br&gt;Relation_Romantic v6 |</content>
+	<content contentuid="h763b4ebcg6dc2g4f63g8f47gb301067d5df2" version="1"> | Pickpocket_Succeeded Sneaking &lt;br&gt;NarrativeArch_Start v8 |&lt;br&gt;</content>
+	<content contentuid="h7644a684g9e91g4147gb804gc374662624ea" version="1">| HealTarget Sneaking &lt;br&gt;Relation_Romantic v5 |&lt;br&gt;</content>
+	<content contentuid="h76890c57g0ea2g4472ga253g673055841ace" version="1">[GLO_CompanionSwap_AvatarName4_fc31b1ba-d511-0552-070f-b57b2b9e6bf7] can stay at camp.</content>
+	<content contentuid="h76cbf8d9g9ef1g4155g9ac0gc966a4fa42a2" version="1">[GLO_CompanionSwap_AvatarName4_fc31b1ba-d511-0552-070f-b57b2b9e6bf7] can stay at camp.</content>
+	<content contentuid="h77505ec1gb17fg4b93g9580g19f64b7899d4" version="2">| HealTarget Sneaking &lt;br&gt;Relation_Romantic v1 |</content>
+	<content contentuid="h7797af83g21b6g4aa0g9be9g863502d717ff" version="1">CombatVocals_Generic_Dwarf_Female_01</content>
+	<content contentuid="h782f57c9g7660g45a3ga49ag3600b8c4a9b3" version="1">[GLO_CompanionSwap_AvatarName4_fc31b1ba-d511-0552-070f-b57b2b9e6bf7] can stay at camp.</content>
+	<content contentuid="h785ac650g096ag4805gbe56gc572286e3f86" version="1"> | Pickpocket_Succeeded Sneaking &lt;br&gt;NarrativeArch_Start v12 |&lt;br&gt;</content>
+	<content contentuid="h7946d533g6fa3g419bgb616g6e358776a979" version="1"> | Attack Combat &lt;br&gt;NarrativeArch_Start v16 |</content>
+	<content contentuid="h7979da56g8c4cg42d1g9b17g301c8ee01b0c" version="1">CombatVocals_Generic_Harpy_Female_01</content>
+	<content contentuid="h79bd7608g6c0eg4f9bg8cc2g94b442fe4014" version="1">| Attack Sneaking &lt;br&gt;NarrativeArch_Start v1 |&lt;br&gt;</content>
+	<content contentuid="h7a756254g4d41g4db9g9012gf8ab042be3e6" version="2">I want you to watch over [CAMP_Jergal_PlayerToResurrect_2_b1161c91-1bde-6a1c-297e-ee0bfc1a57c4].</content>
+	<content contentuid="h7b73515eg02b2g482fgb0b2gfb18b4eb066d" version="1"> | Attack Combat &lt;br&gt;NarrativeArch_Start v13 |</content>
+	<content contentuid="h7bd8f481g3509g410eg87c8ge6e476d42747" version="1">| Sneaking &lt;br&gt;NarrativeArch_Start v3 |&lt;br&gt;</content>
+	<content contentuid="h7beacb7fgf986g4729ga5f2g8e25bb03d4c6" version="1">| Sneaking &lt;br&gt;NarrativeArch_Start v11 |</content>
+	<content contentuid="h7c9f61a2gc5b5g44e2ga852gc8c25ab14737" version="1"> | Attack Normal &lt;br&gt;NarrativeArch_Start v8 |</content>
+	<content contentuid="h7cfb0f4bg56f6g4fd4gb935gef001afa1251" version="1"> | Pickpocket Sneaking &lt;br&gt;NarrativeArch_Start v8 |</content>
+	<content contentuid="h7d9dc0feg0709g49b5g978eg5a4f07851833" version="1"> | Pickpocket Sneaking &lt;br&gt;NarrativeArch_Start v5 |&lt;br&gt;</content>
+	<content contentuid="h7decc186g535fg4809gb4e0g79f3c3fec7b3" version="1"> | Pickpocket_Succeeded Sneaking &lt;br&gt;NarrativeArch_Start v6 |&lt;br&gt;</content>
+	<content contentuid="h7f7b2271g86ddg4597g9181g96a7073a4869" version="1"> | InteractWith Sneaking &lt;br&gt;NarrativeArch_Start v3 |</content>
+	<content contentuid="h80ef10c2gb9d6g4669ga5f8gd67bb6cfd30b" version="1"> | OpenContainer Normal &lt;br&gt;NarrativeArch_Start v1 |</content>
+	<content contentuid="h80f0a85bg2d40g4e1fg9f5bg65c60c666ea5" version="1"> | Attack Normal &lt;br&gt;NarrativeArch_Start v5 |</content>
+	<content contentuid="h80f614deg5f92g40c5gbe49gfc0b085ba1a3" version="1">| UtilityAction Combat &lt;br&gt;NarrativeArch_Start v4 |&lt;br&gt;</content>
+	<content contentuid="h8147c51dg16a3g45a4gaff3gbf0310d93579" version="1">| Attack Sneaking &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="h814acaacgdda4g4d7fga4d3g9a2a04be023a" version="1">| HealTarget Sneaking &lt;br&gt;Relation_Neutral v6 |</content>
+	<content contentuid="h8154d300g77b1g4c6eg8232g9711255279e3" version="1"> | Pickpocket_Succeeded Sneaking &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="h822480dbg6a1ag411ega99dga90a9b051aa1" version="1"> | Pickpocket Combat &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="h824a93cdg6cb2g4e41g8fc4g35e03fabcfa9" version="1">| Attack Sneaking &lt;br&gt;NarrativeArch_Start v8 |&lt;br&gt;</content>
+	<content contentuid="h82d41284g4437g4202g859cgb7470b39bc22" version="3">If you reach 0 hit points, you fall Unconscious and must make Death Saving Throws. On 3 successes, you stop bleeding out and become Stable. On 3 failures, you die.
+
+If you regain any hit points, the condition is removed. If an ally &lt;LSTag Type="Spell" Tooltip="Target_Help"&gt;Helps&lt;/LSTag&gt; you, you regain 1 hit point.</content>
+	<content contentuid="h838b4e85gb3e0g4183g8b52g752876534d22" version="1">| Sneaking &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="h83c4d93agfaecg47a5gaf2dg8651b3c8eaac" version="1"> | ItemPickup Sneaking &lt;br&gt;NarrativeArch_Start v5 |&lt;br&gt;</content>
+	<content contentuid="h83e10c48g5791g4d22gb1f0g00833befee65" version="1">| Attack Sneaking &lt;br&gt;NarrativeArch_Start v5 |</content>
+	<content contentuid="h8418fe67g29e9g47f0gad49gdf16ad660fa2" version="1">Breath_Fast&lt;br&gt;Var 3</content>
+	<content contentuid="h84347c03g9065g41e5gb0c0g8e6f82017b6b" version="2">StruggleAstarionRecruiting_lp10s&lt;br&gt;var 3</content>
+	<content contentuid="h84564579g3973g4e65g9b4cgbf828cf6c86f" version="2">I'd like you to return [CAMP_Jergal_DismissedAvatarToResurrect_2_ab7994b8-7f12-6bf1-0c9b-d8ed4d3432ac].</content>
+	<content contentuid="h845ad4aege502g48bbg9706gec1e9ea38c29" version="1">[GLO_CompanionSwap_AvatarName1_938ab998-0908-f7de-0f9f-3d34dbf5808f] can stay at camp.</content>
+	<content contentuid="h84943902g3053g4595gaaf7g391ddf822478" version="7">&lt;i&gt;Hand over the gold.&lt;/i&gt; ([LOW_Elfsong_RentFullPrice_522a449e-a7f5-0d9b-c835-fc5a24d49d65])</content>
+	<content contentuid="h84d3aeadg4f0fg468dg8bedg2b033707ffe3" version="1"> | InteractWith Normal &lt;br&gt;NarrativeArch_Start v8 |</content>
+	<content contentuid="h85f65ef3gdd18g4a08gb358g65ee3670c786" version="1">Weight_Tiny</content>
+	<content contentuid="h866f4050g1bd6g4d19gbfddg2083934dd8af" version="1">[GLO_CompanionSwap_AvatarName3_d8706512-5c01-67d4-db8b-6c383dc02331] can stay at camp.</content>
+	<content contentuid="h867e4c2bg1510g4797g830dg9ecc6ff71c8d" version="2">| HealTarget Normal &lt;br&gt;Relation_Positive v4 |</content>
+	<content contentuid="h86e035f9g5688g48fagb38bgd700e7187b57" version="1">SpellVocals_Generic_Human_Male_02</content>
+	<content contentuid="h87436c2ag1365g49c0gb0d5g2c7ceafc677f" version="1">[GLO_CompanionSwap_AvatarName2_1cbefe6a-48c2-e77d-4a66-ab7524b61dbe] can stay at camp.</content>
+	<content contentuid="h87712861gcfdcg46dag845fg8d388f7b86c6" version="1"> | PickupItem Normal &lt;br&gt;NarrativeArch_Start v5 |&lt;br&gt;</content>
+	<content contentuid="h87d83afagee03g4a21gadfeg10205411e5c5" version="2">FOR_GOBLINTRIBE</content>
+	<content contentuid="h885674d8g69c4g446bg86d0ga187486b63f3" version="1">&lt;LSTag Type="Spell" Tooltip="Projectile_Jump"&gt;Jump&lt;/LSTag&gt; distance is tripled. </content>
+	<content contentuid="h88d860c9gc476g46d4g96ffge50196923f8e" version="2">| HealTarget Combat &lt;br&gt;Relation_Romantic v2 |</content>
+	<content contentuid="h890f01bcgbb96g49f8gba94g4c6847f2a024" version="1">| UtilityAction Normal &lt;br&gt;NarrativeArch_Start v9 |</content>
+	<content contentuid="h8928c498g879bg477dg9108g2cbf1d62e1ff" version="1">COMBAT_GOBLINKING</content>
+	<content contentuid="h894a430egd04fg4587gab13gb437f04acfd9" version="1">Breath_Recovery&lt;br&gt;Var 3</content>
+	<content contentuid="h897e24e6gd7ffg4e30g80a3gc1a273346d3c" version="2">| HealTarget Sneaking &lt;br&gt;Relation_Neutral v2 |</content>
+	<content contentuid="h8a9a850ag446eg4c2eg8162g7a7b720d61be" version="1"> | Attack Combat &lt;br&gt;NarrativeArch_Start v10 |</content>
+	<content contentuid="h8a9d03e8g22a8g4860gb410gb331a7252e02" version="1"> | ItemPickup Combat &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="h8ab4f04ag99b9g444cg8ec6gc2ca2ff64c3c" version="1"> | OpenContainer Sneaking &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="h8b1163b2gbe17g4383g9c1cgc40c8f7448d1" version="1"> | Attack Combat &lt;br&gt;NarrativeArch_Start v3 |</content>
+	<content contentuid="h8b161d4bg3b36g44c9g8efbg32943d846fa8" version="1">[GLO_CompanionSwap_AvatarName3_d8706512-5c01-67d4-db8b-6c383dc02331] can stay at camp.</content>
+	<content contentuid="h8b3996f0g24b7g4064g827dgcb2c24f458e2" version="1"> | OpenContainer Sneaking &lt;br&gt;NarrativeArch_Start v1 |&lt;br&gt;</content>
+	<content contentuid="h8b8eb265gff0cg4a82g8f7fgd143efd919a4" version="1"> | OpenContainer Sneaking &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="h8bf9a89ag3f82g4caaga84fg6800b0270fed" version="2">| HealTarget Sneaking &lt;br&gt;Relation_Negative v3 |</content>
+	<content contentuid="h8c42be9bgcefeg45f1g8152g40b2b7cd1d7d" version="1">ENFORCE_ANALYSIS</content>
+	<content contentuid="h8e126624g1ae5g4f77g80fegca5a0854e102" version="1"> | Pickpocket_Succeeded Sneaking &lt;br&gt;NarrativeArch_Start v5 |</content>
+	<content contentuid="h8e5d8ae3g9fe6g4cc5g8187g480065f97859" version="1">[GLO_CompanionSwap_AvatarName3_d8706512-5c01-67d4-db8b-6c383dc02331] can stay at camp.</content>
+	<content contentuid="h8e62a4bbgdb20g4abcg8867gd12fa58caf83" version="2">| HealTarget Combat &lt;br&gt;Relation_Neutral v3 |</content>
+	<content contentuid="h8e711ad0g3f0fg42cag84d0g6acd0ce6afbb" version="1">Your allies have pledged to help you. You can summon them during combat with the &lt;LSTag Type="Image" Info="TutorialCallForthAllies_c"/&gt; button at the bottom of your screen.</content>
+	<content contentuid="h8ebac9a9g29bdg45c1g83d9gcd9529fb6cd6" version="1"> | PickupItem Normal &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="h8ecdcde2gaf82g434dg95e7gb0d3767c0d3e" version="1">| HealTarget Sneaking &lt;br&gt;Relation_Negative v5 |&lt;br&gt;</content>
+	<content contentuid="h8f27884age0c6g4307ga83dg44dc93463339" version="1">Breath_Recovery</content>
+	<content contentuid="h8f5dce95g0a4bg4c5dg935ag82a61206e2b0" version="1"> | ItemPickup Sneaking &lt;br&gt;NarrativeArch_Start v1 |&lt;br&gt;</content>
+	<content contentuid="h8f654f6fg22b7g4fe4gb976gd53e04b68378" version="1">| HealTarget Sneaking &lt;br&gt;Relation_Positive v5 |</content>
+	<content contentuid="h8f7a3acfg71aag4a09gb541g5e7530487b55" version="1"> | Pickpocket_Succeeded Sneaking &lt;br&gt;NarrativeArch_Start v1 |</content>
+	<content contentuid="h906e833cgc40ag482ag941dgc54abef6f07a" version="1"> | Dip Combat &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="h90fcabaag913dg4081gbe81g5e4a01a64b73" version="1">| UtilityAction Combat &lt;br&gt;NarrativeArch_Start v8 |&lt;br&gt;</content>
+	<content contentuid="h919a335fg257cg4d6ag9476gade65fea925a" version="1"> | InteractWith Sneaking &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="h9285082dgffeeg4b66g8b36g4a4ff12cb371" version="1"> | Attack Normal &lt;br&gt;NarrativeArch_Start v18 |</content>
+	<content contentuid="h94ea125ag37cdg423cg9931gde12c88b1d38" version="1">Weight_Small</content>
+	<content contentuid="h94f2a24bg5aa2g4c14ga6bdg5e5b18abd27e" version="1">CombatVocals_Generic_Gnome_Male_01</content>
+	<content contentuid="h952d2dd1g44a6g4038gbc51g7b7a60493238" version="1">[GLO_CompanionSwap_AvatarName4_fc31b1ba-d511-0552-070f-b57b2b9e6bf7] can stay at camp.</content>
+	<content contentuid="h954c009dgbcb0g40abg8665g7835f8de60fa" version="2">| HealTarget Combat &lt;br&gt;Relation_Romantic v3 |</content>
+	<content contentuid="h9600f6a8g35acg4ff5g8999g61f8b60323c4" version="1">NO_RECORD tooltip</content>
+	<content contentuid="h967a5456g5c22g4a0dg9ea0g35b3b92e583e" version="1">| UtilityAction Sneaking &lt;br&gt;NarrativeArch_Start v10|</content>
+	<content contentuid="h96f8c5d7gc8fag48c0g8ce4g7a165f632221" version="1"> | InteractWith Combat &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="h9713ec42gb878g472eg887dgdcd5bb379954" version="1"> | InteractWith Sneaking &lt;br&gt;NarrativeArch_Start v8|&lt;br&gt;</content>
+	<content contentuid="h977f0237gc738g4648g809ege8df0f1790ba" version="1">[GLO_CompanionSwap_AvatarName3_d8706512-5c01-67d4-db8b-6c383dc02331] can stay at camp.</content>
+	<content contentuid="h97a70445g0b11g4e46g9f6egaceb631ae990" version="1"> |ItemPickup Combat &lt;br&gt;NarrativeArch_Start v7 |</content>
+	<content contentuid="h97cd681bg7233g4a47gb550g872ebe0ec690" version="1">NO_PATHFINDING_PORTAL tooltip</content>
+	<content contentuid="h97fcbb49gf49cg4f36g8987g8d6dd1b0b813" version="1"> | OpenLock Normal &lt;br&gt;NarrativeArch_Start v7 |</content>
+	<content contentuid="h9803d8a6gab20g47e3g868cga763e58373e7" version="1">ACT1_MOO_DROW_GUARD</content>
+	<content contentuid="h988729fcg2641g4a2bg9eddg0319960a3524" version="1">Cough_Ill&lt;br&gt;Var 4</content>
+	<content contentuid="h98b983afgb181g4dffg8a5dg4478ca52b112" version="1"> | Pickpocket_Succeeded Sneaking &lt;br&gt;NarrativeArch_Start v10 |&lt;br&gt;</content>
+	<content contentuid="h996406b8g2ea4g4552g97c0g530a74852582" version="1">[GLO_CompanionSwap_AvatarName4_fc31b1ba-d511-0552-070f-b57b2b9e6bf7] can stay at camp.</content>
+	<content contentuid="h99aae5d6ge5a6g4d44ga2ecg09bd7b5b65be" version="1">ACT1_GOB_PENITENT</content>
+	<content contentuid="h9aef4b6fgf897g452fga76cga93cf481ae7c" version="1"> | OpenContainer Combat &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="h9aff99begcaf8g4ee1gbb2egb566ee4d53a4" version="1">| Combat &lt;br&gt;NarrativeArch_Start v1 |</content>
+	<content contentuid="h9b139e58g9d85g44ddg99deg98d9942b4b3f" version="1">AiHint_Unique</content>
+	<content contentuid="h9b7995f8g807fg470ega42dga74ef77f37a8" version="1">CombatVocals_Generic_Gith_Male_01</content>
+	<content contentuid="h9bda9a6bg12e9g4030g889cg1fcae1663daa" version="1">| Sneaking &lt;br&gt;NarrativeArch_Start v5 |</content>
+	<content contentuid="h9cc9945bga122g492bgaeebg0c045ee6c7bb" version="2">| HealTarget Normal &lt;br&gt;Relation_Positive v5 |</content>
+	<content contentuid="h9ceff4e4g5e9cg4138gb452gb11c39d619a8" version="1">CombatVocals_Generic_Tiefling_Female_03</content>
+	<content contentuid="h9d7fbd8ag0619g4900gb14ege627071d2220" version="1"> | OpenContainer Normal &lt;br&gt;NarrativeArch_Start v6 |</content>
+	<content contentuid="h9db8e3c0g0727g46c9gbd44g2297c42d2e16" version="1">[GLO_CompanionSwap_AvatarName2_1cbefe6a-48c2-e77d-4a66-ab7524b61dbe] can stay at camp.</content>
+	<content contentuid="h9dd2a994g1e2cg4662gb428g0a651690c9e7" version="1">Cough_Ill&lt;br&gt;Var 2</content>
+	<content contentuid="h9e204ee0ge6abg473ag9110g32d1336594c7" version="2">| HealTarget Combat &lt;br&gt;Relation_Romantic v1 |</content>
+	<content contentuid="h9e2745f0gfd88g4e7dg83c3g548e15242cee" version="1">CombatVocals_Generic_Gnome_Male_03</content>
+	<content contentuid="h9e8ef43dgfe8eg43f9ga992g5943f55c982b" version="1"> | ItemPickup Combat &lt;br&gt;NarrativeArch_Start v6 |</content>
+	<content contentuid="h9f3e31d9gb1edg416fgb3a2g03d3539e323b" version="2">[GLO_CompanionSwap_AvatarName3_d8706512-5c01-67d4-db8b-6c383dc02331] can stay at camp.</content>
+	<content contentuid="h9f530a85gdbf1g4635g8106gbedc98423f20" version="1">ACT1_DEN_GREETING</content>
+	<content contentuid="h9f7fe190g2937g4e21ga7bbg529e603b88b0" version="1"> | OpenContainer Combat &lt;br&gt;NarrativeArch_Start v5 |&lt;br&gt;</content>
+	<content contentuid="h9f9d6298gfca2g47f8ga413g651643738c3c" version="1"> | Dip Normal &lt;br&gt;NarrativeArch_Start v6 |</content>
+	<content contentuid="h9fc5174eg3c3fg446fgb55cg1f593f57843b" version="1">[GLO_CompanionSwap_AvatarName4_fc31b1ba-d511-0552-070f-b57b2b9e6bf7] can stay at camp.</content>
+	<content contentuid="ha0253e99gf9ecg439agb0c7g751e5755db05" version="2">| HealTarget Normal &lt;br&gt;Relation_Negative v5 |</content>
+	<content contentuid="ha08de45ag48f7g47f8g995cg825164ca2a0a" version="7">If I must. ([LOW_Elfsong_RentOverpriced_c0839c4d-1481-70c1-e5c0-5a0aeaef4fb5])</content>
+	<content contentuid="ha273540eg82a7g4357g82a7gf85333bbcf44" version="1">ACT1_DEN_IDOLTHEFT</content>
+	<content contentuid="ha294d799g241eg4c10ga1dbgf3f6ef467c8f" version="1"> | Pickpocket_Succeeded Sneaking &lt;br&gt;NarrativeArch_Start v6 |&lt;br&gt;</content>
+	<content contentuid="ha2af951cg7e96g417ega819g9c00de1bd285" version="1">Gasp_Frightened&lt;br&gt;Var 3</content>
+	<content contentuid="ha4603ba7g6591g4a2egad8dge0cb89af51bf" version="1">RECORD_QUEST</content>
+	<content contentuid="ha4e3afeag9380g452fg9150g41b2a76bdfa5" version="1">CombatVocals_Generic_Goblin_Female_03</content>
+	<content contentuid="ha4fb9b86g855fg48a7g971dg02210cc9b546" version="1">| UtilityAction Combat &lt;br&gt;NarrativeArch_Start v7 |&lt;br&gt;</content>
+	<content contentuid="ha59e09c2g7fbbg4e25gbbabg4508139a9f60" version="1">CombatVocals_Generic_Tiefling_Male_02</content>
+	<content contentuid="ha5a2e609gd44cg477bg95b7gab27dfc188d9" version="1">RECORD_EXTRA tooltip</content>
+	<content contentuid="ha6ec5f3bgfebeg43cdgb029g862cb80e4ff9" version="1">| Sneaking &lt;br&gt;NarrativeArch_Start v1 |</content>
+	<content contentuid="ha7c4c4e9g5189g4f71g88d1ge2ddea03bdba" version="1">VO_SFX : Downed v2</content>
+	<content contentuid="ha7dbc7a0gbcc4g4215g8728gbad4bf6f2ec3" version="2">| HealTarget Sneaking &lt;br&gt;Relation_Neutral v1 |</content>
+	<content contentuid="ha880bb6egc2acg4fe8g9876g54d4e6cea9d8" version="2">| HealTarget Combat &lt;br&gt;Relation_Positive v5 |</content>
+	<content contentuid="ha8d6985bgd270g40a1gbd7bg208324ceec08" version="1">SpellVocals_Generic_Human_Female_01</content>
+	<content contentuid="ha8e77a67g38dcg467cg8f96gd396fbaa0e80" version="1"> | Pickpocket Combat &lt;br&gt;NarrativeArch_Start v5 |&lt;br&gt;</content>
+	<content contentuid="ha9ade94agb2a5g41e1ga498g91459c516706" version="1">CombatVocals_Generic_Human_Male_01</content>
+	<content contentuid="ha9c5245bg6b6dg4137gbd3bgd66f1e2983c3" version="1">You deal [1] when you &lt;LSTag Type="Spell" Tooltip="Target_ShieldShove"&gt;Shove&lt;/LSTag&gt; a creature.</content>
+	<content contentuid="ha9d9c155ga06cg459bg9bf3gda48c4d2710b" version="1">Breath_Fast&lt;br&gt;Var 2</content>
+	<content contentuid="haa0813dfgd384g4284gb6eeg4a306d81ce51" version="1">You want [LOW_Elfsong_RentFullPrice_522a449e-a7f5-0d9b-c835-fc5a24d49d65] gold to sleep next to a murder scene? &lt;i&gt;Really?&lt;/i&gt;</content>
+	<content contentuid="hab000c03g191cg4e75ga650g184db21d40f5" version="1"> | Dip Combat &lt;br&gt;NarrativeArch_Start v1 |&lt;br&gt;</content>
+	<content contentuid="hac65e78bg682eg4e95gacb2g49c5f4e93f93" version="1">| Sneaking &lt;br&gt;NarrativeArch_Start v10 |</content>
+	<content contentuid="had0e6b17g6014g4f0dg97eagf06c5c34cae8" version="1">CombatVocals_Generic_Elf_Male_03</content>
+	<content contentuid="had0f06a9g5f9bg46a0g9147ga95bdefaaa8b" version="1">VO_DO_NOT_RECORD tooltip</content>
+	<content contentuid="had79ff66ga82ag4661g9800gb5a9c55b8358" version="2">[GLO_CompanionSwap_AvatarName2_1cbefe6a-48c2-e77d-4a66-ab7524b61dbe] can stay at camp.</content>
+	<content contentuid="hae8cee18gfafdg498cgad4bg4f776ce4feb2" version="1">| Sneaking &lt;br&gt;NarrativeArch_Start v7 |</content>
+	<content contentuid="hae96c6bcga419g4efcg9d73ge99456bda489" version="1">Laughter_Happy_Short</content>
+	<content contentuid="haecd5954g775cg495cgb0b1gdf122eac8d84" version="1">VO_SFX : Spit</content>
+	<content contentuid="haed481aag63d6g45a5ga23eg6de9da390fad" version="1">BLOCK_SPEAK_WITH_DEAD</content>
+	<content contentuid="haeef5e8cg6bcbg4029g8c9cg3b57b2e886e9" version="1"> | Attack Combat &lt;br&gt;NarrativeArch_Start v9 |</content>
+	<content contentuid="haf0551d0g5267g4c63gbe4bgc6a0f4ce29a2" version="1">RECORD_EXTRA</content>
+	<content contentuid="haf271af6ge1e6g4e55gaf45gdb956ed664ee" version="1"> | InteractWith Combat &lt;br&gt;NarrativeArch_Start v5 |&lt;br&gt;</content>
+	<content contentuid="haf27852fgc5c0g41abg8674g2ee1007da797" version="4">&lt;LSTag Type="Status" Tootip="LOW_RAPHAEL_CHARMED"&gt;Beguile&lt;/LSTag&gt; your attacker and its nearby allies, possibly preventing them from attacking you again. </content>
+	<content contentuid="hafa5344ag4f47g4581gb808g5fe1e42ec521" version="2">Act3_Voss</content>
+	<content contentuid="hb03ce0a4g8ae5g414ag9416g7f2cb148ec86" version="1"> | Dip Sneaking &lt;br&gt;NarrativeArch_Start v5 |&lt;br&gt;</content>
+	<content contentuid="hb0ba90cag2ab1g4fadgb136gff680a4e7e6c" version="1"> | Pickpocket Combat &lt;br&gt;NarrativeArch_Start v6 |</content>
+	<content contentuid="hb1bff828g1fd6g4b0eg8932gf7d5f262758b" version="2">| HealTarget Combat &lt;br&gt;Relation_Neutral v5 |</content>
+	<content contentuid="hb1c3c6b9gc31ag4eecg915cg5acd71f361ae" version="1">VO_SFX : Downed</content>
+	<content contentuid="hb1c88fafg06efg4d76g8aefgb94f4b51e149" version="1"> | OpenContainer Sneaking &lt;br&gt;NarrativeArch_Start v7|</content>
+	<content contentuid="hb275215egd079g4146g85bcgeac8728f3b1a" version="1">VO_SFX : The goblin bends over and kisses the player's foot</content>
+	<content contentuid="hb310d072g8b95g43f3gae0ag6f0d1b269374" version="1">| Attack Sneaking &lt;br&gt;NarrativeArch_Start v9 |</content>
+	<content contentuid="hb319c02cgf8cfg4f68g906fg8627d57132ab" version="2">| HealTarget Sneaking &lt;br&gt;Relation_Romantic v3 |</content>
+	<content contentuid="hb3778e7eg7875g4985g9203gf3dedcc709ef" version="1">[GLO_CompanionSwap_AvatarName1_938ab998-0908-f7de-0f9f-3d34dbf5808f] can stay at camp.</content>
+	<content contentuid="hb3a07267gf057g4fddg87f4g43cd1f79d864" version="1">SpellVocals_Generic_Human_Male_01</content>
+	<content contentuid="hb402b731g814fg4112g8b31gfc289e15f5c0" version="1"> | ItemPickup Sneaking &lt;br&gt;NarrativeArch_Start v8|&lt;br&gt;</content>
+	<content contentuid="hb42c8cacg352ag4405g9388g1f70dab6f25f" version="1">Effort_Mouth_Closed&lt;br&gt;Var 2</content>
+	<content contentuid="hb4576955gdc68g4057ga01eg3496fd860a5f" version="1">| UtilityAction Normal &lt;br&gt;NarrativeArch_Start v7 |</content>
+	<content contentuid="hb45c96aeg2e76g4b27g87c8g47010848587e" version="1">RECORD_PROTAGONIST</content>
+	<content contentuid="hb5602c97g7944g4e8agb394gef3c04bf43db" version="1">[GLO_CompanionSwap_AvatarName1_938ab998-0908-f7de-0f9f-3d34dbf5808f] can stay at camp.</content>
+	<content contentuid="hb58305d1g0b11g40b9g8e6eg151aa4b13b89" version="1"> | InteractWith Sneaking &lt;br&gt;NarrativeArch_Start v5 |&lt;br&gt;</content>
+	<content contentuid="hb58da023g3779g4ea7g87b9gb57af92181cb" version="1"> | OpenContainer Normal &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="hb5b28ca2g1dd0g4db2gaac1geb88d44e9582" version="1">SFX_VO: I took a deep breath - and ROARED.*</content>
+	<content contentuid="hb648eab3g98eeg43ecg9f42g9ab3920a8598" version="1">Laughter_Mocking_Medium&lt;br&gt;Var 3</content>
+	<content contentuid="hb69ef077ge900g4c8ag926egd85c0abc56db" version="1">[GLO_CompanionSwap_AvatarName1_938ab998-0908-f7de-0f9f-3d34dbf5808f] can stay at camp.</content>
+	<content contentuid="hb6f43aadgd242g4ea0g990bge34ef2a95bb3" version="1">HornColor_Default</content>
+	<content contentuid="hb783627fg34cag4a23g8073gd9f6dc7577f1" version="1">[GLO_CompanionSwap_AvatarName3_d8706512-5c01-67d4-db8b-6c383dc02331] can stay at camp.</content>
+	<content contentuid="hb7b56e48g0b37g4108ga9deg62c9c9ac7b23" version="1">[GLO_CompanionSwap_AvatarName1_938ab998-0908-f7de-0f9f-3d34dbf5808f] can stay at camp.</content>
+	<content contentuid="hb9650f91gfadfg4b4egb553g2c0a5f25db42" version="1"> | Pickpocket Sneaking &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="hb974bab8g1916g4b00g93abg327aba3a1a7d" version="1">ZOM_OGRE_F</content>
+	<content contentuid="hb97a5becg7d0cg42abgbb50g1de5a8e95c8e" version="1"> | Attack Normal &lt;br&gt;NarrativeArch_Start v12 |</content>
+	<content contentuid="hb9930966g00dcg45eeg820cg38a0367c9747" version="2">| HealTarget Normal &lt;br&gt;Relation_Romantic v2 |</content>
+	<content contentuid="hba5dccfdg3a83g4d52g9f7fga7a881bff04c" version="1">CombatVocals_Generic_Gnome_Female_03</content>
+	<content contentuid="hbaeffdccg1624g450fgbe6bgbcf66b552dd2" version="1">LOW_IronThrone_PrisonersSwarmEscapeTarget_OuterDoor</content>
+	<content contentuid="hbc7a8e75g2ee5g4c51gadf8g0393b42bc940" version="1">| UtilityAction Normal &lt;br&gt;NarrativeArch_Start v6 |</content>
+	<content contentuid="hbc9600b4gfa49g4031ga2c9gf628561ddad6" version="1"> | OpenLock Normal &lt;br&gt;NarrativeArch_Start v6 |</content>
+	<content contentuid="hbd43528cgc332g4558gbda8gbe8f65b3c557" version="1">| Combat &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="hbe82561bg4d8cg4739gbcc4g686db020b5f2" version="2">| HealTarget Normal &lt;br&gt;Relation_Positive v6 |</content>
+	<content contentuid="hc06ef6dagbd19g4b83gb0a9gfaaae2bf2b42" version="1">AiHint_Mage tooltip</content>
+	<content contentuid="hc098a4e8gbf6cg45f6gb74agcccc997a4f46" version="1"> | Attack Normal &lt;br&gt;NarrativeArch_Start v16 |</content>
+	<content contentuid="hc14059d7gac99g4647g8f54gb2e31a11ba01" version="1">| UtilityAction Normal &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="hc2053542gd683g4686g9d4ag17c14cd8602f" version="1">| UtilityAction Normal &lt;br&gt;NarrativeArch_Start v8 |</content>
+	<content contentuid="hc20b2b73g86c1g49eaga33fg6e2f9e460f27" version="1">VO_SFX : Downed v3</content>
+	<content contentuid="hc306a804g5454g4971gabb9g3d52a1fef6ee" version="1"> | OpenContainer Combat &lt;br&gt;NarrativeArch_Start v8 |</content>
+	<content contentuid="hc4664130ge0dfg4c1cg8f76g5f40d0fb8367" version="1">[GLO_CompanionSwap_AvatarName2_1cbefe6a-48c2-e77d-4a66-ab7524b61dbe] can stay at camp.</content>
+	<content contentuid="hc47cc793ge1d0g48b9g990eg8b0cca0efe19" version="1">| Sneaking &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="hc492c217gd09ag4260g986ag6d170cc8781c" version="1">| Attack Sneaking &lt;br&gt;NarrativeArch_Start v12 |</content>
+	<content contentuid="hc4ac38c1gf729g466dg8a0cg6f415d496c96" version="1"> | ItemPickup Sneaking &lt;br&gt;NarrativeArch_Start v6 |</content>
+	<content contentuid="hc5a6ca50ga6e9g42c6ga1cfga55c0b7a42a2" version="1"> | InteractWith Normal &lt;br&gt;NarrativeArch_Start v5 |&lt;br&gt;</content>
+	<content contentuid="hc66b222bg3d0ag40baga75bge84f79f31357" version="1">I want to resurrect [CAMP_Jergal_PlayerToResurrect_2_b1161c91-1bde-6a1c-297e-ee0bfc1a57c4].</content>
+	<content contentuid="hc7217ff0ga0f4g4539g9f39gfddbf23bb47a" version="1">NO_PATHFINDING_PORTAL</content>
+	<content contentuid="hc78b3b00gf89eg486bgb260gec3d62bab743" version="2">ACT1_GOB_SPIDERNEST_GUARDS</content>
+	<content contentuid="hc8ec5d2ag293eg4d6cg9d1fg602a3b3bd950" version="1">| HealTarget Sneaking &lt;br&gt;Relation_Neutral v5 |&lt;br&gt;</content>
+	<content contentuid="hc9543fa7g133bg4e95ga70eg4a0294dd6c4a" version="2">| HealTarget Normal &lt;br&gt;Relation_Negative v1 |</content>
+	<content contentuid="hca4f78e7g276eg4071g9690gb3e68de31770" version="6">Avenge a fallen &lt;LSTag Type="Status" Tootip="DRIDER_LEADERSHIP"&gt;Spindleweb Fanatic&lt;/LSTag&gt; with a psionic barrage that can &lt;LSTag Type="Status" Tootip="SILENCED"&gt;Silence&lt;/LSTag&gt; its killer.  </content>
+	<content contentuid="hca5256bfga58fg4495gb225g96fe73cdd3ed" version="1">CombatVocals_Generic_Tiefling_Female_02</content>
+	<content contentuid="hcacf4d3cg5c15g49a2gb020g49f2ccefb4a3" version="2">| HealTarget Combat &lt;br&gt;Relation_Romantic v5 |</content>
+	<content contentuid="hcade0f1bga84bg40aag8c37g5643d216b958" version="1">CombatVocals_Generic_Elf_Female_02</content>
+	<content contentuid="hcaeee2ddg0cebg407ag8239g15dd2351760d" version="1">NOT_MESSING_AROUND</content>
+	<content contentuid="hcb641a9ag23b6g4e19g923ege6b00d3d23d0" version="1"> | InteractWith Sneaking &lt;br&gt;NarrativeArch_Start v6 |</content>
+	<content contentuid="hcb8e0b5ag22deg4bebg8621g1d24c59d80d1" version="2">| HealTarget Sneaking &lt;br&gt;Relation_Positive v3 |</content>
+	<content contentuid="hcbb20b89g382cg4e37ga0b5g4deac7de4b10" version="1">Effort_Mouth_Closed&lt;br&gt;Var 3</content>
+	<content contentuid="hcbb97644g5a9dg4b21gb4c5g9f37d981e198" version="1">SCRYING_EYE</content>
+	<content contentuid="hcbe905e1g5b03g4954ga7dbg574bd96aa9b0" version="5">I'd like you to return [CAMP_Jergal_HirelingToResurrect_1_fa2171f8-8d13-5557-8df8-a7d8dd053dd9].</content>
+	<content contentuid="hcc5ad6c6gd603g42f4g8271g6bd73f0c044a" version="1">FLESH_GOLEM</content>
+	<content contentuid="hcd5f2ccfg69bbg4f8bga93bg7e31af869c87" version="1"> | InteractWith Combat &lt;br&gt;NarrativeArch_Start v3 |</content>
+	<content contentuid="hcd85f4e5g345eg498cg8bebg0694e5b4ddf0" version="1"> | PickupItem Normal &lt;br&gt;NarrativeArch_Start v7 |&lt;br&gt;</content>
+	<content contentuid="hcde217a0ga9a8g46c4gbf3dge32ae2861c57" version="7">The price just went up. Call it a shite-talk surcharge. ([LOW_Elfsong_RentOverpriced_c0839c4d-1481-70c1-e5c0-5a0aeaef4fb5])</content>
+	<content contentuid="hce95fc48g171bg4976ga2b2g4197be7c3a38" version="1"> | Pickpocket Sneaking &lt;br&gt;NarrativeArch_Start v1 |&lt;br&gt;</content>
+	<content contentuid="hcecbae80g222ag49f6g9543g3ae18994e310" version="1">Effort_Mouth_Open&lt;br&gt;Var 4</content>
+	<content contentuid="hced99589g804fg4d11g9bc5g06eb12d9619f" version="1">CombatVocals_Generic_Gith_Female_03</content>
+	<content contentuid="hcef90dc8gbfbbg47edgafb8g453708dddbdd" version="1"> | OpenLock Combat &lt;br&gt;NarrativeArch_Start v1 |&lt;br&gt;</content>
+	<content contentuid="hd03a3623g113eg4943ga60ega909c47988ad" version="1">Effort_Mouth_Open&lt;br&gt;Var 3</content>
+	<content contentuid="hd1085770ge1c3g4716g9271g2ebcb7c8c37c" version="1">CombatVocals_Generic_Goblin_Male_02</content>
+	<content contentuid="hd1318623g98c3g468fgb3fcged86ed1e89d7" version="2">| HealTarget Combat &lt;br&gt;Relation_Neutral v6 |</content>
+	<content contentuid="hd1a89373g24d6g45dcg942agb078105146b0" version="1"> | Dip Sneaking &lt;br&gt;NarrativeArch_Start v6 |</content>
+	<content contentuid="hd1b162c7gba40g43a1g996cgaca669985701" version="4">Avenge a fallen &lt;LSTag Type="Status" Tootip="DRIDER_LEADERSHIP"&gt;Spindleweb Fanatic&lt;/LSTag&gt; with a psionic barrage that can &lt;LSTag Type="Status" Tootip="SILENCED"&gt;Silence&lt;/LSTag&gt; its killer.  </content>
+	<content contentuid="hd255d4e1gae9eg48e5gbe1dg79dfbdd07eeb" version="1">UNLOAD_WITH_LEVELTEMPLATE tooltip</content>
+	<content contentuid="hd2a3904bgac00g4f5bg9d9ag9ae1392b9581" version="1"> | Attack Normal &lt;br&gt;NarrativeArch_Start v9 |</content>
+	<content contentuid="hd2cec068gc94ag4723gb7e4gb358c6f91683" version="1"> | Pickpocket Sneaking &lt;br&gt;NarrativeArch_Start v3 |</content>
+	<content contentuid="hd321be63gf757g49a8ga693gc3e7f2b99796" version="1">| HealTarget Sneaking &lt;br&gt;Relation_Positive v6 |&lt;br&gt;</content>
+	<content contentuid="hd32785a9gb567g491fgab93g1ec556ce0d5b" version="1"> | OpenContainer Combat &lt;br&gt;NarrativeArch_Start v3 |</content>
+	<content contentuid="hd35aabeege397g4555gb544g4e6da6151b80" version="1">SCRYING_EYE tooltip</content>
+	<content contentuid="hd382fd5bg516eg46dbg8f6fgb111787536a2" version="1">DISABLE_WEAPON_EFFECTS</content>
+	<content contentuid="hd3b8d24bg585eg4dc7g9739g38ca56aa2e19" version="1">VO_SFX: All surrounding Goblins menacingly cackle as the drunk goblin threatens the player &lt;br&gt;</content>
+	<content contentuid="hd43db5c8g357eg464fgb796gc0ea97370163" version="1">DISABLE_WEAPON_EFFECTS tooltip</content>
+	<content contentuid="hd48e1834g7aeag40e3gb415g931226408275" version="1">| Attack Sneaking &lt;br&gt;NarrativeArch_Start v7 |</content>
+	<content contentuid="hd4a88087g5f07g4752g8a7bg9f31740afb36" version="1"> | PickupItem Normal &lt;br&gt;NarrativeArch_Start v6 |</content>
+	<content contentuid="hd4b6d4bcgd476g4cecgaaafg651e242b0ee0" version="1"> | Pickpocket_Succeeded Sneaking &lt;br&gt;NarrativeArch_Start v9 |&lt;br&gt;</content>
+	<content contentuid="hd4b6edf5gb628g4303g9f47g03bb12b30dd3" version="1">[GLO_CompanionSwap_AvatarName2_1cbefe6a-48c2-e77d-4a66-ab7524b61dbe] can stay at camp.</content>
+	<content contentuid="hd4fcee16g2e48g4b86g97dfg7443c8cccf9b" version="1"> | InteractWith Normal &lt;br&gt;NarrativeArch_Start v6 |</content>
+	<content contentuid="hd52507a6gc42cg40c4g8718gbadd788eb0fe" version="2">| HealTarget Combat &lt;br&gt;Relation_Negative v3 |</content>
+	<content contentuid="hd55af68fg99e2g434eg8fbcgda14583ae8e1" version="2">[GLO_CompanionSwap_AvatarName2_1cbefe6a-48c2-e77d-4a66-ab7524b61dbe] can stay at camp.</content>
+	<content contentuid="hd58654b2g070eg482bg9555g839678e52356" version="1"> | OpenLock Sneaking &lt;br&gt;NarrativeArch_Start v3 |&lt;br&gt;</content>
+	<content contentuid="hd5922ee2g1bd1g4d03g80d2g18d78b3ad16e" version="1">[GLO_CompanionSwap_AvatarName3_d8706512-5c01-67d4-db8b-6c383dc02331] can stay at camp.</content>
+	<content contentuid="hd5f6fd69gd30fg4f2bgad47g74f8dfe757d4" version="1"> | PickupItem Normal &lt;br&gt;NarrativeArch_Start v3 |</content>
+	<content contentuid="hd6992778g7d4cg4208ga2bcg09cc2e55aaea" version="1"> | OpenLock Normal &lt;br&gt;NarrativeArch_Start v8 |</content>
+	<content contentuid="hd6ebb4f0gbaf7g480dga283g59734cf19f40" version="1"> | Pickpocket Sneaking &lt;br&gt;NarrativeArch_Start v7 |&lt;br&gt;</content>
+	<content contentuid="hd756302eg6026g4981ga428g39e702336469" version="1"> | InteractWith Normal &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="hd8877235gbcdbg4a36g88aeg7a61e180158d" version="2">[GLO_CompanionSwap_AvatarName1_938ab998-0908-f7de-0f9f-3d34dbf5808f] can stay at camp.</content>
+	<content contentuid="hd8adc4e3g7759g4a54gb68eg21e12d3dc811" version="1"> | OpenLock Combat &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="hd8dd62c2gca6fg484dg9b3egf498902e6696" version="1">| UtilityAction Normal &lt;br&gt;NarrativeArch_Start v5 |</content>
+	<content contentuid="hd91eee48g4ad7g43d5g8a37g7a8d31a0dfa6" version="1"> | Dip Combat &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="hd9ade36fg7216g4845g9e13g3750d766fef0" version="2">[GLO_CompanionSwap_AvatarName1_938ab998-0908-f7de-0f9f-3d34dbf5808f] can stay at camp.</content>
+	<content contentuid="hd9decfc2g8843g4f72gb5a0g137beffbfb77" version="1"> | OpenContainer Sneaking &lt;br&gt;NarrativeArch_Start v6 |</content>
+	<content contentuid="hda93e5c5g495ag42c0gb78agb885a574f463" version="1">ALLOW_SPEAK_WITH_DEAD</content>
+	<content contentuid="hdab5f724g2127g49d6g9ba5g276e4ee66da4" version="1"> | OpenLock Sneaking &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="hdbfc0697g888dg4714g8067gbc41c2251455" version="1">IGNORE_ANALYSIS tooltip</content>
+	<content contentuid="hdc0635e7g738cg4dc2g8163g7205a15e0a03" version="1">Weight_Medium</content>
+	<content contentuid="hdc22d7e5gf2e8g4d53gb586g26b65e6776fb" version="1">| Sneaking &lt;br&gt;NarrativeArch_Start v6 |</content>
+	<content contentuid="hdc599f73g5d26g4f37gb767gf2516ba0b9f2" version="2">| HealTarget Combat &lt;br&gt;Relation_Positive v3 |</content>
+	<content contentuid="hdcb6a9a8g22cdg407egabc9g98fccc4438f6" version="1">| UtilityAction Normal &lt;br&gt;NarrativeArch_Start v3 |&lt;br&gt;</content>
+	<content contentuid="hdcca0371g5448g48e4g82f5g1c3feb709b71" version="1">LOW_IronThrone_PrisonersSwarmEscapeTarget_InnerDoor</content>
+	<content contentuid="hdd3d6d7cgedd3g40c0ga9e2g740836a23918" version="2">| HealTarget Combat &lt;br&gt;Relation_Neutral v1 |</content>
+	<content contentuid="hdd896085geddag4d7bg85aeg23dc7bed57ca" version="2">| HealTarget Sneaking &lt;br&gt;Relation_Negative v4 |</content>
+	<content contentuid="hde505614gf0c6g4c19g84eeg9332ae526f97" version="1">CombatVocals_Generic_Human_Male_03</content>
+	<content contentuid="hded78285gebd7g4a61ga028g95f3efc99772" version="1">| Combat &lt;br&gt;NarrativeArch_Start v10 |</content>
+	<content contentuid="hdeee3ae1gc7c2g4553ga862g4445181b8695" version="1">| Attack Sneaking &lt;br&gt;NarrativeArch_Start v10 |</content>
+	<content contentuid="hdf48295bg812eg43e2gaefag57ab18c10852" version="1">AI_IGNORED_TARGET tooltip</content>
+	<content contentuid="hdf5e3defg9adcg48bfg96e2gd6e8bbef9c0e" version="1">UNDEAD_BEAST tooltip</content>
+	<content contentuid="hdf8af7ccg7ec7g47c9gb7ccg6a8c389e7977" version="1"> | OpenContainer Combat &lt;br&gt;NarrativeArch_Start v6 |</content>
+	<content contentuid="hdf954125gfc7eg49a7g94b9g928a2a5857d0" version="2">| HealTarget Combat &lt;br&gt;Relation_Positive v1 |</content>
+	<content contentuid="he021b4e4g67b5g4f8bgb776g8ea5a193b2be" version="1">ACT1_FOR_GLADEGUARD tooltip</content>
+	<content contentuid="he0ab0a04g0f99g40f6gbd40gee3c34dad780" version="1"> | OpenLock Normal &lt;br&gt;NarrativeArch_Start v3 |&lt;br&gt;</content>
+	<content contentuid="he1051c4ag7962g4396ga29ege99c4bb96e92" version="2">I'd like you to return [CAMP_Jergal_DismissedAvatarToResurrect_1_539f07ee-87de-e8eb-9bac-ad94453a5cec].</content>
+	<content contentuid="he17dd93egb7fag49ffgb2cag3af07c37aef6" version="1"> | Pickpocket_Succeeded Sneaking &lt;br&gt;NarrativeArch_Start v5 |</content>
+	<content contentuid="he3cfb3c5ga775g4f67ga9eag2b04731b3060" version="1"> | Attack Combat &lt;br&gt;NarrativeArch_Start v6 |</content>
+	<content contentuid="he3ec58f6g1600g491fgb3e8g7885a554acf6" version="1">| UtilityAction Sneaking &lt;br&gt;NarrativeArch_Start v3 |</content>
+	<content contentuid="he48769e7ga734g4c89g9702gef7d24526ee7" version="1"> | Dip Normal &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="he4ba53b5g5ce1g4fb9g93e5ge00045672285" version="1"> | Attack Combat &lt;br&gt;NarrativeArch_Start v11 |</content>
+	<content contentuid="he4f2c390g5b26g40dagbe73g715b27281d6a" version="1">Gasp_Frightened</content>
+	<content contentuid="he50c2d54g8af7g4183g9565g736b48e6373d" version="4">I want to resurrect [CAMP_Jergal_PlayerToResurrect_3_56966d5e-534d-4930-264e-050a2345db3d].</content>
+	<content contentuid="he58446c9g8c76g42cagaf1egf4b9a3f691d0" version="1"> | InteractWith Sneaking &lt;br&gt;NarrativeArch_Start v7|</content>
+	<content contentuid="he640ba00g2483g4046g9ccfg9dd24f651989" version="1">Cough_Ill</content>
+	<content contentuid="he655047egdfb4g40dag9bd8gdd4c2e347bad" version="1"> | Attack Normal &lt;br&gt;NarrativeArch_Start v17 |</content>
+	<content contentuid="he6ec8318g1da6g40d0g9fb6gbc2f544f0ecf" version="1">GNOLL_FLIND tooltip</content>
+	<content contentuid="he7350699gb65cg49aag8ff8ge206aff61075" version="2">| HealTarget Normal &lt;br&gt;Relation_Romantic v3 |</content>
+	<content contentuid="he756a5fag86f6g4fd8gbef3g70f975a37f33" version="1">ACT1_DEN_GREETING</content>
+	<content contentuid="he7931dfag70ddg494dg812bg1304734e14e7" version="1"> | OpenLock Normal &lt;br&gt;NarrativeArch_Start v1 |&lt;br&gt;</content>
+	<content contentuid="he7b465fcga9aag4350g8838gbd86ef7a4857" version="2">Adjusting for inflation, the appreciable value of knowledge, Lord Mammon's tithe... A-ha. There we are. ([LOW_DevilsFee_GortashInfoPayment_4feace82-e2ce-a19d-967c-2a346b2cf96d])</content>
+	<content contentuid="he849fc63g9c22g43c5g9d2dg85a2f72eb274" version="1">VO_SFX : Initial Downed v4</content>
+	<content contentuid="he9433e56g9187g4bc7ga98eg960c2690c854" version="2">| HealTarget Normal &lt;br&gt;Relation_Positive v2 |</content>
+	<content contentuid="he944e37eg5d04g49a6g9eaagf69e50d313c5" version="1"> | Attack Normal &lt;br&gt;NarrativeArch_Start v14 |</content>
+	<content contentuid="he975c1b2gac69g4cd0g9450g258f5af8098a" version="2">| HealTarget Sneaking &lt;br&gt;Relation_Neutral v4 |</content>
+	<content contentuid="hea021972gac4ag46d0g9e4ag12dbed4aa00d" version="1">| UtilityAction Sneaking &lt;br&gt;NarrativeArch_Start v9 |</content>
+	<content contentuid="hea4065bbg73e9g4bcdga281gf3066a3c4f5f" version="1"> | Attack Normal &lt;br&gt;NarrativeArch_Start v1 |&lt;br&gt;</content>
+	<content contentuid="hea5c2968gbd7dg4df7ga169g1b321b371cbe" version="1">RECORD_PLAYER</content>
+	<content contentuid="hea9a3164gc713g42b8g86ceg4d145711b762" version="1"> | Dip Sneaking &lt;br&gt;NarrativeArch_Start v1 |&lt;br&gt;</content>
+	<content contentuid="heb05c3edge9e7g4207g9279g4578479966a4" version="1">[GLO_CompanionSwap_AvatarName1_938ab998-0908-f7de-0f9f-3d34dbf5808f] can stay at camp.</content>
+	<content contentuid="heb9bfcc8g9030g46b0g9ee4g64ed91c515e9" version="1">[GLO_CompanionSwap_AvatarName3_d8706512-5c01-67d4-db8b-6c383dc02331] can stay at camp.</content>
+	<content contentuid="hebbc6ffeg7b59g41fdg979fg94e6132f7924" version="1">[GLO_CompanionSwap_AvatarName2_1cbefe6a-48c2-e77d-4a66-ab7524b61dbe] can stay at camp.</content>
+	<content contentuid="hec1eb666g8b77g4ec2gb0e7g639d4bc85826" version="1">CombatVocals_Generic_Tiefling_Male_01</content>
+	<content contentuid="heca89c5eg4ce4g436dgb862g470ba88f6e28" version="1">VO_SFX: All surrounding Goblins cackle as the drunk goblin point out the player kissed his feet</content>
+	<content contentuid="hecbb250agd38cg4572gab26g0ccd09d9f93a" version="1">[GLO_CompanionSwap_AvatarName4_fc31b1ba-d511-0552-070f-b57b2b9e6bf7] can stay at camp.</content>
+	<content contentuid="heec4d325gb7a6g431bg96acgb2dec8008155" version="1">| UtilityAction Combat &lt;br&gt;NarrativeArch_Start v1 |</content>
+	<content contentuid="heecfdf44gfdd1g4ee5g8ad1gf4be74c242bc" version="1">[GLO_CompanionSwap_AvatarName4_fc31b1ba-d511-0552-070f-b57b2b9e6bf7] can stay at camp.</content>
+	<content contentuid="hefb404cdgffecg42f7g97bag90544f942dbe" version="1">Chance &lt;LSTag Type="Status" Tooltip="TIMMASK_SPORES"&gt;Befuddle&lt;/LSTag&gt; creatures.</content>
+	<content contentuid="hefe8b080g189ag4b05g8f80ge26b95efc7b6" version="1"> | Pickpocket_Succeeded Sneaking &lt;br&gt;NarrativeArch_Start v2 |</content>
+	<content contentuid="hf018e254gb970g4aadg9090g0bca3ecb2495" version="1">GNOLL_FLIND</content>
+	<content contentuid="hf0515f7agcc94g4cdagb29dg7a34a42b303a" version="2">| HealTarget Normal &lt;br&gt;Relation_Neutral v1 |</content>
+	<content contentuid="hf0ac0dc0ge5d2g4d75gbe5dgd1c1d1d109ec" version="1"> | ItemPickup Sneaking &lt;br&gt;NarrativeArch_Start v3 |</content>
+	<content contentuid="hf17db7f0g1c65g4419g84d9g65c175f83546" version="1">CombatVocals_Generic_Human_Female_02</content>
+	<content contentuid="hf24db529g28f2g4779g9dbag348018f458e3" version="1"> | Dip Combat &lt;br&gt;NarrativeArch_Start v5 |&lt;br&gt;</content>
+	<content contentuid="hf29a7001g7544g458bga5c8ge06fbbec8610" version="2">I want you to watch over [CAMP_Jergal_PlayerToResurrect_1_c85cdca4-6579-776d-206d-6967e4999281].</content>
+	<content contentuid="hf2e5422eg188dg4040ga3b3gc6fffe4966af" version="1"> | Attack Normal &lt;br&gt;NarrativeArch_Start v11 |</content>
+	<content contentuid="hf34de17egf2c1g4023gab16g9888a17e971d" version="1"> | OpenContainer Normal &lt;br&gt;NarrativeArch_Start v8 |</content>
+	<content contentuid="hf39d05a8g022eg4c2dgbf20g736c0c5be14e" version="2">| HealTarget Combat &lt;br&gt;Relation_Negative v6 |</content>
+	<content contentuid="hf47afe6dgcda3g4e3bg86e4gfe68d789212a" version="1">[GLO_CompanionSwap_AvatarName1_938ab998-0908-f7de-0f9f-3d34dbf5808f] can stay at camp.</content>
+	<content contentuid="hf4956e4ag40efg42cag9d38g8f1f548587f8" version="1">| UtilityAction Normal &lt;br&gt;NarrativeArch_Start v10 |&lt;br&gt;</content>
+	<content contentuid="hf514ae34g2179g40b6ga63cg7bc8b364695e" version="2">| HealTarget Combat &lt;br&gt;Relation_Negative v5 |</content>
+	<content contentuid="hf56a920ega077g4e4bga429gfa4c3bc56158" version="2">| HealTarget Normal &lt;br&gt;Relation_Romantic v5 |</content>
+	<content contentuid="hf586d27eg22bdg4b73gb0d5g0134d2ec4dbe" version="1">DGB Bear HelixRing R_B</content>
+	<content contentuid="hf5bb0900gdc78g4257g97f3gc9d0d1080cf6" version="1"> | Attack Combat &lt;br&gt;NarrativeArch_Start v7 |</content>
+	<content contentuid="hf6081c19g46eag4c5dg9848g8b496ec33818" version="1">Effort_Mouth_Open&lt;br&gt;Var 2</content>
+	<content contentuid="hf6fae9a7g88ebg4ff3gb24agda5de714f035" version="2">| HealTarget Combat &lt;br&gt;Relation_Negative v4 |</content>
+	<content contentuid="hf6fe7610g5b0ag4211g8a58g7401c0faa986" version="1">| Combat &lt;br&gt;NarrativeArch_Start v11 |</content>
+	<content contentuid="hf7bab6e4g5c15g4125g9525g48ed77ddb08f" version="1">CombatVocals_Generic_Dwarf_Male_01</content>
+	<content contentuid="hf7cd2922g2f06g4729g8f71ge9628c43ea00" version="1"> | OpenLock Sneaking &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="hf7d55c84gfd08g4728gb928ge5efba8f33d4" version="1">NO_RECORD</content>
+	<content contentuid="hf80742c6g9135g4b80gaeb6g5563f674ddfd" version="1"> | ItemPickup Combat &lt;br&gt;NarrativeArch_Start v8 |</content>
+	<content contentuid="hf8097d9dge2fag4b16g8e3bgf74428e85b38" version="1"> | OpenContainer Sneaking &lt;br&gt;NarrativeArch_Start v8|&lt;br&gt;</content>
+	<content contentuid="hf80b28f5gf1d8g4ee7gb8cagaf1b05cc4063" version="1"> | OpenContainer Normal &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="hf882ca96g30e9g4466gb4cbg0bfce726d12b" version="1"> | Dip Combat &lt;br&gt;NarrativeArch_Start v6 |</content>
+	<content contentuid="hf8a71a90gef66g4378ga2b2g70876019a6a1" version="1">CombatVocals_Generic_Gith_Male_03</content>
+	<content contentuid="hf8c6a31agb08cg4882g85c5g140a4af0e168" version="1"> | Pickpocket_Succeeded Sneaking &lt;br&gt;NarrativeArch_Start v3 |&lt;br&gt;</content>
+	<content contentuid="hf9125c64g4325g45bfgbafeg13129ea96e67" version="1">CombatVocals_Generic_Human_Male_02</content>
+	<content contentuid="hf95d4d9egbe0cg4fa2gb9dfg76e3ae25258c" version="1">Weight_Gargantuan</content>
+	<content contentuid="hf96e0561gf574g4575ga9b0ga1e4b349ceb5" version="1">| UtilityAction Sneaking &lt;br&gt;NarrativeArch_Start v7 |&lt;br&gt;</content>
+	<content contentuid="hf9bc9103g61f9g4e24gb603g8840c1755096" version="2">| HealTarget Sneaking &lt;br&gt;Relation_Negative v2 |</content>
+	<content contentuid="hf9f34ec5g9544g41d7g82dbg73c43e23c144" version="1"> | Attack Normal &lt;br&gt;NarrativeArch_Start v4 |&lt;br&gt;</content>
+	<content contentuid="hfa78e7f4gf0bbg403dga449g9b05f4f2cafa" version="1">SpellVocals_Generic_Human_Male_03</content>
+	<content contentuid="hfa7d165bg4450g40cag928eg01ad66b9d66a" version="1">HEALING_POTION tooltip</content>
+	<content contentuid="hfa8eaea1g969eg43d8g812fg2e33571e78db" version="1"> | InteractWith Combat &lt;br&gt;NarrativeArch_Start v8 |</content>
+	<content contentuid="hfadd935agb17dg41d7g902dg166cbf158a02" version="1">CombatVocals_Generic_Gnome_Female_01</content>
+	<content contentuid="hfb9bb7f1gafa1g49d4gba27g5f0266a94c7e" version="1">| UtilityAction Sneaking &lt;br&gt;NarrativeArch_Start v8 |&lt;br&gt;</content>
+	<content contentuid="hfc1d6c28gd585g40a1gbb84g0e5943935231" version="1">[GLO_TadpoleSharing_Generic1_fcd2d3b1-1d21-836d-8617-6d3697a91ec5]</content>
+	<content contentuid="hfc4e20c6gee89g4341ga081g6b173c8c09b9" version="1">[GLO_CompanionSwap_AvatarName4_fc31b1ba-d511-0552-070f-b57b2b9e6bf7] can stay at camp.</content>
+	<content contentuid="hfca8fd36gfe1fg4222g9fb5g1db8a0559d82" version="2">| HealTarget Sneaking &lt;br&gt;Relation_Positive v4 |</content>
+	<content contentuid="hfcbaf165ga7d8g4645gb3aagf7759856c5cb" version="1"> | OpenLock Normal &lt;br&gt;NarrativeArch_Start v4 |</content>
+	<content contentuid="hfd938aa6g6fc4g49a8ga534g1e42f2cc3807" version="4">Once per round when a &lt;LSTag Type="Status" Tootip="DRIDER_LEADERSHIP"&gt;Spindleweb Fanatic&lt;/LSTag&gt; is killed, Kar'niss can use a Legendary Action to possibly deal [1] and &lt;LSTag Type="Status" Tootip="SILENCED"&gt;Silence&lt;/LSTag&gt; the attacker. </content>
+	<content contentuid="hfdf8947agec10g4108ga0e9g9ac01e111573" version="1">CombatVocals_Generic_Dwarf_Male_02</content>
+	<content contentuid="hfe796a21g3162g4828g9c40gb8183eb5c6ad" version="1">[GLO_CompanionSwap_AvatarName4_fc31b1ba-d511-0552-070f-b57b2b9e6bf7] can stay at camp.</content>
+	<content contentuid="hff17c9f4gd339g4460gab68g3049eb82d930" version="1">VO_SFX : Downed v4</content>
+</contentList>

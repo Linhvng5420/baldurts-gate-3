@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contentList>
+    <!-- Scroll Spell -->
+	<content contentuid="h2c74a2ffg9814g4a0cg9ed6geb4eb852b8fd" version="2">Cuộn Giáp Pháp Sư</content>
+	<content contentuid="h9073c76egb22ag4c01g849dgc9f04bd9ab65" version="2">Cuộn Giáp Pháp sư</content>
+	<content contentuid="h006c7a17gc70bg4eb5g9e23g5bfa85d6f7d2" version="2">Cuộn phép — Otiluke's Resilient Sphere</content>
+	<content contentuid="h01238461gf272g48b6g98fdg3b56b9ef9a01" version="3">Cuộn phép — Glyph of Warding</content>
+	<content contentuid="h021357d1g12a3g4e5egac45g41e662b419b8" version="1">Thêm cuộn tự động</content>
+	<content contentuid="h0227e6b4gef56g4110gb889gfde2102a9079" version="1">Cuộn phép — Sleep</content>
+	<content contentuid="h04781c9dgb8d1g44e6g9551gd1ea5cf20e55" version="1">Cuộn</content>
+	<content contentuid="h0699d1ebge1ceg4b5bga5d7gecf221b9d4b5" version="2">Cuộn phép — Revivify</content>
+	<content contentuid="h0730505cga509g46fcg8177g489e2d7e1017" version="1">Chồng cuộn</content>
+	<content contentuid="h08e1d767g6a07g4545ga409g90a35598e906" version="1">Tooltip cuộn — Lên</content>
+	<content contentuid="h09feee8ege43ag4f0egb5c6g369213b6714c" version="3">Cuộn phép — Stoneskin</content>
+	<content contentuid="h0b0331dagd940g4b58gbc4bg43774da0859c" version="2">Chồng cuộn</content>
+	<content contentuid="h0d02d8cfg83d6g4d6cgb004g92cf7f1ca991" version="1">Cuộn</content>
+	<content contentuid="h1567d13cgc55ag470eg9544gc2740062df4f" version="2">Cuộn phép — Cloudkill</content>
+	<content contentuid="h1658c563gad6cg4e88g8c7ag0ba8c8f1387d" version="3">Cuộn phép — Otiluke's Freezing Sphere</content>
+	<content contentuid="h16edfdcfg235ag4e9cg9f42gf4fc28a35153" version="1">Cuộn cổ</content>
+	<content contentuid="h17ebc4e3geb88g4fcbgbd6fg8b3a85cd475d" version="1">Cuộn phép — Fear</content>
+	<content contentuid="h184412b8gf38bg49begaa3agaddf963445f3" version="2">Cuộn phép — Darkness</content>
+	<content contentuid="h19885c53gd0a1g4b34gb3fdgf1eb0fb16862" version="1">Cuộn phép — Witch Bolt</content>
+	<content contentuid="h1aa9290eg7246g4163g8babg969b4625e95c" version="1">Cuộn — The Scroll of Her Glory</content>
+	<content contentuid="h1bf2ca48g540ag4625g9d3bgcb4a19ea93fb" version="3">Cuộn phép — Feign Death</content>
+	<content contentuid="h1c4b31cag4933g469eg82d9g3229521151ec" version="2">Cuộn phép — Melf's Acid Arrow</content>
+	<content contentuid="h1d46a070g16f7g407cgbe81gf1f7c0c7d8c7" version="3">Cuộn phép — Confusion</content>
+	<content contentuid="h1e497fdbg02d7g4daeg88f8gc7b2b419525b" version="1">Cuộn</content>
+	<content contentuid="h1eb3e09fg692dg4e12g8cc3ga84a409ed867" version="1">Cuộn phép — Names</content>
+	<content contentuid="h1ef5dee0ge5feg492fga373gdbc309591ffa" version="2">Cuộn phép — Blink</content>
+	<content contentuid="h1f0f4fb3g091cg4037g9230g2a0254a2aff6" version="1">Cuộn phép — False Life</content>
+	<content contentuid="h206a4b9eg4d75g411dg84a8g841d287de32a" version="1">Cuộn phép — Hold Person</content>
+	<content contentuid="h209b4a75g1defg4f97ga65dgf50d77c8ab09" version="1">Cuộn phép — Dethrone</content>
+	<content contentuid="h21304fecg1fdag4a29gbc25gf7aee1a73e27" version="1">Cuộn phép</content>
+	<content contentuid="h213aeceag1f66g4743g82fag8a9196c72499" version="2">Cuộn phép — Arcane Eye</content>
+	<content contentuid="h21490ce7g0dd4g4db5g85f1gc78e3ad96933" version="2">Cuộn phép — Bestow Curse</content>
+	<content contentuid="h22510e46g5067g454dgbe1agd2bf9c3093c4" version="1">Cuộn phép — Ray of Sickness</content>
+	<content contentuid="h225f009dgbd7fg417eg9f8dg276f0ecfa521" version="1">Cuộn đã đăng</content>
+	<content contentuid="h235cd5b1g7c0eg4138g9cafg48ada5ef7d13" version="2">Cuộn phép — Scorching Ray</content>
+	<content contentuid="h27250aaagb45ag4875ga942g18198b333047" version="1">Cuộn</content>
+	<content contentuid="h27b36d67ga945g4e3bg8e10g0516491db7ee" version="2">Cuộn phép — Crown of Madness</content>
+	<content contentuid="h28c02084gc184g4b93g8dfbgdfcd1fee3871" version="1">Cuộn của...</content>
+	<content contentuid="h29f2b927gf6feg48e8g8bc9gdc391427b51c" version="1">Cuộn</content>
+	<content contentuid="h2a8b2e51ge1bbg41edgaa4fg66d6305c9bb6" version="3">Chồng cuộn</content>
+	<content contentuid="h2ac81faagd710g482aga71dg55dadebc034f" version="3">Cuộn Black Mass</content>
+	<content contentuid="h2d2c28e1g6549g470cgba82g64a4510afe42" version="1">Cuộn</content>
+	<content contentuid="h2ee9c117g1969g44d7gb6fcg8226be109dd4" version="2">Cuộn phép — Colour Spray</content>
+	<content contentuid="h2ef3a3b5gb986g4a43ga910gf86e71d703d3" version="3">Cuộn phép — Gaseous Form</content>
+	<content contentuid="h32b605e7g4976g48aagba52g9558943688ee" version="1">Cuộn này chưa đọc được.</content>
+	<content contentuid="h342b61f1g0bcdg4a57g91e8gbaa254108220" version="1">Cuộn chuột xuống</content>
+	<content contentuid="h39c911f2g3007g45a3gb5d1ga6d228ec078e" version="3">Cuộn phép — Fire Shield: Chill</content>
+	<content contentuid="h3d2e705cg4f53g4116g9d07ge06dd15f7324" version="1">Cuộn phép — Enlarge</content>
+	<content contentuid="h3de93be4g2ddeg41e5gaeedg341a371c43af" version="1">Cuộn phép — Chromatic Orb</content>
+	<content contentuid="h3e785bacg5689g4191gb94bg9996c324554f" version="1">Cuộn chuột lên</content>
+	<content contentuid="h40366d14g710ag4cb2g856fg6aba8fb0b489" version="1">Cuộn phép — Knock</content>
+	<content contentuid="h420d6971g4224g4d0fgb102ga49fee54e58b" version="1">Cuộn phép — Shatter</content>
+	<content contentuid="h454677d9ga645g4d7dg99e1gd96d1cf5c568" version="1">Cuộn phép — Fireball</content>
+	<content contentuid="h458518bag0264g44bdg9550g450c230f4cdc" version="2">Cuộn phép — Cone of Cold</content>
+	<content contentuid="h465f6061g3861g4a65g9c13g8226a4275b12" version="1">CUỘN</content>
+	<content contentuid="h476faccegb12eg46e4g9718g7ad5f709b84f" version="2">Cuộn phép — Evard's Black Tentacles</content>
+	<content contentuid="h49e09adcg6394g470fga5c8gf1f84361a04e" version="1">Cuộn phép — Chromatic Orb</content>
+	<content contentuid="h4a6ca32cg920fg44a1g8549g84936595adef" version="1">Cuộn phép — Feather Fall</content>
+	<content contentuid="h50e61c6dg79ccg4a04ga940g2f5eefaa6034" version="1">Cuộn phép — Animal Friendship</content>
+	<content contentuid="h51274d5bg2a5fg4a1agbf6egf75f4699b013" version="3">Cuộn phép — Greater Invisibility</content>
+	<content contentuid="h51dd34degcdf1g4f9cg9b56gab5e02adcb1f" version="1">Cuộn</content>
+	<content contentuid="h5243d2e8g97adg4292g9cc1g9c4802c05f49" version="1">Cuộn phép — Bestial Communion</content>
+	<content contentuid="h524f8b01g4ac1g4ce6g8627g3ea281e619b6" version="1">Cuộn phép — Hold Monster</content>
+	<content contentuid="h52eb599agf165g4ab3g8c6cga8f3d8542be9" version="1">Tooltip cuộn — Xuống</content>
+	<content contentuid="h53ba54a2g9395g4cb6gb7dbgdeadfa70419d" version="2">Cuộn phép — Magic Weapon</content>
+	<content contentuid="h55b2d320gf43eg41b2g9977g9907769c1626" version="1">Cuộn phép — Mirror Image</content>
+	<content contentuid="h56d0b7b1g0008g487fgbba4g0b9243707471" version="1">Cuộn này chưa đọc được.</content>
+	<content contentuid="h588f1b5fgccaag473ag8485g934c99cb5116" version="2">Cuộn phép — Animate Dead</content>
+	<content contentuid="h5917dc21g6a21g4a24gb09bgd6033788a174" version="1">Các cuộn</content>
+	<content contentuid="h5a48db25g35edg445bga42fg229a121a93e2" version="1">Cuộn phép — Fog Cloud</content>
+	<content contentuid="h5c2b9718g7e08g495eg8f50g0fa543846dbf" version="1">Cuộn phép — Artistry of War</content>
+	<content contentuid="h5ca1d678g279dg4877g805agc5888ca06a4e" version="1">Cuộn phép — Ray of Enfeeblement</content>
+	<content contentuid="h5ea5fe09g6b69g4df3g9a5dgac4aea86a8e7" version="1">Cuộn phép — Misty Step</content>
+	<content contentuid="h5edad0f2g3113g4b6bg8359g32392a19f1da" version="1">Cuộn này chưa đọc được.</content>
+	<content contentuid="h5f9ec57cgf41dg4e97g8030ga8682517227e" version="1">Cuộn phép — Evidence</content>
+	<content contentuid="h60c5c9a1g920eg4deeg8540ge8eaf58c944b" version="1">Đầu lâu cổ có cuộn</content>
+	<content contentuid="h62557db0g357bg4815g8ce0gc4e0449103a5" version="1">Cuộn phép — Blindness</content>
+	<content contentuid="h631ae5beg5bf8g4cb1g9900g207dfbcbb945" version="1">Cuộn phép — Detect Thoughts</content>
+	<content contentuid="h64a04cefg290ag4eb4g9fc0gaf25308067a2" version="2">Cuộn phép — Seeming</content>
+	<content contentuid="h64e23687g7aefg4538g9894g460ba7ae181e" version="1">Cuộn</content>
+	<content contentuid="h6533099ag75beg4467gbf79g733dababbe16" version="1">Cuộn này chưa đọc được.</content>
+	<content contentuid="h65b5abb2g360dg40d1g8651gfa2bf442e5d1" version="3">Cuộn phép — Blight</content>
+	<content contentuid="h68ea9a22gddbcg46e3g9e13gce28d002f43a" version="2">Cuộn phép — Cloud of Daggers</content>
+	<content contentuid="h6931e27cg3ce2g47f5gbf32gdc608779b7e4" version="1">Cuộn</content>
+	<content contentuid="h69cb3cecgee85g4cbcgbb45g313979b52271" version="3">Cuộn phép — Tasha's Hideous Laughter</content>
+	<content contentuid="h6a1689f8g7dc7g491eg8a47g1ecb063ebda9" version="2">Cuộn phép — Telekinesis</content>
+	<content contentuid="h6dd1f45egaef8g4eefgae07g736a0f3fc863" version="1">Cuộn này chưa đọc được.</content>
+	<content contentuid="h6df0ada6gaf66g4482ga9ceg370688ab9266" version="1">Cuộn này chưa đọc được.</content>
+	<content contentuid="h6e0826c6g3544g43b1g9b55ge650828f3113" version="4">Cuộn phép — Fire Shield</content>
+	<content contentuid="h70c350e4gd2c8g4ffcgb704gc309a87bab5e" version="2">Cuộn phép — Ice Storm</content>
+	<content contentuid="h72885b8bgabf2g4c6fg9207ge18ec43c64f6" version="1">Cuộn Heroes' B</content>
+	<content contentuid="h72abe1eeg69a5g43afgbee2g67596319d66a" version="2">Cuộn phép — Otto's Irresistible Dance</content>
+	<content contentuid="h73360d85gafd5g4b2dgaa32g068de79b7138" version="2">Cuộn phép — Fly</content>
+	<content contentuid="h741f9657gc003g4c06g8063g539c61dbe333" version="1">Cuộn phép — Web</content>
+	<content contentuid="h74b8f67cgfc88g4819g82d8gb03ca4e5f71a" version="2">Cuộn phép — Sunbeam</content>
+	<content contentuid="h74e305a3g60beg467dg9b1fg855f9f1e8673" version="1">Cuộn Heroes' A</content>
+	<content contentuid="h75474c67g2252g4365g95cdgb4c26eafa6d6" version="1">Cuộn phép — Thunderwave</content>
+	<content contentuid="h762bbec2ga848g4025g9effg566d83434f4e" version="1">Cuộn phép — Grease</content>
+	<content contentuid="h765f6371g3c54g4a6fgb371g8d246a95b61a" version="1">Cuộn chuột trái</content>
+	<content contentuid="h7707322cg66d7g49b2gab88g85f8ee7049a3" version="2">Cuộn phép — Banishment</content>
+	<content contentuid="h779206d8g855cg427fg9d63g65d5c278d587" version="1">Cuộn này chưa đọc được.</content>
+	<content contentuid="h78ca5999gac2bg4e32ga065g61f5064bac4d" version="1">Cuộn này chưa đọc được.</content>
+	<content contentuid="h7b62f2a6g41b8g4474g8a93gb9d12438364d" version="1">Cuộn</content>
+	<content contentuid="h7c1013b8g43f7g4fc3gb95ag5c6274d1316b" version="2">Cuộn phép — Expeditious Retreat</content>
+	<content contentuid="h7c625594g339cg428egae48g2a18a5b01cee" version="3">Cuộn phép — Slow</content>
+	<content contentuid="h7ffcc5b6g1231g44ceg8c5bg930cfbe9a0d7" version="3">Cuộn phép — Haste</content>
+	<content contentuid="h828bc901g960eg4a77ga8fag979c7c49ec96" version="2">Cuộn phép — Conjure Elemental</content>
+	<content contentuid="h82a90405gcb80g4df1g8692gfca7403f7499" version="1">Cuộn này chưa đọc được.</content>
+	<content contentuid="h845c92a2g3d8eg4bf3gbcc9ge2fd8fc205c4" version="2">Cuộn phai màu — Reversal</content>
+	<content contentuid="h84e0e3fdg3843g4e4cgb58eg9abc85f68970" version="2">Cuộn phép — See Invisibility</content>
+	<content contentuid="h898836d7g47d1g46bfg831fge3cd7b29e3da" version="1">Cuộn phép — Gust of Wind</content>
+	<content contentuid="h8a91d344g4d56g47ebgaac8g35e6344a78c6" version="3">Cuộn phép — Polymorph</content>
+	<content contentuid="h8aeb8655gafa5g4c3fg89dagf5070ada54e3" version="2">Cuộn phép — Planar Binding</content>
+	<content contentuid="h8bedae86gf06ag4bfeg8b2dg237b4402b20c" version="1">Cuộn phép cơ bản</content>
+	<content contentuid="h908da040g3627g4190gb77cg12dc39db95a0" version="1">Cuộn chuột phải</content>
+	<content contentuid="h93ceeeb1gddd3g4859g8951g73f86da5bf38" version="1">Cuộn</content>
+	<content contentuid="h9631a440g10d1g43c7ga92bga5f3b3c472ed" version="3">Cuộn phép — Lightning Bolt</content>
+	<content contentuid="h96aed13fgace4g4389g8de3gebe1f9159793" version="3">Cuộn phép — Dimension Door</content>
+	<content contentuid="h97b4bb76g471bg4b4aga47fg06629cacfd02" version="2">Cuộn phép — Flame Blade</content>
+	<content contentuid="h9884dd02g3e4dg48e9ga357g0c3a81e59510" version="1">Cuộn này chưa đọc được.</content>
+	<content contentuid="h99029a47gdad9g423ag9f21g363db3365276" version="3">Cuộn phép — Phantasmal Killer</content>
+	<content contentuid="h9a1e0bcbg23dag44adga3e2g31aeb6d142c9" version="1">Cuộn phép — Summon Quasit</content>
+	<content contentuid="h9a960ea8geaf5g4127g84cfg19af61b9b55e" version="2">Cuộn phép — Dominate Person</content>
+	<content contentuid="h9cf65511gaa30g4842g80b6g57328fef963b" version="1">Cuộn</content>
+	<content contentuid="h9d4b5933g552ag4656gb59fg8ab0b22a11cf" version="1">Ghi chép cuộn vào sách phép</content>
+	<content contentuid="h9f21e8d9g0cbag4198g8d38g2a6962b560c4" version="1">Cuộn phép — Blur</content>
+	<content contentuid="ha00203ffg8739g4c10g92b9ge0377ea84bc5" version="3">Cuộn phép — Protection from Energy</content>
+	<content contentuid="ha135265eg64e2g449dga092g30412ef49fbf" version="2">Cuộn phép — Darkvision</content>
+	<content contentuid="ha3ff2d21gffc8g4f30ga5bfg40a7dd5edbbf" version="1">Cuộn</content>
+	<content contentuid="ha4325fe7ga0a4g4f1dg8538g34aaae91dfc6" version="2">Cuộn phép — Phantasmal Force</content>
+	<content contentuid="ha769b125g4fc1g42d5g8f15g2180261ae7a4" version="2">Cuộn phép — Arcane Lock</content>
+	<content contentuid="ha816093bgeb46g470ag8083g7c724b9a55d4" version="1">Cuộn</content>
+	<content contentuid="hab065f9dg3babg4815g8ad4gb071b2c29e25" version="1">Hội thoại về cuộn</content>
+	<content contentuid="hae6ea85bg8102g4d20gbf4agffc9f2abd7e0" version="2">Cuộn phép — Ice Knife</content>
+	<content contentuid="hb16f4c8fg5991g4131gb422g0bc65e0ec878" version="1">Cuộn phép — Invisibility</content>
+	<content contentuid="hb35b6e7eg28e0g479fga281g80081ea9b3cc" version="2">Cuộn phép — Eyebite</content>
+	<content contentuid="hb46396b3gecfeg496fgb097g270324794f8b" version="1">Giới hạn cuộn phép</content>
+	<content contentuid="hb5a00eceg8724g43d0g9ac7g1622faf61382" version="1">Cuộn phép — Bone Chill</content>
+	<content contentuid="hb67c3dc4g610eg454eg9938gc8edfaa08ee6" version="1">Cuộn phép — Disintegrate</content>
+	<content contentuid="hb77dc224g01d7g4e75g91b1g6c8c76a8c302" version="2">Cuộn phép — Conjure Minor Elemental</content>
+	<content contentuid="hb864b451g594dg49b6ga2a6gf468556987bd" version="3">Cuộn phép — Stinking Cloud</content>
+	<content contentuid="hbd567749g2771g43dfga019gd77bf15422fd" version="1">Cuộn</content>
+	<content contentuid="hc5a32e0fg1326g49a1ga649g646d5ed7ad63" version="2">Cuộn phép — Wall of Stone</content>
+	<content contentuid="hc6f16766g2405g4ce1g8f4eg948fe8295a2c" version="1">Cuộn phép — Shocking Grasp</content>
+	<content contentuid="hc9d25624gd181g41c6gbe0cg9895ef0ce0bb" version="1">Cuộn phép — Magic Missile</content>
+	<content contentuid="hcbe5ead0g47bfg4478g9b2fgcb1f188d8723" version="1">Cuộn phép — Charm Person</content>
+	<content contentuid="hcbf73699gc9f8g440dg98acg4762dfce8678" version="1">Khóa cuộn</content>
+	<content contentuid="hcd5b9737g56a5g4f5bgb34cg17d186ec36fa" version="1">Cuộn phép — Aid</content>
+	<content contentuid="hce0af1dbga6a4g49efgaab7g72e2e896e224" version="2">Cuộn phép — Ray of Sickness</content>
+	<content contentuid="hcebd275dgac3bg4e97gb7b9g165953fec1b5" version="2">Cuộn phép — Globe of Invulnerability</content>
+	<content contentuid="hd01f46a9g460cg4f82ga5e4gf326a8aedfcf" version="1">Cuộn phép — Vampiric Touch</content>
+	<content contentuid="hd0bdf693g77c7g437fgabb4gf908b0d7b7fa" version="1">Cuộn phép — Burning Hands</content>
+	<content contentuid="hd493683egfdfdg4a5ag85fagfc2aff4902b6" version="1">Cuộn</content>
+	<content contentuid="hd4d82bf5g4a4eg4994g8f2egf0d97fe8c3c7d" version="1">Cuộn phép — True Resurrection</content>
+	<content contentuid="hd7d4cb1agbee5g4fa3ga7edg0b33e19b93a7" version="1">Cuộn này chưa đọc được.</content>
+	<content contentuid="hd9ed8c1eg8329g4f66g82ccg546b215ed43a" version="1">Cuộn phép — Chromatic Orb</content>
+	<content contentuid="hdb0df56dga3d1g4422ga77eg5a5e78d1acb8" version="1">Cuộn phép — Speak with Dead</content>
+	<content contentuid="hdecc2922g1076g4a4ag982dg4346271de479" version="4">Cuộn phép — Sleet Storm</content>
+	<content contentuid="hdfae85cdg2fb4g4225g8960g025993de69f3" version="1">Cuộn phép — Ray of Frost</content>
+	<content contentuid="he0c6755dgd622g4aabg85dagd02da36029d0" version="3">Cuộn phép — Remove Curse</content>
+	<content contentuid="he17df261g4dc2g4876ga838g1540e199d40b" version="2">Cuộn phép — Wall of Ice</content>
+	<content contentuid="he3bf43b6g1164g459aga7a8g8fc2bd3967ea" version="1">Cuộn</content>
+	<content contentuid="he42f73a0g0c2cg4204g8c6agf0966ed3909a" version="1">Cuộn</content>
+	<content contentuid="he5a64c5dg5a96g41e1g8ac6ga6440d9bb50b" version="2">Cuộn phép — Counterspell</content>
+	<content contentuid="he6fb3ab8g7af0g4b16g902cgd951f6a685cd" version="1">Cuộn phai rách</content>
+	<content contentuid="he7dc9cc0g5551g443agb233g94c3d5d5bee1" version="3">Cuộn phép — Hypnotic Pattern</content>
+	<content contentuid="he9be11e2ga11dg459fg8f0dgf41a80b00f91" version="2">Cuộn phép — Find Familiar</content>
+	<content contentuid="he9ca3a11ga9cbg49c2g8292g5a15f5f4a82e" version="2">Cuộn phép — Jump</content>
+	<content contentuid="hec3a9f7dg5682g497bgb5eeg4bcfad42b249" version="2">Cuộn phép — Goodberry</content>
+	<content contentuid="hee25a80ag3552g489ag814dg8a8876e298f4" version="1">Cuộn phép — Flesh to Stone</content>
+	<content contentuid="hee731274g5d96g48e4g8523g0622ead8b044" version="2">Cuộn phép — Flaming Sphere</content>
+	<content contentuid="hf2093248gce5cg4fd6g84d9gab7efe1db98a" version="2">Cuộn phép — Circle of Death</content>
+	<content contentuid="hf2162090gfa5bg4fc0g930cg919783bf4e0b" version="1">Cuộn</content>
+	<content contentuid="hf493ac09gce04g4efcgac7agde82597af666" version="1">Cuộn phép — Fire Bolt</content>
+	<content contentuid="hf6a46f9dg2cd7g4dd6gbc41g6e11e4eba92f" version="1">Cuộn</content>
+	<content contentuid="hf93f6601g2590g46a7gb107gcd0dee743bf3" version="2">Cuộn phép — Longstrider</content>
+	<content contentuid="hfdf8aca2ga2c2g4bb0g90fdg78dba0e3a98d" version="1">Cuộn phép — Disguise Self</content>
+	<content contentuid="hfe647119gf242g4f5ega417ge6ecc2a5e7a1" version="2">Cuộn phép — Wall of Fire</content>
+	<content contentuid="hfeca3debg331ag4f14gafa6g3cdec70ea768" version="1">Cuộn phép — Dispel Magic</content>
+	<content contentuid="h0aa4452egbcf6g4aa8g8b1dg3606ab9dbbf1" version="2">Cuộn Chain Lightning</content>
+</contentList>

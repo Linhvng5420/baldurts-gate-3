@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contentList>
+
+
+
+    <!-- Thuật Ngữ Cốt Lõi Của Hệ Thống Chiến Đấu -->
+    <content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_1" version="1">Slashing</content>
+	<content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_10" version="1">Psychic</content>
+	<content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_11" version="1">Poison</content>
+	<content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_12" version="1">Radiant</content>
+	<content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_13" version="1">Force</content>
+	<content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_14" version="1">Weapon</content>
+	<content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_15" version="1">Spell</content>
+	<content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_16" version="1">Healing</content>
+	<content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_2" version="1">Piercing</content>
+	<content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_3" version="1">Bludgeoning</content>
+	<content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_4" version="1">Acid</content>
+	<content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_5" version="1">Thunder</content>
+	<content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_6" version="1">Necrotic</content>
+	<content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_7" version="1">Fire</content>
+	<content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_8" version="1">Lightning</content>
+	<content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_9" version="1">Cold</content>
+
+    
+    <!-- Từ khóa hiệu ứng/khả năng (Status Effect/Resistance/Vulnerability Keyword) -->
+    <content contentuid="h060ad079g2abdg43d8g9873gbb5fc58ba0e0_1" version="1">Slashing Vulnerability</content>
+	<content contentuid="h060ad079g2abdg43d8g9873gbb5fc58ba0e0_10" version="1">Psychic Vulnerability</content>
+	<content contentuid="h060ad079g2abdg43d8g9873gbb5fc58ba0e0_11" version="1">Poison Vulnerability</content>
+	<content contentuid="h060ad079g2abdg43d8g9873gbb5fc58ba0e0_12" version="1">Radiant Vulnerability</content>
+	<content contentuid="h060ad079g2abdg43d8g9873gbb5fc58ba0e0_13" version="1">Force Vulnerability</content>
+	<content contentuid="h060ad079g2abdg43d8g9873gbb5fc58ba0e0_14" version="1">Weapon Vulnerability</content>
+	<content contentuid="h060ad079g2abdg43d8g9873gbb5fc58ba0e0_15" version="1">Spell Vulnerability</content>
+	<content contentuid="h060ad079g2abdg43d8g9873gbb5fc58ba0e0_16" version="1">Healing Vulnerability</content>
+	<content contentuid="h060ad079g2abdg43d8g9873gbb5fc58ba0e0_2" version="1">Piercing Vulnerability</content>
+	<content contentuid="h060ad079g2abdg43d8g9873gbb5fc58ba0e0_3" version="1">Bludgeoning Vulnerability</content>
+	<content contentuid="h060ad079g2abdg43d8g9873gbb5fc58ba0e0_4" version="1">Acid Vulnerability</content>
+	<content contentuid="h060ad079g2abdg43d8g9873gbb5fc58ba0e0_5" version="1">Thunder Vulnerability</content>
+	<content contentuid="h060ad079g2abdg43d8g9873gbb5fc58ba0e0_6" version="1">Necrotic Vulnerability</content>
+	<content contentuid="h060ad079g2abdg43d8g9873gbb5fc58ba0e0_7" version="1">Fire Vulnerability</content>
+	<content contentuid="h060ad079g2abdg43d8g9873gbb5fc58ba0e0_8" version="1">Lightning Vulnerability</content>
+	<content contentuid="h060ad079g2abdg43d8g9873gbb5fc58ba0e0_9" version="1">Cold Vulnerability</content>
+    <content contentuid="h4c9804e9gee38g479agb4d4g58fb0b82ef4a_1" version="1">Slashing Immunity</content>
+	<content contentuid="h4c9804e9gee38g479agb4d4g58fb0b82ef4a_10" version="1">Psychic Immunity</content>
+	<content contentuid="h4c9804e9gee38g479agb4d4g58fb0b82ef4a_11" version="1">Poison Immunity</content>
+	<content contentuid="h4c9804e9gee38g479agb4d4g58fb0b82ef4a_12" version="1">Radiant Immunity</content>
+	<content contentuid="h4c9804e9gee38g479agb4d4g58fb0b82ef4a_13" version="1">Force Immunity</content>
+	<content contentuid="h4c9804e9gee38g479agb4d4g58fb0b82ef4a_14" version="1">Weapon Immunity</content>
+	<content contentuid="h4c9804e9gee38g479agb4d4g58fb0b82ef4a_15" version="1">Spell Immunity</content>
+	<content contentuid="h4c9804e9gee38g479agb4d4g58fb0b82ef4a_16" version="1">Healing Immunity</content>
+	<content contentuid="h4c9804e9gee38g479agb4d4g58fb0b82ef4a_2" version="1">Piercing Immunity</content>
+	<content contentuid="h4c9804e9gee38g479agb4d4g58fb0b82ef4a_3" version="1">Bludgeoning Immunity</content>
+	<content contentuid="h4c9804e9gee38g479agb4d4g58fb0b82ef4a_4" version="1">Acid Immunity</content>
+	<content contentuid="h4c9804e9gee38g479agb4d4g58fb0b82ef4a_5" version="1">Thunder Immunity</content>
+	<content contentuid="h4c9804e9gee38g479agb4d4g58fb0b82ef4a_6" version="1">Necrotic Immunity</content>
+	<content contentuid="h4c9804e9gee38g479agb4d4g58fb0b82ef4a_7" version="1">Fire Immunity</content>
+	<content contentuid="h4c9804e9gee38g479agb4d4g58fb0b82ef4a_8" version="1">Lightning Immunity</content>
+	<content contentuid="h4c9804e9gee38g479agb4d4g58fb0b82ef4a_9" version="1">Cold Immunity</content
+
+    <content contentuid="h1acad36eg1d2ag46c5g9b98g906b8a17bb70_1" version="1">Slashing Resistance</content>
+	<content contentuid="h1acad36eg1d2ag46c5g9b98g906b8a17bb70_10" version="1">Psychic Resistance</content>
+	<content contentuid="h1acad36eg1d2ag46c5g9b98g906b8a17bb70_11" version="1">Poison Resistance</content>
+	<content contentuid="h1acad36eg1d2ag46c5g9b98g906b8a17bb70_12" version="1">Radiant Resistance</content>
+	<content contentuid="h1acad36eg1d2ag46c5g9b98g906b8a17bb70_13" version="1">Force Resistance</content>
+	<content contentuid="h1acad36eg1d2ag46c5g9b98g906b8a17bb70_14" version="1">Weapon Resistance</content>
+	<content contentuid="h1acad36eg1d2ag46c5g9b98g906b8a17bb70_15" version="1">Spell Resistance</content>
+	<content contentuid="h1acad36eg1d2ag46c5g9b98g906b8a17bb70_16" version="1">Healing Resistance</content>
+	<content contentuid="h1acad36eg1d2ag46c5g9b98g906b8a17bb70_2" version="1">Piercing Resistance</content>
+	<content contentuid="h1acad36eg1d2ag46c5g9b98g906b8a17bb70_3" version="1">Bludgeoning Resistance</content>
+	<content contentuid="h1acad36eg1d2ag46c5g9b98g906b8a17bb70_4" version="1">Acid Resistance</content>
+	<content contentuid="h1acad36eg1d2ag46c5g9b98g906b8a17bb70_5" version="1">Thunder Resistance</content>
+	<content contentuid="h1acad36eg1d2ag46c5g9b98g906b8a17bb70_6" version="1">Necrotic Resistance</content>
+	<content contentuid="h1acad36eg1d2ag46c5g9b98g906b8a17bb70_7" version="1">Fire Resistance</content>
+	<content contentuid="h1acad36eg1d2ag46c5g9b98g906b8a17bb70_8" version="1">Lightning Resistance</content>
+	<content contentuid="h1acad36eg1d2ag46c5g9b98g906b8a17bb70_9" version="1">Cold Resistance</content>
+
+    <!-- Miêu tả hiệu ứng/khả năng kháng (Status Effect/Resistance Description) -->
+    <content contentuid="h2f4ba7deg0605g4cedg8e50ge4c0851c69f0_1" version="1">Slashing Damage</content>
+	<content contentuid="h2f4ba7deg0605g4cedg8e50ge4c0851c69f0_10" version="1">Psychic Damage</content>
+	<content contentuid="h2f4ba7deg0605g4cedg8e50ge4c0851c69f0_11" version="1">Poison Damage</content>
+	<content contentuid="h2f4ba7deg0605g4cedg8e50ge4c0851c69f0_12" version="1">Radiant Damage</content>
+	<content contentuid="h2f4ba7deg0605g4cedg8e50ge4c0851c69f0_13" version="1">Force Damage</content>
+	<content contentuid="h2f4ba7deg0605g4cedg8e50ge4c0851c69f0_14" version="1">Weapon Damage</content>
+	<content contentuid="h2f4ba7deg0605g4cedg8e50ge4c0851c69f0_15" version="1">Spell Damage</content>
+	<content contentuid="h2f4ba7deg0605g4cedg8e50ge4c0851c69f0_16" version="1">Healing</content>
+	<content contentuid="h2f4ba7deg0605g4cedg8e50ge4c0851c69f0_2" version="1">Piercing Damage</content>
+	<content contentuid="h2f4ba7deg0605g4cedg8e50ge4c0851c69f0_3" version="1">Bludgeoning Damage</content>
+	<content contentuid="h2f4ba7deg0605g4cedg8e50ge4c0851c69f0_4" version="1">Acid Damage</content>
+	<content contentuid="h2f4ba7deg0605g4cedg8e50ge4c0851c69f0_5" version="1">Thunder Damage</content>
+	<content contentuid="h2f4ba7deg0605g4cedg8e50ge4c0851c69f0_6" version="1">Necrotic Damage</content>
+	<content contentuid="h2f4ba7deg0605g4cedg8e50ge4c0851c69f0_7" version="1">Fire Damage</content>
+	<content contentuid="h2f4ba7deg0605g4cedg8e50ge4c0851c69f0_8" version="1">Lightning Damage</content>
+	<content contentuid="h2f4ba7deg0605g4cedg8e50ge4c0851c69f0_9" version="1">Cold Damage</content>
+    
+    <!-- Miêu tả hiệu ứng/khả năng nhạy cảm (Status Effect/Sensitivity Description) -->
+	<content contentuid="h8aa64a61g697ag44eag8025g72455bb15041_1" version="1">Slashing damage against this entity is doubled.</content>
+	<content contentuid="h8aa64a61g697ag44eag8025g72455bb15041_10" version="1">Psychic damage against this entity is doubled.</content>
+	<content contentuid="h8aa64a61g697ag44eag8025g72455bb15041_11" version="1">Poison damage against this entity is doubled.</content>
+	<content contentuid="h8aa64a61g697ag44eag8025g72455bb15041_12" version="1">Radiant damage against this entity is doubled.</content>
+	<content contentuid="h8aa64a61g697ag44eag8025g72455bb15041_13" version="1">Force damage against this entity is doubled.</content>
+	<content contentuid="h8aa64a61g697ag44eag8025g72455bb15041_14" version="1">Weapon damage against this entity is doubled.</content>
+	<content contentuid="h8aa64a61g697ag44eag8025g72455bb15041_15" version="1">Spell damage against this entity is doubled.</content>
+	<content contentuid="h8aa64a61g697ag44eag8025g72455bb15041_16" version="1">Healing damage against this entity is doubled.</content>
+	<content contentuid="h8aa64a61g697ag44eag8025g72455bb15041_2" version="1">Piercing damage against this entity is doubled.</content>
+	<content contentuid="h8aa64a61g697ag44eag8025g72455bb15041_3" version="1">Bludgeoning damage against this entity is doubled.</content>
+	<content contentuid="h8aa64a61g697ag44eag8025g72455bb15041_4" version="1">Acid damage against this entity is doubled.</content>
+	<content contentuid="h8aa64a61g697ag44eag8025g72455bb15041_5" version="1">Thunder damage against this entity is doubled.</content>
+	<content contentuid="h8aa64a61g697ag44eag8025g72455bb15041_6" version="1">Necrotic damage against this entity is doubled.</content>
+	<content contentuid="h8aa64a61g697ag44eag8025g72455bb15041_7" version="1">Fire damage against this entity is doubled.</content>
+	<content contentuid="h8aa64a61g697ag44eag8025g72455bb15041_8" version="1">Lightning damage against this entity is doubled.</content>
+	<content contentuid="h8aa64a61g697ag44eag8025g72455bb15041_9" version="1">Cold damage against this entity is doubled.</content>
+    <content contentuid="h5356720egefe8g4bd9ga82cg601b2352b8c4_1" version="1">Slashing damage against this entity is halved.</content>
+	<content contentuid="h5356720egefe8g4bd9ga82cg601b2352b8c4_10" version="1">Psychic damage against this entity is halved.</content>
+	<content contentuid="h5356720egefe8g4bd9ga82cg601b2352b8c4_11" version="1">Poison damage against this entity is halved.</content>
+	<content contentuid="h5356720egefe8g4bd9ga82cg601b2352b8c4_12" version="1">Radiant damage against this entity is halved.</content>
+	<content contentuid="h5356720egefe8g4bd9ga82cg601b2352b8c4_13" version="1">Force damage against this entity is halved.</content>
+	<content contentuid="h5356720egefe8g4bd9ga82cg601b2352b8c4_14" version="1">Weapon damage against this entity is halved.</content>
+	<content contentuid="h5356720egefe8g4bd9ga82cg601b2352b8c4_15" version="1">Spell damage against this entity is halved.</content>
+	<content contentuid="h5356720egefe8g4bd9ga82cg601b2352b8c4_16" version="1">Healing damage against this entity is halved.</content>
+	<content contentuid="h5356720egefe8g4bd9ga82cg601b2352b8c4_2" version="1">Piercing damage against this entity is halved.</content>
+	<content contentuid="h5356720egefe8g4bd9ga82cg601b2352b8c4_3" version="1">Bludgeoning damage against this entity is halved.</content>
+	<content contentuid="h5356720egefe8g4bd9ga82cg601b2352b8c4_4" version="1">Acid damage against this entity is halved.</content>
+	<content contentuid="h5356720egefe8g4bd9ga82cg601b2352b8c4_5" version="1">Thunder damage against this entity is halved.</content>
+	<content contentuid="h5356720egefe8g4bd9ga82cg601b2352b8c4_6" version="1">Necrotic damage against this entity is halved.</content>
+	<content contentuid="h5356720egefe8g4bd9ga82cg601b2352b8c4_7" version="1">Fire damage against this entity is halved.</content>
+	<content contentuid="h5356720egefe8g4bd9ga82cg601b2352b8c4_8" version="1">Lightning damage against this entity is halved.</content>
+	<content contentuid="h5356720egefe8g4bd9ga82cg601b2352b8c4_9" version="1">Cold damage against this entity is halved.</content>
+	<content contentuid="h1a4566fcgb2a0g403bg8290ga38efbb04b46_1" version="1">Slashing damage against this entity is nullified.</content>
+	<content contentuid="h1a4566fcgb2a0g403bg8290ga38efbb04b46_10" version="1">Psychic damage against this entity is nullified.</content>
+	<content contentuid="h1a4566fcgb2a0g403bg8290ga38efbb04b46_11" version="1">Poison damage against this entity is nullified.</content>
+	<content contentuid="h1a4566fcgb2a0g403bg8290ga38efbb04b46_12" version="1">Radiant damage against this entity is nullified.</content>
+	<content contentuid="h1a4566fcgb2a0g403bg8290ga38efbb04b46_13" version="1">Force damage against this entity is nullified.</content>
+	<content contentuid="h1a4566fcgb2a0g403bg8290ga38efbb04b46_14" version="1">Weapon damage against this entity is nullified.</content>
+	<content contentuid="h1a4566fcgb2a0g403bg8290ga38efbb04b46_15" version="1">Spell damage against this entity is nullified.</content>
+	<content contentuid="h1a4566fcgb2a0g403bg8290ga38efbb04b46_16" version="1">Healing damage against this entity is nullified.</content>
+	<content contentuid="h1a4566fcgb2a0g403bg8290ga38efbb04b46_2" version="1">Piercing damage against this entity is nullified.</content>
+	<content contentuid="h1a4566fcgb2a0g403bg8290ga38efbb04b46_3" version="1">Bludgeoning damage against this entity is nullified.</content>
+	<content contentuid="h1a4566fcgb2a0g403bg8290ga38efbb04b46_4" version="1">Acid damage against this entity is nullified.</content>
+	<content contentuid="h1a4566fcgb2a0g403bg8290ga38efbb04b46_5" version="1">Thunder damage against this entity is nullified.</content>
+	<content contentuid="h1a4566fcgb2a0g403bg8290ga38efbb04b46_6" version="1">Necrotic damage against this entity is nullified.</content>
+	<content contentuid="h1a4566fcgb2a0g403bg8290ga38efbb04b46_7" version="1">Fire damage against this entity is nullified.</content>
+	<content contentuid="h1a4566fcgb2a0g403bg8290ga38efbb04b46_8" version="1">Lightning damage against this entity is nullified.</content>
+	<content contentuid="h1a4566fcgb2a0g403bg8290ga38efbb04b46_9" version="1">Cold damage against this entity is nullified.</content>
+
+	<!-- Miêu tả hiệu ứng/khả năng kháng phép (Status Effect/Magic Resistance Description) -->
+    <content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_1" version="1">Slashing damage against this entity from non-magical attacks is nullified.</content>
+	<content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_10" version="1">Psychic damage against this entity from non-magical attacks is nullified.</content>
+	<content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_11" version="1">Poison damage against this entity from non-magical attacks is nullified.</content>
+	<content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_12" version="1">Radiant damage against this entity from non-magical attacks is nullified.</content>
+	<content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_13" version="1">Force damage against this entity from non-magical attacks is nullified.</content>
+	<content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_14" version="1">Weapon damage against this entity from non-magical attacks is nullified.</content>
+	<content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_15" version="1">Spell damage against this entity from non-magical attacks is nullified.</content>
+	<content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_16" version="1">Healing damage against this entity from non-magical attacks is nullified.</content>
+	<content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_2" version="1">Piercing damage against this entity from non-magical attacks is nullified.</content>
+	<content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_3" version="1">Bludgeoning damage against this entity from non-magical attacks is nullified.</content>
+	<content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_4" version="1">Acid damage against this entity from non-magical attacks is nullified.</content>
+	<content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_5" version="1">Thunder damage against this entity from non-magical attacks is nullified.</content>
+	<content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_6" version="1">Necrotic damage against this entity from non-magical attacks is nullified.</content>
+	<content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_7" version="1">Fire damage against this entity from non-magical attacks is nullified.</content>
+	<content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_8" version="1">Lightning damage against this entity from non-magical attacks is nullified.</content>
+	<content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_9" version="1">Cold damage against this entity from non-magical attacks is nullified.</content>
+    <content contentuid="h613f3ccbgb531g4175ga9cbge4a9ed938a12_1" version="1">Slashing damage against this entity from magical attacks is halved.</content>
+	<content contentuid="h613f3ccbgb531g4175ga9cbge4a9ed938a12_10" version="1">Psychic damage against this entity from magical attacks is halved.</content>
+	<content contentuid="h613f3ccbgb531g4175ga9cbge4a9ed938a12_11" version="1">Poison damage against this entity from magical attacks is halved.</content>
+	<content contentuid="h613f3ccbgb531g4175ga9cbge4a9ed938a12_12" version="1">Radiant damage against this entity from magical attacks is halved.</content>
+	<content contentuid="h613f3ccbgb531g4175ga9cbge4a9ed938a12_13" version="1">Force damage against this entity from magical attacks is halved.</content>
+	<content contentuid="h613f3ccbgb531g4175ga9cbge4a9ed938a12_14" version="1">Weapon damage against this entity from magical attacks is halved.</content>
+	<content contentuid="h613f3ccbgb531g4175ga9cbge4a9ed938a12_15" version="1">Spell damage against this entity from magical attacks is halved.</content>
+	<content contentuid="h613f3ccbgb531g4175ga9cbge4a9ed938a12_16" version="1">Healing damage against this entity from magical attacks is halved.</content>
+	<content contentuid="h613f3ccbgb531g4175ga9cbge4a9ed938a12_2" version="1">Piercing damage against this entity from magical attacks is halved.</content>
+	<content contentuid="h613f3ccbgb531g4175ga9cbge4a9ed938a12_3" version="1">Bludgeoning damage against this entity from magical attacks is halved.</content>
+	<content contentuid="h613f3ccbgb531g4175ga9cbge4a9ed938a12_4" version="1">Acid damage against this entity from magical attacks is halved.</content>
+	<content contentuid="h613f3ccbgb531g4175ga9cbge4a9ed938a12_5" version="1">Thunder damage against this entity from magical attacks is halved.</content>
+	<content contentuid="h613f3ccbgb531g4175ga9cbge4a9ed938a12_6" version="1">Necrotic damage against this entity from magical attacks is halved.</content>
+	<content contentuid="h613f3ccbgb531g4175ga9cbge4a9ed938a12_7" version="1">Fire damage against this entity from magical attacks is halved.</content>
+	<content contentuid="h613f3ccbgb531g4175ga9cbge4a9ed938a12_8" version="1">Lightning damage against this entity from magical attacks is halved.</content>
+	<content contentuid="h613f3ccbgb531g4175ga9cbge4a9ed938a12_9" version="1">Cold damage against this entity from magical attacks is halved.</content>
+    <content contentuid="h3aae6c8cg0762g42a1g8009g198913051bda_1" version="1">Slashing damage against this entity from magical attacks is nullified.</content>
+	<content contentuid="h3aae6c8cg0762g42a1g8009g198913051bda_10" version="1">Psychic damage against this entity from magical attacks is nullified.</content>
+	<content contentuid="h3aae6c8cg0762g42a1g8009g198913051bda_11" version="1">Poison damage against this entity from magical attacks is nullified.</content>
+	<content contentuid="h3aae6c8cg0762g42a1g8009g198913051bda_12" version="1">Radiant damage against this entity from magical attacks is nullified.</content>
+	<content contentuid="h3aae6c8cg0762g42a1g8009g198913051bda_13" version="1">Force damage against this entity from magical attacks is nullified.</content>
+	<content contentuid="h3aae6c8cg0762g42a1g8009g198913051bda_14" version="1">Weapon damage against this entity from magical attacks is nullified.</content>
+	<content contentuid="h3aae6c8cg0762g42a1g8009g198913051bda_15" version="1">Spell damage against this entity from magical attacks is nullified.</content>
+	<content contentuid="h3aae6c8cg0762g42a1g8009g198913051bda_16" version="1">Healing damage against this entity from magical attacks is nullified.</content>
+	<content contentuid="h3aae6c8cg0762g42a1g8009g198913051bda_2" version="1">Piercing damage against this entity from magical attacks is nullified.</content>
+	<content contentuid="h3aae6c8cg0762g42a1g8009g198913051bda_3" version="1">Bludgeoning damage against this entity from magical attacks is nullified.</content>
+	<content contentuid="h3aae6c8cg0762g42a1g8009g198913051bda_4" version="1">Acid damage against this entity from magical attacks is nullified.</content>
+	<content contentuid="h3aae6c8cg0762g42a1g8009g198913051bda_5" version="1">Thunder damage against this entity from magical attacks is nullified.</content>
+	<content contentuid="h3aae6c8cg0762g42a1g8009g198913051bda_6" version="1">Necrotic damage against this entity from magical attacks is nullified.</content>
+	<content contentuid="h3aae6c8cg0762g42a1g8009g198913051bda_7" version="1">Fire damage against this entity from magical attacks is nullified.</content>
+	<content contentuid="h3aae6c8cg0762g42a1g8009g198913051bda_8" version="1">Lightning damage against this entity from magical attacks is nullified.</content>
+	<content contentuid="h3aae6c8cg0762g42a1g8009g198913051bda_9" version="1">Cold damage against this entity from magical attacks is nullified.</content>
+
+>
+
+
+</contentList>

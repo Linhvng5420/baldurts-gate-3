@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contentList>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_0" version="1">Không có</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_1" version="1">Rìu chiến</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_1024" version="1">Nỏ tay</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_1048576" version="1">Chùy</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_1073741824" version="1">Cung ngắn</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_128" version="1">Đại trượng</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_131072" version="1">Búa nhẹ</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_134217728" version="1">Kiếm rapier</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_137438953472" version="1">Búa chiến</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_16" version="1">Roi sắt</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_16384" version="1">Lao</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_16777216" version="1">Chùy gai</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_17179869184" version="1">Súng cao su</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_2" version="1">Gậy gộc</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_2048" version="1">Rìu tay</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_2097152" version="1">Vũ khí chiến đấu</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_2147483648" version="1">Kiếm ngắn</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_256" version="1">Đại kiếm</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_262144" version="1">Cung dài</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_268435456" version="1">Kiếm scimitar</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_274877906944" version="1">Cuốc chiến</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_32" version="1">Thương dài</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_32768" version="1">Giáp nhẹ</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_33554432" version="1">Giáo dài</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_34359738368" version="1">Thương ngắn</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_4" version="1">Dao găm</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_4096" version="1">Giáp nặng</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_4194304" version="1">Chùy lớn</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_4294967296" version="1">Liềm</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_512" version="1">Kích</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_524288" version="1">Kiếm dài</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_536870912" version="1">Khiên</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_545296384" version="1">Giáp</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_549755813888" version="1">Nhạc cụ</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_64" version="1">Rìu lớn</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_65536" version="1">Nỏ nhẹ</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_67108864" version="1">Gậy phép</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_68719476736" version="1">Đinh ba</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_8" version="1">Phi tiêu</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_8192" version="1">Nỏ nặng</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_8388608" version="1">Giáp trung</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_8589934592" version="1">Vũ khí đơn giản</content>
+
+
+
+
+	<!-- ADAMANTINE -->
+	<content contentuid="h0bc16905g7711g4e59gb100gb5eec5549019" version="1">Phôi Adamantine</content>
+	<content contentuid="h0fa3303fg0204g4813gac47g9612b3078a17" version="2">Lò rèn Adamantine</content>
+	<content contentuid="h1e364f5eg4284g46c4g9337g640488392f7e" version="1">Rương Adamantine</content>
+	<content contentuid="h382d1c0cg2d38g4a98g8e68g6a1b74928542" version="3">Da Adamantine</content>
+	<content contentuid="h39b84902g3f14g4041gb6c8g4cad6ce53857" version="2">Adamantine Scimitar</content>
+	<content contentuid="h402c1905gc3e6g4b93g8f1bgd8fa0cc4d9ab" version="1">Lưới Adamantine</content>
+	<content contentuid="h5cf9448fg8ac4g4de2g8e99g77cc37a62a5e" version="1">Xỉ Adamantine</content>
+	<content contentuid="h74251ecag1738g4535gbe43g008a09b94249" version="2">Lá chắn Adamantine</content>
+	<content contentuid="h7eaafff3gebcfg4210g9e83gb0e56211800d" version="3">Adamantine Reverberation</content>
+	<content contentuid="h87bcb063g4208g4db9ga201g603b93ef3651" version="3">Mảnh Adamantine</content>
+	<content contentuid="h8a357567gf3e6g4773g9243g3eaa0a148f9d" version="2">Chùy Adamantine</content>
+	<content contentuid="h8de6155cg1debg4c1fg83a7g8d71cab41297" version="3">Adamantine Reverberation</content>
+	<content contentuid="h94ea441fgd54dg4307g9f73g027a971f44c3" version="2">Adamantine Reverberation</content>
+	<content contentuid="ha31b50c1g9fa4g4d92gb54egc0ff3d8ea227" version="1">Tấm Adamantine</content>
+	<content contentuid="hc5e102d2gb35cg4c0cg843eg599866ecded6" version="2">Adamantine Backlash</content>
+	<content contentuid="hd3dc0cd3g2148g468cga73dg9427712b7165" version="2">Lá chắn Adamantine</content>
+	<content contentuid="hd7b1565cgc9bdg49b3g944bg1a53ca488c45" version="1">Lò rèn Adamantine</content>
+	<content contentuid="hdb4b6a19gf917g47c6gb7c2g0f47b55da8a9" version="1">Xỉ Adamantine</content>
+	<content contentuid="he1ac2197gd858g4b5egad52g88a00c689194" version="2">Áo giáp vảy Adamantine</content>
+	<content contentuid="he7d52b83g82f3g44efgb808g65986879aeb7" version="2">Lò rèn Adamantine</content>
+	<content contentuid="he8e5d5d3g15ceg4226gbbf1g3c83cc9beb1c" version="2">Kiếm dài Adamantine</content>
+	<content contentuid="hf1c118d2gfc2eg4732ga84ag8f364c53a82b" version="1">Adamantine Golem</content>
+
+
+
+
+	<!-- Equipment Items -->
+	<content contentuid="h0cf9ffebga616g4e18g84aeg73adc4261808" version="1">Giáp Agathys</content>
+	<content contentuid="h115016e2g742fg4161ga4fdgac867231ad3a" version="2">Giáp Landfall</content>
+	<content contentuid="h161232a0g2839g4b31g89fcg24313c1d402e" version="2">Giáp Sự Bền Bỉ</content>
+	<content contentuid="h1a0aa9bcg6dd8g4bbfgad81ga3234e43ed08" version="1">Giáp Hexes</content>
+	<content contentuid="h23599e42g3311g49a0g9d4fg1a44d322d9f1" version="1">Giáp</content>
+	<content contentuid="h2d427773g3a1cg4058gb845g15ccea57fe2d" version="3">Giáp Sporekeeper</content>
+	<content contentuid="h3b6e5c67g7676g4514gb257g56170b1cf0c8" version="1">Giáp Hexes</content>
+	<content contentuid="h3bcbfb94gb63fg49b3g834dg20179df581df" version="1">Thương nhân Giáp</content>
+	<content contentuid="h3d063fefgac6cg453dgb881g0c9be50ddb6c" version="3">Giáp Moonbasking</content>
+	<content contentuid="h44aeccefgef1cg4cb1gae86g668848e041d9" version="2">Giáp Nhanh nhẹn</content>
+	<content contentuid="h60aeed1agd4b7g4bd0gb1a5g1a39ea20aa68" version="2">Giáp Bóng tối</content>
+	<content contentuid="h64dcbd26g749fg4648g8018g102e0f61d71e" version="1">Giáp Agathys</content>
+	<content contentuid="h6d1b6256g3ea8g4e82gaa0agc7fbeb252fdf" version="1">Lớp giáp</content>
+	<content contentuid="h6faae0a1gfb95g4a47g9c1cgbd4baa6c7766" version="1">Giáp</content>
+	<content contentuid="h75541ec9gc94dg4785g8014gb8b695bb9d30" version="1">Giáp Agathys</content>
+	<content contentuid="h75833133gc5cbg4422g9e40ge22ba82fbf9a" version="1">Giáp</content>
+	<content contentuid="h8e1b91f6g9a79g4978g9fe6g5446a55f8053" version="1">Owlbear Giáp</content>
+	<content contentuid="h9ac79039g668bg4b3cg9a34g3688c34d084b" version="1">Giáp và Khiên</content>
+	<content contentuid="h9e9592f0g3554g4c02gb1fdg4e152a3089c2" version="1">Thợ làm giáp Absolute</content>
+	<content contentuid="ha6892c37g6bdeg435bg8aa9g219ad2c7520a" version="1">Giáp Đám bọ</content>
+	<content contentuid="had29e589gd812g473bg90dfg66d1280fbbf1" version="1">Giáp</content>
+	<content contentuid="hb677b3f7g5cf6g49c3g84fag2f773ef50dd6" version="1">Giáp</content>
+	<content contentuid="hbbff7238gd49fg4248g9c7fg186bdb1d2f5b" version="1">Giáp Agathys</content>
+	<content contentuid="hc01764e4g7e3eg4be6g83d6gac4e0dc12059" version="5">Cua có giáp</content>
+	<content contentuid="hc2150df7g5297g4558g807bg64d79a270dbc" version="1">Kho Giáp</content>
+	<content contentuid="hc3e2d7e9g2945g41c0ga434g287939ff34ac" version="1">Lớp giáp [1]</content>
+	<content contentuid="hc59029cbgfc04g4b48gaef3gee950831af87" version="1">Thành thạo Giáp</content>
+	<content contentuid="hc59ef510g6d0ag476dg8df1ga0e6cc7259cc" version="1">Giáp Hexes</content>
+	<content contentuid="hc711eb4ag0534g458egadddgc95938c8c370" version="2">Giáp Bất Kham Kushigo</content>
+	<content contentuid="hd0d5c5b6g213bg4a73g984egfeabf5d8f1f4" version="1">Giáp Agathys</content>
+	<content contentuid="hd2b99c87g218cg4845ga896g482b869e7b29" version="1">Giáp. Lưỡi dao. Tướng Rivington.</content>
+	<content contentuid="he36b54d7g0974g4908gb95fga014fe3a2d04" version="3">Giáp Tận Tâm</content>
+	<content contentuid="hf9e7b5aaga40eg4ce6gb799g0199a710c704" version="1">Giáp (dân sự)</content>
+	<content contentuid="hfb7e65a4g0fa9g4229g8e9fg698a1cee61df" version="1">Lớp giáp [1]</content>
+	<content contentuid="hfe195c05gfeaag4bcdg9883gcc0b6469e78d" version="1">Giáp Agathys</content>
+	<content contentuid="h02c7322eg811fg4097ga95fg4439f62ee871" version="3">Giáp Da Drow Phai Màu</content>
+	<content contentuid="h02f4ca1eg2709g4f96ga9afg251cb0b1cba3" version="2">Giáp Bại Não</content>
+	<content contentuid="h041917b4g8681g4c47gb51dga4b8b23f8d66" version="1">Giáp Pháp Sư</content>
+	<content contentuid="h06af4790g316bg4d50gb36cg7898553e519b" version="1">Giáp Helldusk Lỗi</content>
+	<content contentuid="h093c7448gab7ag477dg9e4bgac66bd669a20" version="1">Giáp Đệm Hỏng</content>
+	<content contentuid="h0d36c182gd7acg4e02gacdcg8b6094f22408" version="1">Giáp Tơ Nhện</content>
+	<content contentuid="h162d4d3fg99cfg4772g9168g1e2b192e8e16" version="1">Giáp Cướp</content>
+	<content contentuid="h1f5f61b0ge1b7g4d5fga2e9g46b1d5a9330b" version="1">Giáp Nhẹ</content>
+	<content contentuid="h1ff2beb9gbfe8g4058g8ef3g7432be4824a6" version="2">Giáp Khốn Khổ của Sarevok</content>
+	<content contentuid="h22728338g5ee9g4fffg95degc682b7a51805" version="3">Giáp Da Cây</content>
+	<content contentuid="h2376ccedg2fa7g4d79g99b6ga38f6f44ca80" version="2">Giáp Phát Sáng</content>
+	<content contentuid="h2a4a4c70ga492g421bg9c13g8337435a3693" version="1">Giáp Hoạt Họa</content>
+	<content contentuid="h2cfe88fcg47e3g48fdg8c05g036d2b956a63" version="1">Giáp Hoạt Họa</content>
+	<content contentuid="h2d4060a3g0aeeg43d2g9bb3g3d7751ce1799" version="1">Giáp Kị Sĩ Phá Lời Thề</content>
+	<content contentuid="h2eebdf9ag6c29g43d2g80d8g3371b7d65cdf" version="1">Giáp Nhẹ</content>
+	<content contentuid="h3259a3ecg2809g470cgb8deg14caa6f8c1a6" version="2">Giáp Pháp Sư</content>
+	<content contentuid="h378386abgaaa6g4852gb788g7f47b59ded25" version="1">Giáp Nặng</content>
+	<content contentuid="h44b84102g0bb5g4783g94d7g332b34dc3228" version="1">Giáp Đệm</content>
+	<content contentuid="h4674443cg0107g4540gb48fg257bbb0a2899" version="4">Giáp Rỗng</content>
+	<content contentuid="h472ff680g4ac0g4374gbf86gbf3290fd1e65" version="1">Giáp Da Druid</content>
+	<content contentuid="h47fe6d6eg6784g4fbdg895cg3d40ea34a675" version="2">Giáp Nửa Tối</content>
+	<content contentuid="h4871b471g84a3g4b3fga378gca15adf233d2" version="2">Giáp Tường Tia Lửa</content>
+	<content contentuid="h4cc63540g8fb2g4bf2g9e51gfad04c4ad8c2" version="2">Giáp Kẻ Hút Khổ Đau</content>
+	<content contentuid="h4d7f1ee0g6a61g4d80ga24bg135c80bc6203" version="2">Giáp Đồng Xu</content>
+	<content contentuid="h4e81c9f7gfd66g43b5gbcbfg5c477c75d0ee" version="1">Giáp Nửa Tấm</content>
+	<content contentuid="h4fb6885fga4ebg4d01ga5f4gbbe22b3824bd" version="2">Giáp Vải</content>
+	<content contentuid="h5013e5b4gcd78g4c9egb0d4g889196fa975a" version="3">Giáp Hộ Thân Linh Hồn</content>
+	<content contentuid="h539e411cgba60g4d25g8ea3g126f35c18252" version="2">Giáp Bhaalist</content>
+	<content contentuid="h54f7ff6egd99cg4773g8232g467ce78c6714" version="2">Chàng Trai Trẻ Trong Giáp Tấm</content>
+	<content contentuid="h55c03a80gffb9g4ec7g9555g828159f39d64" version="1">Giáp Da Drow</content>
+	<content contentuid="h57453a54g63c4g4a5ega7a6gdfa9c0db1534" version="1">Giáp Có Thể Nhuộm</content>
+	<content contentuid="h57b51154gcdbdg4d82ga2cbg940e735e7c3a" version="2">Giáp Tấm Adamantine</content>
+	<content contentuid="h582c8880g8dbbg4674g8979g97dd8e38d323" version="2">Giáp Tường Tia Lửa</content>
+	<content contentuid="h5b36d0cdgd4b9g4926g97bbg6394b2c0ae61" version="1">Giáp Tấm</content>
+	<content contentuid="h5bc3459ag34a8g4653gb7e9g2f902228cab2" version="1">Giáp Da Đinh Tán Drow</content>
+	<content contentuid="h5c63d68bgdf22g4e00gb229g3a81be78141a" version="3">Giáp Hoạt Họa</content>
+	<content contentuid="h64b92622ga715g41a3g9228gd7640ca4c067" version="2">Giáp Bám Bóng</content>
+	<content contentuid="h6b165a70gef80g44fag8001gd3f6343fde73" version="1">Giáp Vật Lý</content>
+	<content contentuid="h6f3a5e38gbbfcg4807gb2c9g6fb74bdeb8da" version="2">Giáp Helldusk</content>
+	<content contentuid="h6f7b9c94g4ee6g4d08g8fc1g7e79c1fc0e64" version="1">Giáp Vòng</content>
+	<content contentuid="h71d00b00g56dcg4e21g8662g060ced42c3dc" version="1">Giáp Nặng</content>
+	<content contentuid="h79417934g65f7g47ebga830gc44002a77b3c" version="1">Giáp Druidic</content>
+	<content contentuid="h7b241021g84ddg4689ga7b7g32734914d09b" version="1">Giáp Da</content>
+	<content contentuid="h84b4d260g2808g4f22gb3e3gb5e61c5c28dd" version="1">Giáp Tấm</content>
+	<content contentuid="h85010296g10afg4baagbabeg4a6e624d82e3" version="1">Giáp Pháp Sư</content>
+	<content contentuid="h85e89d47gacc7g410agb0a1gd48788bbf570" version="1">Giáp Man Tộc</content>
+	<content contentuid="h8ac528a1g2cf2g4cd3ga335g7e6c63437b6b" version="1">Giáp Pháp Sư của Rolan</content>
+	<content contentuid="h8ebe7479gc62eg4905g992agf7f5b0528402" version="1">Giáp Da Đỏ Thẫm</content>
+	<content contentuid="h8f5c3541g113eg4b60g9b49gaa208513b9ae" version="1">Giáp Kẻ Du Mục Bụi Cây</content>
+	<content contentuid="h90349260geefbg4931gaf12g20dac37332ee" version="1">Giáp Đệm Hỏng</content>
+	<content contentuid="h90eecf62g0e0dg4eefgae12gd72a5ef17eb5" version="2">Giáp Da Hỏng</content>
+	<content contentuid="h9618be2dg6e9fg46d7g96a2g302d2b15d035" version="1">Giáp Ẩn</content>
+	<content contentuid="h9d1bfb3ag8987g44a6gb26bge1f9298585ee" version="3">Giáp Vực Luyện Ngục</content>
+	<content contentuid="ha147b9fdg93cbg431fgb8bfg95abcac4fa2b" version="2">Giáp Men Lửa</content>
+	<content contentuid="ha92ec59eg7282g4c4bga663g310b1f9b8986" version="2">Giáp Helldusk</content>
+	<content contentuid="ha9c53b00g69f5g459bg84a1g1cdca6c8e519" version="3">Giáp Da Đinh Tán Drow</content>
+	<content contentuid="hac8427a6gcf35g48a2g93feg072f08af2e20" version="1">Giáp Pháp Sư</content>
+	<content contentuid="hb5457adegf335g42dcgab5eg2a57e9deb29d" version="1">Hấp Thụ Sấm Sét: Giáp Phép thuật</content>
+	<content contentuid="hb5c52d20g6855g4929ga78ege3fe776a1f2e" version="1">Giáp Thân</content>
+	<content contentuid="hb8def06bgb7b2g400dg9533g75d746114017" version="1">Giáp Da Đinh Tán</content>
+	<content contentuid="hbbfcc8cdg20bag4a4fga64bgee2f7f1fe21a" version="1">Giáp Phản Hồi Linh Hồn</content>
+	<content contentuid="hbd44c0e2g6a6eg4c8ag8ef4gbe1b95e4bf49" version="1">Giáp Trung Bình</content>
+	<content contentuid="hcae5981agba74g4e28g8619gd2c30f647890" version="1">tới từ Giáp</content>
+	<content contentuid="hdb5d4b2dge311g4bb1ga415g0066555ff0d0" version="1">Giáp Bị Khía</content>
+	<content contentuid="hdc524c1age0cdg4303g9e52g7bcc933c7b0b" version="1">Giáp Trung Bình</content>
+	<content contentuid="hdd5c98e7g0781g4e39ga68bg132f95839e51" version="1">Giáp Đệm của Lưỡi Kiếm</content>
+	<content contentuid="he050c4c0g2f38g4241g9e4eg9cb294593602" version="1">Giáp Da Druid</content>
+	<content contentuid="he2545323g7459g43b1gb0d7g0ae7e920ae08" version="1">Giáp Vật Lý</content>
+	<content contentuid="he5d65811gd987g4e01g8372ge7422152b692" version="1">Giáp của Bài Ca Đêm</content>
+	<content contentuid="he6067f54g8bb6g4e53gbacdg241bbce79dd5" version="2">Giáp Bị Xé Rách</content>
+	<content contentuid="hf3b1df9ag8593g45adg92b4gfb3f88068145" version="2">Giáp Pháp Sư của Rolan</content>
+	<content contentuid="hf5a7acccg6c9dg4699g9b98g2ac689ec96d4" version="2">Giáp Da Đinh Tán</content>
+	<content contentuid="hf6c5eb53g939ag4d43ga2d6g18c9b88d5872" version="1">Giáp Vải</content>
+	<content contentuid="hf93a566agb35eg49d5gb4fag4180e5929da3" version="2">Giáp Ma Quỷ</content>
+	<content contentuid="hfa2140c8g0b74g4ac0g81ffg75146ee3ef6c" version="1">Giáp Nặng</content>
+	<content contentuid="hfb6d4ca7g933cg4585g8196g4a591eec41b0" version="2">Giáp Bị Xé Nát</content>
+	<content contentuid="hfcdc8aabg6c00g4d12g8963gdd110d202c56" version="3">Giáp Đao Phủ Bóng Tối Bị Hỏng</content>
+	<content contentuid="h035a4844g110cg48d8g8f8dg1c14bfff0480" version="1">Giáp Tấm +1</content>
+	<content contentuid="h2087d968g92bdg4675gae0bgeb86f4be3bc2" version="1">Giáp Da Đinh Tán +1</content>
+	<content contentuid="h2f1726afg3b86g4eb5g9751ga892fb4b0db9" version="1">Giáp Nửa Tấm +1</content>
+	<content contentuid="h3ff4600cgd883g4a49gafefgedbb079368cb" version="1">Giáp Vòng +2</content>
+	<content contentuid="h4aa3a46bg4908g4abagb5cag338536e4c3ef" version="1">Giáp Da Đinh Tán +2</content>
+	<content contentuid="h5f9fc655gf5c9g4c50g8f66gbc1a772cd938" version="1">Giáp Vòng +1</content>
+	<content contentuid="h61fe88c8g78b8g4baeg8efbg2d2fb20209a2" version="1">Giáp Đệm +1</content>
+	<content contentuid="h69bba95dg9526g4eeega9f3gdd6f5851c683" version="1">Giáp Tấm +1</content>
+	<content contentuid="h76b5ce31g4dbfg4795g9dc9g5e6742f3f85d" version="1">Giáp Tấm +2</content>
+	<content contentuid="h77d95edfg7b6ag45b6gadddgcf2774c8b7a6" version="1">Giáp Đệm +2</content>
+	<content contentuid="h8b9336a1ga079g4878g8d84g233d308e4613" version="1">Giáp Nửa Tấm +1</content>
+	<content contentuid="ha90d4a31ga6a9g4f33gb368gfd010087f4f9" version="1">Giáp Ẩn +2</content>
+	<content contentuid="hc0963087g1249g49a3g97a2g796d4ce141aa" version="1">Giáp Đệm +2</content>
+	<content contentuid="hc1997538g0770g4c6dgbd14g18a56be5cd61" version="2">Giáp Nửa Tấm +2</content>
+	<content contentuid="hc95058aag519dg4264ga683gd1c3df546e6c" version="1">Giáp Tấm +2</content>
+	<content contentuid="hd650a12dg925fg4788ga637gfa1c7ca78b24" version="1">Giáp Da +2</content>
+	<content contentuid="hf7a2b514g0c09g4bedgbaafg7f272e37b73f" version="1">Giáp Da +1</content>
+	<content contentuid="hfe08e6f9gad35g4785g8e70g58fe94d145e2" version="1">Giáp Ẩn +1</content>
+	
+	<content contentuid="h0a653e7egf7b7g4351gb2bagc6924fb36893" version="1">Giáp Vảy Báo Thù</content>
+	<content contentuid="h16cccaddga126g4275g9124g692ff14a31f0" version="1">Ngươi đang tống tiền ta sao?</content>
+	<content contentuid="h1c4e5073gdf98g428bg8ec6gbdd52d1d4ae3" version="1">Hồ Sơ Tống Tiền của Nhà Patriar</content>
+	<content contentuid="h20258a73g331cg4a37gb1abgacd31f25609e" version="2">Giáp Vảy Lực Gợn Sóng</content>
+	<content contentuid="h57d2bbd2gd4abg4339gbee9g0e4634346da5" version="1">Ủng Giáp Xích</content>
+	<content contentuid="h5c1718aag4743g4853gb1cfgefdea9b27efa" version="2">Bộ giáp đẹp đấy.</content>
+	<content contentuid="h6a528140gbbdcg4a56gb219g9fbc4161921e" version="2">Giáp Vảy +2</content>
+	<content contentuid="h88bc0cb2gd82ag41cegb795g347b6efbc3e3" version="2">Giáp Vảy Hư Hỏng</content>
+	<content contentuid="h8e6fd259gff9fg44f3gb23cge9eca24925d2" version="1">Tống tiền thương nhân.</content>
+	<content contentuid="h8e799a51g299ag4f34gba13gcae78aff9994" version="2">Giáp Xích +1</content>
+	<content contentuid="h92e017e4g8828g407dgb11cg5d7c201d9743" version="2">Giáp Vảy Yuan-ti</content>
+	<content contentuid="ha192e592g1e5eg41e9ga993gfde0418af0fb" version="2">Giáp Xích</content>
+	<content contentuid="ha3016f8dg753eg4581gb69bg0f259d22531a" version="2">Tống tiền kẻ đào ngũ của Nắm Đấm Rực Lửa.</content>
+	<content contentuid="ha4f4b5d6gf510g41ecgbc7fga2d86540d26b" version="1">Giáp Vảy Sùng Tín</content>
+	<content contentuid="ha6d559a9g867ag432dgb4d4gce0fe72cfffd" version="2">Nắm Đấm Bọc Giáp</content>
+	<content contentuid="hb1dc1967gae04g44dcg8653g6fe4a1b36b96" version="1">Khuôn Giáp Vảy (Giáp Trung)</content>
+	<content contentuid="hb5e5ce59g8d40g485fga529g6aad0bbc702f" version="3">Bộ giáp trên nắm đấm đó thật đẹp.</content>
+	<content contentuid="hc0e1dcacg9a38g4afdgb4aagcf98bee4343d" version="1">Giáp Vảy Cổ Xưa</content>
+	<content contentuid="hd5f0ac2ag10e1g4f6cga116g044e2d450fbb" version="2">Giáp Phiến Người Lùn</content>
+	<content contentuid="hd73cb0b1g7c88g449ag89bagf472c3e91a20" version="2">Giáp Hắc Thẩm Phán</content>
+	<content contentuid="hf1cd68e2g2f05g4ba5g8b63gfd4ed53789cc" version="2">Giáp Vảy Tuyệt Tác Bị Chối Bỏ</content>
+	<content contentuid="hf60138e2g3076g4824g8678g1aedcd31b914" version="2">Giáp Xích +2</content>
+	<content contentuid="hf6e2cd48g4468g43e5g94fdgf3334dbf9613" version="1">Giáp Vảy Vương Miện</content>
+	<content contentuid="hf6f63a32g3127g45bag8c62gb85b8cb40040" version="2">Giáp Vảy</content>
+	<content contentuid="hff191c3cg352eg4672gb13eg61f03fade18e" version="2">Giáp Vảy +1</content>
+	<content contentuid="h02f5ec89g9babg4d01g9866gf5dcdfad1fe1" version="1">Áo Giáp Xích</content>
+	<content contentuid="h52ebd561ga551g4abcgaaa1gda62ab89e1e8" version="1">Xích Giải Thoát</content>
+	<content contentuid="h61964d15g44cfg4ad5ga89bgc3663108fc6b" version="4">Chuỗi Xích Sấm Sét</content>
+	<content contentuid="h76caba96gba26g49beg93f9g4372247b2e8f" version="1">Áo Giáp Xích +1</content>
+	<content contentuid="h7be0cc59gdfc0g4ac4ga67cg2c89d9832cda" version="1">Xích Bạo Quyền</content>
+	<content contentuid="h8590a4dbg4bb0g4f52g87bdg17ce7ed490d4" version="1">Chuỗi Xích Sấm Sét</content>
+	<content contentuid="h9f64355cg2c1dg42a1g8fb6g87254f8a41c2" version="2">Xiềng Xích của Karsus</content>
+	<content contentuid="hb28e29f3ge12eg4a50gb131g8bd3a56ecc4e" version="1">Xiềng Xích</content>
+	<content contentuid="hb59cfbb3ge7a9g497bg8bfag58873e386d42" version="1">Xích Chỉ Huy</content>
+	<content contentuid="hc2ab941eg2fafg498egbbc1gb77cf325fa8d" version="1">Áo Giáp Xích +2</content>
+	<content contentuid="hd6da8977gc467g4a50g91c7ga2950ac8a6d4" version="1">Xích Bạo Quyền</content>
+	<content contentuid="hde3d1725g6e85g4b99g8ebagf3f75109f1d6" version="1">Xiềng Xích</content>
+	<content contentuid="hf79ebe73g5de9g4778gae50g91baa0313684" version="1">Xiềng Xích</content>
+	<content contentuid="h008b56feg795fg4f0agb10dg35b1417ea276" version="2">Áo Giáp Xích Tiên Tộc</content>
+	<content contentuid="h16fc9115g4e33g4f28gadd6g80073c41d5df" version="2">Áo Giáp Xích Tiên Tộc</content>
+	<content contentuid="h68816f49gc6d7g4b4ag82ddgafa29dca0aef" version="1">Áo Giáp Xích Nhà Vô Địch</content>
+	<content contentuid="hee123ba5g7a98g4fb5gae58g94763301a1bf" version="2">Áo Giáp Xích Địa Ngục</content>
+	<content contentuid="hf7438cc9g3d80g4288gaa63g05f373fb4356" version="1">Áo Giáp Xích Bậc Thuần Thú</content>
+	<content contentuid="h9feac94agaf43g42bfg8977g09bb5d33a770" version="1">Áo Giáp Xích Bền Bỉ</content>
+	<content contentuid="hb580ee7dg56f9g4008gb0edg834811b28f28" version="2">Áo Giáp Xích Trơn Trượt</content>
+	<content contentuid="hcd813a34gbbc1g4d44gb0a9g74c95acdc1d3" version="2">Áo Giáp Xích Hư Hỏng</content>
+	<content contentuid="ha717549cge179g4663gbd08g31e962705e92" version="2">Khế Ước Xiềng Xích</content>
+	<content contentuid="h12d24813g8944g4615g8a54g5cc5bcbd8e83" version="2">Xiềng Xích Truy Lùng</content>
+	<content contentuid="hf4a0d624g56cdg4d57gb960gc19b5b4c4619" version="4">Xiềng Xích Giòn</content>
+	<content contentuid="h222f8ae6g700eg42a3g9a6dgf38bfe7de005" version="4">Xiềng Xích Giòn</content>
+	<content contentuid="h4e9ca968gd5e4g44b2g8994g5c084ebaaeb8" version="2">Kẻ Phá Xiềng</content>
+	<content contentuid="h6702f4c0g4abbg42c0g9b0cg2a7ee1a69713" version="2">Set 2 Thùy Xích Phải</content>
+	<content contentuid="h6d32ce11g65cag4ef8ga2b3g2b4d2ceace9d" version="4">Xiềng Xích Ma Quỷ</content>
+	<content contentuid="hd7c2eddfge5dfg498fgb842g0dd5abc9c2a0" version="2">Set 2 Thùy Xích Trái</content>
+
+	<content contentuid="h9bf9d513gc6b3g4a7dgb0b5g01f3892547f6" version="3">Găng Tay Da</content>
+	<content contentuid="hc5ea94ecg5b07g4c7bgb1e2g9beff809cf65" version="1">Găng Tay Da</content>
+	<content contentuid="hc8a1c769gf22fg4102g8333g8f6642ccf9de" version="2">Găng Tay Da Drow</content>
+	<content contentuid="h01d8250fg0397g45b8g81ffgeafc2cf279e7" version="1">Găng Tay Da Drow</content>
+	<content contentuid="h865f5db1g7d17g42e2gb119g432d20816a4b" version="1">Bộ Đồ Da Cut-Throat</content>
+	<content contentuid="h04aa9c42g48a8g4a64g8cafg56d17a850652" version="1">Bộ Đồ Da Strapped Choker</content>
+	<content contentuid="h11dd5a13gcc9bg4268g92fagf66a3c00aa9e" version="1">Vòng Trán Bằng Da</content>
+	<content contentuid="h132f6a3bg4db7g4172ga470gf5757e5aeee6" version="1">Trang Phục Da Bright Flare</content>
+	<content contentuid="h1aea3853ga1cag4a9eg82ffg3c8795074ee3" version="1">Trang Phục Da Black Flare</content>
+	<content contentuid="h274d4a4eg4d21g4a34gb731g2024567e0019" version="1">Trang Phục Da Green Flare</content>
+	<content contentuid="ha532cf91ge60cg4c8cga7e4g980bb6de5843" version="1">Trang Phục Da Blue Flare</content>
+	<content contentuid="h197de50bg3de2g4b9cga103g5d491f240071" version="1">Mũ Giáp Da</content>
+	<content contentuid="h1c0824b1gd071g4592gaf9bg04015cd979e3" version="1">Sách Bọc Da</content>
+	<content contentuid="h1f687eb7gc5d4g49c0gb775g1e40c816c20e" version="1">Y Phục Bằng Da</content>
+	<content contentuid="h6262848dga908g41d9g99b4g5aba98b6d1ad" version="1">Giày Ống Bằng Da</content>
+	<content contentuid="h76dc1283g3cccg4994g8efegc23016429ebb" version="1">Giày Ống Bằng Da</content>
+	<content contentuid="h815e0ab7g7744g4949ga346g79b15c96dab7" version="2">Giày Ống Bằng Da</content>
+	<content contentuid="h8334a07fg3681g4667g9e9egdf25097958b1" version="1">Mũ Da Hẹp</content>
+	<content contentuid="h8997487bgfc2eg471fga14bg6a4f42ca2fd2" version="1">Mũ Giáp Dây Da</content>
+	<content contentuid="h8a51cedcgfd8ag4e8fg93eag1ef4ab65b818" version="3">Cổ Vật Bọc Da</content>
+	<content contentuid="h91de8545g992bg442fga245gebe437ea7082" version="3">Cổ Vật Bọc Da</content>
+	<content contentuid="hf0de005cgbcecg4611gbdefgfaf154e541b5" version="3">Cổ Vật Bọc Da</content>
+	<content contentuid="hf386f196g9f0fg48bfg96b5gdec8e99a899d" version="3">Cổ Vật Bọc Da</content>
+	<content contentuid="hfbbd8256g9dd1g4101gb30eg6ecdb606d9ba" version="4">Cổ Vật Bọc Da</content>
+	<content contentuid="hadb3009dga2cbg47cbg91ffg25c29e88dbfb" version="3">Cổ Vật Bọc Da</content>
+	<content contentuid="hb3f4f8a8g5c96g41ecga9a4g6def018bd424" version="2">Cổ Vật Bọc Da</content>
+	<content contentuid="hb4f14323gcd4ag4bddgb202gf4d8fe1fcab3" version="3">Cổ Vật Bọc Da</content>
+	<content contentuid="h35918948g479cg4b9cga1e4ge13cbb772ed7" version="3">Cổ Vật Bọc Da</content>
+	<content contentuid="h619ca993g6116g4034g8a36g8087c34ba5d3" version="3">Cổ Vật Bọc Da</content>
+	<content contentuid="hbcc9f4b1g3483g4caagbc69g76f8aa15ec16" version="3">Cổ Vật Bọc Da</content>
+	<content contentuid="hb6225389g5245g4fcbg879egda127c83b5d1" version="2">Giày Ống Bằng Da</content>
+	<content contentuid="hb86df45bg7759g4ac9ga554g60e28654e183" version="2">Giày Ống Da Drow</content>
+	<content contentuid="hb9d2f141g61a6g4eaeg80b5g1cadc2095f68" version="1">Da Đính Đinh Tán Tinh Tế</content>
+	<content contentuid="hc78ff96fgd691g4effga509g2e5338bc4fc7" version="3">Giáp Tay Bằng Da</content>
+	<content contentuid="he593bf20gcd3dg4b5dg9dc9g7491a5d9987c" version="3">Mũ Trùm Đầu Bằng Da Drow</content>
+
+	<content contentuid="h51b69e48g97f7g4b42ga87cg50d198bbcdff" version="3">Áo Choàng Hiền Nhân</content>
+
+
+	<!-- FOODS AND DRINK -->
+	<content contentuid="hc3e856eag4c6dg47f1g8821g4776a8273ed7" version="1">Rượu Wyvern Whiskey</content>
+	<content contentuid="hcf2d56f8gb3efg4699ga5b2ge23492895fcd" version="1">Rượu Mermaid Whiskey</content>
+
+
+
+
+	<!-- Items -->
+	<content contentuid="h99a703bbgb03ag4802g8d4ag554880d5dd3e" version="1">Tấm In</content>
+	<content contentuid="hb42f07e3g1c0fg415eg8241g590d220fe52b" version="1">Tấm In</content>
+	<content contentuid="haa4e71f5gda44g4768gb3c4gcb37366dff46" version="2">Thư Tống Tiền</content>
+
+
+
+	<!-- Mailbox -->
+	<content contentuid="h0514b590gd8efg48b2g82a8g93054aa641c2" version="1">Hộp Thư</content>
+	<content contentuid="h05f16718g9007g4385gb9c5g534ad1acd159" version="1">Hộp Thư</content>
+	<content contentuid="h0c991df5g5d07g4dcag97b6g108591225931" version="1">Hộp Thư</content>
+	<content contentuid="h115889bbg89a9g48e4g87bdgaac1273b8987" version="1">Hộp Thư</content>
+	<content contentuid="h16b73fb0g199ag466ag913bg9802e5c78641" version="1">Hộp Thư</content>
+	<content contentuid="h170e27adgea2cg4989gabe1gaa39fc3d2063" version="1">Hộp Thư</content>
+	<content contentuid="h1786d01bg2357g4206g96a5g88f52475d3e0" version="1">Hộp Thư</content>
+	<content contentuid="h24fb5cf9g7f49g48fdgbfc5g5593029bf561" version="1">Hộp Thư</content>
+	<content contentuid="h29fcd3dcg8b17g4326gb915g26373894cbbc" version="1">Hộp Thư</content>
+	<content contentuid="h2d9c9f44ge663g45fdg912bg1493ff9d49c9" version="1">Hộp Thư</content>
+	<content contentuid="h2ea5b51cgf87fg4f8cg977dga61f20f51803" version="1">Hộp Thư</content>
+	<content contentuid="h321e485dgd739g4b0cg91e4gcd9c0c231464" version="1">Hộp Thư</content>
+	<content contentuid="h331386f5gd747g4990gaeddg3da7a4989faa" version="1">Hộp Thư</content>
+	<content contentuid="h36fab6fcg786bg4dadgb2e3ge7cce5fbfff1" version="1">Hộp Thư</content>
+	<content contentuid="h3ac4d6c3g2d9eg4997g9858g2628334dec87" version="1">Hộp Thư</content>
+	<content contentuid="h3e0c43b8g9f22g47d1g9e8cg111999bfb0eb" version="1">Hộp Thư</content>
+	<content contentuid="h43097bdfg065ag4a4fgbd19g7d01c24a4ba9" version="1">Hộp Thư</content>
+	<content contentuid="h4c575bf9ge1d6g422bgb60bga75021a246f8" version="1">Hộp Thư</content>
+	<content contentuid="h4f449c90gae29g4518g902ag85fd044559a5" version="1">Hộp Thư</content>
+	<content contentuid="h52eaf020g62c8g413fgb8fagf2a5545e0c69" version="1">Hộp Thư</content>
+	<content contentuid="h57152efeg6bceg42a2gb5f5g9ee19ac1c88e" version="1">Hộp Thư</content>
+	<content contentuid="h58631d15g9430g4d40ga387gd439b8e9fa4a" version="1">Hộp Thư</content>
+	<content contentuid="h6196be3ag529cg45b7g9e01g9286d75fdd94" version="1">Hộp Thư</content>
+	<content contentuid="h631f5882g8e32g41bagb86dg37bf339119ae" version="1">Hộp Thư</content>
+	<content contentuid="h67e6a59cgcb03g4859gaff2gb39ec2a1112f" version="1">Hộp Thư</content>
+	<content contentuid="h6cc4ef8eg07f9g4099g949bg4103d8ab019e" version="1">Hộp Thư</content>
+	<content contentuid="h767f8ab7g8c2dg4f2dgb425gcf1ee6d31a72" version="1">Hộp Thư</content>
+	<content contentuid="h82a8427agc77bg48d1gafc8g413044606c76" version="1">Hộp Thư</content>
+	<content contentuid="h85df85c3g0e3bg4c16g80c7g8c59192c90b5" version="1">Hộp Thư</content>
+	<content contentuid="h904a768fg1f65g450bg81eegc6a9ce18167e" version="1">Hộp Thư</content>
+	<content contentuid="h91d70c2fgac83g4d85g99c0g076271d57478" version="1">Hộp Thư</content>
+	<content contentuid="h928e43abg5a8cg4bd8gbdcdg469709c4c951" version="1">Hộp Thư</content>
+	<content contentuid="h9a9f4dd9gf4e0g44e3gb6e2g9a7441428325" version="1">Hộp Thư</content>
+	<content contentuid="ha1afe6d8g35c6g4e75g824bg67c969c1fe51" version="1">Hộp Thư</content>
+	<content contentuid="ha241ed05g9d6ag4ffdg9860g517e6f612079" version="1">Hộp Thư</content>
+	<content contentuid="hb0caa2a9gca9dg44a9g996bgbc9f49de7e2b" version="1">Hộp Thư</content>
+	<content contentuid="hb39e2bb4g6ca8g496fga2aeg8d548af13a11" version="1">Hộp Thư</content>
+	<content contentuid="hb4f3cf5agf6ffg41cbga36fg7c1bd429bbad" version="1">Hộp Thư</content>
+	<content contentuid="hbb24ca66g1b46g407bg969dgf8ff15e466c3" version="1">Hộp Thư</content>
+	<content contentuid="hc1fc4297g481cg432dga07bgb64444f76299" version="1">Hộp Thư</content>
+	<content contentuid="hc56736b1g7963g4d80g8cc5gd131902b7b97" version="1">Hộp Thư</content>
+	<content contentuid="hcf11218cga34dg40baga4c7g77b6693ae67c" version="1">Hộp Thư</content>
+	<content contentuid="hd04e408cgad57g42fag8c45gc283988cc860" version="1">Hộp Thư</content>
+	<content contentuid="hd6352c33gd9d9g4340g8dc8gf1a98f053e18" version="1">Hộp Thư</content>
+	<content contentuid="hdcbd79dbg80f6g479bgba19g1ec160a8c800" version="1">Hộp Thư</content>
+	<content contentuid="hdf644629g694bg4cdagb2b1gb1475d80b5c4" version="1">Hộp Thư</content>
+	<content contentuid="he0478c28g12d4g4076ga92cgbbb30a9bf733" version="1">Hộp Thư</content>
+	<content contentuid="hec7031c1g62f0g4247g9595g798f207002f4" version="1">Hộp Thư</content>
+	<content contentuid="heddec2c5ga52dg4c1fga8b3g65c7f8b9f83a" version="1">Hộp Thư</content>
+	<content contentuid="hfa37a532gaf6dg4461gac7eg2df77637546f" version="1">Hộp Thư</content>
+	<content contentuid="hfea8dda9g460dg4dcfg89b2ga6f970ea7692" version="1">Hộp Thư</content>
+
+
+
+	<!-- KEYS -->
+	<content contentuid="h0d882023g9311g44e8g9042gb3debe6e75fe" version="1">Chìa khóa Cửa Thành Lũy</content>
+	<content contentuid="h19528823g8812g438dg9492g5e17290d5d52" version="1">Chìa khóa cửa Thành lũy</content>
+	<content contentuid="h25c500a4g19dfg4e12g8289g093f2dbcfc1e" version="2">Chìa khóa Kho báu Chôn giấu</content>
+	<content contentuid="h2d46d8dfg790eg4989gb0eeg767933f34fc6" version="1">Tùy chọn Phím tắt</content>
+	<content contentuid="h39168373gd77dg44a6gb871gf2b39af6f416" version="3">Chìa Khóa của Cổ nhân</content>
+	<content contentuid="h396330fbgb84dg4c98gac2egff6beb5f0c91" version="1">Chìa Khóa</content>
+	<content contentuid="h3f927200gd5bag4dccg933agffc7e7e0f3e8" version="1">Chìa Khóa</content>
+	<content contentuid="h51da4cbbg2ddfg49f2gbd26g917ba378fcde" version="2">Chìa Khóa</content>
+	<content contentuid="h58053f2ag4132g4e97gb4edg7009a7876172" version="1">Chìa Khóa</content>
+	<content contentuid="h76e72b90g21aag4ee7gbc16g1388049e4d62" version="1">Chìa Khóa</content>
+	<content contentuid="h50a2eab6g5d2dg4a26g871agcdcd0ac199cf" version="1">Chìa khóa có hình hoa văn</content>
+	<content contentuid="h8bc6e784g7e52g4f15ga437g7f1b98e2bd77" version="1">Chìa khóa Hầm ngục Cazador</content>
+	<content contentuid="h9932af16gfba7g4570gbf26gbe90985bf63d" version="1">Chìa khóa Nhà Chó</content>
+	<content contentuid="ha564f158gd280g4d39g8fecg911a99e91385" version="3">Người đưa tin Lỗ khóa</content>
+	<content contentuid="ha747d0d4g0187g4764ga38ag979ae2c802c9" version="1">Chìa khóa Kho tiền</content>
+	<content contentuid="hbddac9eag67b2g45cdg8aaeg6e54c92f8d51" version="1">Chìa khóa từ két sắt của Raphael</content>
+	<content contentuid="hd90dc1bfge5f6g430eg9a73ga54ec5aff7af" version="2">Chìa khóa có hoa văn</content>
+	<content contentuid="he26a52dag4043g4c19g8783g88e3d9897174" version="1">Chìa khóa Tòa án Sát nhân</content>
+	<content contentuid="hfd08527eg2b5dg4d19gadc2ga7f72c7e009b" version="1">Móc khóa</content>
+	<content contentuid="h8cd965f2g0efeg48a4gb023g1f44fc0900b1" version="1">Lỗ khóa</content>
+
+	<content contentuid="h0010c118g2257g41b6g9fe6g97e71e759fdb" version="1">Chìa khóa Lồng</content>
+	<content contentuid="h00c31f7bgba5cg4394gaf4cgaf1489827aaf" version="1">Chìa khóa Kho tiền</content>
+	<content contentuid="h02087933gdb56g4da0ga37dg7efdf712e4fb" version="1">Chìa khóa Adamantine</content>
+	<content contentuid="h03d8f9d3g9399g4be3ga8aag09593dfa11c9" version="1">Chìa khóa rương Phòng Lạnh</content>
+	<content contentuid="h03f7673cg069eg4bd3gb5ecgcbe74086e077" version="3">Chìa khóa Lính canh Moonrise</content>
+	<content contentuid="h0517bcefg0b96g4975g80ddg76ac3bbc9020" version="4">Chìa khóa Kho tiền số 1 của Ngân hàng</content>
+	<content contentuid="h073aa2a2g32f8g40d1g8540ge756a2883991" version="1">Chìa khóa của Golbraith</content>
+	<content contentuid="h07e7f117g7e5bg4265g8f3ag11f6ec4b8c0b" version="1">Chìa khóa rương Kho tiền</content>
+	<content contentuid="h086bb63bgfdaag4397gba20g856867334f0d" version="1">Chìa khóa Lễ vật Lăng mộ Lớn</content>
+	<content contentuid="h08de032dg732fg49aegadedg99456c7be9b3" version="1">Chìa khóa Loang lổ</content>
+	<content contentuid="h09f129d7g4b52g493egaa56gec0196289bf7" version="1">Chìa khóa Vàng Lăng mộ Hhune</content>
+	<content contentuid="h0c62252cg8373g4b4aga4b6g53a20e4000a2" version="1">Chìa khóa Tầng hầm</content>
+	<content contentuid="h0d796d35g3e60g40fag8918g7297ffb477a9" version="1">Chìa khóa Phòng riêng</content>
+	<content contentuid="h0dfc8cfcgbf92g4258g9da7g2c9f7bae61ae" version="5">Chìa khóa Kho chứa đồ của Avery</content>
+	<content contentuid="h0e7412f0g54a6g427ag808agb8d7ea6cfa41" version="1">Chìa khóa rương của Goris</content>
+	<content contentuid="h0f9dc5eegb43eg494eg9cf9g06950c32bef4" version="2">Chìa khóa Xà lim Nhà tù Wyrm's Rock</content>
+	<content contentuid="h1055e137gd574g41eag9d0cg442d46fdf6f1" version="1">Chìa khóa Có khắc</content>
+	<content contentuid="h1076f96agfc31g41bagb36cg5f22e9688fa0" version="1">Chìa khóa rương của Jol</content>
+	<content contentuid="h131bfe26gaa59g46e4ga629g11c0fd4d1ebc" version="3">Chìa khóa Két sắt số 7 của Ngân hàng</content>
+	<content contentuid="h1393f9d0gfc29g4c6dgaa6dg7b4d35a29c8d" version="1">Chìa khóa Kho tiền</content>
+	<content contentuid="h13bc6246g0657g4ef6ga7ceg31e7b6cc27e0" version="1">Chìa khóa Cũ</content>
+	<content contentuid="h140ce6acgfa19g49d3g8f50ga6a174150f67" version="4">Chìa khóa Kho tiền số 2 của Ngân hàng</content>
+	<content contentuid="h1426010cgedd0g48cdgb1dag60b51546fa92" version="1">Chìa khóa của Benryr</content>
+	<content contentuid="h14639665g9a9ag4d4egbf06g10e900fe381a" version="1">Chìa khóa Hầm rượu</content>
+	<content contentuid="h148ad38cg9de8g4284g8354gf776bc070368" version="1">Chìa khóa Nặng</content>
+	<content contentuid="h15137b9ag09dfg4b34gb9dfg0dd47d2706c5" version="1">Chìa khóa Nhà tù</content>
+	<content contentuid="h16052b81g3903g4f10gacf9g3462a412090d" version="1">Chìa khóa Văn phòng Doanh trại</content>
+	<content contentuid="h1626dfdbg661cg48b5gaecdg1c610cbf386b" version="1">Chìa khóa rương của Rainforest</content>
+	<content contentuid="h16de8862gd001g4f08gbe22g7764b6d02a3a" version="1">Chìa khóa Hầm rượu của Sharess' Caress</content>
+	<content contentuid="h16ef65a8g2f19g4748g8d78g8d5d3b6ec0c8" version="1">Chìa khóa Lăng mộ Hhune</content>
+	<content contentuid="h170edae9gb136g4d3fgb1a8g04d5130311ea" version="1">Chìa khóa Nhà Thợ đồ chơi</content>
+	<content contentuid="h17d2b104ga1fag45ecga018gf9bfd981139a" version="1">Chìa khóa Kẻ tra tấn</content>
+	<content contentuid="h1ad095afge537g4c8fg938eg7204a1e6ae5c" version="1">Chìa khóa Mòn</content>
+	<content contentuid="h1aeec5b0gace0g4606gba84gc6cfc74e753f" version="1">Chìa khóa rương của Debin</content>
+	<content contentuid="h1ba6d11agac0eg4f81gb4d9g8a3adb48ffae" version="3">Chìa khóa Két sắt số 6 của Ngân hàng</content>
+	<content contentuid="h1bbe8b30g520ag4957gb93fg9955e631c76d" version="1">Chìa khóa Nhà tù Tòa án</content>
+	<content contentuid="h1cdadef1gc555g4a5aga84cga6d733311f6e" version="1">Chìa khóa Lối vào Bên hông Last Light</content>
+	<content contentuid="h1ce175cbgbbedg4c3bga734gd2b59111e1f3" version="1">Chìa khóa Thư viện Bệnh viện</content>
+	<content contentuid="h1d0c9adbg3f50g4d5cgb649g5f5515aae60a" version="1">Chìa khóa Đặc biệt</content>
+	<content contentuid="h1eaec050gb57ag454agad77gd21bcbd33ffe" version="1">Chìa khóa rương Bến Tàu</content>
+	<content contentuid="h1f166e53g2372g446dg922ag6735062d94ac" version="1">Chìa khóa Cánh Tây Ngôi nhà Hy vọng</content>
+	<content contentuid="h1f1e5236g6d73g4b11gbfeegfe812779b5e4" version="1">Chìa khóa Nhà kho</content>
+	<content contentuid="h1f41d3ddg9b83g4550gab2fg515de86e066b" version="1">Chìa khóa Kho vũ khí Heapside</content>
+	<content contentuid="h2161c971ge712g4372g84d4g5209b202be94" version="1">Chìa khóa rương Bến Tàu</content>
+	<content contentuid="h222529d6g69f4g47ffg9393gdfb3b64f34e3" version="1">Chìa khóa Lò mổ</content>
+	<content contentuid="h22b11da4g0cc4g4418g90cbg208d3f2c70a8" version="1">Chìa khóa Bạc</content>
+	<content contentuid="h234ea493g5e5fg4080gadc4gcb0aa1dd54ff" version="1">Chìa khóa rương của Jaheira</content>
+	<content contentuid="h23691b7eg6bc7g44b6ga087gda76b05d130c" version="1">Chìa khóa Lăng mộ Durinbold</content>
+	<content contentuid="h24467636gb7afg4538gbeedgcbadbfe376a4" version="2">Chìa khóa của Queelia</content>
+	<content contentuid="h244706bag7923g4918ga6fcg06936072a06f" version="1">Chìa khóa Thùng hàng Cảng</content>
+	<content contentuid="h2471d67bg9498g4942g9891g088b6c49fd8d" version="1">Chìa khóa Kho hàng của Glitter Gala</content>
+	<content contentuid="h24d352e1g9612g420bg8f80g50257535862c" version="1">Chìa khóa Vàng</content>
+	<content contentuid="h2732dcd9g2a0cg4dccg8245g2414711c2048" version="1">Chìa khóa rương Bến Tàu</content>
+	<content contentuid="h286cbb05gc850g43d9g8852gd0eeb107c102" version="1">Chìa khóa Kho chứa của Baldur's Mouth</content>
+	<content contentuid="h28c15ca1g8be6g4445g9e63ga05b2bc58c84" version="2">Chìa khóa Phòng sau Tầng hầm của Old Garlow</content>
+	<content contentuid="h29453e7cgc8a0g47dbgbe4bgc0ff8a45ccfc" version="1">Chìa khóa Xà lim Nhà tù Wyrm's Rock</content>
+	<content contentuid="h295b336dgf608g4df8ga388g7f2de3642438" version="4">Chìa khóa Kho tiền số 6 của Ngân hàng</content>
+	<content contentuid="h2a542142g36a4g47edg96c8g1884bc88b04f" version="1">Chìa khóa kho hàng của Omotola</content>
+
+	<content contentuid="h2b1270cfg7c9bg4e29gbf6dg9c8b9d25ceed" version="4">Chìa khóa Kho tiền số 3 của Ngân hàng</content>
+	<content contentuid="h2b1d8664g8445g44b8gac29g06c2c4436adb" version="1">Chìa khóa Đau buồn</content>
+	<content contentuid="h2c823e7dg6b38g4a9ega73fgd7addcb285b8" version="1">Chìa khóa rương của Figaro</content>
+	<content contentuid="h2d185e17g9cd6g4311g90c1gdc035ea527d9" version="1">Chìa khóa Zhentarim</content>
+	<content contentuid="h2d711322g0098g4b28g92cag37f589600e38" version="2">Chìa khóa Hang ổ của Ethel</content>
+	<content contentuid="h2f2355acgca16g4767g9e7bgd29540d96db1" version="2">Chìa khóa Selûnite</content>
+	<content contentuid="h2f3b2702gaa5fg45adg83dbg38c1e52c839f" version="1">Chìa khóa rương Tầng hầm của Tefoco</content>
+	<content contentuid="h311f5781gc256g4490g9a80g4a4cd33e6c52" version="1">Chìa khóa rương của Oriona</content>
+	<content contentuid="h31dbbcdfg8fa2g49dfgba7fg22771a9c51cc" version="3">Chìa khóa Két sắt số 5 của Ngân hàng</content>
+	<content contentuid="h329ad69bgf916g4643gbd06g1387ade84943" version="1">Chìa khóa Hộp sắt của Highberry</content>
+	<content contentuid="h32a84e0dg7dcfg471eg9ff3g947cf4426efe" version="1">Chìa khóa Tầng hầm Facemaker Fashion</content>
+	<content contentuid="h32d95811g3af9g4d34g94edg05140966f1ec" version="1">Chìa khóa rương Bến Tàu</content>
+	<content contentuid="h336a3facgbc1fg47f7ga8b5gcff03e47c2d6" version="1">Chìa khóa Văn phòng An ninh</content>
+	<content contentuid="h3424519dg145eg463fga161g5fb6af263e03" version="1">Chìa khóa rương của Lorcan</content>
+	<content contentuid="h343bafd5g872cg4fadg969bg3a3b1f71e91a" version="1">Chìa khóa Bạc</content>
+	<content contentuid="h34c12005g8315g4ab4gbe81gefa7a4bb5d16" version="1">Chìa khóa Nhà tang lễ của Kurwin</content>
+	<content contentuid="h35255594gbb38g447eg9faegdd64c64a208f" version="4">Chìa khóa Kho tiền An ninh Cao cấp số 2</content>
+	<content contentuid="h3577bafcg829ag4478ga4edgc23c15f8ab4a" version="1">Chìa khóa Kí túc xá Lodge</content>
+	<content contentuid="h36567300g364cg4783g8227gdf7782f66c66" version="1">Chìa khóa Văn phòng Sorcerous Sundries</content>
+	<content contentuid="h36addb49gca2fg4565g9cafgbc775845ff61" version="1">Chìa khóa rương Bến Tàu</content>
+	<content contentuid="h378cbe4bg16b3g46e2gbbcdgfa672ce9671a" version="2">Chìa khóa rương của Ethel</content>
+	<content contentuid="h39076411g1af5g4cfegaf9eg6ee5517286b7" version="1">Chìa khóa Sắt</content>
+	<content contentuid="h39a45585g5543g44a8ga4b9gde0530c9933f" version="1">Chìa khóa rương Bến Tàu</content>
+	<content contentuid="h3a5df222g9bffg430ag9164g630d577b3ff2" version="2">Chìa khóa của Dashkent</content>
+	<content contentuid="h3ab87b73gd0b3g40begbfc8gb06264f701b8" version="1">Chìa khóa Bẩn thỉu</content>
+	<content contentuid="h3acffc57g7c33g478cgbc64g71f31dabf6d2" version="1">Chìa khóa Thùng kim loại</content>
+	<content contentuid="h3b97aaa3g611ag470cg9478g76dc5701495a" version="2">Gà Tây Quay</content>
+	<content contentuid="h3b9c5743g8845g49c0gb272gc00611d88956" version="2">Chìa khóa Sắt</content>
+	<content contentuid="h3d61b766ge0e4g446bg8017gbbc4a9912b68" version="2">Chìa khóa Xà lim Giam giữ Last Light</content>
+	<content contentuid="h3da3b06dgbf0cg4125ga9fag537f1eefff30" version="1">Chìa khóa Harper</content>
+	<content contentuid="h3e35cd1cg18a8g471fgb631g1ec28ac2bc3e" version="1">Chìa khóa Xưởng Pháo hoa</content>
+	<content contentuid="h3e5fab21g502cg41b0gb57dg81e70ec592ba" version="1">Chìa khóa rương Tầng hầm Sorcerous Sundries</content>
+	<content contentuid="h3ea41578g5eddg4206gad1fga804c6b8a27b" version="1">Chìa khóa Thư viện Bệnh viện</content>
+	<content contentuid="h3f99fde8g1314g41ecg85abgd25a05ac70af" version="2">Chìa khóa Văn phòng Quản lý Trạm thu phí</content>
+	<content contentuid="h3fb22d9fg28dfg4b91g814ag97ccb08f051b" version="3">Chìa khóa Kho tiền An ninh Cao cấp số 9</content>
+	<content contentuid="h403b7b5dgbdb4g4135ga590g3af0469f7d26" version="1">Chìa khóa rương của Tefoco</content>
+	<content contentuid="h405dcfecgc41dg46d3g8566g01e148927038" version="1">Chìa khóa Nhân viên Thu phí</content>
+	<content contentuid="h414bbba7gb3d3g4a7cgb8f6ge858e2197b3c" version="1">Chìa khóa Rỉ sét</content>
+	<content contentuid="h419c4b66g789cg4ad5gbaa9g98b0adf8a19a" version="1">Chìa khóa rương của Rose</content>
+	<content contentuid="h41ae1830g7e05g4d8aga60bg81820173e620" version="1">Bị Khóa và Chìa</content>
+	<content contentuid="h42603d9dg30a1g480fg968fgf63b0a28b4e9" version="1">Bị Khóa và Chìa</content>
+	<content contentuid="h433090f7ge36fg4f7cgb2dbg18ae1638548d" version="1">Chìa khóa Thương nhân Đền thờ</content>
+	<content contentuid="h44c6f55cgeb87g4d1fg94adgf200f14cc5a4" version="1">Chìa khóa Hầm của Felogyr's Fireworks</content>
+	<content contentuid="h47290fd2g8aecg48d1ga94eg3fc03233eaa7" version="1">Chìa khóa Cháy sém</content>
+	<content contentuid="h4a9fa17bgd1a6g483egb69ag66eaf5fb1dee" version="1">Chìa khóa Xưởng Pháo hoa</content>
+	<content contentuid="h4b3df08aga406g4014g8ec9g1b4e829641b8" version="1">Chìa khóa Kho trữ Riêng</content>
+	<content contentuid="h4b5710b9gde51g4619g8db5g761207cb9505" version="1">Chìa khóa Cướp</content>
+	<content contentuid="h4e4788begc5b1g4262g9204g201532567379" version="1">Chìa khóa Tinh xảo</content>
+	<content contentuid="h4e754dbage30dg4a2dg9574g39ded1682304" version="1">Chìa khóa Kho chứa của Baldur's Mouth</content>
+	<content contentuid="h509846a4g79f4g4015g9258gef982b4f8c5f" version="2">Chìa khóa của Ffion</content>
+	<content contentuid="h51009901g1fcdg4b9ag8606g4ac6538014f2" version="1">Chìa khóa của Helsik</content>
+	<content contentuid="h522e09d7gf1b4g4aacga681gd8ba51743c80" version="1">Chìa khóa Rỉ sét</content>
+	<content contentuid="h530dd0ffg513cg4daeg8eb2g5786094998fb" version="1">Chìa khóa của Drim</content>
+	<content contentuid="h532d2a12g89e4g4e8cgb1abgd36fe47aef88" version="1">Bị Khóa và Chìa</content>
+	<content contentuid="h544f6f51gb664g4c79g9443gd429f3e4b5c8" version="1">Chìa khóa Nhà tù</content>
+	<content contentuid="h570047eeg6bbdg409aga1d9g8bda55c0e938" version="2">Chìa khóa Cửa sau Khu cư trú Elarrathin</content>
+	<content contentuid="h59cb044fg44f8g4237g89e7g0c4ed501aa08" version="1">Chìa khóa Sảnh Lớn</content>
+	<content contentuid="h5aa70a3ag46d2g4df2g9ebdga1dba20934ec" version="2">Chìa khóa Tầng hầm Baldur's Mouth</content>
+	<content contentuid="h5b30d1cdg3582g4370gaa2cg8d554688a265" version="1">Chìa khóa rương của Baldur's Mouth</content>
+	<content contentuid="h5b79aef0g5b9ag40fegbf4eg0c777184a25c" version="3">Chìa khóa Két sắt số 8 của Ngân hàng</content>
+	<content contentuid="h5bf007b1gfe28g4ab6gba99gc427e18b1a49" version="1">Chìa khóa rương của Golbraith</content>
+	<content contentuid="h5c582e7ag7ca2g45c2g866eg921104d8d8fd" version="1">Chìa khóa Xà lim Sắt</content>
+	<content contentuid="h5e6b4d67g2d3fg4366g959fge4df92637fde" version="1">Chìa khóa rương Bến Tàu</content>
+	<content contentuid="h5eb3cab3g7277g48d5g9132g4ad3c3b08d09" version="1">Chìa khóa của Griska</content>
+	<content contentuid="h5efe4b18gda08g48b6gbbd6g7bea62a94709" version="1">Chìa khóa Rỉ sét</content>
+	<content contentuid="h5f649422g7f0fg4b7dg9027g483771324666" version="1">Bị Khóa và Chìa</content>
+	<content contentuid="h60365513ga67fg490bg8d17g2fb070f7e7c6" version="1">Chìa khóa Thùng hàng Cảng</content>
+	<content contentuid="h604e20b4g48dfg4f01g8922g552eeb575e95" version="1">Chìa khóa Bóng loáng</content>
+	<content contentuid="h6126a6fdgabffg461dg87b1gefa5808f8402" version="1">Chìa khóa Bạc</content>
+	<content contentuid="h627d85abga1dcg4f74ga935g501677dd4fbb" version="2">Chìa khóa Vàng</content>
+	<content contentuid="h63519070g82b9g4f44ga820gcd1ac978e2e8" version="2">Chìa khóa Bàn thờ</content>
+	<content contentuid="h63570567g2d30g431fga412gc5c7b0c396b9" version="1">Chìa khóa rương Ngôi nhà Bỏ hoang</content>
+	<content contentuid="h637ba2f5g5a2dg4fa0gbdaeg9c15e77a7212" version="2">Chìa khóa rương của Serrik</content>
+	<content contentuid="h64ad83feg2ff6g4aebg875dg7f3a34f244e4" version="1">Chìa khóa Lò rèn</content>
+	<content contentuid="h6610ff87g1578g403dg958egec2290a13482" version="1">Chìa khóa Vàng của Sarevok</content>
+	<content contentuid="h664e3bddg9bcbg4038g92cdg093442ff749b" version="2">Chìa khóa của Kagha</content>
+	<content contentuid="h67936ef0g48ddg4327g9e12gc0744a36b552" version="1">Chìa khóa rương Thương nhân Máu</content>
+	<content contentuid="h68a16e60gaec3g49f8g929cg215c0bd5d29a" version="1">Chìa khóa Có khắc</content>
+	<content contentuid="h68e1b950g094ag4a91gbae2g6a7a75d9748a" version="1">Chìa khóa rương của Potter</content>
+	<content contentuid="h69899ba8g8859g401ag8415g59c052921e15" version="3">Chìa khóa Két sắt số 2 của Ngân hàng</content>
+	<content contentuid="h69cd7730g6b0fg4ef8ga1eeg96f4b90903c8" version="1">Chìa khóa rương của Bill</content>
+	<content contentuid="h6d57b27fg582ag40d3ga6cbg776e6f6ee81a" version="1">Chìa khóa Phòng Kho chứa</content>
+	<content contentuid="h6e3055aeg59adg4dcbg8943g92995ab8e04e" version="2">Chìa khóa Dính mực</content>
+	<content contentuid="h6fe84529g9345g4556ga89cg8c022db7785e" version="3">Chìa khóa Cối xay gió</content>
+	<content contentuid="h705e4298ga528g4b55g9b8cg7c0488d2ce11" version="1">Chìa khóa rương Quyên góp</content>
+	<content contentuid="h708a3171g31a0g451dg9a01g530c6d03005f" version="1">Chìa khóa Kho tiền Sáu</content>
+	<content contentuid="h7129c59egbdd3g4e02ga154g0fe149b2b2d8" version="1">Chìa khóa của Gortash</content>
+	<content contentuid="h71fcc58cge55dg4098gb4d4g6c5449b63fff" version="1">Chìa khóa Cũ</content>
+	<content contentuid="h73db2426gb740g49c5g9747gde2a45bde6de" version="1">Chìa khóa Toàn năng</content>
+	<content contentuid="h73f1c9c1g1b92g4cf4g8e05g2eb8520f0d63" version="1">Chìa khóa Cửa vực Tháp đổ Undercity</content>
+	<content contentuid="h74393f1ag580ag4245gbde9gd4932e251d99" version="1">Chìa khóa Hộp khóa</content>
+	<content contentuid="h748ae056ga825g4d8bg92bcga59541de1619" version="1">Chìa khóa Kho tiền</content>
+	<content contentuid="h763ecfb2ge107g45d2gb5eage4139dda6677" version="1">Chìa khóa Kho trữ của Toadbreath</content>
+	<content contentuid="h779cf9c8g6354g4e3bg911ag3abf2ca70738" version="1">Chìa khóa rương cá nhân của Viconia</content>
+	<content contentuid="h77f3e7e9g9210g4f97gacf4gdca101509a8b" version="1">Chìa khóa Cống ngầm của Severn</content>
+	<content contentuid="h783ede62g93e5g42e5g881ag917183da5d5c" version="2">Chìa khóa Phủ rêu</content>
+	<content contentuid="h78f21c19g583cg4193ga634g99fff496eeff" version="1">Chìa khóa rương Công viên</content>
+	<content contentuid="h798e67e2gba86g4c3cga3aeg67a5f9c1db5a" version="1">Chìa khóa Cổ</content>
+	<content contentuid="h7d08abe1g96a0g4528gacdeg80509d3689c0" version="1">Bị Khóa và Chìa</content>
+	<content contentuid="h7d2bb718g6d68g4f6fgb340g097d5791b795" version="2">Chìa khóa Kho chứa văn phòng</content>
+	<content contentuid="h7d8ca399g6633g4079gbaa5g309488d2edd6" version="2">Chìa khóa Kho tiền An ninh Cao cấp số 6</content>
+	<content contentuid="h7e40de61g0abfg42ebg8cc1gf21eca7a7a5f" version="1">Chìa khóa Phòng Huấn luyện Mất tích</content>
+	<content contentuid="h7e4ecb42g90f7g453egb306gaf1f5b80bd05" version="1">Chìa khóa rương Tầng hầm Thợ đồ chơi</content>
+	<content contentuid="h7e6bb134g679fg40c1ga8a9gf2990c9abad4" version="1">Chìa khóa Thùng hàng Cảng</content>
+	<content contentuid="h7f59cd92g90b2g4b78g8658ga3797d4c1424" version="1">Chìa khóa Lối vào Nhà tù</content>
+	<content contentuid="h7f7ef65cg28e0g4e0bgba1eg4f7844bd9796" version="1">Chìa khóa Xưởng Pháo hoa</content>
+	<content contentuid="h80c2bd38g9423g4d6cgb1efg91621fc1d4f8" version="1">Chìa khóa Cửa hàng Bia mộ</content>
+	<content contentuid="h83a7c984gaf3cg481cgbb4agf0a341c3a217" version="1">Chìa khóa rương của Peartree</content>
+	<content contentuid="h84125b15gb951g475cgb2d2g263a208769a0" version="1">Chìa khóa rương Bến Tàu</content>
+	<content contentuid="h84b73230g5eafg4b1eg9eb0g766f4e101fcc" version="1">Chìa khóa rương Trại</content>
+	<content contentuid="h84d96ba5gb52bg410dg9531gb9429a9ac0a3" version="1">Chìa khóa rương của Golbraith</content>
+	<content contentuid="h851b00a8g6bb1g4f86g86a9gfd96a58a78fa" version="1">Chìa khóa của Rosanna</content>
+	<content contentuid="h855de04dgfd42g494cga214g69e7cc8e9f90" version="1">Chìa khóa rương của Quirkilious</content>
+	<content contentuid="h85bd9046g3f75g4bf9ga920g0a8633e30259" version="1">Chìa khóa Két sắt</content>
+	<content contentuid="h887e6795g3c3cg4b24gaeacga8759c5cf5f0" version="1">Chìa khóa rương Khu phố Chung</content>
+	<content contentuid="h891e166cg5b3ag41e7g8bc8g00f0e21e74ab" version="1">Chìa khóa Rỉ sét</content>
+	<content contentuid="h89741a33g9c22g4c32g93c9g7b8ccdf057da" version="1">Chìa khóa của Havkelaag</content>
+	<content contentuid="h8983f0d8g700fg4d66g97f8g054c384bc2ad" version="2">Chìa khóa Két sắt số 4 của Ngân hàng</content>
+	<content contentuid="h8a6745edg40dag4762g9dadg6bc81cbbeb61" version="1">Chìa khóa rương của Hiệu thuốc Bonecloak</content>
+	<content contentuid="h8be11730gae4eg48dfga700gddde9c645f6f" version="1">Chìa khóa Hầm rượu</content>
+	<content contentuid="h8cf87400g896eg4dafg9f15gfc0ffeeb6c19" version="1">Chìa khóa rương Tường Trung tâm</content>
+	<content contentuid="h8d818fbag8fc6g452dg8b39g9e5d25450d83" version="1">Chìa khóa rương Kho tiền</content>
+	<content contentuid="h8ea656b0g6d9fg4ed7g9d23g208c8210a930" version="1">Chìa khóa Cửa sập Nhà Bãi biển</content>
+	<content contentuid="h8ef19ca2gc238g4d18g94c4g22f31ad2a74a" version="3">Chìa khóa Hình tháp</content>
+	<content contentuid="h8fef22f9g44e7g4ad2g9925g729bc2c10e28" version="1">Chìa khóa Cửa sau Nhà ngủ Fraygo</content>
+	<content contentuid="h90468f70ge36fg48e2ga061g23da83b1a5db" version="1">Bị Khóa và Chìa</content>
+	<content contentuid="h9152fc3fg6011g4148g8d53g3a85754dc8a8" version="1">Chìa khóa Kho tiền An ninh Cao cấp số 1</content>
+	<content contentuid="h94059da5g05a9g4347g8056gf4282cac423f" version="1">Chìa khóa Cửa sập của Peartree</content>
+	<content contentuid="h94075e14gaff3g4c90g9a08g8b0042d3d25f" version="2">Chìa khóa Kho tiền Trạm thu phí</content>
+	<content contentuid="h95a993a2g5ff6g48b9ga4cfg752c555ba72f" version="1">Chìa khóa Đau buồn</content>
+	<content contentuid="h9641e688ge2a4g4be4gaaf8gcb6e18d77770" version="1">Chìa khóa Dính mực</content>
+	<content contentuid="h969e4160g9a06g4a84g80dcg9bacd9aaf9c2" version="1">Chìa khóa rương của Loudstone</content>
+	<content contentuid="h974e58e4g6177g4c2bg8c1dg86a2b9b49261" version="1">Chìa khóa Cửa sập Nhà thờ</content>
+	<content contentuid="h99589aa3gce79g43f3gb44dg2d194ccb492c" version="1">Chìa khóa rương Bến Tàu</content>
+	<content contentuid="h9a123b1ag57e0g47b1gb1d0g9d4fd76a7eac" version="1">Chìa khóa của Bạo chúa</content>
+	<content contentuid="h9a8978cegce48g4fdag9c03gd06bc19b21db" version="1">Chìa khóa rương của Falice</content>
+	<content contentuid="h9b1b094fgfdb4g4450g8f0cgad3d8e3a7eae" version="1">Chìa khóa Có khắc</content>
+	<content contentuid="h9c0ce1e8g4a7cg4238ga493g111986df7d68" version="1">Chìa khóa Lăng mộ Gorion</content>
+	<content contentuid="h9c1ffc1dgee85g45b7g90ffg62a58383c926" version="1">Chìa khóa Khóa móc</content>
+	<content contentuid="h9cc8073aga7a9g44b7gb9f4g1637faaf8698" version="2">Chìa khóa Bạc Xỉn màu</content>
+
+	<content contentuid="h0d38031dgb85bg4de0ga0e1g46c430a9d9cd" version="1">Một chiếc chìa khóa sắt nhỏ.</content>
+	<content contentuid="h25c77c94ga2b0g488cg8383g15f3491ac1d5" version="1">Một chiếc chìa khóa sắt nhỏ.</content>
+	<content contentuid="h3d55d7aag707dg4a25gb943g639696bbbb69" version="1">Một chiếc chìa khóa sắt nhỏ.</content>
+	<content contentuid="h410dc90eg77bag4122ga999g92f4e82287b3" version="1">Một chiếc chìa khóa sắt nhỏ.</content>
+	<content contentuid="h4a48c815gde36g445fgb933gbd0867cdb895" version="1">Một chiếc chìa khóa sắt nhỏ.</content>
+	<content contentuid="h701c81c6g9114g4ee6g8d5cgf5e532aea4ef" version="1">Một chiếc chìa khóa sắt nhỏ.</content>
+	<content contentuid="hb0a60d90geaccg45a2g8549gc7405db7a151" version="1">Một chiếc chìa khóa sắt nhỏ.</content>
+	<content contentuid="hb16f5aeeg983dg493eg82b5g9a5b9b9d3f95" version="2">Một chiếc chìa khóa sắt nhỏ.</content>
+	<content contentuid="hbc4d0ec9g8315g4cc4g8760g3267a1f5c967" version="1">Một chiếc chìa khóa sắt nhỏ.</content>
+	<content contentuid="hf1f1384dgc71dg4f79g8088g512737171b44" version="1">Một chiếc chìa khóa sắt nhỏ.</content>
+	<content contentuid="h0ba2af4cge956g4556gb86eg33dd469b9cf5" version="1">Một chiếc chìa khóa sắt nhỏ.</content>
+	<content contentuid="h9f2ba839ge699g4a75g84deg07a074c504be" version="1">Chìa khóa Tháp Bến tàu</content>
+	<content contentuid="h9f514f82gc5d3g404dg95feg9afc17b4aa23" version="4">Chìa khóa Kho tiền số 4 của Ngân hàng</content>
+	<content contentuid="ha0cffffeg9d56g459cg861eg8ee833cf6a0e" version="1">Chìa khóa Hoa lá</content>
+	<content contentuid="ha27baa3fg3e2cg4983g8107g9b02cf92c0ac" version="2">Chìa khóa Thủy thủ</content>
+	<content contentuid="ha3a8b5d2gce35g42d4g96a9g6267de77e1a0" version="2">Chìa khóa của Dror Ragzlin</content>
+	<content contentuid="ha43c8febgdb70g4a31g9f91gaeb660c0a058" version="1">Chìa khóa Nữ tu sĩ</content>
+	<content contentuid="ha5668d68g44eeg450dgaf2egdb025e938a59" version="1">Chìa khóa Toàn năng</content>
+	<content contentuid="ha57f4022geefbg4393gadacg0568fbc6fd8e" version="1">Chìa khóa Phòng Elfsong</content>
+	<content contentuid="ha613b7f4gff2dg4b8fg88d1gae953e7b54f9" version="3">Chìa khóa Kho tiền An ninh Cao cấp số 4</content>
+	<content contentuid="ha8746d8egd166g4de9g9587g4a56e82b0893" version="1">Chìa khóa rương Bến Tàu</content>
+	<content contentuid="ha9548651gd0c7g41e0g9d21g0b518f22144a" version="1">Chìa khóa Kho chứa của Baldur's Mouth</content>
+	<content contentuid="ha95d13b7g9d11g4be7g899cga1daa6a8e557" version="1">Chìa khóa Hầm</content>
+	<content contentuid="ha967812ag2d0fg4bedgabe8gce655af7e788" version="1">Chìa khóa rương của Bakshi</content>
+	<content contentuid="ha9b5f3dag48a8g4280g9914g587634a33195" version="1">Chìa khóa Phòng Riêng của Chưởng quản</content>
+	<content contentuid="haa101991gfe47g4babga97fgd4381fc2b345" version="2">Chìa khóa Tủ</content>
+	<content contentuid="hab41c3c3g1527g43abgbb59g43cc062bef78" version="1">Chìa khóa Cánh cửa Bí ẩn Sorcerous Sundries</content>
+	<content contentuid="hace22c85g354fg4eb5g83a1g7ae3226cca69" version="2">Chìa khóa Chuyến thám hiểm Tuyệt đối</content>
+	<content contentuid="haea4691eg5a90g4edbga331gb049d3438c61" version="1">Chìa khóa Kho hàng của Quirkilious</content>
+	<content contentuid="haecb2129g571cg4c33g96c0gdc97e68ad1c1" version="1">Chìa khóa của Zevlor</content>
+	<content contentuid="haf190e01g40a9g4b3bg8131g5e2e7f5328b5" version="2">Chìa khóa Bạc</content>
+	<content contentuid="hafa76b49g5ee4g408fgba42ga190a98899c3" version="1">Chìa khóa Tầng hầm Trạm thu phí</content>
+	<content contentuid="hb02c2b94g0970g4141gb143g95add1f10474" version="3">Chìa khóa Két sắt số 3 của Ngân hàng</content>
+	<content contentuid="hb0d73df3g6a39g4621ga882g60946229541a" version="1">Chìa khóa Lồng Thú</content>
+	<content contentuid="hb1d697f9g43e6g4223gaa6ag572382eec0a4" version="1">Bị Khóa và Chìa</content>
+	<content contentuid="hb2878589g0fb8g4401g8f54g39682547f5d6" version="1">Chìa khóa Bàn gỗ Hồng mộc</content>
+	<content contentuid="hb2c11e43g5105g418cgbd1cga58c03907988" version="1">Chìa khóa Zhentarim</content>
+	<content contentuid="hb37d39f1g0ebcg402ag9e97gddde4aa9f6d0" version="1">Chìa khóa Cửa hàng Glitter Gala</content>
+	<content contentuid="hb3f35bf6gd146g498bga159g001e1da258c4" version="1">Chìa khóa Bệnh xá</content>
+	<content contentuid="hb4d394adg0a48g449eg93bdg9f141e5561d1" version="1">Chìa khóa Tầng hầm Thợ đồ chơi</content>
+	<content contentuid="hb4fc3ff8gb1c0g4e39g9528g56d580894192" version="1">Chìa khóa Thư ký Trạm thu phí</content>
+	<content contentuid="hb50de6c9g5432g4ae0g8051g057be727af13" version="1">Chìa khóa Lồng Nhà xác</content>
+	<content contentuid="hb51bb4e6g3cf3g4a50gb309g6feecd26a613" version="1">Chìa khóa Mòn</content>
+	<content contentuid="hb591d6f3g5555g4b74g873fg3912b966f703" version="1">Chìa khóa rương của Hiệu thuốc Bonecloak</content>
+	<content contentuid="hb5a9818dgf170g4428ga586gb821899640f4" version="1">Chìa khóa Lồng</content>
+	<content contentuid="hb69457cbg5492g4ce5gaefcgf3761f845eb8" version="1">Chìa khóa Công ty Vận chuyển Bờ biển Sword</content>
+	<content contentuid="hb6afbc85gf828g4bb0ga773g7f99001830df" version="1">Chìa khóa Cửa Nghĩa trang</content>
+	<content contentuid="hb6eed228gc922g4e25gaad8gefc88800e3fe" version="1">Chìa khóa Xưởng Pháo hoa</content>
+	<content contentuid="hb7ec4345g7086g49a3g9ba8gac3972a1ce19" version="1">Chìa khóa Trưởng đoàn xiếc</content>
+	<content contentuid="hb80a7655g1eafg42f2gab46gf9f331f7b52b" version="1">Chìa khóa Vàng</content>
+	<content contentuid="hb8d01813gb5d6g4f95ga490ga5e228476d7b" version="2">Silver-Tongue's Better Than Any Key</content>
+	<content contentuid="hba2fabe8g8fc2g462bg8f17gab36f9ad0970" version="1">Chìa khóa rương của Kobold</content>
+	<content contentuid="hba9711bfgeea1g4c47gb6d5g56be354d1220" version="1">Chìa khóa của Aradin</content>
+	<content contentuid="hbbb8d6dfga6c4g4bc1g8434ga2568f4031d8" version="1">Chìa khóa Cửa sập của Tefoco</content>
+	<content contentuid="hbbfedeadgeea6g48dagbec7g250d2a8c1758" version="1">Chìa khóa Lễ vật Lăng mộ Lớn</content>
+	<content contentuid="hbe26f784gb648g481ag844dg7b7c2b58b2aa" version="1">Bị Khóa và Chìa</content>
+	<content contentuid="hbe358ed6gf461g4372gad5dgdd8318c36823" version="1">Chìa khóa Tầng hầm Baldur's Mouth</content>
+	<content contentuid="hbf3f8720gf020g4df2g9c54g4df95ef834c9" version="1">Chìa khóa rương của Limeleech</content>
+	<content contentuid="hbf9ada56ge814g4208g9163g586bfeaf6cb3" version="1">Chìa khóa Bệnh xá</content>
+	<content contentuid="hc060143cg3a61g4a9cga707g308a097c2d77" version="1">Chìa khóa Nhà tù</content>
+	<content contentuid="hc100dec4gbc3ag4a89g83feg9eb6bde9742a" version="5">Chìa khóa Kho tiền An ninh Cao cấp số 3</content>
+	<content contentuid="hc145645fg5fd0g46c5g82d7gff1c4b4c7790" version="1">Chìa khóa Cơ khí</content>
+	<content contentuid="hc25b8074g79c9g4931gb3c3g699d4e429b15" version="1">Chìa khóa Bạc</content>
+	<content contentuid="hc282d747gd1f8g41d2ga034gb8415e61e5de" version="1">Chìa khóa rương Tầng hầm Sorcerous Sundries</content>
+	<content contentuid="hc4f7eb64gc8e3g4ec9gb1a4ga3b2a4daa381" version="1">Chìa khóa Bạc</content>
+	<content contentuid="hc64986dag4847g498cgb87bgfd67d3043b1d" version="1">Chìa khóa Cửa sập Người trông coi</content>
+	<content contentuid="hc67fe5cag0124g48f9g9ddagda359b134be8" version="4">Chìa khóa Kho tiền số 5 của Ngân hàng</content>
+	<content contentuid="hc70967b2g4c87g4cb7g9fd3g6c9ad2f88123" version="2">Chìa khóa Lính canh Moonrise</content>
+	<content contentuid="hc7506684g19d9g4f24ga243gb903e5fd9a8f" version="2">Chìa khóa Xương</content>
+	<content contentuid="hc7d96823ga7beg4650g999cg8c0af37eff43" version="4">Chìa khóa Kho tiền An ninh Cao cấp số 8</content>
+	<content contentuid="hcab846e3g7806g4340g915cgf3e1a3b14375" version="1">Chìa khóa Nặng</content>
+	<content contentuid="hcbe7c10egb606g4689gbd9bg9e4df4de9a2d" version="1">Chìa khóa Cửa sập Sảnh Bang hội</content>
+	<content contentuid="hcc62a4b1g644eg444cg828ag4ca659f7268d" version="1">Chìa khóa Tiệm trà</content>
+	<content contentuid="hce0c8734g1f40g4ca3gbec0g485941904a45" version="1">Chìa khóa Rỗ</content>
+	<content contentuid="hcf7729bcgb357g42a4g8c9bgca8da53a8d08" version="1">Chìa khóa Zhentarim</content>
+	<content contentuid="hcf866e82ge33fg49acgb5b4gefa560923836" version="1">Chìa khóa Nhà kho</content>
+	<content contentuid="hd1b43e27ge4a0g47e3g8952gea13d2e5afb4" version="1">Chìa khóa Sơn</content>
+	<content contentuid="hd38c2634g11b0g4adfg981age6821d1a036d" version="1">Chìa khóa Sắt Lăng mộ Hhune</content>
+	<content contentuid="hd4e1ed71g4223g4f26gb6fcge654b386af7f" version="1">Chìa khóa rương của Omotola</content>
+	<content contentuid="hd649bb03gf43dg4163gad4bgf1ee077f1b5b" version="1">Chìa khóa Chủ quán trọ</content>
+	<content contentuid="hd9136e96g6399g4becg9c2eg3ba6f9e2388a" version="1">Chìa khóa Thử thách Bước Chân Nhẹ nhàng</content>
+	<content contentuid="hdc061093g3fdbg4b4cgacbag1fbbec257c66" version="2">Chìa khóa rương Du khách của Hội Rực rỡ</content>
+	<content contentuid="hdcf9462bgd8b7g461ag985dgcdafd83aef9c" version="1">Chìa khóa rương Bến Tàu</content>
+	<content contentuid="hdd1ebe6bgb538g49b4gb1c4g108f8e60fca7" version="1">Chìa khóa rương của Donnick</content>
+	<content contentuid="hde0ebd07g4acag4dafga2c6gafe06ac40df4" version="1">Chìa khóa Bạc</content>
+	<content contentuid="hdeb90eeegbaf1g426ag9039g28fbcfaca3ab" version="6">Chìa khóa Kho tiền An ninh Cao cấp số 1</content>
+	<content contentuid="hdf2c39fcga854g4243g9d7cgccd758783f64" version="1">Chìa khóa rương của Dheeber</content>
+	<content contentuid="he17e4c2fg46fdg4622ga837g6e4db8e460cb" version="3">Chìa khóa Kho tiền An ninh Cao cấp số 7</content>
+	<content contentuid="he223c243g5797g4786ga078g904c3a2a874a" version="1">Chìa khóa Phòng của Balthazar</content>
+	<content contentuid="he26a4c28gd3feg4864g8c49g2541f52cabb8" version="1">Chìa khóa Két sắt của Figaro</content>
+	<content contentuid="he32f365bgf7dfg4c2cgb169g9bb3674e783d" version="1">Chìa khóa Kho trữ Riêng</content>
+	<content contentuid="he43649d2g9895g4b30g947fgc5ecdc738770" version="1">Chìa khóa Dự phòng Phòng thí nghiệm Hoại tử</content>
+	<content contentuid="he5109876g2934g43e8ga438g89ba509ee708" version="1">Chìa khóa rương của Figaro</content>
+	<content contentuid="he60fc060gfa2eg490bgbe58g03406988aa42" version="1">Chìa khóa rương của Figaro</content>
+	<content contentuid="he860ece4g1b01g4e14g8ad2g0e64084d64b5" version="1">Chìa khóa rương của Gortash</content>
+	<content contentuid="hea75e346g5aceg4dd8ga0bbgdd6873cd78f9" version="1">Chìa khóa rương của Orin</content>
+	<content contentuid="hebebdfd1g4b18g4ffaga439g1b1c99179071" version="1">Chìa khóa Nhà tù</content>
+	<content contentuid="hed9bf5f0g7fc5g43ffga600g34fdf738d8b4" version="3">Chìa khóa Rỉ sét</content>
+	<content contentuid="heeb82c25g1e76g4cacgbec7gff2733ac5930" version="1">Chìa khóa Bạc</content>
+	<content contentuid="hef5867adgd5f8g4041g9a45gcd6defc5fe4d" version="1">Chìa khóa rương của Omotola</content>
+	<content contentuid="hf038dfb8g0ba3g4ba8gbe65g364d2adc231a" version="1">Chìa khóa rương Đạn dược</content>
+	<content contentuid="hf0851714g69abg4acdg8e56g3d86f3745493" version="1">Chìa khóa rương của Dresten</content>
+	<content contentuid="hf2f70b6egcee6g494cgb305g31045cfc4d61" version="1">Chìa khóa rương Thợ rèn</content>
+	<content contentuid="hf38366a2gb6e3g49a8g8661gb7f2822d6e6c" version="1">Chìa khóa Cầu kỳ</content>
+	<content contentuid="hf3f34122g07e9g43fbga051g73218d9d10d3" version="1">Chìa khóa của Lora</content>
+	<content contentuid="hf4905dfeg95d0g487cg8019gfbdc14853da4" version="2">Chìa khóa Bạc</content>
+	<content contentuid="hf5339e39g0b42g4c4eg8b15ga3efe0ebeb93" version="1">Chìa khóa Cấp Độ Điều khiển</content>
+	<content contentuid="hf53916e5g9aacg4fc1g8021g1974b183e6e7" version="1">Chìa khóa Cửa sập của Golbraith</content>
+	<content contentuid="hf5538661gb8c0g4918g8608g1183ae167d4e" version="2">Chìa khóa Cửa sập Crimson Draughts</content>
+	<content contentuid="hf5e42bf0g572bg49ecgb200gd89693014692" version="1">Chìa khóa Văn phòng Doanh trại</content>
+	<content contentuid="hf8322179g9868g416egb73eg3742c18daeaf" version="1">Chìa khóa Phòng của Sharess' Caress</content>
+	<content contentuid="hf8346597gc7f3g41f1g9d04g2ea218270700" version="1">Chìa khóa Lăng mộ Cổ đại</content>
+	<content contentuid="hf961f4e3g760bg4515ga3e7gbcaaf3ff74c2" version="1">Lack of Moderation is Key</content>
+	<content contentuid="hfb767ff0g43d3g45b0gb74cg90593f6c0873" version="1">Chìa khóa rương của Yannis</content>
+	<content contentuid="hfd4407a2g1909g4be9gb068g071e7ec56eb2" version="1">Chìa khóa rương Tiệm sách</content>
+	<content contentuid="hfd5058fag0fceg4c1fg8026g54b5eda5b2dc" version="4">Chìa khóa Két sắt số 1 của Ngân hàng</content>
+	<content contentuid="hfe3aed21gd5e5g416ega5c8g907fbff5fdf4" version="1">Bị Khóa và Chìa</content>
+	<content contentuid="hfe4fa8eegbb90g471bgb427gb3a853ceae6a" version="3">Chìa khóa Kho tiền An ninh Cao cấp số 5</content>
+	<content contentuid="hfeb50b52g9d06g4a85gaf22gb63e7b26df32" version="2">Chìa khóa Nhà tù Wyrm's Rock</content>
+
+
+
+
+	<!-- PLATE -->
+	<content contentuid="h01da18eag2adfg4cf5g8d57g15fef5ee2c9e" version="1">Giáp Tấm</content>
+	<content contentuid="h21269969gc3bbg4624g8637g5684033e29d5" version="1">Giáp Tấm</content>
+	<content contentuid="h29ff67b7g6fa7g464fga367gca676eb56326" version="1">Giáp Tấm</content>
+	<content contentuid="h2f7adc21g217bg4b41gab25g2c53c4cb6c9e" version="1">Giáp Tấm</content>
+	<content contentuid="h3374dc55g168fg43b2g9ab0g288eb67b28c7" version="1">Giáp Tấm</content>
+	<content contentuid="h5e8a0f8fgc6b6g4a5fg8ed3g83ef935fbd51" version="1">Giáp Tấm</content>
+	<content contentuid="h8948c3d0g395eg4cadg9564g1e9528d7de01" version="1">Giáp Tấm</content>
+	<content contentuid="hb9c38deagcc44g4f93gbc7fg2339f96fceea" version="1">Giáp Tấm</content>
+
+	<content contentuid="h044a462cgb2f5g460ag9c82ge3d484879fa5" version="2">Giáp Tấm Bán Thân Dark Justiciar</content>
+	<content contentuid="h04c058acg5b24g45e1g9f26g7ac33f911920" version="1">Giáp Tấm Cẩm Thạch</content>
+	<content contentuid="h05e94d9eg15feg4151gae95g17ba0c3c39c7" version="2">Giáp Tấm Ma Thuật</content>
+	<content contentuid="h0a027cf9g063cg4e7fg89f0g09fe6fb0ab68" version="2">Giáp Tấm Thượng Hạng</content>
+	<content contentuid="h0a2e294dg3f20g4e04g82c2g53bac8ad9db0" version="1">Giáp Tấm Thiếc</content>
+	<content contentuid="h101242cfgbc37g4337gb04cg2d964c5aab3e" version="1">Giáp Tấm Cẩm Thạch</content>
+	<content contentuid="h157f1573gd952g4c0ag9a59ga6e818420d2d" version="2">Giáp Tấm Cẩm Thạch</content>
+	<content contentuid="h1d9ff665g8312g4f75g9abfge20a34542cc3" version="1">Giáp Tấm Bạc</content>
+	<content contentuid="h2739b6b0g7c93g4afcga6dagda0507410a84" version="1">Giáp Tấm Cẩm Thạch</content>
+	<content contentuid="h2c264de2g128dg4756gad61g14e2ac7405ed" version="1">Giáp Tấm Blackguard</content>
+	<content contentuid="h2e9ca8a8g1434g4c47ga28bge439e8475120" version="1">Giáp Tấm Cẩm Thạch</content>
+	<content contentuid="h3180a63eg5f11g4ad1gbc15g1645e303103f" version="1">Giáp Tấm Đá</content>
+	<content contentuid="h352fbe4egfaf4g4243g811dg8cd57ede6875" version="2">Giáp Tấm Bán Thân Githyanki</content>
+	<content contentuid="h42cf2d69g4382g471dg8776g4269784099a0" version="2">Giáp Tấm Cẩm Thạch</content>
+	<content contentuid="h469dcb15g24e5g4012g8fe0g775d4c4abba2" version="1">Giáp Tấm Bảo Vệ</content>
+	<content contentuid="h47f5b94fg065ag43b6gb34bge149026a02d5" version="3">Giáp Tấm Đồng</content>
+	<content contentuid="h48d231bfg2b53g4433g9edfg5ede5b7d6112" version="2">Giáp Tấm Ngực</content>
+	<content contentuid="h49049f03g68ceg47cbgb596g17f51df1afd3" version="1">Giáp Tấm Dreamwalker</content>
+	<content contentuid="h4e913ac1gd306g47c3ga322g99f51faf07c5" version="1">Giáp Tấm Cẩm Thạch</content>
+	<content contentuid="h54cb50e4gf373g48ccgbc10g533b1c29f291" version="1">Giáp Tấm Bán Thân Githyanki</content>
+	<content contentuid="h5b6ec377ge949g495dgbdb1gd40416b24221" version="1">Giáp Tấm Bán Thân Da Githyanki</content>
+	<content contentuid="h5f8763abg24a6g4fc3ga945g28159ae16061" version="1">Giáp Tấm Bạc</content>
+	<content contentuid="h6493487cg979ag4faeg890fg4352cd235167" version="2">Giáp Tấm Cẩm Thạch</content>
+	<content contentuid="h695279acgecd8g4449gb871g592debd49f9f" version="1">Giáp Tấm Cẩm Thạch</content>
+	<content contentuid="h6d83a0bfg8b5cg4c14g9990g4cad778ece7e" version="1">Giáp Tấm Trống</content>
+	<content contentuid="h7141f414gc035g4759ga48cg223c32a615dc" version="1">Giáp Tấm Cẩm Thạch</content>
+	<content contentuid="h7ac12bd9ge9d7g473fg86a7g0d91f8b54a37" version="1">Giáp Tấm Cẩm Thạch</content>
+	<content contentuid="h7b45c9d3g2a5fg4ec5g9878g521282ccf401" version="2">Giáp Tấm Ngực Ironwood</content>
+	<content contentuid="h7bb8d78fg3bb3g46f7g9a1egce8d6d82fc49" version="1">Giáp Tấm Bán Thân Dark Justiciar</content>
+	<content contentuid="h808a7380g4fd3g4c10g8050gd58f1529a440" version="2">Giáp Tấm Cẩm Thạch</content>
+	<content contentuid="h80c2f33dg6ef9g44cag978agb50cdf987703" version="1">Giáp Tấm Cẩm Thạch</content>
+	<content contentuid="h8136d9fegd394g40cbga42eg8bf804343929" version="1">Giáp Tấm Cẩm Thạch</content>
+	<content contentuid="h8e03cf03gcc13g4f9ag9647g8f784afee43b" version="1">Giáp Tấm Bán Thân Githyanki</content>
+	<content contentuid="h9a406564ga0cdg4196gacc5g761f776f087c" version="1">Giáp Tấm Bán Thân Githyanki</content>
+	<content contentuid="h9bb7584bgb085g49fdgac0eg25ba8c1ca8c2" version="1">Giáp Tấm Cẩm Thạch</content>
+	<content contentuid="h9fc8f384g5193g4ec5gb5edg70c3e4ef5ffc" version="2">Giáp Tấm Cẩm Thạch</content>
+	<content contentuid="ha12d9aaeg88ceg4721gabe2gd2d0dfecbff5" version="2">Giáp Tấm Bán Thân Githyanki Bị Hư Hỏng</content>
+	<content contentuid="ha796d039gd570g4ed9g93aegecc4215758c4" version="1">Giáp Tấm Cẩm Thạch</content>
+	<content contentuid="hac1dbbefgda87g451cgaadbgfe670e321502" version="1">Giáp Tấm Cẩm Thạch</content>
+	<content contentuid="hb91010f2ge629g402bg88b6g0f610c8e83f6" version="1">Giáp Tấm Thiếc</content>
+	<content contentuid="hc6323c46g036fg48a6gb2a0g559c64d878dc" version="2">Giáp Tấm Cẩm Thạch</content>
+	<content contentuid="hc94c7a25g6b09g4c06g96aega892fb914897" version="2">Giáp Tấm Ngực +1</content>
+	<content contentuid="hd0d73c82g6a34g4e1dg85b5g5b6ce521cc0f" version="1">Giáp Tấm Cẩm Thạch</content>
+	<content contentuid="hda39202dg63d7g48c7gabfag01142e786a85" version="2">Giáp Tấm Bán Thân Nightsinger</content>
+	<content contentuid="hdd0593f3g8815g43f4gb4d1g76d7d5ccfaa4" version="1">Giáp Tấm Ngực</content>
+	<content contentuid="hde1493a8gdcdbg42c2g8b3fgba3d17cf63ef" version="2">Giáp Tấm Đặc Biệt</content>
+	<content contentuid="he2833008g6ebbg43c2gbe60g8426fc097a46" version="1">Giáp Tấm Trống</content>
+	<content contentuid="he7a20495g55a4g4741gbac4gbd584646a3e2" version="1">Giáp Tấm Ngực Githyanki</content>
+	<content contentuid="he8958036g90c4g4e3cgb0c1gf82480aeae53" version="1">Giáp Tấm Cẩm Thạch</content>
+	<content contentuid="heb67f1e2g5e10g4db0g9723ge70a5e190037" version="1">Giáp Tấm Bạc</content>
+	<content contentuid="hf238314bg21afg4282gabf4gd966710990d1" version="1">Giáp Tấm Cẩm Thạch</content>
+	<content contentuid="hfcb933e9g3b8cg4cffga547gca963e584ff7" version="1">Giáp Tấm Bạc</content>
+
+
+
+
+
+</contentList>

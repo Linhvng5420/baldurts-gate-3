@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contentList>
+    
+
+	<!-- Thuật Ngữ Cốt Lõi Của Hệ Thống Chiến Đấu -->
+    <content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_1" version="1">Sát thương chém</content>
+    <content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_10" version="1">Sát thương tâm linh</content>
+    <content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_11" version="1">Sát thương độc</content>
+    <content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_12" version="1">Sát thương hào quang</content>
+    <content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_13" version="1">Sát thương lực</content>
+    <content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_14" version="1">Vũ khí</content>
+    <content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_15" version="1">Phép thuật</content>
+    <content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_16" version="1">Hồi máu</content>
+    <content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_2" version="1">Sát thương xuyên</content>
+    <content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_3" version="1">Sát thương dập</content>
+    <content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_4" version="1">Sát thương axit</content>
+    <content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_5" version="1">Sát thương sấm sét</content>
+    <content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_6" version="1">Sát thương hoại tử</content>
+    <content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_7" version="1">Sát thương lửa</content>
+    <content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_8" version="1">Sát thương điện</content>
+    <content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_9" version="1">Sát thương băng</content>
+    
+    <!-- Miêu tả hiệu ứng/khả năng kháng (Status Effect/Resistance Description) -->
+    <content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_1" version="1">Sát thương chém từ các đòn tấn công phi ma thuật lên thực thể này bị vô hiệu hóa.</content>
+    <content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_10" version="1">Sát thương tâm linh từ các đòn tấn công phi ma thuật lên thực thể này bị vô hiệu hóa.</content>
+    <content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_11" version="1">Sát thương độc từ các đòn tấn công phi ma thuật lên thực thể này bị vô hiệu hóa.</content>
+    <content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_12" version="1">Sát thương hào quang từ các đòn tấn công phi ma thuật lên thực thể này bị vô hiệu hóa.</content>
+    <content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_13" version="1">Sát thương lực từ các đòn tấn công phi ma thuật lên thực thể này bị vô hiệu hóa.</content>
+    <content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_14" version="1">Sát thương vũ khí từ các đòn tấn công phi ma thuật lên thực thể này bị vô hiệu hóa.</content>
+    <content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_15" version="1">Sát thương phép thuật từ các đòn tấn công phi ma thuật lên thực thể này bị vô hiệu hóa.</content>
+    <content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_16" version="1">Sát thương hồi máu từ các đòn tấn công phi ma thuật lên thực thể này bị vô hiệu hóa.</content>
+    <content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_2" version="1">Sát thương xuyên từ các đòn tấn công phi ma thuật lên thực thể này bị vô hiệu hóa.</content>
+    <content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_3" version="1">Sát thương dập từ các đòn tấn công phi ma thuật lên thực thể này bị vô hiệu hóa.</content>
+    <content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_4" version="1">Sát thương axit từ các đòn tấn công phi ma thuật lên thực thể này bị vô hiệu hóa.</content>
+    <content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_5" version="1">Sát thương sấm sét từ các đòn tấn công phi ma thuật lên thực thể này bị vô hiệu hóa.</content>
+    <content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_6" version="1">Sát thương hoại tử từ các đòn tấn công phi ma thuật lên thực thể này bị vô hiệu hóa.</content>
+    <content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_7" version="1">Sát thương lửa từ các đòn tấn công phi ma thuật lên thực thể này bị vô hiệu hóa.</content>
+    <content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_8" version="1">Sát thương điện từ các đòn tấn công phi ma thuật lên thực thể này bị vô hiệu hóa.</content>
+    <content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_9" version="1">Sát thương băng từ các đòn tấn công phi ma thuật lên thực thể này bị vô hiệu hóa.</content>
+    
+</contentList>

@@ -5577,15 +5577,17 @@
 	<content contentuid="h0e8c8576g753fg4c2cg96e8g024104dd2af8" version="1">&lt;i&gt;Ạ.&lt;/i&gt;</content>
 	<content contentuid="h0e8cea30g8f9ag4aa8g85f8g93b80dfafd1b" version="1">&lt;i&gt;Cầu xin sự cứu rỗi từ Nữ thần Đủ đầy.&lt;/i&gt;</content>
 	<content contentuid="h0e8d1f4bgdc04g4b71gbf28g6dbb158df3e5" version="3">Có thể là một rung chấn nào đó. Giả thuyết thôi.</content>
-	<content contentuid="h0e8eb068gfa89g4ed1g86bdgeda5152f7a94" version="1">[Ký tự ngôn ngữ Githyanki - tir'su - được vẽ ở một mặt giấy. Mặt còn lại là chữ viết bằng ngôn ngữ Phổ thông.]	
-			
-&lt;br&gt;&lt;br&gt;She'lak,&lt;br&gt;&lt;br&gt;			
-			
-The Prince of the Comet shines ever-bright. Breath by breath, battle by battle, Vlaakith's death draws nearer. We have taken to the Astral Plane, slaughter all who must be slaughtered, and spread the Heir's Truth to every possible ear, willing and unwilling. Many githyanki have already taken up arms with us as Warriors of the Comet. Others have remained in their enclaves or travelled to crèches, dedicating themselves to Orpheus as scribes, spies, and slate-scholars.&lt;br&gt;&lt;br&gt;			
-			
-But our allies do not all call themselves Children of Gith. Zaerith Menyar-Ag-Gith, the githzerai's god-king, has requested an audience. There was a time I would have thought such a coalition unspeakable. But Orpheus has spoken: 'If Vlaakith is to fall, mayhaps the two skies must again be made one.&lt;br&gt;&lt;br&gt;'			
-			
-Voss, Revrykal t'Orpheus, Knight of the Comet</content>
+	<content contentuid="h0e8eb068gfa89g4ed1g86bdgeda5152f7a94" version="1">
+	[Ký tự ngôn ngữ Githyanki - tir'su - được vẽ ở một mặt giấy. Mặt còn lại là chữ viết bằng ngôn ngữ Phổ thông.]
+	&lt;br&gt;&lt;br&gt;
+	She'lak,
+	&lt;br&gt;&lt;br&gt;
+	Hoàng tử của Sao Chổi vẫn luôn rực sáng. Từng hơi thở, từng trận chiến, cái chết của Vlaakith đang đến gần hơn. Chúng ta đã đi đến Mặt phẳng Astral, tàn sát tất cả những kẻ cần phải bị tàn sát, và truyền bá Chân lý của Kẻ Kế Vị đến mọi tai có thể, dù họ có muốn hay không. Nhiều githyanki đã cầm vũ khí đứng lên cùng chúng ta với tư cách là những Chiến binh của Sao Chổi. Những người khác vẫn ở lại trong các khu ẩn náu hoặc đến các crèche (nơi ươm mầm), cống hiến cho Orpheus với vai trò thư lại, gián điệp và học giả.
+	&lt;br&gt;&lt;br&gt;
+	Nhưng không phải tất cả đồng minh của chúng ta đều tự xưng là Con cái của Gith. Zaerith Menyar-Ag-Gith, vị thần-vua của githzerai, đã yêu cầu được diện kiến. Đã có lúc ta nghĩ một liên minh như vậy là không thể nói ra. Nhưng Orpheus đã phán rằng: "Nếu Vlaakith phải ngã xuống, có lẽ hai bầu trời phải trở lại làm một lần nữa."
+	&lt;br&gt;&lt;br&gt;
+	Voss, Revrykal t'Orpheus, Hiệp sĩ của Sao Chổi
+	</content>
 	<content contentuid="h0e9006e0g80afg4128g8f0bg0f80f60a8b20" version="4">Tăng phạm vi của đòn cận chiến tiếp theo thêm [1] và gây thêm sát thương dựa vào Viên Siêu việt.</content>
 	<content contentuid="h0e927190gfef8g456fgb7ecgab5ebe30d10b" version="1">Vậy mà hoá ra tên phản trắc đó lâu nay đã luôn ở cạnh chúng ta, bị điều khiển bởi con Illithid đáng kinh tởm ấy.</content>
 	<content contentuid="h0e933f2cg72ebg47bcga071gf0ce27598fed" version="1">Tôi chiếm quyền kiểm soát con tàu, cho nó hạ cánh an toàn và cứu hết mọi người.</content>
@@ -6845,9 +6847,7 @@ Voss, Revrykal t'Orpheus, Knight of the Comet</content>
 	<content contentuid="h11beaa08g674eg4b56gb89ag8877c40ebe21" version="2">Thôi... tôi đang nghỉ...</content>
 	<content contentuid="h11beba53g52bfg4c59g9e6cg33e621bf91eb" version="1">Còn nếu bỏ con nòng nọc, Cazardor sẽ lại chiếm kiểm soát tôi, cả hồn lẫn xác, rồi ném tôi trở lại bóng tối.</content>
 	<content contentuid="h11bf4b90gef7ag403fg97f3g45c90c8fa2d3" version="3">*Tâm trí ngươi rướn về phía trước và quờ quạng vào... hư không.*</content>
-	<content contentuid="h11c139d2g8d8dg472aga56bgfa607d0342f7" version="1">Hành động bồi là các hành động nhỏ hoặc nhanh hơn, dùng kèm với hành động bình thường.	
-			
-Tài nguyên này được thể hiện bằng biểu tượng hình tam giác. Nhấp vào biểu tượng này để xem các Hành động bồi.</content>
+	<content contentuid="h11c139d2g8d8dg472aga56bgfa607d0342f7" version="1">Hành động bồi là các hành động nhỏ hoặc nhanh hơn, dùng kèm với hành động bình thường. Tài nguyên này được thể hiện bằng biểu tượng hình tam giác. Nhấp vào biểu tượng này để xem các Hành động bồi.</content>
 	<content contentuid="h11c2c9efgb101g432dg943dgf2ce577a7709" version="2">Nghe nói nghi thức này có thể bảo vệ mật động. Cô có tham gia chuẩn bị không?</content>
 	<content contentuid="h11c2fd76g2de7g41a2gae68g1b8c22a3912d" version="1">Nhiều... rất nhiều... quân đoàn Goblin... và nhiều nữa... phụng sự... Đấng Tuyệt Đối...</content>
 	<content contentuid="h11c36896gd681g4b57ga0a5gd93288ddc0df" version="3">*Liệu ngươi sẽ giải phóng những Chân Linh khỏi lũ ký sinh và những ảo tưởng tôn giáo của họ, hay lợi dụng sức mạnh vừa lấy được để phục vụ ý đồ của mình?*</content>
@@ -11880,13 +11880,21 @@ Tài nguyên này được thể hiện bằng biểu tượng hình tam giác. 
 	<content contentuid="h1eafb4fege4bag4af9g9313gb2449a086756" version="1">Chơi đùa với người chết à? Thú vị nhỉ.</content>
 	<content contentuid="h1eafbd6dg014fg4f3cg8642gb481f7b59716" version="1">Bầu nước muối</content>
 	<content contentuid="h1eb0cf9bgcc88g4995g9d66g1aa5bcc67528" version="5">Rõ ràng là *** có thừa khả năng chiến đấu. Bọn tôi thì... không phải lính tráng gì.</content>
-	<content contentuid="h1eb1850cg1abdg42c5g8c01g9b7126956dab" version="3">Nhắc nhở gửi đến các lính gác đang trực: &lt;b&gt;phải nhớ tên của các chủ hầm.&lt;/b&gt; Sự lịch thiệp cũng là một phần của dịch vụ mà chúng ta cung cấp cho các khách hàng thuộc tầng lớp cao.&lt;br&gt;&lt;br&gt;	
-Vault One: Captain Grisly&lt;br&gt;			
-Vault Two: Oloric Witmirth&lt;br&gt;			
-Vault Three: Alan Alyth&lt;br&gt;			
-Vault Four: Avery Sonshal&lt;br&gt;			
-Vault Five: Roger Highberry&lt;br&gt;			
-Vault Six: Omotola</content>
+	<content contentuid="h1eb1850cg1abdg42c5g8c01g9b7126956dab" version="3">
+	Nhắc nhở gửi đến các lính gác đang trực: &lt;b&gt;phải nhớ tên của các chủ hầm.&lt;/b&gt; Sự lịch thiệp cũng là một phần của dịch vụ mà chúng ta cung cấp cho các khách hàng thuộc tầng lớp cao.
+	&lt;br&gt;&lt;br&gt;
+	Hầm Một: Thuyền trưởng Grisly
+	&lt;br&gt;
+	Hầm Hai: Oloric Witmirth
+	&lt;br&gt;
+	Hầm Ba: Alan Alyth
+	&lt;br&gt;
+	Hầm Bốn: Avery Sonshal
+	&lt;br&gt;
+	Hầm Năm: Roger Highberry
+	&lt;br&gt;
+	Hầm Sáu: Omotola
+	</content>
 	<content contentuid="h1eb3e6e0gfaa0g4be5g83fegee539d2c43eb" version="2">Độc tố Lây lan</content>
 	<content contentuid="h1eb41572g43bbg42d4gb91eg62111b11418c" version="1">&lt;i&gt;Rời đi.&lt;/i&gt;</content>
 	<content contentuid="h1eb444a8g4504g4584g8848g63dbed07edee" version="1">DC Tránh Phép</content>
@@ -13983,9 +13991,7 @@ Vault Six: Omotola</content>
 	<content contentuid="h241aa46cg7b53g4f0cg8273gc6fed36d1633" version="1">Cúi đầu trước ta, để ta cho ngươi một cái chết &lt;i&gt;nhanh chóng&lt;/i&gt;.</content>
 	<content contentuid="h241b00ebg86f2g499fgb83fgbe29cb0052d6" version="1">Có vẻ là ta biết ngươi rõ hơn cả chính ngươi.</content>
 	<content contentuid="h241b1572ge90cg456bg8926gc10070fd774a" version="1">Thế thì tránh ra đi.</content>
-	<content contentuid="h241bfb0fgffa2g4ccega96fgb26da384ecf8" version="1">Giữ thăng bằng. Biết tiếp đất bằng chân.	
-			
-Giúp tránh bị Xô.</content>
+	<content contentuid="h241bfb0fgffa2g4ccega96fgb26da384ecf8" version="1">Giữ thăng bằng. Biết tiếp đất bằng chân. Giúp tránh bị Xô.</content>
 	<content contentuid="h241cbcd2geecdg4d4dgb24fg726e74d93239" version="2">Tôi tự hào quá.</content>
 	<content contentuid="h241d5becg6830g4a7cg9eb1g1730c906de76" version="2">Có một thứ gì đó trong anh đã mất đi, và ta không hiểu được. </content>
 	<content contentuid="h242014b1gf415g479eg9fb1gc220e9a5c228" version="3">Đầu 4</content>
@@ -15114,11 +15120,15 @@ Giúp tránh bị Xô.</content>
 	<content contentuid="h2706cd5dg42f7g4cb2g8a13gbaa5b4935c47" version="2">Tôi không mong người khác sẽ hiểu. Nhưng tôi đã được đời phát cho một tay bài mà người bình thường nhìn vào chỉ muốn úp xuống. </content>
 	<content contentuid="h2707c39eg3e2bg4420ga5cdg853db5e7b198" version="6">Ặc. Mùi giống như đi xuống cống thoát lũ của thành Gate vậy. </content>
 	<content contentuid="h27088745g8ef2g420fga9b9ge3fcd73433c8" version="1">Tên ngươi là g-ì?</content>
-	<content contentuid="h27089577g18e4g45f6ga76cg9a5475648066" version="2">Nhóm Mạo Hiểm Giả "Linh Miêu Xanh"	
-			
-Base cost: 1,000 GP			
-Incidentals: 1,000 GP			
-Objective: No trace of Oskar found from here to Waterdeep.</content>
+	<content contentuid="h27089577g18e4g45f6ga76cg9a5475648066" version="2">
+	Nhóm Mạo Hiểm Giả "Linh Miêu Xanh"
+	&lt;br&gt;&lt;br&gt;
+	Chi phí cơ bản: 1.000 GP
+	&lt;br&gt;
+	Chi phí phát sinh: 1.000 GP
+	&lt;br&gt;
+	Mục tiêu: Không tìm thấy bất kỳ dấu vết nào của Oskar từ đây cho đến Waterdeep.
+	</content>
 	<content contentuid="h270a1befg1f73g4c9fg94a6g4e4ff39ddffc" version="1">Mảnh giấy này chưa được đọc.</content>
 	<content contentuid="h270a3cbag5b1ag40a9g900agb9845a55a6fe" version="2">Làm tê liệt linh hồn của một sinh vật và hiến tế nó cho Yeenoghu, ngăn cản nó thực hiện hành động bồi hay phản xạ.</content>
 	<content contentuid="h270ac0eag1ceeg47cbg900bgeb68f56a1ac2" version="3">Trái tim Sắt</content>
@@ -16588,9 +16598,7 @@ Objective: No trace of Oskar found from here to Waterdeep.</content>
 	<content contentuid="h2accac8fg28eeg4d85gb412g2f6f8ec2d756" version="1">Những Bậc thầy Thuần thú gắn kết bản thân với một con thú đồng hành, chia sẻ với chúng một sự kết nối kể cả trong và ngoài giao tranh.</content>
 	<content contentuid="h2ace160fg179ag4724gbb31geb98f09c39ca" version="3">Tôi xin lỗi. Tôi sẽ dâng cho Người cảm giác mất anh.</content>
 	<content contentuid="h2ace3e16g17f5g4fecg8da4gaefb3612406a" version="1">Tượng bán thân</content>
-	<content contentuid="h2ace8502g2abag418ag96bbgfbe3b64d60dc" version="1">Dùng để niệm phép.	
-			
-Mỗi phép thuật đều có một Cấp, và chỉ có thể được niệm bằng Lượt phép cấp tương đương hoặc cao hơn. Hồi lại Lượt phép bằng cách &lt;LSTag Tooltip="LongRest"&gt;Nghỉ Qua đêm&lt;/LSTag&gt;.</content>
+	<content contentuid="h2ace8502g2abag418ag96bbgfbe3b64d60dc" version="1">Dùng để niệm phép. Mỗi phép thuật đều có một Cấp, và chỉ có thể được niệm bằng Lượt phép cấp tương đương hoặc cao hơn. Hồi lại Lượt phép bằng cách &lt;LSTag Tooltip="LongRest"&gt;Nghỉ Qua đêm&lt;/LSTag&gt;.</content>
 	<content contentuid="h2ace9863gc1f0g4cc0g94bag67dfaa026a6a" version="1">*Lịch sử địa phương, viết một cách khó hiểu.*</content>
 	<content contentuid="h2acfbc1eg90f9g4afaga8ccg5e21a8b131e2" version="2">Đòn Uất hận</content>
 	<content contentuid="h2ad00fc0g560bg4d5dgb0e6gb6b77ffa50c9" version="4">Lính của bọn Devil. Mình đang ở Hỏa ngục sao?</content>
@@ -17222,9 +17230,7 @@ Mỗi phép thuật đều có một Cấp, và chỉ có thể được niệm 
 	<content contentuid="h2c7f6463gf7abg4ee6gb942g17492e9e8741" version="1">Tôi sẽ nán lại đây để làm những gì có thể nhằm cản trở kế hoạch của đám cuồng giáo. Có thể tôi sẽ ngăn được cuộc tấn công trước khi nó bắt đầu. Tạm biệt anh.</content>
 	<content contentuid="h2c80bcaeg85c0g420fgbd29gc893d41a679f" version="2">It resembles the slate from Crèche Y'llek. I see similar patterns among the glyphs.</content>
 	<content contentuid="h2c81e090g7bbbg4555g8ff0g5babd3579d66" version="1">Bộ xương</content>
-	<content contentuid="h2c81e800gd63eg4d54g9089g381d0e5d7940" version="1">Độ phân giải AMD FidelityFX Super Resolution 1.0 là công nghệ nâng cấp không gian siêu tối ưu tiên tiến, tạo ra chất lượng hình ảnh ấn tượng ở tốc độ khung hình nhanh.	
-			
-FSR tăng tốc độ khung hình bằng cách sử dụng thuật toán 2 lần để nâng cấp khung hình ở độ phân giải thấp hơn để chúng trông sắc nét như mong đợi ở độ phân giải gốc.</content>
+	<content contentuid="h2c81e800gd63eg4d54g9089g381d0e5d7940" version="1">Độ phân giải AMD FidelityFX Super Resolution 1.0 là công nghệ nâng cấp không gian siêu tối ưu tiên tiến, tạo ra chất lượng hình ảnh ấn tượng ở tốc độ khung hình nhanh.	FSR tăng tốc độ khung hình bằng cách sử dụng thuật toán 2 lần để nâng cấp khung hình ở độ phân giải thấp hơn để chúng trông sắc nét như mong đợi ở độ phân giải gốc.</content>
 	<content contentuid="h2c8409b5g6a70g44afg9ba7g868175b57862" version="1">Các người biết không, tôi cũng đang cần có bạn.Tiếc rằng đó sẽ không là ai trong số các người.</content>
 	<content contentuid="h2c841da8gdac9g4d2bg97a9g8398603ece11" version="2">&lt;i&gt;Tấn công.&lt;/i&gt;</content>
 	<content contentuid="h2c8467fdg9965g4963g81e1g01f51d7c403c" version="7">Bọn họ bảo vào trong cánh cổng kia là an toàn. Nhưng bọn họ không cho ai vào cả. Lũ &lt;i&gt;chó đẻ.&lt;/i&gt;</content>
@@ -19230,9 +19236,9 @@ FSR tăng tốc độ khung hình bằng cách sử dụng thuật toán 2 lần
 	<content contentuid="h31b466e8gb2beg4d5ag8420gbdad529e90fb" version="2">Có lẽ họ bị buộc phải lẩn trốn.</content>
 	<content contentuid="h31b72a5fg5429g4452gbde9g3c1998a22482" version="1">Bà có thể miêu tả ông ấy không?</content>
 	<content contentuid="h31b7fe70g1c6eg4a4egb3ffg6556c5f993c7" version="5">[Một bức minh hoạ một bé gái có một mái tóc lấm tấm vài sợi màu trắng.]	
-&lt;br&gt;&lt;b&gt;MẤT TÍCH&lt;/b&gt;&lt;br&gt;&lt;br&gt;			
-Kass			
-&lt;br&gt;&lt;br&gt;Sẽ hậu tạ bất kỳ thông tin nào về người con yêu quý của chúng tôi - vui lòng báo về trại người Gur ở Wyrm's Crossing.</content>
+	&lt;br&gt;&lt;b&gt;MẤT TÍCH&lt;/b&gt;&lt;br&gt;&lt;br&gt;			
+	Kass			
+	&lt;br&gt;&lt;br&gt;Sẽ hậu tạ bất kỳ thông tin nào về người con yêu quý của chúng tôi - vui lòng báo về trại người Gur ở Wyrm's Crossing.</content>
 	<content contentuid="h31b8c4f6gebffg4e97g82ccgfec102f30dcd" version="3">Đáng ra cô sẽ nhận được sự dẫn dắt của Selûne trong chính khu rừng ấy. Đó là nghi thức trưởng thành của cô. Tuy nhiên, tín đồ của Shar đã bắt cóc cô. Hẳn là chúng đã theo dõi cô từ trước đó rất lâu.</content>
 	<content contentuid="h31b8ded0gc774g450dga562g10ebadab3b80" version="1">Cứ coi như đó là một mối quan hệ rất cá nhân và rất riêng tư đi. </content>
 	<content contentuid="h31b8e807g5b37g4a72g8f92g8f1dae79feb2" version="5">Có quá nhiều điều phải bàn bạc. Anh có nơi nào an toàn ở đây để dựng trại không?</content>
@@ -21868,13 +21874,10 @@ Kass
 	<content contentuid="h386bbed5ge4c8g4aa9gb559gfd2554004aaa" version="3">Cầu cho Silvanus dẫn lối chúng ta.&lt;br&gt;</content>
 	<content contentuid="h386ca447g4b63g40beg8582g3c599f54d5fa" version="1">Cõi Bóng tối. Thầy của tôi gọi nó là một tấm gương hắc ám được cầm lên soi thẳng vào chiều tồn tại của chúng ta, sự đảo nghịch của tất cả những gì chúng ta trân quý.</content>
 	<content contentuid="h386ca95eg690ag4989g9122gae425bfdbbd2" version="2">Thí nghiệm với Kẻ Số Một - Ngày Thứ Tư	
-Nhắc lại, ta đã ghi nhận vấn đề rò rỉ chất lỏng từ khoang miệng và đã xác định nguyên do. Bởi bản chất bất thường trong quá trình cấy ký sinh, các chất nội tiết trong cơ thể sinh vật đang bị rò rỉ ra ngoại quan, thay vì được hấp thụ bởi bộ óc như được theo dõi với các nô lệ khác. Ta chưa thể kết luận tại sao con ký sinh lại tiết ra chất dầu này, nhưng mùi giống tỏi của nó thể hiện rằng con ký sinh hẳn đang hấp thụ chất dịch não của vật chủ. Ta đã thu thập mẫu thử nghiệm chất dịch tiết ra từ tai.			
-			
-Ngày Thứ Năm			
-			
-Hôm nay là ngày giải phẫu sống. Sinh vật không thể hiện dấu hiệu đau đớn khi ta mổ xẻ phần ruột, thay vào đó đã nắm lấy đoạn nội tạng dài này như một sợi dây thừng và tròng vào cổ như thể muốn giết chết ta. Tuy nhiên, hai cánh tay khẳng khiu của nó không còn đủ sức để hoàn thành mục đích. Ta đã phải khâu lại phần ruột vào cơ thể. Sẽ thử lại vào một ngày khác.			
-			
-</content>
+	Nhắc lại, ta đã ghi nhận vấn đề rò rỉ chất lỏng từ khoang miệng và đã xác định nguyên do. Bởi bản chất bất thường trong quá trình cấy ký sinh, các chất nội tiết trong cơ thể sinh vật đang bị rò rỉ ra ngoại quan, thay vì được hấp thụ bởi bộ óc như được theo dõi với các nô lệ khác. Ta chưa thể kết luận tại sao con ký sinh lại tiết ra chất dầu này, nhưng mùi giống tỏi của nó thể hiện rằng con ký sinh hẳn đang hấp thụ chất dịch não của vật chủ. Ta đã thu thập mẫu thử nghiệm chất dịch tiết ra từ tai.			
+	Ngày Thứ Năm			
+	Hôm nay là ngày giải phẫu sống. Sinh vật không thể hiện dấu hiệu đau đớn khi ta mổ xẻ phần ruột, thay vào đó đã nắm lấy đoạn nội tạng dài này như một sợi dây thừng và tròng vào cổ như thể muốn giết chết ta. Tuy nhiên, hai cánh tay khẳng khiu của nó không còn đủ sức để hoàn thành mục đích. Ta đã phải khâu lại phần ruột vào cơ thể. Sẽ thử lại vào một ngày khác.			
+	</content>
 	<content contentuid="h386d84aagb699g4a83g88ebg28b7548c34b9" version="1">&lt;i&gt;Ssifisv&lt;/i&gt; - Teela, tới đây.</content>
 	<content contentuid="h386da6a7g48a3g4560gbe26gd7edd80c6600" version="1">Một chiếc bao vải bố dệt kín kẽ để đựng lúa mì hoặc những thứ hàng hoá khác.</content>
 	<content contentuid="h386dc4f9gaa97g4fe4g83a2gd70b3bbbe72f" version="1">Vlaakith đã xuất hiện trước mắt chúng ta ở trại và cho Lae'zel một lời đề nghị: Giết chết Orpheus, thì bà ta sẽ phong Lae'zel lên làm Người được chọn. Lae'zel đã chấp nhận. Chúng ta nên hỏi xem cô ấy định tiếp tục như thế nào.</content>
@@ -22781,9 +22784,7 @@ Hôm nay là ngày giải phẫu sống. Sinh vật không thể hiện dấu hi
 	<content contentuid="h3ac61886gf3dbg4d6cgbbe3g70640bfddf1c" version="1">Việc này tôi không giúp được. Nhưng tôi đã giúp anh nhiều rồi.</content>
 	<content contentuid="h3ac69b0cg8aa3g48d1g8a0fg9085c55f8d94" version="2">Đừng hòng hăm dọa! &lt;i&gt;Tấn công.&lt;/i&gt;</content>
 	<content contentuid="h3ac6a269gaa2cg43a2g91deg2369e565f9a0" version="2">Giết chết con quỷ có tên là Karlach. Ả ta là một cái gai trong mắt Chúa Tà thần Zariel.</content>
-	<content contentuid="h3ac6b87ag09c5g4c49gb469gacceb1f1f6d9" version="1">Một số sinh vật hoặc vật thể sẽ Yếu với một loại sát thương, nhưng Kháng một loại sát thương khác.	
-Sát thương Phép thuật có ảnh hưởng đến mọi loại sát thương có nguồn từ phép thuật.			
-</content>
+	<content contentuid="h3ac6b87ag09c5g4c49gb469gacceb1f1f6d9" version="1">Một số sinh vật hoặc vật thể sẽ Yếu với một loại sát thương, nhưng Kháng một loại sát thương khác. Sát thương Phép thuật có ảnh hưởng đến mọi loại sát thương có nguồn từ phép thuật.</content>
 	<content contentuid="h3ac76a20g9015g4fd8gbc3fga0165a08bee5" version="1">Elf! Mày làm gì trên bè của thằng Gekh?</content>
 	<content contentuid="h3ac7731bgfc6cg4f81ga213gf519ba785fcc" version="1">Tôi đã lỡ lời - mong Người tha thứ. </content>
 	<content contentuid="h3ac8423cg8bc0g422egb23fg9e540a44c85d" version="1">Muôi gỗ</content>
@@ -22798,8 +22799,8 @@ Sát thương Phép thuật có ảnh hưởng đến mọi loại sát thương
 	<content contentuid="h3ace6a79gf28eg4ca5g9bc1gdddb1c065e00" version="1">Ta xin lỗi, cha mẹ cháu chết rồi.</content>
 	<content contentuid="h3ace954dgb304g4101g86cegc910eb171f59" version="1">&lt;i&gt;Cho hắn biết sự thật. Món cổ vật có thể bảo vệ đúng như lời ngươi.&lt;/i&gt;</content>
 	<content contentuid="h3acea3e4g1239g415aga0b9g3033735b4707" version="1">Kháng: Nhận một nửa sát thương Lửa.	
-Miễn: Không nhận sát thương Lửa.			
-Yếu: Nhận gấp đôi sát thương Lửa.</content>
+	Miễn: Không nhận sát thương Lửa.			
+	Yếu: Nhận gấp đôi sát thương Lửa.</content>
 	<content contentuid="h3acec94dg55ffg43e4gb40eg4d7f4fbf0ec0" version="1">&lt;i&gt;Kaincha!&lt;/i&gt; Một án mạng quá cẩu thả.</content>
 	<content contentuid="h3ad01915gf3a8g436dgae9bg9b63916ee35c" version="2">Khí gây mê</content>
 	<content contentuid="h3ad05dd2g40cag4677g93a8ge69fc16eccc8" version="1">&lt;b&gt;&lt;i&gt;GRÀOOO.&lt;/i&gt;&lt;/b&gt;</content>
@@ -23723,9 +23724,7 @@ Yếu: Nhận gấp đôi sát thương Lửa.</content>
 	<content contentuid="h3d0eba0dg6854g4cd0gb29fga274fb23289d" version="2">Dấu chân Goblin. Gần như ngửi được cả mùi bẩn tưởi.</content>
 	<content contentuid="h3d108594g51d6g4334ga59aga7b591478e7c" version="1">'hoá thành"? Không. KHỐN KIẾP.</content>
 	<content contentuid="h3d11dd04g2c65g4941g87e7g2d38309256b4" version="3">Có thể sẽ cần thêm một cặp mắt. Muốn tôi xem thử không?</content>
-	<content contentuid="h3d129eb2g502dg477fgbfe7gad33c8b508a9" version="1">Xuất thân của ngươi tiết lộ quê hương và lý do tại sao ngươi lại bắt đầu phiêu lưu.	
-			
-Mỗi Xuất thân cho phép ngươi &lt;LSTag Tooltip="Proficiency"&gt;Thông thạo&lt;/LSTag&gt; với 2 &lt;LSTag Tooltip="Skill"&gt;Kỹ năng&lt;/LSTag&gt;. Đồng thời nó cũng quyết định &lt;LSTag Tooltip="BackgroundGoals"&gt;Mục đích Cá nhân&lt;/LSTag&gt; của ngươi.</content>
+	<content contentuid="h3d129eb2g502dg477fgbfe7gad33c8b508a9" version="1">Xuất thân của ngươi tiết lộ quê hương và lý do tại sao ngươi lại bắt đầu phiêu lưu.	Mỗi Xuất thân cho phép ngươi &lt;LSTag Tooltip="Proficiency"&gt;Thông thạo&lt;/LSTag&gt; với 2 &lt;LSTag Tooltip="Skill"&gt;Kỹ năng&lt;/LSTag&gt;. Đồng thời nó cũng quyết định &lt;LSTag Tooltip="BackgroundGoals"&gt;Mục đích Cá nhân&lt;/LSTag&gt; của ngươi.</content>
 	<content contentuid="h3d12e0b0g34b2g4a8egb4e0g3638a614c22a" version="1">Mày có làm gì thì cũng chết phơi thây ngoài này như họ thôi.</content>
 	<content contentuid="h3d13da76g78ddg4e9bg9d08g89cf478a9a8e" version="1">Khoan - dừng lại!</content>
 	<content contentuid="h3d14b311g41bbg42b6g81c7gb9c1155b4410" version="3">Xác thường dân</content>
@@ -24820,8 +24819,8 @@ Mỗi Xuất thân cho phép ngươi &lt;LSTag Tooltip="Proficiency"&gt;Thông t
 	<content contentuid="h3fdaf162g9905g47b6gbdcega5f16eba9644" version="2">Không. Chưa được. Chúng ta chưa thể đi khi chưa có Ngọn giáo Đêm đen. Chúng ta phải quay trở về căn thư viện.</content>
 	<content contentuid="h3fdb5c24g3082g4c65gbfa0ga095f65a354c" version="2">&lt;i&gt;Kết quả đó không hề nằm trong tính toán của ta. Sinh vật này không chỉ đang bị ngưng trệ.&lt;/i&gt;</content>
 	<content contentuid="h3fdc1543g8979g43d0gb7eegb564f4f6331c" version="1">Kháng: Nhận một nửa sát thương Thánh.	
-Miễn: Không nhận sát thương Thánh.			
-Yếu: Nhận gấp đôi sát thương Thánh.</content>
+	Miễn: Không nhận sát thương Thánh.			
+	Yếu: Nhận gấp đôi sát thương Thánh.</content>
 	<content contentuid="h3fdce601g6eecg46feg9e3eg2488d32ff0ce" version="2">Mệnh lệnh Tử thần</content>
 	<content contentuid="h3fdd4253g0299g4a97g85ceg0685ca0aa839" version="1">Bi-đông</content>
 	<content contentuid="h3fdd4afcgfba7g47dag9712g5c0fa336b747" version="2">Luật cốt lõi</content>
@@ -25262,9 +25261,10 @@ Yếu: Nhận gấp đôi sát thương Thánh.</content>
 	<content contentuid="h40eb8f75g811eg4e65g9dc0gdd724a23bf34" version="2">Nói chuyện với Mizora.</content>
 	<content contentuid="h40eb9c2dg3f4ag4f5dga0f8g813860d0dfbc" version="1">Hoá Thú: Gấu</content>
 	<content contentuid="h40ec137fgb58eg4becgac79gace46e1486c0" version="1">Hỡi Linh hồn của những Tử sĩ, chứng giám cho ta: ta sẽ tìm bằng được cách để tiếp cận Hoàng tử trong ngục tù ma thuật.</content>
-	<content contentuid="h40ec513eg86b7g42f1gbb16g09b6dfddd0e3" version="1">Kháng: Nhận một nửa sát thương Chém.	
-Miễn: Không nhận sát thương Chém.			
-Yếu: Nhận gấp đôi sát thương Chém.</content>
+	<content contentuid="h40ec513eg86b7g42f1gbb16g09b6dfddd0e3" version="1">
+	Kháng: Nhận một nửa sát thương Chém.	
+	Miễn: Không nhận sát thương Chém.			
+	Yếu: Nhận gấp đôi sát thương Chém.</content>
 	<content contentuid="h40ed4704g0f2fg48acg9956gce8d173b4547" version="1">hoá ra Ansur chỉ còn mỗi một bộ xương. Giờ đây chỉ còn mỗi chúng ta mới có thể cứu thành phố khỏi cơn thịnh nộ của Đấng Tuyệt Đối.</content>
 	<content contentuid="h40ed7552g3cb3g42ccga8c5g05d2c7e16afb" version="2">&lt;i&gt;Không dám, thưa chủ nhânnn.&lt;/i&gt;</content>
 	<content contentuid="h40edd1fbgb437g4e9cgbf3dg28eb0d041e6b" version="5">Vùng đất bao quanh Moonrise đã bị nguyền. Đi đến đó sẽ hút cạn sinh lực lẫn trí lực của anh.</content>
@@ -26498,8 +26498,7 @@ Yếu: Nhận gấp đôi sát thương Chém.</content>
 	<content contentuid="h43f99954g5406g4335ga4c5gda0a99dc3b8e" version="1">Dẫn đường đi.</content>
 	<content contentuid="h43f99ab5gecadg4d0agad6fg52dfacc95c0b" version="1">Làm thế này thì anh được gì?</content>
 	<content contentuid="h43f9b3fcg2fc2g4ad8gbc84ge31795ad4ae5" version="1">Ngài nghe thấy giọng của Đấng Tuyệt Đối đúng không? Tôi cũng sắp rồi - tôi cảm thấy Người đang đến gần rồi!</content>
-	<content contentuid="h43f9c303geaf7g4963ga82cg4f532bbc882d" version="2">Ghi chép Nhà tù	
-</content>
+	<content contentuid="h43f9c303geaf7g4963ga82cg4f532bbc882d" version="2">Ghi chép Nhà tù	</content>
 	<content contentuid="h43faec29ged56g4f6bgaaedgc0b7b74ad4c8" version="1">Quản lý Tài khoản Larian</content>
 	<content contentuid="h43fb3c7ag3c23g4b94g919dg21e90705c5bd" version="1">Tôi hơn cả 'thích' cô cơ.</content>
 	<content contentuid="h43fc4585g4024g4e81ga9ccg51b0611015c5" version="2">Trong những nghiên cứu mang tính phỏng đoán của mình về chủ đề vật dẫn ma thuật, vị Wizard Tenser đã đề cập đến những tiềm năng có thể khai thác ở trạng thái tập trung duy trì phép thuật, và quả thực đã khai thác được những tiềm năng ẩn kín đó.</content>
@@ -28824,15 +28823,13 @@ Yếu: Nhận gấp đôi sát thương Chém.</content>
 	<content contentuid="h4a26a8b7gb69bg4d0dg84a6gfd1f071c5245" version="1">Hãy tìm một tên tù nhân tuyệt vọng, và một lý do để hành hạ nó. Ta nhớ những tiếng hét quá.</content>
 	<content contentuid="h4a275e02gf194g42e8ga2c0ge9b0abf6be69" version="1">Thúng gỗ</content>
 	<content contentuid="h4a2836bcg571bg45efg994fg3a3f0933e805" version="2">Cô nên đi khám chỗ đó đi.</content>
-	<content contentuid="h4a297bfeg1b6fg497bgbb0fg074380f68851" version="3">Gửi Johl và Demir,	
-			
-&lt;br&gt;Đừng giận em. Em nói thật đó. Em chỉ để lại thư để hai anh không hoảng lên mà làm càn thôi.&lt;br&gt;			
-			
-Em sẽ đến chỗ mụ Ác bà. Em phải bù đắp cho Connor. Em biết anh ấy cũng sẽ làm vậy vì em.			
-			
-&lt;br&gt;Em sẽ sớm về thôi. Nên đừng nói gì với mẹ, nghe chưa? Mẹ đã đủ buồn bực rồi. 			
-			
-&lt;br&gt;Mayrina</content>
+	<content contentuid="h4a297bfeg1b6fg497bgbb0fg074380f68851" version="3">
+	Gửi Johl và Demir,	
+	&lt;br&gt;Đừng giận em. Em nói thật đó. Em chỉ để lại thư để hai anh không hoảng lên mà làm càn thôi.&lt;br&gt;			
+	Em sẽ đến chỗ mụ Ác bà. Em phải bù đắp cho Connor. Em biết anh ấy cũng sẽ làm vậy vì em.			
+	&lt;br&gt;Em sẽ sớm về thôi. Nên đừng nói gì với mẹ, nghe chưa? Mẹ đã đủ buồn bực rồi. 			
+	&lt;br&gt;Mayrina
+	</content>
 	<content contentuid="h4a29c7a3gc0c8g4598g9cbag88ded5746062" version="3">Phép thuật của bạn chứa đầy tiềm năng. Chọn một lựa chọn một Tùy biến Phép thuật, rồi chọn phép thuật mà bạn muốn tùy biến.</content>
 	<content contentuid="h4a2aaf46g87d9g4895ga6dbg4b7bb5edee24" version="2">*Lae'zel's promised purification at a githyanki crèche. And she's given you no reason to disbelieve her.*</content>
 	<content contentuid="h4a2bbec8g399bg4158gb61fga60631b15776" version="2">[Một cuốn cẩm nang được viết để hỗ trợ những người mới đến thành phố hiểu được sự khác biệt giữa khu vực Phố Thượng và Phố Hạ của Baldur's Gate. Nó miêu tả khu vực Phố Thượng là nơi có cơ ngơi của những vị Quý tộc thuộc tầng lớp thượng lưu trong thành phố. An ninh cực kỳ đảm bảo, tiềm lực kinh tế được thể hiện rõ như ánh sáng đèn đường hãnh diện rọi lên những kiến trúc với hoa văn cầu kỳ và thanh tú. Ở phía ngược lại, khu vực Phố Hạ của thành phố là một mạng nhện đầy những con ngõ hẹp, nhà cửa chằng chịt. Thập thò không phải hình bóng của những người lính canh, mà tạp nham những con buôn, dân rèn đục, cờ bạc, buôn tài bán kỹ, ma cà bông lông nhông tồng ngồng, cướp giật rạch túi, đàn ông đàn bà giao du gian díu, buôn chè bán rượu, ăn xin vạ vật, kiếm sĩ và cướp ngày.]</content>
@@ -29654,8 +29651,7 @@ Em sẽ đến chỗ mụ Ác bà. Em phải bù đắp cho Connor. Em biết an
 	<content contentuid="h4c4b1b5cg5deeg49d7g8de8g6b3b957dd51e" version="1">Dừng ngay hành động bệnh hoạn này cho ta.</content>
 	<content contentuid="h4c4b3603g8cb5g46bfgb0b5ga052be44c913" version="2">*Tên Hobgoblin nhìn sang ngươi, và con ký sinh trong đầu chợt vùng vẫy.*</content>
 	<content contentuid="h4c4b8df3ga193g448ag9368g3b9e4235676d" version="1">Họ chết cả rồi.</content>
-	<content contentuid="h4c4c08a9g46a8g4e22gbc60g2f01209dd808" version="3">[Một danh sách sao kê người đóng góp và vật phẩm đóng góp được viết rất qua loa bởi Quân đoàn Hỏa Quyền - lực lượng được Hạ viện giao phó công tác tiếp nhận và phân phát cứu trợ cho người tị nạn tại Rivington. Bản sao kê bị chỉnh sửa rất nhiều, khả năng cao là để che giấu việc biển thủ, bao gồm các mục sau.] &lt;br&gt;&lt;br&gt;- Alan Alyth, chín (9) chiếc chăn với độ sạch sẽ khác nhau &lt;br&gt;&lt;br&gt;- Lãnh chúa Whitburn, hai mươi ba (23) đôi giày nam, cỡ trung bình, chỉ phù hợp cho địa hình thành thị &lt;br&gt;&lt;br&gt;- Entharl Danthelon, ba (3) bộ bếp cụ xách tay và dụng cụ ăn uống &lt;br&gt;&lt;br&gt;- Figaro Pennygood, sáu (6) chiếc gối vải xô được nhồi tóc/lông Human &lt;br&gt;&lt;br&gt;- Arfur Gregorio, hai mươi mốt (21) gấu nhồi bông đồ chơi, nặng bất thường &lt;br&gt;&lt;br&gt;- Nansi Gretta, mười sáu (16) cuốn sách, tất cả đều là hồi ký của Lãnh chúa Gortash &lt;br&gt;&lt;br&gt;- Astele Sharpe, ba lọ cá ướp muối, sáu can đậu khô, một thùng thịt rothé khô cỡ nhỏ, dụng cụ sơ cứu, chăn, bếp cụ - lắm đồ lỉnh kỉnh quá, tôi không rảnh liệt kê đâu!	
-</content>
+	<content contentuid="h4c4c08a9g46a8g4e22gbc60g2f01209dd808" version="3">[Một danh sách sao kê người đóng góp và vật phẩm đóng góp được viết rất qua loa bởi Quân đoàn Hỏa Quyền - lực lượng được Hạ viện giao phó công tác tiếp nhận và phân phát cứu trợ cho người tị nạn tại Rivington. Bản sao kê bị chỉnh sửa rất nhiều, khả năng cao là để che giấu việc biển thủ, bao gồm các mục sau.] &lt;br&gt;&lt;br&gt;- Alan Alyth, chín (9) chiếc chăn với độ sạch sẽ khác nhau &lt;br&gt;&lt;br&gt;- Lãnh chúa Whitburn, hai mươi ba (23) đôi giày nam, cỡ trung bình, chỉ phù hợp cho địa hình thành thị &lt;br&gt;&lt;br&gt;- Entharl Danthelon, ba (3) bộ bếp cụ xách tay và dụng cụ ăn uống &lt;br&gt;&lt;br&gt;- Figaro Pennygood, sáu (6) chiếc gối vải xô được nhồi tóc/lông Human &lt;br&gt;&lt;br&gt;- Arfur Gregorio, hai mươi mốt (21) gấu nhồi bông đồ chơi, nặng bất thường &lt;br&gt;&lt;br&gt;- Nansi Gretta, mười sáu (16) cuốn sách, tất cả đều là hồi ký của Lãnh chúa Gortash &lt;br&gt;&lt;br&gt;- Astele Sharpe, ba lọ cá ướp muối, sáu can đậu khô, một thùng thịt rothé khô cỡ nhỏ, dụng cụ sơ cứu, chăn, bếp cụ - lắm đồ lỉnh kỉnh quá, tôi không rảnh liệt kê đâu!</content>
 	<content contentuid="h4c4cb365g3af3g4be5g9958g8587a34e3382" version="1">Thú cưng Mât tích</content>
 	<content contentuid="h4c4d48dfg90fcg4f6cg98edge00200c4c8aa" version="1">Ngay lập tức.</content>
 	<content contentuid="h4c4e8c96g0689g49edgbeb8gda7354fce679" version="2">*Những lời răn dạy từ lâu chợt ùa về trong ký ức. Cấm thuật Ngàn gai là một nghi lễ hiếm, bị cấm ở hầu hết các mật hội vì nó thường đem lại nhiều đau thương hơn là chữa lành.*</content>
@@ -31314,8 +31310,7 @@ Em sẽ đến chỗ mụ Ác bà. Em phải bù đắp cho Connor. Em biết an
 	<content contentuid="h509221cag2369g4e91g928egdd4dfaf65484" version="1">Người ta cho rằng ký sinh Mind Flayer sẽ hoàn toàn tiêu diệt vật chủ chỉ trong vài ngày, phá hủy và hấp thụ từ cơ thể đến linh hồn của họ.</content>
 	<content contentuid="h509374ccg637dg4551gae1fg94807911fbb7" version="2">Tôi tới để làm người thu phí thay cho bà.</content>
 	<content contentuid="h5094c976g0da0g4962ga1cag9a89ceae7452" version="1">Chúng ta đã dùng Xác Pixie được vứt xung quanh để chế ra cây Đèn Bóng Tối bằng vòng tròn pháp trận trong phòng Balthazar. Gale tin rằng Mystra sẽ không tán thành việc sử dụng phép thuật tha hoá đó, nhưng vị thần này không hề thể hiện bất kỳ dấu hiệu trừng phạt nào với Gale. Cây đèn này, cùng năng lực điều khiển thứ bóng tối đang bủa vây lấy chúng ta, chăc chắn sẽ rất hữu dụng.</content>
-	<content contentuid="h5096684ag64bdg4fd1ga77fgdef46cdb0044" version="1">Ờ đấy, thì tôi điên - nên là đừng có làm tôi cáu. Giá niêm yết rồi đấy.	
-([GEN_CheckMagicPocketGold_6057ad05-9492-4630-9f0a-be548b134c54])</content>
+	<content contentuid="h5096684ag64bdg4fd1ga77fgdef46cdb0044" version="1">Ờ đấy, thì tôi điên - nên là đừng có làm tôi cáu. Giá niêm yết rồi đấy.	([GEN_CheckMagicPocketGold_6057ad05-9492-4630-9f0a-be548b134c54])</content>
 	<content contentuid="h5097302fgf91cg43fdgb126g3a1dbba17efc" version="1">Về bên ngoài, thì có - khi nhìn vào cô ấy, tôi thấy được một Kagha mà tôi từng biết.</content>
 	<content contentuid="h5097e837g0d6fg40e6ga23cgb207d2eb6812" version="2">Không còn như trước nữa - khi không còn Bex. Thần ơi... giá như tôi được ôm cô ấy vào lòng thêm một lần nữa.</content>
 	<content contentuid="h509918e8g893fg49f3gba68g0a52c6787b1a" version="1"> &lt;i&gt;Rời đi.&lt;/i&gt;</content>
@@ -32501,8 +32496,7 @@ Em sẽ đến chỗ mụ Ác bà. Em phải bù đắp cho Connor. Em biết an
 	<content contentuid="h53db040fg039bg42eag81f6g249ec63b4aba" version="6">*Ngay khi tìm được nhịp vẽ, ngươi bỗng trượt tay.*</content>
 	<content contentuid="h53dc44d6gc9d5g4f09gaf02gde4d7696fc32" version="1">Tôi thì thấy làm vậy là có ích.</content>
 	<content contentuid="h53dc56aag8d49g48e1g9666g111d871790f6" version="2">Anh nói đúng. Không còn gì ngăn được nó nữa rồi.</content>
-	<content contentuid="h53ddd7abg3d81g41ffgb983ge9583b3dca59" version="2">	
-Thật hả? Thế thôi ấy hả? Thôi được rồi, nhưng cô ta mà ngứa tay gảy đàn, tôi sẽ biến cây đàn thành củi lửa.</content>
+	<content contentuid="h53ddd7abg3d81g41ffgb983ge9583b3dca59" version="2">Thật hả? Thế thôi ấy hả? Thôi được rồi, nhưng cô ta mà ngứa tay gảy đàn, tôi sẽ biến cây đàn thành củi lửa.</content>
 	<content contentuid="h53dde070ge7e8g4473g97fcgcf8f1218e59e" version="1">*Uy lực của phép thuật lịm dần. Ngươi không thể hỏi thêm câu nào nữa.*</content>
 	<content contentuid="h53de35dag1029g49f1g9151g8adf13c47199" version="1">Nguồn Cảm hứng</content>
 	<content contentuid="h53de7068gc150g473egbcfdge6224ccd7454" version="1">Nhưng khát máu lại là một chuyện khác. Nhưng có lẽ sẽ không phải là vấn đề to tát, nếu thứ anh thèm xé xác là thịt tà thần hay ác quỷ.</content>
@@ -39434,9 +39428,7 @@ Thật hả? Thế thôi ấy hả? Thôi được rồi, nhưng cô ta mà ng�
 	<content contentuid="h65f9037cgae9ag461cg885aga168eda3300c" version="1">Z'rell đang hành xử vượt quyền. Nhưng thôi được, lần này ta sẽ bỏ qua cho sự mạo phạm của ngươi - đích đến của chúng ta còn to lớn hơn nhiều.</content>
 	<content contentuid="h65f90bb2g30a2g443bg8f2bg1822d95e0840" version="1">Tôi mong là họ sẽ tách thành một cặp. Cả hai người họ đều nên có một người bạn, khi tôi không có ở đây.</content>
 	<content contentuid="h65f9ca48g6f52g4daeg8c2dgb796cdc380f0" version="2">Vòng tròn Pháp trận</content>
-	<content contentuid="h65fb6cd0g8607g4934gb7c4g104c02bc16b9" version="1">Các chỉ số thể chất và tinh thần. Chúng ảnh hưởng đến hầu hết các lượt đổ xúc xắc.	
-			
-Có 6 Năng lực: &lt;LSTag Tooltip="Strength"&gt;Sức mạnh&lt;/LSTag&gt;, &lt;LSTag Tooltip="Dexterity"&gt;Linh hoạt&lt;/LSTag&gt;, &lt;LSTag Tooltip="Constitution"&gt;Thể trạng&lt;/LSTag&gt;, &lt;LSTag Tooltip="Intelligence"&gt;Trí tuệ&lt;/LSTag&gt;, &lt;LSTag Tooltip="Wisdom"&gt;Trí khôn&lt;/LSTag&gt;, và &lt;LSTag Tooltip="Charisma"&gt;Sức hút&lt;/LSTag&gt;.</content>
+	<content contentuid="h65fb6cd0g8607g4934gb7c4g104c02bc16b9" version="1">Các chỉ số thể chất và tinh thần. Chúng ảnh hưởng đến hầu hết các lượt đổ xúc xắc. Có 6 Năng lực: &lt;LSTag Tooltip="Strength"&gt;Sức mạnh&lt;/LSTag&gt;, &lt;LSTag Tooltip="Dexterity"&gt;Linh hoạt&lt;/LSTag&gt;, &lt;LSTag Tooltip="Constitution"&gt;Thể trạng&lt;/LSTag&gt;, &lt;LSTag Tooltip="Intelligence"&gt;Trí tuệ&lt;/LSTag&gt;, &lt;LSTag Tooltip="Wisdom"&gt;Trí khôn&lt;/LSTag&gt;, và &lt;LSTag Tooltip="Charisma"&gt;Sức hút&lt;/LSTag&gt;.</content>
 	<content contentuid="h65fc904age945g4239ga89dg309f5b78884d" version="1">Các Tiefling mang dòng máu của Zariel được ban cho sức mạnh thể chất và có thể vận hỏa lực để trừng phạt kẻ thù.</content>
 	<content contentuid="h65fc9795g502eg48b7g99d4gb9f494a5ee77" version="1">*Thi thể trả lời ngươi một cách vô hồn.*</content>
 	<content contentuid="h65fd4077g3eb1g4af1gbefcg13c5f98f9084" version="2">Chúng ta vừa được chữa trị, vừa có cơ hội đấm vỡ mồm lũ mất dạy này ở chính nhà của chúng? Nghe ổn đấy chứ.</content>
@@ -44641,9 +44633,10 @@ Có 6 Năng lực: &lt;LSTag Tooltip="Strength"&gt;Sức mạnh&lt;/LSTag&gt;, &
 	<content contentuid="h731c9898gcc88g4d4fg9068gf7ef634e3eef" version="2">*Ngươi nhận ra cử chỉ của cậu bé - là ký hiệu tay của Mol.*</content>
 	<content contentuid="h731d8d15g48deg458fga928g90a47972648f" version="2">&lt;i&gt;Chia sẻ những ký ức lớn lên tại vùng Underdark.&lt;br&gt;&lt;/i&gt;</content>
 	<content contentuid="h731e5a48ge063g4a55ga363gfe78f31a4180" version="1">Đừng có mà đi thong dong đấy.</content>
-	<content contentuid="h731e7b38g3660g442cga0cbgc59b2f72b86f" version="1">Kháng: Nhận một nửa sát thương Tâm linh.	
-Miễn: Không nhận sát thương Tâm linh.			
-Yếu: Nhận gấp đôi sát thương Tâm linh.</content>
+	<content contentuid="h731e7b38g3660g442cga0cbgc59b2f72b86f" version="1">
+	Kháng: Nhận một nửa sát thương Tâm linh.	
+	Miễn: Không nhận sát thương Tâm linh.			
+	Yếu: Nhận gấp đôi sát thương Tâm linh.</content>
 	<content contentuid="h731ec115gbc77g4320ga119g6adcc3649e1d" version="1">Cảnh cáo nhé, Astarion: Tôi có vị &lt;i&gt;cực kỳ&lt;/i&gt; tệ đấy. Tránh xa ra.</content>
 	<content contentuid="h731ece94gc220g4a79g82f9g63b3199b709e" version="1">Niệm phép: Cleric</content>
 	<content contentuid="h73210e5ag7c95g46ecg89f5g46d125bb46ba" version="2">Cuộc Huyết Chiến. Nhưng hãy tin tôi đi, cuộc chiến không phải là điều tồi tệ nhất ở đó đâu.</content>
@@ -45853,8 +45846,7 @@ Yếu: Nhận gấp đôi sát thương Tâm linh.</content>
 	<content contentuid="h765cc9d0g1471g47fcg9464ge2fc7e1bc0b4" version="4">Đánh mạnh. Đánh chuẩn. Không do dự. </content>
 	<content contentuid="h765e2ef1g5138g4c17g8e48gca4d9318d24a" version="1">Nếu anh muốn thì không cần kể làm gì.</content>
 	<content contentuid="h765e600cga0ceg4a4dgb702g20d56096785f" version="1">Nhưng giờ... có lẽ tất cả đã kết thúc.</content>
-	<content contentuid="h765f0b8fgf683g4b22g9866g39b9e52621c3" version="1">Đen kịt như bầu trời không sao, những đôi Ủng Dạ Hành được đặc chế cho những bước chân bí mật tôn vinh thần Shar.&lt;br&gt;Riêng đôi ủng này được tìm thấy sâu dưới phế tích của pháo đài xứ Underdark. Dù lớp vải đã cũ sờn, nhưng rõ ràng là chúng mới được đánh chùi và phủ dầu cẩn thận cách đây không lâu.	
-</content>
+	<content contentuid="h765f0b8fgf683g4b22g9866g39b9e52621c3" version="1">Đen kịt như bầu trời không sao, những đôi Ủng Dạ Hành được đặc chế cho những bước chân bí mật tôn vinh thần Shar.&lt;br&gt;Riêng đôi ủng này được tìm thấy sâu dưới phế tích của pháo đài xứ Underdark. Dù lớp vải đã cũ sờn, nhưng rõ ràng là chúng mới được đánh chùi và phủ dầu cẩn thận cách đây không lâu.	</content>
 	<content contentuid="h765f61ccg5ef0g4b0bg929fga1aed0fac127" version="1">Nhưng muốn khám phá thì cần bạn đồng hành. Ta đi chứ?</content>
 	<content contentuid="h765f76e0g728ag449dg89e4gdb92d5f1f118" version="1">Nó vừa làm được gì thế nhỉ?</content>
 	<content contentuid="h76605044gf4a9g417bg9edaga95e66f20861" version="2">Tôi chỉ quan tâm việc lấy thù lao thôi.</content>
@@ -47413,9 +47405,11 @@ Yếu: Nhận gấp đôi sát thương Tâm linh.</content>
 	<content contentuid="h7a29d5bdg79c4g4279gaff6ge63d3d808b1b" version="2">Mặc kệ quả bom, Gale đã có đủ những thứ cần thiết để đánh bại Đấng Tuyệt Đối rồi: tài năng, gan góc, và những đồng minh hùng mạnh sát cánh cạnh bên.</content>
 	<content contentuid="h7a2a952bg1a88g4f09gb41eg3f9d1fa622de" version="4">Chế mà quá đáng thì chế sẽ than chuyện đội mồ &lt;i&gt;nhầm&lt;/i&gt; thằng Jacob - bởi vì chế tưởng cái xác này là của thằng anh sinh đôi đẹp trai hơn nó nhiềuuu.</content>
 	<content contentuid="h7a2abaf6g2d58g41e1g88bbg07bfa1d7b293" version="1">Tạo ra một cây rìu dài tâm linh lơ lửng.</content>
-	<content contentuid="h7a2accd0g1b4fg4a59gb467g25dbf73453fb" version="1">Kháng: Nhận một nửa sát thương Đập.	
-Miễn: Không nhận sát thương Đập.			
-Yếu: Nhận gấp đôi sát thương Đập.</content>
+	<content contentuid="h7a2accd0g1b4fg4a59gb467g25dbf73453fb" version="1">
+	Kháng: Nhận một nửa sát thương Đập.	
+	Miễn: Không nhận sát thương Đập.			
+	Yếu: Nhận gấp đôi sát thương Đập.
+	</content>
 	<content contentuid="h7a2b01abg042eg4650g827agbaa9470e784c" version="2">Vuốt trông ghê quá.</content>
 	<content contentuid="h7a2b76afgfa10g413cg9cf9g88724682cd3e" version="2">Chúng ta đã đồng ý cứu Wulbren - bạn thân của Barcus - và các Ironhand Gnome mà anh ta là thủ lĩnh khỏi Tháp Moonrise. </content>
 	<content contentuid="h7a2b85d6g3761g4f1fgb6b2g53cf10b449ea" version="2">Hành động bồi</content>
@@ -50727,8 +50721,11 @@ Yếu: Nhận gấp đôi sát thương Đập.</content>
 	<content contentuid="h82815f5agf1e5g43edg8109g8f1585d23f3a" version="1">Cô sẽ đi gặp Ketheric. Mặt đối mặt.</content>
 	<content contentuid="h82817908gf7f3g4119g93bag357235929b06" version="1">&lt;i&gt;Lấy chúng là một quyết định thực tế.&lt;/i&gt;</content>
 	<content contentuid="h8281e9bagc3c6g422egb971g7f50ffdf2c76" version="2">Thật nực cười - người như tôi còn lâu mới để bị nhiễm &lt;i&gt;ký sinh&lt;/i&gt;.</content>
-	<content contentuid="h8281eefdgff8bg48f8g8757g35c0a16d8b19" version="2">[Một danh sách các món hàng ra vào Sảnh Guild, từ những nhu yếu phẩm đơn giản cho đến các hợp chất hoá học kỳ lạ với những mục đích ám muội. Các mục trong tầm chục-ngày gần đây càng trở nên ít đi, với một ghi chú viết bên lề được gạch chân rất đậm:]&lt;br&gt;&lt;br&gt;	
-Stone Lord hitting supply depots. Advise winding down most entertainment enterprises until he's been dealt with.</content>
+	<content contentuid="h8281eefdgff8bg48f8g8757g35c0a16d8b19" version="2">
+	[Một danh sách các món hàng ra vào Sảnh Guild, từ những nhu yếu phẩm đơn giản cho đến các hợp chất hoá học kỳ lạ với những mục đích ám muội. Các mục trong tầm chục-ngày gần đây càng trở nên ít đi, với một ghi chú viết bên lề được gạch chân rất đậm:]
+	&lt;br&gt;&lt;br&gt;
+	Chúa tể Đá (Stone Lord) đang tấn công các kho tiếp tế. Khuyên ngừng hầu hết các hoạt động giải trí cho đến khi hắn bị xử lý.
+	</content>
 	<content contentuid="h8281f5cag0405g4574gb115g3e4961c23813" version="2">Đừng ăn nói kiểu vậy với tôi.</content>
 	<content contentuid="h8282386bg2525g41f7g94c0gc2ee1e622a54" version="1">Vậy thì hãy tin rằng tôi cũng mang theo gánh nặng của họ, cũng như cả của tôi.</content>
 	<content contentuid="h8282c221gb91ag4795g94c7g87734ae563e4" version="1">Hình như là một vụ tai nạn.</content>
@@ -50861,9 +50858,7 @@ Stone Lord hitting supply depots. Advise winding down most entertainment enterpr
 	<content contentuid="h82d3e6c6g85fcg4755gbe7fgbae853ae70fb" version="1">*Từng cái nanh, từng móng vuốt của nó quyết liệt vồ lấy và trở thành một phần của ngươi. Và hỡi ôi, nó luôn luôn đói khát...*</content>
 	<content contentuid="h82d3ffeegccc1g42b4gbde0gfe527bd5046a" version="1">Mặc định</content>
 	<content contentuid="h82d40c31g9c58g44b0g947cg310a5cfc4704" version="1">Đưa đây.</content>
-	<content contentuid="h82d41284g4437g4202g859cgb7470b39bc22" version="3">Nếu điểm máu bị giảm xuống 0, bạn sẽ bị Bất tỉnh và phải Đổ Cứu mạng. Nếu thành công 3 lần, bạn sẽ ngưng cháy máu và trở nên Ổn định. Nếu thất bại 3 lần, bạn sẽ chết.	
-			
-Nếu bạn được hồi lại điểm máu, trạng thái này sẽ được gỡ bỏ. Nếu một đồng đội &lt;LSTag Type="Spell" Tooltip="Target_Help"&gt;Đỡ&lt;/LSTag&gt; bạn dậy, bạn sẽ hồi lại 1 điểm máu.</content>
+	<content contentuid="h82d41284g4437g4202g859cgb7470b39bc22" version="3">Nếu điểm máu bị giảm xuống 0, bạn sẽ bị Bất tỉnh và phải Đổ Cứu mạng. Nếu thành công 3 lần, bạn sẽ ngưng cháy máu và trở nên Ổn định. Nếu thất bại 3 lần, bạn sẽ chết. Nếu bạn được hồi lại điểm máu, trạng thái này sẽ được gỡ bỏ. Nếu một đồng đội &lt;LSTag Type="Spell" Tooltip="Target_Help"&gt;Đỡ&lt;/LSTag&gt; bạn dậy, bạn sẽ hồi lại 1 điểm máu.</content>
 	<content contentuid="h82d4c0eeg58b0g49d8gbe50gfadf53f49011" version="1">Thật ra, tôi không muốn đâu. </content>
 	<content contentuid="h82d4ee0eg33e7g4056gabe8g7c145f49e500" version="1">Hẹn gặp sau.</content>
 	<content contentuid="h82d69b38gdd33g4358gb69egc23b5b6c1eaa" version="1">Ngươi cả gan thách thức ta? Để rồi xem Đấng Tuyệt Đối &lt;i&gt;thực sự&lt;/i&gt; sủng ái ai.</content>
@@ -52811,8 +52806,7 @@ Nếu bạn được hồi lại điểm máu, trạng thái này sẽ được 
 	<content contentuid="h8806a6a3g4e30g4f40g870eg75244746400d" version="1">Cầm lấy cây cốt tù và của ta. Chỉ cần thổi một hơi, thì... từ từ đã. Nó bị lấy cắp rồi. Và ta biết ai là kẻ trộm.</content>
 	<content contentuid="h8806bbbbg8a97g4f8dga64cg81676d136f9e" version="3">Oskar Fevras... họa sĩ vĩ đại nhất... dương gian...</content>
 	<content contentuid="h8807f526g54dbg49a4gaec3g42488b58bc5c" version="1">Cảm ơn.</content>
-	<content contentuid="h88080156g3464g4b9aga67dge442c2664bdb" version="1">Thay đổi người trong đội, thu nạp tùy tùng, hồi sinh thành viên nhóm đã tử trận, nói chuyện với người trong trại, và sắp xếp các vật phẩm trong rương đồ.	
-Bạn cũng có thể chọn Nghỉ Qua đêm khi ở trại.</content>
+	<content contentuid="h88080156g3464g4b9aga67dge442c2664bdb" version="1">Thay đổi người trong đội, thu nạp tùy tùng, hồi sinh thành viên nhóm đã tử trận, nói chuyện với người trong trại, và sắp xếp các vật phẩm trong rương đồ. Bạn cũng có thể chọn Nghỉ Qua đêm khi ở trại.</content>
 	<content contentuid="h88088ce1gdc4dg4788g8acaga1f1828c8e4a" version="1">Hạng người? Ý cô là gì?</content>
 	<content contentuid="h880aa13cg0201g4d53gbc73gb0e963ed7be0" version="3">Chỉ tại cơn thèm muốn ngu ngốc của *** mà chúng ta đã mất đi nhiều đồng minh thiết yếu.</content>
 	<content contentuid="h880bd2c9g142dg46ccg81c7g33b7519c8083" version="1">*Ngươi đã đọc được rằng ngược đãi nhện là điều cấm kỵ với các tông đồ thờ Lolth - và thường sẽ bị phạt án tử hình.*</content>
@@ -53824,9 +53818,7 @@ Bạn cũng có thể chọn Nghỉ Qua đêm khi ở trại.</content>
 	<content contentuid="h8a7595ecg72d4g4732gbcaeg9b8728cb685e" version="1">A, trận đó đánh đã lắm. Một con Nhân ngưu đói ăn đang thèm thịt Human.</content>
 	<content contentuid="h8a76df69g867dg411egaf57g47c9e286eece" version="1">Kinh dị: Bò lồm ngồm</content>
 	<content contentuid="h8a78342fg5ae7g4b3bg9f35ga4917ce52683" version="1">Lính Hạc Cầm Donner</content>
-	<content contentuid="h8a79083eg0d41g4830g95c6gcdf5c154fdeb" version="1">Kháng: Nhận một nửa sát thương Lực.	
-Miễn: Không nhận sát thương Lực.			
-Yếu: Nhận gấp đôi sát thương Lực.</content>
+	<content contentuid="h8a79083eg0d41g4830g95c6gcdf5c154fdeb" version="1">Kháng: Nhận một nửa sát thương Lực.	Miễn: Không nhận sát thương Lực. Yếu: Nhận gấp đôi sát thương Lực.</content>
 	<content contentuid="h8a7913e1gdd0ag490bga7a1gffd4287f6112" version="3">Một pháo đài được dựng nên để kính thờ thần Shar. Thật đáng ngưỡng mộ.</content>
 	<content contentuid="h8a79f411gbc98g4455ga58fg1d17cfc0321d" version="1">Bình tĩnh, Maggran. Cho hắn nói. </content>
 	<content contentuid="h8a7a29f5g010eg45c9gbd18g7d4976677f1d" version="2">Xin chia buồn với nhóc, chắc họ sẽ không quay lại đâu. Có muốn về trại của tôi không?</content>
@@ -54127,9 +54119,7 @@ Yếu: Nhận gấp đôi sát thương Lực.</content>
 	<content contentuid="h8b46a48cgf7d1g4054g983agc78cc1fdb077" version="1">Thật nực cười. Một người có tài năng như anh phải được chọn vị trí chiến thuật chứ.</content>
 	<content contentuid="h8b46c201ge5f5g44cdgbb66g3a7d4f4c415a" version="1">Nến</content>
 	<content contentuid="h8b46c2e2ge4efg43e8g9856g680b7568c060" version="1">Hôm nay chúng ta đã thắng rồi! Chuyện ngày mai để mai hẵng lo!</content>
-	<content contentuid="h8b47440dgc390g4132ga39bg9aa8d6af75dd" version="2">Đã đủ kinh nghiệm để lên cấp!	
-			
-Bấm vào phím này để được lên cấp. Nếu bạn có nhiều thành viên trong đội, bạn cũng có thể bấm vào mũi tên trên ảnh chân dung của họ trong mục thứ tự đội hình.</content>
+	<content contentuid="h8b47440dgc390g4132ga39bg9aa8d6af75dd" version="2">Đã đủ kinh nghiệm để lên cấp! Bấm vào phím này để được lên cấp. Nếu bạn có nhiều thành viên trong đội, bạn cũng có thể bấm vào mũi tên trên ảnh chân dung của họ trong mục thứ tự đội hình.</content>
 	<content contentuid="h8b49af62g80acg4ba8g9de7gcf8c9ed43989" version="1">Cào rơm</content>
 	<content contentuid="h8b49c149g7bbbg4d25gbe36g67d56973464d" version="2">Chẳng phải nghi thức này sẽ bảo vệ mật động sao? Sao cô không giúp họ chuẩn bị?</content>
 	<content contentuid="h8b4a242dg7a6eg475bg9c31g15a753d03647" version="1">Lớn lên trong bóng tối của xứ Underdark, những kẻ này sở hữu một quan điểm cực đoan về thế giới, kể cả khi đã lên được mặt đất.</content>
@@ -54814,9 +54804,7 @@ Bấm vào phím này để được lên cấp. Nếu bạn có nhiều thành 
 	<content contentuid="h8d01c144g61aeg438cga091g0a8fd0ed024e" version="2">Ta chiến đấu vì Đấng Tuyệt Đối. Da ta mang dấu ấn của Người.</content>
 	<content contentuid="h8d02af7dg389fg44c0g8bfbg1a32c646e2d0" version="1">Chúng tôi phải may mắn lắm mới sống sót khỏi cuộc đụng độ với ả ta.</content>
 	<content contentuid="h8d031670g6c5cg45b0ga099g405d1d649c1e" version="1">&lt;i&gt;Rời đi.&lt;/i&gt;</content>
-	<content contentuid="h8d033c84g7d23g479ag801cg89e8eba46ff4" version="1">Một số sinh vật hoặc vật thể sẽ dễ hoặc khó bị ảnh hưởng hơn bởi một số loại sát thương nhất định.	
-			
-Sát thương không phải phép thuật gây ảnh hưởng đến mọi sinh vật không có nguồn gốc từ phép thuật.</content>
+	<content contentuid="h8d033c84g7d23g479ag801cg89e8eba46ff4" version="1">Một số sinh vật hoặc vật thể sẽ dễ hoặc khó bị ảnh hưởng hơn bởi một số loại sát thương nhất định. Sát thương không phải phép thuật gây ảnh hưởng đến mọi sinh vật không có nguồn gốc từ phép thuật.</content>
 	<content contentuid="h8d0370f7g0e89g487dg8f9ag3ba3f39eb3d2" version="3">Ngươi biết gì về Ketheric?</content>
 	<content contentuid="h8d03a7f8g61d3g408fg95abge58143bda8c6" version="1">Mặt nạ Chánh quan hắc ám</content>
 	<content contentuid="h8d041bfeg59a7g4613g8744g771565100b55" version="1">Hừm. Better you than me. Now listen - I'll only say this once:</content>
@@ -55027,18 +55015,19 @@ Sát thương không phải phép thuật gây ảnh hưởng đến mọi sinh 
 	<content contentuid="h8d8817a2gf20dg4eb8gbcd0gfd1bc5428004" version="1">Đại kiếm</content>
 	<content contentuid="h8d884cceg7a98g47cbg8cf9g67fa06591c19" version="1">Anh đã chứng tỏ bản thân là một đồng minh đắc lực. Thật vinh hạnh được chiến đấu bên cạnh anh.</content>
 	<content contentuid="h8d887cffgdaebg45e8gac89gc20cf17137bd" version="1">Tôi đã đánh hơi được một vài nơi dọc đường đi. Nó có một sức hút - giống hệt như nam châm, một khi ta biết phải tìm cái gì. Tôi có thể chỉ cho anh nơi nên tìm.</content>
-	<content contentuid="h8d88c384g7c26g4063g88dbg107274916b1d" version="1">Bạn của tôi,	
-			
-&lt;br&gt;&lt;br&gt;Trong phần đời dài của mình, tôi đã bước đi trên vô số con đường khác nhau. Nơi bủa vây bởi bóng tối, nơi giăng đầy bụi gai nhọn. Nhưng không con đường nào là gian nan hơn con đường tìm đến sự tha thứ. Sự tha thứ của thần Silvanus, của những người đồng môn - và tôi mong rằng, cả là sự tha thứ của anh.			
-			
-&lt;br&gt;&lt;br&gt;Giữa những con sóng cả trong cơn bão phủ kín lòng tôi, Archdruid Francesca của Rừng High Forest đã xuất hiện như ánh nắng ấm chiều tà. Bà đã cưu mang tôi với tư cách một môn đồ tập sự, và tôi cũng bằng lòng làm lại từ đầu. Tôi tự huyễn hoặc gọi bản thân là một người mẹ, trong khi thực chất tôi hãy còn là một búp măng non. Vẫn đang chập chững, vẫn hướng đến mặt trời.&lt;br&gt;&lt;br&gt;			
-			
-Mật động Lục bảo giờ đã cất lên những giai âm mới mẻ. Tôi thực lòng ước anh có thể được nghe một lần.			
-			
-&lt;br&gt;&lt;br&gt;			
-			
-Ngàn lần biết ơn anh,&lt;br&gt;			
-Kagha</content>
+	<content contentuid="h8d88c384g7c26g4063g88dbg107274916b1d" version="1">
+	Bạn của tôi,
+	&lt;br&gt;&lt;br&gt;
+	Trong phần đời dài của mình, tôi đã bước đi trên vô số con đường khác nhau. Nơi bủa vây bởi bóng tối, nơi giăng đầy bụi gai nhọn. Nhưng không con đường nào là gian nan hơn con đường tìm đến sự tha thứ. Sự tha thứ của thần Silvanus, của những người đồng môn - và tôi mong rằng, cả là sự tha thứ của anh.
+	&lt;br&gt;&lt;br&gt;
+	Giữa những con sóng cả trong cơn bão phủ kín lòng tôi, Archdruid Francesca của Rừng High Forest đã xuất hiện như ánh nắng ấm chiều tà. Bà đã cưu mang tôi với tư cách một môn đồ tập sự, và tôi cũng bằng lòng làm lại từ đầu. Tôi tự huyễn hoặc gọi bản thân là một người mẹ, trong khi thực chất tôi hãy còn là một búp măng non. Vẫn đang chập chững, vẫn hướng đến mặt trời.
+	&lt;br&gt;&lt;br&gt;
+	Mật động Lục bảo giờ đã cất lên những giai âm mới mẻ. Tôi thực lòng ước anh có thể được nghe một lần.
+	&lt;br&gt;&lt;br&gt;
+	Ngàn lần biết ơn anh,
+	&lt;br&gt;
+	Kagha
+	</content>
 	<content contentuid="h8d89d7aegd965g4797g8905gead1dfad6064" version="1">Có thằng 'éo nào đấy tìm ra được cái mật động trước bọn tao. Làm bọn tao bẽ hết cả mặt.</content>
 	<content contentuid="h8d8a0b46g09fbg4d16g88e5g7b898f7070fb" version="2">Trong chúng ta có kẻ phản trắc - là Marcus và tên Chân Linh!</content>
 	<content contentuid="h8d8b22e1g360bg490cg806bgbea8e19f0341" version="1">Cảm ơn anh, nhưng nhìn tôi đi - tôi đã lỗi thời rồi. Một thoáng chốc của lịch sử thời cũ chỉ còn vừa đủ sức để chật vật tự đứng trên đôi chân.</content>
@@ -56541,15 +56530,17 @@ Kagha</content>
 	<content contentuid="h91540e87g766ag455egb42bg81510802fd3d" version="1">Tâm trí Thức tỉnh</content>
 	<content contentuid="h9154321bgd30bg4656g97beg18b8ab2144d3" version="5">Ê, làm trò- ô, hiểu rồi.</content>
 	<content contentuid="h91551d81gb828g4059gbecaga9ff5df65d72" version="2">Ugh... but if that's what it takes to get them out of my house, &lt;i&gt;fine&lt;/i&gt;. Làm gì làm luôn đi.</content>
-	<content contentuid="h91553639gea8ag4ec6ga9c6gc8dd4f44fa95" version="1">[Githyanki script - tir'su - adorns one side of the page. The other is written in the common tongue.]	
-			
-&lt;br&gt;&lt;br&gt;She'lak,&lt;br&gt;&lt;br&gt;			
-			
-Orpheus may not be with us, but the Comet shines ever-bright. Breath by breath, battle by battle, Vlaakith's death draws nearer. I have taken to the Astral Plane, slaughter all who must be slaughtered, and spread the Heir's Truth to every possible ear, willing and unwilling. Many githyanki have already taken up arms as Warriors of the Comet. Others have remained in their enclaves or travelled to crèches, dedicating themselves to our cause as scribes, spies, and slate-scholars.&lt;br&gt;&lt;br&gt;			
-			
-But our allies do not all call themselves Children of Gith. Zaerith Menyar-Ag-Gith, the githzerai's god-king, has requested an audience. There was a time I would have thought such a coalition unspeakable. But with the githzerai at our side, not even the full force of the kith'raki could stop us. If Vlaakith is to fall, perhaps the two skies must again be made one.			
-			
-&lt;br&gt;&lt;br&gt;Voss, Revrykal t'Orpheus, Knight of the Comet</content>
+	<content contentuid="h91553639gea8ag4ec6ga9c6gc8dd4f44fa95" version="1">
+	[Chữ Githyanki - tir'su - trang trí một bên của trang giấy. Bên còn lại được viết bằng tiếng Phổ thông.]
+	&lt;br&gt;&lt;br&gt;
+	She'lak,
+	&lt;br&gt;&lt;br&gt;
+	Orpheus có thể không ở bên chúng ta, nhưng Sao Chổi vẫn luôn rực sáng. Từng hơi thở, từng trận chiến, cái chết của Vlaakith đang đến gần hơn. Ta đã đi đến Mặt phẳng Astral, tàn sát tất cả những kẻ cần phải bị tàn sát, và truyền bá Chân lý của Kẻ Kế Vị đến mọi tai có thể, dù họ có muốn hay không. Nhiều githyanki đã cầm vũ khí đứng lên với tư cách là những Chiến binh của Sao Chổi. Những người khác vẫn ở lại trong các khu ẩn náu hoặc đến các crèche (nơi ươm mầm), cống hiến cho sự nghiệp của chúng ta với vai trò thư lại, gián điệp và học giả.
+	&lt;br&gt;&lt;br&gt;
+	Nhưng không phải tất cả đồng minh của chúng ta đều tự xưng là Con cái của Gith. Zaerith Menyar-Ag-Gith, vị thần-vua của githzerai, đã yêu cầu được diện kiến. Đã có lúc ta nghĩ một liên minh như vậy là không thể nói ra. Nhưng với githzerai ở bên cạnh chúng ta, ngay cả toàn bộ lực lượng của kith'raki cũng không thể ngăn cản chúng ta. Nếu Vlaakith phải ngã xuống, có lẽ hai bầu trời phải trở lại làm một lần nữa.
+	&lt;br&gt;&lt;br&gt;
+	Voss, Revrykal t'Orpheus, Hiệp sĩ của Sao Chổi
+	</content>
 	<content contentuid="h9156e556g1601g4623g9c04g8bc6014b5654" version="2">Ừ. Đừng trách anh ta nếu anh ta đắm mình trong rượu.</content>
 	<content contentuid="h9157ed54g76c9g4e0ag87b5gb054c7934952" version="2">&lt;i&gt;Rời đi.&lt;/i&gt;</content>
 	<content contentuid="h91590a2dgb6bcg44aeg93e2g3cc428f73128" version="1">Tôi xin lỗi. Cô ấy đôi khi hơi... khó ở.</content>
@@ -56752,9 +56743,11 @@ But our allies do not all call themselves Children of Gith. Zaerith Menyar-Ag-Gi
 	<content contentuid="h91da6e22g50eag4e11g9bb0g4cd9ea1bb99d" version="1">Tia Kinh hãi</content>
 	<content contentuid="h91dad548gb03dg437cg8dccgf7f06831f095" version="1">Muôi múc canh</content>
 	<content contentuid="h91dc0a0ag76e8g4a0dg9b5fg5166305c58b1" version="5">Kẻ thuộc hạ đã bị tiêu diệt. Nhưng vẫn còn tên chủ nhân.</content>
-	<content contentuid="h91ddc419gc586g48e4g96f9g7c1e5f13d694" version="1">Kháng: Nhận một nửa sát thương Sét.	
-Miễn: Không nhận sát thương Sét.			
-Yếu: Nhận gấp đôi sát thương Sét.</content>
+	<content contentuid="h91ddc419gc586g48e4g96f9g7c1e5f13d694" version="1">
+	Kháng: Nhận một nửa sát thương Sét.	
+	Miễn: Không nhận sát thương Sét.			
+	Yếu: Nhận gấp đôi sát thương Sét.
+	</content>
 	<content contentuid="h91ddf12cg911bg4f77g97eeg19894ba5429b" version="1">*Cơn đau làm thị giác ngươi mờ đi, để lại những hình ảnh lạ lẫm, nhưng phần nào rất quen thuộc.*</content>
 	<content contentuid="h91de7c18gbe54g4d54g8bc4g9e8f8d48594f" version="2">Ngươi bị hạ xuống làm &lt;i&gt;Hshar'lak&lt;/i&gt;. Cúi đầu xuống, thanh kiếm của ta đã sẵn sàng.</content>
 	<content contentuid="h91e11054gbc0cg4d2dgb1ecg159ed4263833" version="2">Ngôi đền này toả ra một sức mạnh và sắc đẹp tăm tối. Có thực sự nên dùng từ &lt;i&gt;'Đầm ấm'&lt;/i&gt; để miêu tả nó không?</content>
@@ -62527,12 +62520,11 @@ Yếu: Nhận gấp đôi sát thương Sét.</content>
 	<content contentuid="ha0ca74d2g673dg4f51gaa26gc5ec4a5f47b9" version="2">Tiếp đi.</content>
 	<content contentuid="ha0cafa12gf305g4008g804ag06928d94c003" version="1">Những diễn biến tiếp theo có thể sẽ nguy hiểm. Gặp tôi ở bờ sông bên ngoài Last Light. Chúng ta có thể triển khai ở đó mà không làm nguy hại đến những người khác.</content>
 	<content contentuid="ha0cb0b42gcec0g4d4eg8825ga8731decda49" version="2">Tôi nghĩ ta nên tránh những sức mạnh này nếu có thể. Tôi cảm thấy như chúng ta đang bị dụ vào bẫy.</content>
-	<content contentuid="ha0cb6ddbgff6dg4200ga222g9e7950fc1a74" version="2">[Những dòng ghi chú thí nghiệm được viết bằng bàn tay khéo léo của Balthazar.]&lt;br&gt;	
-			
-Bỏ qua những thiếu sót dễ dàng nhận thấy, chúng ta không thể không công nhận thanh niên Gortash có một bộ óc của nhà khoa học. Trước khi hoàn thành phát minh mới nhất của hắn, kho văn kiện Illithid không gì hơn là những dãy hàng não bộ lênh đênh trong làn dịch tuỷ. Với thiết bị của hắn, chúng ta sẽ không cần đến sức mạnh tâm lực để truy cập các ký ức được cất giữ bên trong - mà đơn giản chỉ cần cắm não bộ vật chủ vào và trực tiếp nói chuyện với nó.  &lt;br&gt;			
-Tuy nhiên, ta không khỏi khó chịu khi hắn đang ngày một háo hức sử dụng thiết bị ấy với những vật thí nghiệm mới nhất của mình, cũng như để vụn hộp sọ của chúng vương vãi khắp bàn làm việc.			
-			
-</content>
+	<content contentuid="ha0cb6ddbgff6dg4200ga222g9e7950fc1a74" version="2">
+	[Những dòng ghi chú thí nghiệm được viết bằng bàn tay khéo léo của Balthazar.]&lt;br&gt;
+	Bỏ qua những thiếu sót dễ dàng nhận thấy, chúng ta không thể không công nhận thanh niên Gortash có một bộ óc của nhà khoa học. Trước khi hoàn thành phát minh mới nhất của hắn, kho văn kiện Illithid không gì hơn là những dãy hàng não bộ lênh đênh trong làn dịch tuỷ. Với thiết bị của hắn, chúng ta sẽ không cần đến sức mạnh tâm lực để truy cập các ký ức được cất giữ bên trong - mà đơn giản chỉ cần cắm não bộ vật chủ vào và trực tiếp nói chuyện với nó.  &lt;br&gt;			
+	Tuy nhiên, ta không khỏi khó chịu khi hắn đang ngày một háo hức sử dụng thiết bị ấy với những vật thí nghiệm mới nhất của mình, cũng như để vụn hộp sọ của chúng vương vãi khắp bàn làm việc.			
+	</content>
 	<content contentuid="ha0cbb813geb07g42c9g8c7age3bedfad1bef" version="3">Ai lại đi giữ bí mật như thế với bạn bè chứ? Thời này đúng là chả tin được ai cả.</content>
 	<content contentuid="ha0cc91d9g0295g41bdgad78g46ffc8b217d4" version="2">Thuần thục Giáp trung</content>
 	<content contentuid="ha0cd52b5g69d0g43a1ga04egcd72df17d70a" version="4">Bị Sốt óc</content>
@@ -62828,9 +62820,7 @@ Tuy nhiên, ta không khỏi khó chịu khi hắn đang ngày một háo hức 
 	<content contentuid="ha18c6bcbg7f50g4a3ega54age4e0ca12020e" version="3">&lt;i&gt;Rồi đến khi nàng và hắn thành thân&lt;br&gt;Thì ta sẽ như một thằng thất thần&lt;br&gt;Buồn thay bởi tại nàng sẽ là bà chị dâu.&lt;/i&gt;</content>
 	<content contentuid="ha18d0424g7941g4b2agaf3dgeda0de119511" version="2">Một làn khói đen ngòm vần vũ bên trong viên đá Onyx nạm trên mặt nhẫn, bảo vệ thứ gì đó bên trong.</content>
 	<content contentuid="ha18e1496g4e78g41d9gb437g8d92b46afd9e" version="2">Cẩn thận. Tôi không muốn thịt Gnome nướng dính vào tóc đâu.</content>
-	<content contentuid="ha18e79b2g111ag441egb532g3ff79d4ba842" version="1">Đôi bàn tay khéo léo, đi ăn trộm như đi chơi.	
-			
-Giúp cạy khoá, thó đồ và phá bẫy.</content>
+	<content contentuid="ha18e79b2g111ag441egb532g3ff79d4ba842" version="1">Đôi bàn tay khéo léo, đi ăn trộm như đi chơi. Giúp cạy khoá, thó đồ và phá bẫy.</content>
 	<content contentuid="ha18fb77eg908dg4892g93b6g651917ed7aea" version="1">Chấp nhận bất đồng thôi. Đây có lẽ không phải là chủ đề hợp để hai ta bàn luận.</content>
 	<content contentuid="ha190724agc4afg4431g804agc1f7e0aa2a49" version="1">Nhảy</content>
 	<content contentuid="ha190d749g6bdeg4a70g8763gcbf230f1d0eb" version="1">Chúng ta đã tìm thấy một lá thư đe dọa dưới tầng hầm của Arfur - xem ra ông ta là kẻ đã quyên góp đồ chơi gài mìn mà chúng ta đã phát hiện tại Kho chứa Tạm thời. Chúng ta nên chất vấn xem ông ta định bào chữa như thế nào. </content>
@@ -63067,9 +63057,11 @@ Giúp cạy khoá, thó đồ và phá bẫy.</content>
 	<content contentuid="ha2172254g9054g4826g86e5g65d38b131117" version="1">Xoá</content>
 	<content contentuid="ha2193194ga08fg48c2g9ca4g5e75d5b951ea" version="1">Nó như âm nhạc, thơ ca, và sắc đẹp vật chất được hòa vào làm một và thể hiện qua những giác quan.</content>
 	<content contentuid="ha219b92bg9d75g496cga957ga1a9af4d1570" version="1">Và rồi hắn vẫn sẽ đòi thêm.</content>
-	<content contentuid="ha21a5f81g1fe4g4740g9373gd200ef0c9964" version="1">Kháng: Nhận một nửa sát thương Vong.	
-Miễn: Không nhận sát thương Vong.			
-Yếu: Nhận gấp đôi sát thương Vong.</content>
+	<content contentuid="ha21a5f81g1fe4g4740g9373gd200ef0c9964" version="1">
+	Kháng: Nhận một nửa sát thương Vong.	
+	Miễn: Không nhận sát thương Vong.			
+	Yếu: Nhận gấp đôi sát thương Vong.
+	</content>
 	<content contentuid="ha21cff34g0d33g4863g88feg2a35f94ef293" version="3">Vui rồi chứ? Được rồi, đi đi.</content>
 	<content contentuid="ha21d14a0g455cg41c5gb4dfg6ddc0c6bec13" version="2">Đòn Phi thân</content>
 	<content contentuid="ha21e8902g76d7g4afag9e3eg3fbb4f66abd7" version="2">Ngươi đang làm gì lúc chết?</content>
@@ -63084,10 +63076,12 @@ Yếu: Nhận gấp đôi sát thương Vong.</content>
 	<content contentuid="ha227a142g2946g47f2g9b98g3903acaafcb2" version="1">Không thể dịch chuyển nhanh khi đang trong Chế độ Theo lượt.</content>
 	<content contentuid="ha2286222g5a25g4a29g91e0gb61f6665c477" version="1">Nhưng nếu Voss nói đúng, và Vlaakith đích thực hấp thụ kẻ thăng thần để củng cố sức mạnh...</content>
 	<content contentuid="ha2295debg7ff5g4910gb145g45aeb9949529" version="1">Hẹn sớm gặp lại anh.</content>
-	<content contentuid="ha229d1ceg5f47g4ca8ga15dg3ddf32cea0c5" version="6">[Một bức vẽ minh hoạ bằng than củi một cô bé đang mỉm cười.]	
-&lt;br&gt;&lt;b&gt;MẤT TÍCH&lt;/b&gt;&lt;br&gt;&lt;br&gt;			
-Chessa			
-&lt;br&gt;&lt;br&gt;Sẽ hậu tạ bất kỳ thông tin nào về người con yêu quý của chúng tôi - vui lòng báo về trại người Gur ở Wyrm's Crossing.</content>
+	<content contentuid="ha229d1ceg5f47g4ca8ga15dg3ddf32cea0c5" version="6">
+	[Một bức vẽ minh hoạ bằng than củi một cô bé đang mỉm cười.]	
+	&lt;br&gt;&lt;b&gt;MẤT TÍCH&lt;/b&gt;&lt;br&gt;&lt;br&gt;			
+	Chessa			
+	&lt;br&gt;&lt;br&gt;Sẽ hậu tạ bất kỳ thông tin nào về người con yêu quý của chúng tôi - vui lòng báo về trại người Gur ở Wyrm's Crossing.
+	</content>
 	<content contentuid="ha22a563cg2f93g4343gae69g1906988415a7" version="2">*Tâm trí ngươi phân tách được các phần có tông màu đen và xanh lam, để lộ ra địa điểm giấu hàng. Ngươi liền đánh dấu vị trí vào tấm bản đồ để không quên.*</content>
 	<content contentuid="ha22acf9eg87a8g4280ga448g887e6cdcd5c3" version="1">Bao bố rách</content>
 	<content contentuid="ha22b05b2gc2d1g4972g97f5g1eee338e1e8d" version="3">Người này đang bị nhốt trong thành trì của giáo phái, Tháp Moonrise. Các ngươi phải đến giải cứu.</content>
@@ -65426,10 +65420,12 @@ Chessa
 	<content contentuid="ha862fdbbgf24dg4d8agb2ebgd87521711442" version="1">Chúng mày định hù bọn này à?</content>
 	<content contentuid="ha8637d56gcd96g4345g8c7dg730d333473a8" version="2">Wulbren cần một người hùng. Một người như anh. Và anh cần một cách để tự vệ khỏi những thế lực độc ác, đúng không?</content>
 	<content contentuid="ha863e76bg0eb4g4da2gaf80g0eb5c60d9b6b" version="1">Giết sạch bọn chúng!</content>
-	<content contentuid="ha8644d57gc0bag4693g8d98g2b849120852c" version="5">[Một bức minh hoạ bằng than củi một cô bé đang cười.]	
-&lt;br&gt;&lt;b&gt;MẤT TÍCH&lt;/b&gt;&lt;br&gt;&lt;br&gt;			
-Chessa			
-&lt;br&gt;&lt;br&gt;Sẽ hậu tạ bất kỳ thông tin nào về người con yêu quý của chúng tôi - vui lòng báo về trại người Gur ở Wyrm's Crossing.</content>
+	<content contentuid="ha8644d57gc0bag4693g8d98g2b849120852c" version="5">
+	[Một bức minh hoạ bằng than củi một cô bé đang cười.]	
+	&lt;br&gt;&lt;b&gt;MẤT TÍCH&lt;/b&gt;&lt;br&gt;&lt;br&gt;			
+	Chessa			
+	&lt;br&gt;&lt;br&gt;Sẽ hậu tạ bất kỳ thông tin nào về người con yêu quý của chúng tôi - vui lòng báo về trại người Gur ở Wyrm's Crossing.
+	</content>
 	<content contentuid="ha86453a7g2e1ag494dgab1bg6c5ca7ee8b30" version="4">Sắc đẹp thật nhàm chán, thiên nhiên thật phiền hà. Ta chán, và quý khách là kẻ nhàm chán.</content>
 	<content contentuid="ha8657957g7970g437cg91b4gd98b8eb9f342" version="1">Thôi đi. Bọn tao mà đánh hơi được mày, thì mày sẽ bị chẻ làm đôi trước khi kịp liếc con mắt đấy.</content>
 	<content contentuid="ha868205cg4ff2g40cag8114g70309711b029" version="2">Con mồi của ông mà ngửi thấy mùi đó là chết luôn, không cần săn đâu.</content>
@@ -65691,9 +65687,7 @@ Chessa
 	<content contentuid="ha90aeca5g274ag4163g951fg48eadefa0799" version="2">&lt;b&gt;Tập Đánh Đần&lt;/b&gt;&lt;br&gt;&lt;br&gt;Gọi cả đàn. Bắt một thằng Gnome. &lt;br&gt;&lt;br&gt;Lần lượt từng thằng liệt kê cách xẻo thịt thằng Gnome, theo thứ tự an-pha-bê-xê-đê, bắt đầu bằng chữ "A". Thằng nào bí, thằng ấy uống. Thằng trụ lại cuối cùng được giết thằng Gnome.&lt;br&gt;&lt;br&gt;Ví dụ:&lt;br&gt;Áp mặt vào lửa.&lt;br&gt;Bẻ gãy xương đùi.&lt;br&gt;Cào rách mặt bằng cái xương đùi lởm chởm.&lt;br&gt;&lt;br&gt;&lt;b&gt;Chơi đá&lt;/b&gt;&lt;br&gt;&lt;br&gt;Lấy đá. Xông vào quán trọ. Giết hết người ở đó.&lt;br&gt;&lt;br&gt;Đổ đầy mười vại bia mật. Xếp thành hình tam giác ở hai bên đầu bàn (hai đầu theo chiều dài ấy, đồ ngu.) Không thì xếp vại trước rồi đổ bia vào sau, làm như nào thì làm. Chia nửa đàn bên này, nửa đàn bên kia. Lần lượt cẩu đá vào bên đối diện. Lọt vại nào bên kia uống sạch vại đó. Phe nào hết bia trước phe đó thua.&lt;br&gt;&lt;br&gt;Phe thắng được xẻo một cái móng bất kỳ ở chân phe thua.&lt;br&gt;&lt;br&gt;&lt;b&gt;Uống Bài&lt;/b&gt;&lt;br&gt;&lt;br&gt;Đi cùng cả đàn tấn công một làng. Cứ giết thoải mái đến khi một đứa tìm được một bộ bài.&lt;br&gt;&lt;br&gt;Chọn thằng làm cái. Chọn kiểu gì thì chọn - đứa đuôi ngắn nhất, chân xấu nhất, đại loại thế. Thằng ngồi bên phải có hai lần đoán lá trên cùng xấp bài là gì. Thằng làm cái sẽ trả lời thấp hơn hoặc cao hơn. Thằng làm cái uống hai vại nếu đoán đúng ở lần đầu, uống một vại nếu đoán đúng ở lần hai. Nếu không đoán được, thằng đoán phải uống số vại bằng với chênh lệch giữa lá bài nó đoán và lá bài kết quả. (Ví dụ nếu lá bài là số 9 nhưng nó đoán số 4 thì nó uống 5 vại. Đấy gọi là tíng toáng cơ bản.)&lt;br&gt;&lt;br&gt;Đổi cái khi cái thắng được hai thằng đoán bài. Thằng nào còn trụ đến cuối được đốt làng.</content>
 	<content contentuid="ha90b6f10g8c3cg4d7fgbce5gf5283c5b2fc6" version="1">*Thi thể là một người đàn ông Tiefling - có khả năng đây là cha của cô bé Arabella.*</content>
 	<content contentuid="ha90ca686g9370g44cdgb3c7gf847494a7265" version="1">Tôi không thông hiểu về Goblin, nhưng tôi biết chúng sẽ khó mà cưỡng lại một lời khiêu khích như thế.</content>
-	<content contentuid="ha90cb8b6g3aa7g4b94ga7e3gfa0823672af1" version="1">Giữ dáng. Thực hiện các động tác cần nhiều thể lực.	
-			
-Để xô và tránh bị xô ngược.</content>
+	<content contentuid="ha90cb8b6g3aa7g4b94ga7e3gfa0823672af1" version="1">Giữ dáng. Thực hiện các động tác cần nhiều thể lực.	Để xô và tránh bị xô ngược.</content>
 	<content contentuid="ha90ff98age88ag46c9gbb2fgbe98349904d0" version="2">Chế độ ăn của những chiến binh tập sự.</content>
 	<content contentuid="ha9104b4cge352g4234g8f8egee320c855bad" version="1">Đã rõ, Z'rell.</content>
 	<content contentuid="ha910fe84ga2b4g48fag8c7eg3f6fe467841e" version="2">Vậy nghĩa là giờ cô đang yêu rồi hả, Karlach?</content>
@@ -67662,9 +67656,11 @@ Chessa
 	<content contentuid="hae2218cdgef66g4648g80a1g0623cae9b89e" version="1">Tuy nhiên như vậy không có nghĩa rằng mọi lời ông ta nói là thông thái.</content>
 	<content contentuid="hae223ca4gd1edg40ebg8310g842f5df36ef1" version="2">Chà, còn gì khổ bằng cái đầu đau nhức. Con nên đi khám cái đầu đó đi.</content>
 	<content contentuid="hae22827fga825g41begb984g0d4422eaf349" version="2">*Đầu ngươi rung lắc trước những âm thanh rúng động và vang rền của lời ca não nề dâng lên vị thần của Myconid.*</content>
-	<content contentuid="hae246f16g8dd0g4205gba24gbc26ffb19d50" version="1">Kháng: Nhận một nửa sát thương Sấm.	
-Miễn: Không nhận sát thương Sấm.			
-Yếu: Nhận gấp đôi sát thương Sấm.</content>
+	<content contentuid="hae246f16g8dd0g4205gba24gbc26ffb19d50" version="1">
+	Kháng: Nhận một nửa sát thương Sấm.	
+	Miễn: Không nhận sát thương Sấm.			
+	Yếu: Nhận gấp đôi sát thương Sấm.
+	</content>
 	<content contentuid="hae26bac2g2e14g4cccg8c47gd19467e488c6" version="1">Không thể dùng phản xạ</content>
 	<content contentuid="hae295932g7697g453cg858fgb876ab18e864" version="1">Phải, nếu có đúng người dạy. Anh nghĩ thế nào về lũ Tà thần, Wyll?</content>
 	<content contentuid="hae298498g4ae2g41acg9070g0443bfc9654b" version="1">&lt;i&gt;Rời đi.&lt;/i&gt;</content>
@@ -67672,9 +67668,7 @@ Yếu: Nhận gấp đôi sát thương Sấm.</content>
 	<content contentuid="hae2abd24g72bbg48eeg84a9gee824fc7e22e" version="1">Thần không có ý xấu. Thần chỉ muốn chiêm ngưỡng long thể của ngài ở khoảng cách gần.</content>
 	<content contentuid="hae2b7f08g90fdg47d8g9e17g3abb76b8f42f" version="4">*Ngươi cảm thấy ổ khoá như bật mở khi nghe lệnh.*</content>
 	<content contentuid="hae2bed3eg13e7g4edfg98f5g9ff8cf41ac00" version="1">Thần Gond nghe nói có ông thần quan. Chim ông bị nguyền ngắn như bị hoạn...'</content>
-	<content contentuid="hae2ca7b5g14e8g4a48ga3e9g144a259ac1a2" version="1">NVIDIA DLSS sử dụng Siêu phân giải AI để cung cấp tốc độ khung hình cao nhất có thể ở cài đặt đồ họa tối đa. DLSS yêu cầu card đồ họa NVIDIA RTX.	
-			
-DLSS tăng tốc độ khung hình bằng cách sử dụng học sâu để nâng cấp khung hình ở độ phân giải thấp hơn để chúng trông sắc nét như mong đợi ở độ phân giải gốc.</content>
+	<content contentuid="hae2ca7b5g14e8g4a48ga3e9g144a259ac1a2" version="1">NVIDIA DLSS sử dụng Siêu phân giải AI để cung cấp tốc độ khung hình cao nhất có thể ở cài đặt đồ họa tối đa. DLSS yêu cầu card đồ họa NVIDIA RTX. DLSS tăng tốc độ khung hình bằng cách sử dụng học sâu để nâng cấp khung hình ở độ phân giải thấp hơn để chúng trông sắc nét như mong đợi ở độ phân giải gốc.</content>
 	<content contentuid="hae2cb4dfg3c02g48a5gbfc6g0dd3ea74bc26" version="1">Quạ</content>
 	<content contentuid="hae2cc889g8113g41a8ga6edg31777982d62a" version="2">Anh cảm thấy không? Bóng tối đang gặm nhấm chúng ta. Chớ có coi thường nó.</content>
 	<content contentuid="hae2d1cd5gac96g49f9gbd31g3cffa59aaf5f" version="1">Tôi đã được bảo vệ rồi. Nữ thần của tôi che chở tôi khỏi lời nguyền.</content>
@@ -69223,9 +69217,7 @@ DLSS tăng tốc độ khung hình bằng cách sử dụng học sâu để nâ
 	<content contentuid="hb245b5f0gab6fg4a4cgbf62g80326dc2dfb3" version="1">hoá Khí</content>
 	<content contentuid="hb247095egd63cg43d8gb8d5g00caf42f304f" version="3">Đã xong rồi - lũ Duergar đã chết.</content>
 	<content contentuid="hb2477750g83a6g4cd8g8639gc4ceaa452cb8" version="2">Một cổ vật Githyanki. Làm thế nào mà cô có được nó?</content>
-	<content contentuid="hb2487d1bga7a8g4a2dgb6a8g447842179f6d" version="1">Tránh khỏi tầm mắt. Lẩn khuất trong bóng đêm.	
-			
-Giúp lẩn trốn.</content>
+	<content contentuid="hb2487d1bga7a8g4a2dgb6a8g447842179f6d" version="1">Tránh khỏi tầm mắt. Lẩn khuất trong bóng đêm. Giúp lẩn trốn.</content>
 	<content contentuid="hb24891e2g3fb0g48dbgbc18gf51e2af6e8f1" version="1">Cazador đúng là đồ chó chết. Chúng ta sẽ ngăn hắn lại.</content>
 	<content contentuid="hb24a04f4gbf99g4191g9348g8bd3a40babfd" version="1">Vẫn chưa phải kế hoạch tồi tệ nhất của anh nhỉ.</content>
 	<content contentuid="hb24a34c5gdaadg405bg87e7g3c401fcdaab0" version="1">Đến Bệnh xá ngay lập tức. Bước đi thật thận trọng, Tổ ấp Y'llek đang dõi theo ngươi. </content>
@@ -77225,13 +77217,13 @@ Giúp lẩn trốn.</content>
 	<content contentuid="hc6afd50fge9f3g4da1g98dcg0973f241ab51" version="2">Tôi là Karlach. Còn anh...?</content>
 	<content contentuid="hc6b12b16g6fafg4bbfg9ec3g0324320a6b3d" version="1">*Lăng trụ Tinh vân là gì? Hình người trong mơ là gì? Và tại sao Vlaakith lại nhất quyết muốn giết ông ta đến vậy?*</content>
 	<content contentuid="hc6b1bd9cgc43bg48b2g9393g259b4e1cd1ac" version="1">Hãy ra lệnh tiến quân đi.</content>
-	<content contentuid="hc6b2683eg4067g4c7fg8d28ge10e8bb004e7" version="1">[Hầu hết phần chữ đều đã bị chà mòn đi bởi thời gian, nhưng phần còn lại có vẻ như là một dạng thần chú thi triển nghi thức.]&lt;br&gt;&lt;br&gt;	
-			
-&lt;i&gt;Xương Sườn của Ngài là Cột trụ&lt;br&gt;			
-Hộp sọ trắng bệch là Mái vòm&lt;br&gt;			
-Hoá thành hình dạng của Sứ thần&lt;br&gt;			
-Để là Thánh điện làm từ xương&lt;br&gt;&lt;/i&gt;			
-</content>
+	<content contentuid="hc6b2683eg4067g4c7fg8d28ge10e8bb004e7" version="1">
+	[Hầu hết phần chữ đều đã bị chà mòn đi bởi thời gian, nhưng phần còn lại có vẻ như là một dạng thần chú thi triển nghi thức.]&lt;br&gt;&lt;br&gt;	
+	&lt;i&gt;Xương Sườn của Ngài là Cột trụ&lt;br&gt;			
+	Hộp sọ trắng bệch là Mái vòm&lt;br&gt;			
+	Hoá thành hình dạng của Sứ thần&lt;br&gt;			
+	Để là Thánh điện làm từ xương&lt;br&gt;&lt;/i&gt;			
+	</content>
 	<content contentuid="hc6b29345gf644g4946ga004g8feb704173a6" version="1">Đặc ân của Thần Chiến Tranh</content>
 	<content contentuid="hc6b30744gb0c6g4350gbe73g8d97c5e245fc" version="8">*Ngươi bị phát hiện đang ăn cắp. Để hòa giải tình hình thì ngươi sẽ cần phải cẩn trọng hơn lúc ngươi đang rình mò ăn trộm.*</content>
 	<content contentuid="hc6b37f17gf99eg412fg9cb7ge6031804e4cb" version="1">Thế này cũng giúp tôi có được chút thời gian riêng. Hẹn gặp sau vậy.</content>
@@ -78057,13 +78049,15 @@ Hoá thành hình dạng của Sứ thần&lt;br&gt;
 	<content contentuid="hc8c8c809gbcd5g4b50ga6e4g724635970a73" version="1">Cảm ơn anh. Đúng thứ tôi đang cần. Tôi cần biết liệu tôi có thể đối mặt với thế giới mà không có Shar không.</content>
 	<content contentuid="hc8c9ff59gec5cg4030g9fdegf21aa0cf316d" version="3">*Nữ y tá không có gì để nói - hoặc có lẽ là không thể nói gì.*</content>
 	<content contentuid="hc8ca1c1ag4dc3g4526g9905gbfa6f86d9886" version="3">Một cục phô mai xanh Đại Thung Lũng. Nhìn đã ghê, ngửi còn ghê hơn.</content>
-	<content contentuid="hc8ca41adg2469g4d54g9f01gb776f6691ad6" version="1">Để chọn điều khiển nhân vật nào sau khi rời giao tranh theo lượt.	
-			
-Avatar: Select your original avatar.			
-			
-Restore: Select the last character you had selected before combat started.			
-			
-Off: Keep the character you had selected when combat ended.</content>
+	<content contentuid="hc8ca41adg2469g4d54g9f01gb776f6691ad6" version="1">
+	Để chọn điều khiển nhân vật nào sau khi rời giao tranh theo lượt. 
+	&lt;br&gt;&lt;br&gt;
+	Avatar: Chọn nhân vật chính ban đầu của bạn. 
+	&lt;br&gt;
+	Restore: Chọn nhân vật mà bạn đã điều khiển trước khi giao tranh bắt đầu. 
+	&lt;br&gt;
+	Off: Giữ nguyên nhân vật mà bạn đã điều khiển khi giao tranh kết thúc.
+	</content>
 	<content contentuid="hc8cb1bf9g4cc7g4c07ga083g923df336d624" version="6">Đừng hòng. Ngươi đã nhìn thấy tổ của ta. Ngươi đã nhìn thấy con của ta.</content>
 	<content contentuid="hc8cb503bg3b49g4568gbdf4g3287940971f4" version="1">Tôi chỉ đang mong chờ được trở lại thành Gate thôi. Tôi sinh ra ở đó.</content>
 	<content contentuid="hc8cb8777g8cc2g4f96ga9d3gc2731f2957fe" version="5">Chú làm được rồi! Chú đập chết Ketheric rồi! Cháu biết chú làm được mà - kể cả chị Mol cũng bảo chú chưa chắc đã làm được.</content>
@@ -80386,9 +80380,7 @@ Off: Keep the character you had selected when combat ended.</content>
 	<content contentuid="hcea3aee7gdac2g4e57gb186gaccacec51a5d" version="2">Đánh bại các Gish'ra.</content>
 	<content contentuid="hcea4e3b1g9340g43d5ga776g8d8fcd1646ab" version="3">Khu vực không thể bị Che khuất Toàn phần.</content>
 	<content contentuid="hcea4fd0fgbf4dg43e0gb078g59722beba38d" version="1">*Thi thể trả lời ngươi một cách vô hồn.*</content>
-	<content contentuid="hcea50cc0gbeebg4aaeg992bgdb79cbfef7e8" version="1">Giá vật phẩm là giá trị thực của vật phẩm đó.	
-			
-Các thương nhân có thể sẽ giảm hoặc tăng giá mua bán, tùy vào việc họ có thích nhân vật đang thực hiện mua bán hay không.</content>
+	<content contentuid="hcea50cc0gbeebg4aaeg992bgdb79cbfef7e8" version="1">Giá vật phẩm là giá trị thực của vật phẩm đó. Các thương nhân có thể sẽ giảm hoặc tăng giá mua bán, tùy vào việc họ có thích nhân vật đang thực hiện mua bán hay không.</content>
 	<content contentuid="hcea5953egb398g4384ga47dg6953dea5ea9a" version="7">Không. Không làm việc nữa. Tất cả phải chết!</content>
 	<content contentuid="hcea5dbbdg1d7dg4c82g8c93g2546cb585e7f" version="1">Hàm</content>
 	<content contentuid="hcea7af98g2498g478ega9c0gbe3634baac73" version="1">*Dấu ấn sáng lên, nhưng ngươi không cảm thấy gì đáp lại. Ngươi sẽ không thể tiếp tục sử dụng năng lực Illithid cho đến khi đã nghỉ ngơi.*</content>
@@ -81768,9 +81760,7 @@ Các thương nhân có thể sẽ giảm hoặc tăng giá mua bán, tùy vào 
 	<content contentuid="hd23aa25bg365bg49e1gb793gf3d9be7ecab8" version="1">Thang dây</content>
 	<content contentuid="hd23bbd59g35fdg47f3g9ddag82615eea847a" version="2">Có gì đó trong đống đổ nát.</content>
 	<content contentuid="hd23c4666g62f5g48bega5adg332947f39551" version="1">Mũ Wizard</content>
-	<content contentuid="hd23c59cegee91g48b4ga353g1b626f6f801b" version="1">Cleric, Druid, và Wizard phải soạn phép trước khi sử dụng.	
-			
-Có thể thay đổi các phép thuật đã soạn khi ở ngoài giao tranh.</content>
+	<content contentuid="hd23c59cegee91g48b4ga353g1b626f6f801b" version="1">Cleric, Druid, và Wizard phải soạn phép trước khi sử dụng. Có thể thay đổi các phép thuật đã soạn khi ở ngoài giao tranh.</content>
 	<content contentuid="hd23cd59bg1a72g4296g89a3g9cb8d81bac36" version="2">Tự do? Thế thì bớt lải nhải hộ cái. Đi đi, chém chết chúng nó đi. Tôi không ngăn anh đâu.</content>
 	<content contentuid="hd23ceb65g920bg49d1g9031g8d9b929f59e0" version="2">Kính lúp</content>
 	<content contentuid="hd23cf23cg64b5g4d16g8b24gd7905b62dc10" version="1">Rượu Vang</content>
@@ -83819,8 +83809,7 @@ Có thể thay đổi các phép thuật đã soạn khi ở ngoài giao tranh.<
 	<content contentuid="hd79d9004g2d24g444cgbe25gd7413ad4c810" version="2">Chúng phải theo sát. Không được rời khỏi ánh sáng!</content>
 	<content contentuid="hd79e2acagea3ag4858g9c9cg6b38a1cfd363" version="1">Đôi giày uyển chuyển này từng thuộc về Audreyne Willoughs. Thật ngược đời làm sao, khi cô không bỏ nhà đi diễn xiếc, mà lại bỏ gánh xiếc để chạy trốn về với cha mẹ ở nhà.</content>
 	<content contentuid="hd79f854dga0c3g473dg9a73g9be04c42daab" version="1">Quân cờ của Ác bà</content>
-	<content contentuid="hd7a0b331gaa20g4fa9g9542g06be07b594f1" version="3">[Cuốn sách hướng dẫn các giáo viên về những cách hiệu quả nhất để dạy phát âm tiếng Phổ thông cho các loài quái vật.]&lt;br&gt;&lt;br&gt;MỤC LỤC&lt;br&gt;Giới thiệu: Phương Pháp Khoa Học Nhằm Có Được Phát Âm Lưu Loát	
-&lt;br&gt;Chapter I - Basic Rules of Phonics&lt;br&gt;Chapter II - Vowels&lt;br&gt;Chapter III - Combining Consonants&lt;br&gt;Chapter IV - Practice Exercises&lt;br&gt;Chapter V - Further Guidance&lt;br&gt;Chapter VI - Species-specific Challenges</content>
+	<content contentuid="hd7a0b331gaa20g4fa9g9542g06be07b594f1" version="3">[Cuốn sách hướng dẫn các giáo viên về những cách hiệu quả nhất để dạy phát âm tiếng Phổ thông cho các loài quái vật.]&lt;br&gt;&lt;br&gt;MỤC LỤC&lt;br&gt;Giới thiệu: Phương Pháp Khoa Học Nhằm Có Được Phát Âm Lưu Loát&lt;br&gt;Chương I - Các quy tắc cơ bản của Ngữ âm học&lt;br&gt;Chương II - Nguyên âm&lt;br&gt;Chương III - Kết hợp phụ âm&lt;br&gt;Chương IV - Bài tập thực hành&lt;br&gt;Chương V - Hướng dẫn nâng cao&lt;br&gt;Chương VI - Thách thức riêng cho từng loài.</content>
 	<content contentuid="hd7a22407g88b8g4646g8c3eg5966788e1eb2" version="3">Nói chuyện quá nhiều. Ồn ào quá nhiều. &lt;i&gt;Glath, glath.&lt;/i&gt; Mày chết!</content>
 	<content contentuid="hd7a24a83g81dag4473g9a25g6dbe3944e31f" version="1">Ngay lập tức.</content>
 	<content contentuid="hd7a38632g3c99g4fd3ga3e2g7885c7011278" version="3">BỊ NHIỄM KÝ SINH MIND FLAYER RỒI!</content>
@@ -84839,8 +84828,7 @@ Có thể thay đổi các phép thuật đã soạn khi ở ngoài giao tranh.<
 	<content contentuid="hda48656bg4ec1g4802g88a5g664fc6cf23bb" version="2">Cảm ơn, nhưng ta không gọi đâu.</content>
 	<content contentuid="hda48d563g6a89g40f6gb886ge6deec5ef89c" version="4">Cô có thể bỏ anh ta ở đây mà.</content>
 	<content contentuid="hda49bde5g500bg46fag93f5g1cd8ef4881b4" version="3">Phải thế chứ.</content>
-	<content contentuid="hda4a8149g4659g4fc6ga10ag3304bb81a14a" version="5">&lt;i&gt;... thực thể trống rỗng ... không còn gì nữa...	
-... hiến dâng giọng nói... cho kiến thức xưa...&lt;/i&gt;</content>
+	<content contentuid="hda4a8149g4659g4fc6ga10ag3304bb81a14a" version="5">&lt;i&gt;... thực thể trống rỗng ... không còn gì nữa... hiến dâng giọng nói... cho kiến thức xưa...&lt;/i&gt;</content>
 	<content contentuid="hda4b39a9g5db2g4c5cg9cd2ge85d01ece55e" version="1">*Thi thể trả lời ngươi một cách vô hồn.*</content>
 	<content contentuid="hda4b4c6agf268g4186gb84dg2fae790ea5c8" version="3">Ta không muốn gì, ngoài một cái đầu Ác bà treo trên tường làm chiến tích.</content>
 	<content contentuid="hda4b54e5gb613g45edg900fg1ad29dee91a0" version="1">Tôi cầu cho linh hồn của họ được an nghỉ, người thân của họ sẽ được bình an trong thời thế rối ren này. </content>
@@ -85429,12 +85417,7 @@ Có thể thay đổi các phép thuật đã soạn khi ở ngoài giao tranh.<
 	<content contentuid="hdbeb760agba27g4928ga0abg82997a1a9fdd" version="2">Một thành viên đội mạo hiểm giả - Người Dwarf tên Brian - có manh mối giúp tìm được nó. Có thể manh mối đó vẫn còn ở trên thi thể bị Goblin bỏ lại của anh ta.</content>
 	<content contentuid="hdbed4be2gca00g4332g91e1gef20845774cb" version="1">Trong thời gian ngắn thôi. Nhưng tôi cảm thấy nó không lành mạnh. Chỉ có cô là dành cho tôi thôi, Karlach.</content>
 	<content contentuid="hdbee13a7g0199g41d0gb174g8fa2b10430cf" version="3">*Hàng ngàn năm lịch sử của những chủng tộc Nhân loại - Elf, Dwarf, Human và nhiều hơn nữa - chớp nháy sau hốc mắt ngươi.*</content>
-	<content contentuid="hdbee4c55gfd3bg49e9gbc7cg6e6b6ddfc637" version="3">Phân công nhân sự. Nếu bảng phân công dưới đây có gì chưa rõ, vui lòng truyền đạt mọi thắc mắc cho ông Mercer. - Mnemonis&lt;br&gt;&lt;br&gt;	
-Furbleston - Serving&lt;br&gt;			
-Bailey - Shine the silverware (and be &lt;i&gt;careful&lt;/i&gt; about it)&lt;br&gt;			
-Cyrilla - Wash the linens&lt;br&gt;			
-Jooli - Speak with Chef Marjoram&lt;br&gt;			
-Phubbs - Greeting guests</content>
+	<content contentuid="hdbee4c55gfd3bg49e9gbc7cg6e6b6ddfc637" version="3">Phân công nhân sự. Nếu bảng phân công dưới đây có gì chưa rõ, vui lòng truyền đạt mọi thắc mắc cho ông Mercer. - Mnemonis&lt;br&gt;&lt;br&gt; Furbleston - Serving&lt;br&gt; Bailey - Shine the silverware (and be &lt;i&gt;careful&lt;/i&gt; about it)&lt;br&gt; Cyrilla - Wash the linens&lt;br&gt; Jooli - Speak with Chef Marjoram&lt;br&gt; Phubbs - Greeting guests</content>
 	<content contentuid="hdbee8017gdb35g457fga6dag1d54561743ee" version="4">Tôi mà khánh kiệt thì sức đâu mà phục vụ đại nghĩa.</content>
 	<content contentuid="hdbee801fg253fg4333ga21eg14adc973f51e" version="1">Bỏ mặc tôi thì anh sẽ nhận lấy cơn thịnh nộ của các chư thần. </content>
 	<content contentuid="hdbef1cc6g3d7dg43b3g8142gaf27b8bafcf5" version="1">Chúng ta đã đến được ngôi đền được đồn là có chứa món cổ vật Nightson. Chúng ta nên đi tìm nó.</content>
@@ -86353,9 +86336,7 @@ Phubbs - Greeting guests</content>
 	<content contentuid="hde3c797eg900bg4b66gbcb2g8c608fd6309d" version="1">Thanh Di chuyển</content>
 	<content contentuid="hde3cee5bgaa6fg402cga403g7c49e8c8ca5b" version="1">Nếu tôi không sợ đốt cháy da anh thì tôi đã ôm chầm lấy anh rồi. </content>
 	<content contentuid="hde3d1725g6e85g4b99g8ebagf3f75109f1d6" version="1">Xích</content>
-	<content contentuid="hde40b598g2937g47f5ga342g2480628c8106" version="3">Đang mang vác quá nhiều đồ đạc.	
-			
-&lt;LSTag Tooltip="MovementSpeed"&gt;Phạm vi Di chuyển&lt;/LSTag&gt; bị giảm đi cực kỳ đáng kể, đồng thời không thể trèo hoặc nhảy. Ngươi cũng chịu &lt;LSTag Tooltip="Disadvantage"&gt;Bất lợi&lt;/LSTag&gt; khi &lt;LSTag Tooltip="AbilityCheck"&gt;Kiểm Năng lực&lt;/LSTag&gt;, &lt;LSTag Tooltip="AttackRoll"&gt;Đổ Tấn công&lt;/LSTag&gt; và &lt;LSTag Tooltip="SavingThrow"&gt;Đổ Cứu vãn&lt;/LSTag&gt; Sức mạnh, Linh hoạt và Thể trạng.</content>
+	<content contentuid="hde40b598g2937g47f5ga342g2480628c8106" version="3">Đang mang vác quá nhiều đồ đạc.	&lt;LSTag Tooltip="MovementSpeed"&gt;Phạm vi Di chuyển&lt;/LSTag&gt; bị giảm đi cực kỳ đáng kể, đồng thời không thể trèo hoặc nhảy. Ngươi cũng chịu &lt;LSTag Tooltip="Disadvantage"&gt;Bất lợi&lt;/LSTag&gt; khi &lt;LSTag Tooltip="AbilityCheck"&gt;Kiểm Năng lực&lt;/LSTag&gt;, &lt;LSTag Tooltip="AttackRoll"&gt;Đổ Tấn công&lt;/LSTag&gt; và &lt;LSTag Tooltip="SavingThrow"&gt;Đổ Cứu vãn&lt;/LSTag&gt; Sức mạnh, Linh hoạt và Thể trạng.</content>
 	<content contentuid="hde40dee7g18c2g4cceg82feg6b09c46643b5" version="2">*Lời biện hộ của ngươi chỉ khiến ngươi trông càng đáng nghi. Lính gác sẽ được biết chuyện này.*</content>
 	<content contentuid="hde421acege4ccg400fg813bg53b043ccdebf" version="2">Ống Runepowder phát nổ</content>
 	<content contentuid="hde42690eg2198g47c4ga613g6c80ee2dfb9f" version="1">Kén tơ nhện</content>
@@ -90125,9 +90106,7 @@ Phubbs - Greeting guests</content>
 	<content contentuid="he7cc286cg097ag4bc0g804cgc0d018a8c186" version="4">Hãy tin vào một người có kinh nghiệm. Tôi sẽ tìm em gái hai anh.</content>
 	<content contentuid="he7cca901g8fbdg4408gbb67geb6b62970fbc" version="1">Một chiếc thìa nặng được dát một lớp vàng mỏng.</content>
 	<content contentuid="he7ce0899ge6f4g486fg8a7cg62e70235e699" version="3">&lt;i&gt;Công thức của ta sẽ loại bỏ đi những tác dụng tiêu cực nhất khi đem nấu thành thuốc.&lt;/i&gt;</content>
-	<content contentuid="he7ce4a41g56a9g4abdg9dbcg311275bfb868" version="1">Cleric, Druid, và Wizard phải soạn phép trước khi sử dụng.	
-			
-Không tính vào số lượng phép thuật tối đa đã soạn.</content>
+	<content contentuid="he7ce4a41g56a9g4abdg9dbcg311275bfb868" version="1">Cleric, Druid, và Wizard phải soạn phép trước khi sử dụng. Không tính vào số lượng phép thuật tối đa đã soạn.</content>
 	<content contentuid="he7ce6cf0geebcg4f17g85f9g76261cd05475" version="1">Tôi đã bảo từ đầu rồi. Không nên tin những... &lt;i&gt;máu quỷ&lt;/i&gt; đó.</content>
 	<content contentuid="he7ce7085gd710g4c0aga000g8760a0de6ef8" version="4">Ngài là người đã ngủ cạnh cô ta? Tuyệt vời lắm. Ngài rạch mở vết thương, còn chúng ta sẽ khoét sâu nó.</content>
 	<content contentuid="he7cf6ff2g4812g45e8gaef3g701f1a916e9d" version="1">Chắc là được. Ngươi định hoá thành hình dạng gì?</content>
@@ -90827,8 +90806,7 @@ Không tính vào số lượng phép thuật tối đa đã soạn.</content>
 	<content contentuid="he9a92257gbf29g4b59gbf90g041db4fc9700" version="1">Còn đợi gì nữa thế?</content>
 	<content contentuid="he9a9d3d7g30d1g40d6gb3b0g61cba33b2bc6" version="1">Bếp cụ</content>
 	<content contentuid="he9aa2e9bg8c14g4e92gbdd1gac6adc4515ca" version="1">Vậy thì không để phí thời gian nữa - Tháp Moonrise thẳng tiến.</content>
-	<content contentuid="he9aa7078ge71cg4814g9030g314f3b5d43c4" version="2">[Trên mép mỗi trang sách đều được viết rõ dòng chữ "Chỉ dành cho Chánh quan Hắc ám Netasha" Sau đây là đoạn trích từ trang cuối cùng.]&lt;br&gt;Sáng, ngày thứ mười lăm: Szymon Nowak. Nói rằng Ketheric sẽ "không giữ được Tháp Moonrise lâu nữa đâu, với cái tình hình này."&lt;br&gt;&lt;br&gt;Tối, ngày thứ mười tám: Imanni Aatakni. Nói rằng thật bất công khi người nhà Thorm được làm "những công việc ngồi mát ăn bát vàng."&lt;br&gt;&lt;br&gt;Đêm, ngày thứ hai mươi mốt: Marc Jacobs. Benjamin Blanchet. Nói đùa về các thành viên nhà Thorm, đặc biệt là về Lãnh chúa Ketheric. Nói rằng ngài là "thằng cha khốn khổ", "bìu dái rỉ nước", đồng thời nói về những "tư thế" khiến vợ ngài ấy "khoái cho mà xem".&lt;br&gt;Tôi biết những gì Ben và Marc nói đều là những điều tai hại, thưa cô Netasha, nhưng họ là những người bạn tốt nhất của tôi, và tôi cũng chưa bao giờ thấy họ ăn nói như vậy. Chỉ là họ hơi bức xúc về việc bị cắt lương, cộng thêm việc uống say bí tỉ đến tận nửa đêm. Tôi biết đây là tội rất nghiêm trọng, nhưng tôi xin lấy danh dự ra thề, sẽ không có ai trung thành với Nữ thần của chúng ta hơn hai người họ.&lt;br&gt;&lt;br&gt;[Bên dưới là một dòng chữ với nét viết khác, có vẻ thanh tao hơn.]&lt;br&gt;&lt;br&gt;Nữ thần Mất mát sẽ rất tự hào về ngươi, Madeline. Đừng lo về Marc và Benjamin. Ta và hai "quý ông" nói trên sẽ chỉ có một cuộc trao đổi nhỏ mà thôi. Ta xin hứa.	
-</content>
+	<content contentuid="he9aa7078ge71cg4814g9030g314f3b5d43c4" version="2">[Trên mép mỗi trang sách đều được viết rõ dòng chữ "Chỉ dành cho Chánh quan Hắc ám Netasha" Sau đây là đoạn trích từ trang cuối cùng.]&lt;br&gt;Sáng, ngày thứ mười lăm: Szymon Nowak. Nói rằng Ketheric sẽ "không giữ được Tháp Moonrise lâu nữa đâu, với cái tình hình này."&lt;br&gt;&lt;br&gt;Tối, ngày thứ mười tám: Imanni Aatakni. Nói rằng thật bất công khi người nhà Thorm được làm "những công việc ngồi mát ăn bát vàng."&lt;br&gt;&lt;br&gt;Đêm, ngày thứ hai mươi mốt: Marc Jacobs. Benjamin Blanchet. Nói đùa về các thành viên nhà Thorm, đặc biệt là về Lãnh chúa Ketheric. Nói rằng ngài là "thằng cha khốn khổ", "bìu dái rỉ nước", đồng thời nói về những "tư thế" khiến vợ ngài ấy "khoái cho mà xem".&lt;br&gt;Tôi biết những gì Ben và Marc nói đều là những điều tai hại, thưa cô Netasha, nhưng họ là những người bạn tốt nhất của tôi, và tôi cũng chưa bao giờ thấy họ ăn nói như vậy. Chỉ là họ hơi bức xúc về việc bị cắt lương, cộng thêm việc uống say bí tỉ đến tận nửa đêm. Tôi biết đây là tội rất nghiêm trọng, nhưng tôi xin lấy danh dự ra thề, sẽ không có ai trung thành với Nữ thần của chúng ta hơn hai người họ.&lt;br&gt;&lt;br&gt;[Bên dưới là một dòng chữ với nét viết khác, có vẻ thanh tao hơn.]&lt;br&gt;&lt;br&gt;Nữ thần Mất mát sẽ rất tự hào về ngươi, Madeline. Đừng lo về Marc và Benjamin. Ta và hai "quý ông" nói trên sẽ chỉ có một cuộc trao đổi nhỏ mà thôi. Ta xin hứa.</content>
 	<content contentuid="he9aab1b2g1309g476dgb735gf0e34d51a5b7" version="3">*Có quá nhiều dấu chân - ngươi không thể phân biệt là chân của thứ gì.*</content>
 	<content contentuid="he9ab9eb5g04f9g48ceg83f4g74b761903031" version="1">được tạo dáng tỉ mỉ để chịu được lửa và cân bằng điều tiết nhiệt.</content>
 	<content contentuid="he9acb429gbc2cg4fd0g9736g7aad0d507a4d" version="1">Đêm qua cô bảo cô sẽ ngủ cùng Shadowheart.</content>
@@ -92766,9 +92744,7 @@ Không tính vào số lượng phép thuật tối đa đã soạn.</content>
 	<content contentuid="heec87063g03e3g4959ga595gd965ecfb13dc" version="2">Phép thuật của ngươi có thể giải phóng những luồng ma thuật bất kham khó đoán.</content>
 	<content contentuid="heec908a6g25ceg494eg8a55ga351c52e72f4" version="2">Anh đã thể hiện mình không xứng đáng làm đồng minh. </content>
 	<content contentuid="heec93805gf3fbg4569g8687gbe6bbe9fa1d7" version="4">Tìm ra rồi mừng - Khoan, là tôi đây!</content>
-	<content contentuid="heec9973bg436cg43b0g861fg6e7ba697263e" version="1">Kháng: Nhận một nửa sát thương A-xít.	
-Miễn: Không nhận sát thương A-xít.			
-Yếu: Nhận gấp đôi sát thương A-xít.</content>
+	<content contentuid="heec9973bg436cg43b0g861fg6e7ba697263e" version="1">Kháng: Nhận một nửa sát thương A-xít. Miễn: Không nhận sát thương A-xít. Yếu: Nhận gấp đôi sát thương A-xít.</content>
 	<content contentuid="heec9bb01g868ag4ca1g84a6gc36fd408ea60" version="1">Tôi. Chết &lt;i&gt;Chết. &lt;/i&gt;Thịt thối rữa, xương trắng dã. </content>
 	<content contentuid="heeca6d28ga541g4dc2ga94bgbface206c4c2" version="1">&lt;i&gt;Thử tự chế cây Đèn Bóng đêm.&lt;/i&gt;</content>
 	<content contentuid="heecade36g9142g4a1bg8584g5cb073729cb4" version="5">Lục soát Hầm rượu</content>
@@ -96093,10 +96069,7 @@ Yếu: Nhận gấp đôi sát thương A-xít.</content>
 	<content contentuid="hf75e5babg93a2g4b51g8395g4447fab7d29f" version="2">Tìm Mol.</content>
 	<content contentuid="hf75ec499gef66g4ae8ga091g03b383c85b06" version="1">&lt;i&gt;Rời đi.&lt;/i&gt;</content>
 	<content contentuid="hf75fa26ag5ba7g4a0cgaf44g62c9a5a3f2bf" version="2">Hiệu ứng Sập bẫy gây thêm [1] với mỗi cấp.</content>
-	<content contentuid="hf760bd98g64e4g4788g9761gb2d692399f15" version="1">Một số sinh vật sẽ khó (hoặc dễ) bị ảnh hưởng bởi một số loại sát thương nhất định.	
-&lt;hl&gt;Yếu&lt;/hl&gt;: nhận gấp đôi sát thương.			
-&lt;hl&gt;Kháng&lt;/hl&gt;: nhận nửa sát thương.			
-&lt;hl&gt;Miễn&lt;/hl&gt;: không nhận sát thương.</content>
+	<content contentuid="hf760bd98g64e4g4788g9761gb2d692399f15" version="1">Một số sinh vật sẽ khó (hoặc dễ) bị ảnh hưởng bởi một số loại sát thương nhất định. &lt;hl&gt;Yếu&lt;/hl&gt;: nhận gấp đôi sát thương.&lt;hl&gt;Kháng&lt;/hl&gt;: nhận nửa sát thương.&lt;hl&gt;Miễn&lt;/hl&gt;: không nhận sát thương.</content>
 	<content contentuid="hf760f1bfgbaabg497egad78g19969320f455" version="1">*Thi thể không cử động. Nó sẽ không trả lời thêm câu hỏi nào.*</content>
 	<content contentuid="hf764510ag694dg4e4fgbf07g2ae56a961b32" version="1">Anh đang muốn đi đâu à? </content>
 	<content contentuid="hf764bb2fg74ddg4158g8895g84f3d2d985e4" version="2">Săn lùng Tà thần</content>
@@ -96624,8 +96597,7 @@ Yếu: Nhận gấp đôi sát thương A-xít.</content>
 	<content contentuid="hf8b981e5g16f1g4ff7gaa53gfc5d556e30ea" version="1">*Có thể lần này ngươi đã dùng mồm mép để thoát tội, nhưng một chiêu sẽ không thể dùng lại đến lần thứ hai.*</content>
 	<content contentuid="hf8b98b2ag7835g400dgbda6ge67d0f0d8574" version="2">&lt;i&gt;Tấn công.&lt;/i&gt;</content>
 	<content contentuid="hf8ba9c6fgf61ag43bdgace0gba5c9457cb3a" version="3">Né nó xa xa ra. Nó vẫn đủ sức đánh đau đấy.</content>
-	<content contentuid="hf8bae4cegb096g4b5fg97e5gde7e06397284" version="1">Sau bao nhiêu năm mục rữa sau song sắt của ma cà rồng, tôi đã suýt quên mất cách viết chữ, chứ chưa nói đến việc phải viết gì. Nhưng dù sao thì tôi có thể nói gì với người đã mở cửa lồng và trao cho tôi một cuộc sống mới, hoặc chí ít là được sống một phần chứ?&lt;br&gt;&lt;br&gt;Sau khi anh giết chết Cazador và mở cửa lồng cho chúng tôi, chúng tôi đã lẩn trốn xuống Underdark. Chúng tôi có hàng nghìn người - một đàn quái vật háu đói, phát điên vì được tự do và phát cuồng vì cơn khát máu. Và hỡi chư thần ơi, chúng tôi đã tìm được bao nhiêu là máu tươi.&lt;br&gt;Chúng tôi vây bắt và giết chết mọi quái vật lẫn kẻ xấu số chúng tôi gặp trên đường, uống cạn những gì có thể. Chúng tôi mất hàng trăm người dọc đường - một số chết vì quái vật, nhưng đa số bọn họ chỉ biến mất trong bóng đêm.&lt;br&gt;&lt;br&gt;Dù không dễ dàng, nhưng cuối cùng, các chư hầu cũ trong nhà của Cazador đã giúp chúng tôi bình tĩnh lại và kiểm soát được năng lực. Họ đã tìm thấy một phế tích cũ, nơi chúng tôi có thể gọi là nhà và đã ở đó cho đến nay, để xây dựng một cuộc sống mới cho tất cả mọi người.&lt;br&gt;&lt;br&gt;Chúng tôi không hề tự do khi ở dưới này, bởi bóng đêm sẽ xiềng xích chúng tôi mãi mãi. Nhưng, chúng tôi không còn là những tù nhân như trước nữa. Và đó là nhờ có anh. Anh đã nhìn vào lồng nhốt của chúng tôi, và trông thấy những con người, thay vì quái vật. Và ở đây, dưới bóng đêm sâu thẳm này, chúng tôi đang cố gắng sống sao cho đáng danh con người.&lt;br&gt;&lt;br&gt;Biết ơn anh, giờ và mãi mãi về sau,&lt;br&gt;&lt;br&gt;- Sebastian	
-</content>
+	<content contentuid="hf8bae4cegb096g4b5fg97e5gde7e06397284" version="1">Sau bao nhiêu năm mục rữa sau song sắt của ma cà rồng, tôi đã suýt quên mất cách viết chữ, chứ chưa nói đến việc phải viết gì. Nhưng dù sao thì tôi có thể nói gì với người đã mở cửa lồng và trao cho tôi một cuộc sống mới, hoặc chí ít là được sống một phần chứ?&lt;br&gt;&lt;br&gt;Sau khi anh giết chết Cazador và mở cửa lồng cho chúng tôi, chúng tôi đã lẩn trốn xuống Underdark. Chúng tôi có hàng nghìn người - một đàn quái vật háu đói, phát điên vì được tự do và phát cuồng vì cơn khát máu. Và hỡi chư thần ơi, chúng tôi đã tìm được bao nhiêu là máu tươi.&lt;br&gt;Chúng tôi vây bắt và giết chết mọi quái vật lẫn kẻ xấu số chúng tôi gặp trên đường, uống cạn những gì có thể. Chúng tôi mất hàng trăm người dọc đường - một số chết vì quái vật, nhưng đa số bọn họ chỉ biến mất trong bóng đêm.&lt;br&gt;&lt;br&gt;Dù không dễ dàng, nhưng cuối cùng, các chư hầu cũ trong nhà của Cazador đã giúp chúng tôi bình tĩnh lại và kiểm soát được năng lực. Họ đã tìm thấy một phế tích cũ, nơi chúng tôi có thể gọi là nhà và đã ở đó cho đến nay, để xây dựng một cuộc sống mới cho tất cả mọi người.&lt;br&gt;&lt;br&gt;Chúng tôi không hề tự do khi ở dưới này, bởi bóng đêm sẽ xiềng xích chúng tôi mãi mãi. Nhưng, chúng tôi không còn là những tù nhân như trước nữa. Và đó là nhờ có anh. Anh đã nhìn vào lồng nhốt của chúng tôi, và trông thấy những con người, thay vì quái vật. Và ở đây, dưới bóng đêm sâu thẳm này, chúng tôi đang cố gắng sống sao cho đáng danh con người.&lt;br&gt;&lt;br&gt;Biết ơn anh, giờ và mãi mãi về sau,&lt;br&gt;&lt;br&gt;- Sebastian	</content>
 	<content contentuid="hf8bb283fg341bg41d6g8b83gd5e3f7a0a2a1" version="2">Nhật ký Giao tranh</content>
 	<content contentuid="hf8bb5a67g3a2ag4ae5g9abdgdc3b2d25f178" version="1">Chân Linh Gut vận sức mạnh của Đấng Tuyệt Đối để làm đổ một bức tượng bằng tâm trí.</content>
 	<content contentuid="hf8bbbd75g47b9g493bga06bgca68ef21d7ed" version="2">Có một số. Không nhờ có anh đâu.</content>

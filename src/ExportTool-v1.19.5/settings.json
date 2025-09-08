@@ -9,8 +9,8 @@
     "ConformPath": null
   },
   "PAK": {
-    "ExtractInputPath": "D:\\Games\\Baldurt's Gate VH\\BG3-VH-CutCanhTem\\English.pak",
-    "ExtractOutputPath": "D:\\Games\\Baldurt's Gate VH\\BG3-VH-CutCanhTem",
+    "ExtractInputPath": "D:\\Games\\Baldurt's Gate VH\\Game Backup\\English.pak",
+    "ExtractOutputPath": "D:\\Games\\Baldurt's Gate VH\\Game Backup\\",
     "CreateInputPath": "D:\\Games\\Baldurt's Gate VH\\baldurts-gate-3\\input\\Package Create Mod VH\\",
     "CreateOutputPath": "C:\\Users\\ngvli\\Downloads\\BG3\\English.pak",
     "CreatePackageVersion": 0,

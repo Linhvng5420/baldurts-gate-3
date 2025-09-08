@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contentList>
+
+    <!-- OTHERS -->
+    <content contentuid="hdb7e2a56g86d2g46c0g923cg11da095663d8_0" version="1">Steam</content>
+	<content contentuid="hdb7e2a56g86d2g46c0g923cg11da095663d8_1" version="1">GOG Galaxy</content>
+	<content contentuid="hdb7e2a56g86d2g46c0g923cg11da095663d8_2" version="1">PSN</content>
+	<content contentuid="hdb7e2a56g86d2g46c0g923cg11da095663d8_3" version="1">Twitch</content>
+	<content contentuid="hdb7e2a56g86d2g46c0g923cg11da095663d8_4" version="1">Xbox Live</content>
+	<content contentuid="h430734afgc5ecg4567g9a89g0e83b864ec71" version="1">Invalid email format</content>
+	<content contentuid="h8507397fg761ag4bb3g87eag0aca0e4647cd" version="1">Email already exists</content>
+	<content contentuid="h94e957aega94cg4ed8g9138gfe77980182af" version="1">Email*</content>
+	
+	<!-- DEBUG -->
+	<content contentuid="h338fa02bgad81g41a4g87a2gca7b3bc368fc" version="1">Debug View: Scroll Up</content>
+	<content contentuid="h567502a2gf158g4e9dg9a0ag52f5255e4cac" version="1">Debug View: Scroll Down</content>
+	<content contentuid="h0cfe820eg8122g415eg8a5dgc7e661adb66c" version="1">Non-moddable UI State</content>
+	<content contentuid="h236d5aa6gae2bg4789ga5ecgaddf29234999" version="1">Use Toggle Photo Preview to hide the UI and start taking photos with the Steam screenshot feature.</content>
+	<content contentuid="h6e15f982g5938g48d3g8034gc3c983f2cdca" version="1">Make the global UI bigger or smaller.</content>
+	<content contentuid="h8b0d3fceg7685g4309g84cag8db1a7274230" version="1">|DEBUG donate UI test.|</content>
+	<content contentuid="h9cdd518dgb3c2g49f6gb6e6g6f9e00e6d752" version="1">|DEBUG donate UI test.|</content>
+	<content contentuid="hae71d70cg95e8g452agb539gbfc451e7320e" version="1">Display the stack splitter UI when you select a stack of items while trading.</content>
+	<content contentuid="hbb48549ag4805g4e6fgbb5ag274b95a26e72" version="1">Show / Hide UI</content>
+	<content contentuid="hc66610c2gdd3dg492eg8ddfgeb81d9b09037" version="1">Show UI</content>
+	<content contentuid="hc707a40dg6ac9g4ba3gb146g6d2890950d31" version="1">Failed to parse and load UI mod state machine. [1]</content>
+	<content contentuid="hd284fc53g31b2g4fffg950eg226452b13520" version="1">Failed to modify UI State</content>
+	<content contentuid="he17896ebgc2d7g4980g87bag7428e6d737c5" version="1">Failed to find statemachine for UI mod. [1]</content>
+	<content contentuid="heaeb49dcg6f0bg4796ga0c8g103b4e9e3a22" version="1">Modded UI state '[1]' not loaded because of a loading issue.&lt;br/&gt;[2]</content>
+	<content contentuid="hf2b3d07eg4c35g4053gb65cgcf26a070d090" version="1">|DEBUG donate UI test.|</content>
+	<content contentuid="h0fb2b491gd589g440fgbe12gaa09f3d697b4" version="1">Switch between Debug parties</content>
+	<content contentuid="h4fbbdf25g1ad3g4f18g8d18g6d7f319a8a02" version="1">Debug View: Deselect</content>
+	<content contentuid="h5d8f0da9g4cd5g4904g9cdeg84d5dfdd793a" version="1">Debug View: Select</content>
+	<content contentuid="h8e76a42dgef24g4437g9bb5gf6c5e562723a" version="2">|Click on the Debug Signs in their cells [temp]|</content>
+	<content contentuid="hb68b14dcg7dceg4c7eg8cebg03122b0c2fa7" version="1">The Book of Debugging</content>
+	<content contentuid="hb8af7091gf77dg4d9eg8458gc0a8c793a2b0" version="1">DEBUG BOOK</content>
+	<content contentuid="hc6293203gb17bg447dg9848geec10d93e0c7" version="1">Debug View: Toggle</content>
+	<content contentuid="hcc4c4faag0c8dg4eb9gaabcg9c26f6cdfeba" version="1">Show Sound Debug Window</content>
+	<content contentuid="hce0a6620gc9f2g43a7g9051g83ace74e42c2" version="1">Debug View: Hide</content>
+	<content contentuid="hef02d33eg282bg45bdgbfd5g6b990d6784e3" version="1">Read for Debug Commands.</content>
+	<content contentuid="hf20cb34bg4501g4e9cga2f2gd165be12c882" version="1">Debug View: Show</content>
+
+    <!-- KEYBINDS -->
+	<content contentuid="hfeda2eecg2914g43b5g8c40gf631955c6fc7" version="1">Keybinds</content>
+	<content contentuid="hee7968bbg7c64g4bf5gb980g634a228b6411" version="1">Key Force End Turn</content>
+	<content contentuid="habe6b14fge373g4d19g86c6g2f48faa77fed_1" version="1">Keyboard only</content>
+	<content contentuid="habe6b14fge373g4d19g86c6g2f48faa77fed_0" version="1">Automatic</content>
+	<content contentuid="habe6b14fge373g4d19g86c6g2f48faa77fed_2" version="1">Controller only</content>
+	<content contentuid="habede442g55dbg4d39g93edg40c507794ea5" version="1">Key bind requires remapping.</content>
+
+
+	<!-- UI -->
+	<content contentuid="h1d638e01g6db8g47bfgabb1g5d9b8bff1735" version="2">- Scrolls (12)&lt;br&gt;- Quills (24)&lt;br&gt;- Books, various (60)&lt;br&gt;- Books, rare (4)&lt;br&gt;- Herbs, various (40)&lt;br&gt;- Spells, various (10)&lt;br&gt;- Parchment (20)&lt;br&gt;- Hats (4)&lt;br&gt;- Robes (4)&lt;br&gt;- Rings (14)&lt;br&gt;- Wands (2)&lt;br&gt;- Staves (1)</content>
+	<content contentuid="h0276f70fg4105g4af7gb798g2ab9fe39b52c" version="1">UI refresh page</content>
+	<content contentuid="h12a0749egd5deg4f22gbcaeg66207bcbaa4c" version="1">UI Map Zoom Out</content>
+	<content contentuid="h2a660a27gf04ag4753gb43ag099d49c64cea" version="1">UI Filter Elements</content>
+	<content contentuid="h2be1e22bg5ca5g4c3aga000g9e94c60e3a9a" version="1">UI Character Creation Add Spell</content>
+	<content contentuid="h35820b7fg3bbdg4e83gb710gb0e8ec060556" version="1">UI Copy call</content>
+	<content contentuid="h36468f22g0450g4632g8446g909371b9f820" version="1">UI</content>
+	<content contentuid="h39b3ce9eg7e2bg4bbcg8214g832481e73651" version="1">UI Map Down</content>
+	<content contentuid="h478ee09bg4e92g421dg862egc10883cffd40" version="1">UI Remove marker</content>
+	<content contentuid="h479ae108gdbfcg4857g8ebbg64a8c18815b4" version="1">UI Map Left</content>
+	<content contentuid="h4bab6f78gf3cag4205g81efgd67628b7f00f" version="1">UI Accept</content>
+	<content contentuid="h4f9d4a77ga354g4bc4ga875gfcc82d2fdc90" version="1">UI Hot Bar Next</content>
+	<content contentuid="h523dbeb2g26fag45b7gaca3gabeb09302e02" version="1">UI Toggle Equipment</content>
+	<content contentuid="h534a662bg5b17g4a0dgae7cg86391293b8ea" version="1">UI Module Menu Move Add-on Down</content>
+	<content contentuid="h54425b9cg8961g40b5g8becgccbcb521c7eb" version="1">UI Request trade dialog</content>
+	<content contentuid="h62a6e98cg0f68g4212g86afg54ac6e89f258" version="1">UI Add Stat Points</content>
+	<content contentuid="h63cf0ccdgb863g4c37ga22dg1da6fbea012c" version="1">UI Hot Bar Prev</content>
+	<content contentuid="h645514b4gcb85g48edg80begab796d4efe62" version="1">UI Rename character</content>
+	<content contentuid="h6649b71bg1cd9g451bga7e5g7c4a5114bf04" version="1">UI Module Menu Move Add-on Up</content>
+	<content contentuid="h6d0a7805gcb94g4ba6gb28ag02922c7624bf" version="1">UI Down</content>
+	<content contentuid="h7b80d85cg3b80g4019ga18fgbbb84b736fea" version="1">UI Back</content>
+	<content contentuid="h7eee65a6gceb3g4deeg99c7g2b34bf11ca97" version="1">UI Remove Stat Points</content>
+	<content contentuid="h92692276ged73g44aagb3cdg2a409667d703" version="1">UI Radial Right</content>
+	<content contentuid="h927b92e8gdc00g4f85gbf3bg547b51933e8c" version="1">UI Compare selected item with currently equipped item</content>
+	<content contentuid="h9762876dgde12g45eega426gb56e486fc37c" version="1">UI Main Tab Next</content>
+	<content contentuid="ha51aa42egd276g414eg9129g316ad01439b6" version="1">UI Cut call</content>
+	<content contentuid="ha77e0229g81aeg417ag8714gd59b546b2cce" version="1">UI Main Tab Previous</content>
+	<content contentuid="had2261b7gd151g4d71g9cceg3518f6841529" version="1">UI Map Up</content>
+	<content contentuid="hb873c1afg9521g4219ga6d4gbe787d04aacf" version="1">UI Radial Left</content>
+	<content contentuid="hbff9a77eg7ff3g4583g9fe6g0c42295b8612" version="1">UI Module Menu Previous Mode</content>
+	<content contentuid="hc118b410g7ec6g480bg817bg559931a28285" version="1">UI Right</content>
+	<content contentuid="hc3becc62g73ccg4fcfgb10dg25e7ac285404" version="1">UI Up</content>
+	<content contentuid="hc804146fg59c9g4466g9db3g724a5c6191a6" version="1">UI Map Zoom In</content>
+	<content contentuid="hc9589f88gf789g450dg83a3gddc83fb962ed" version="1">UI State verification failed</content>
+	<content contentuid="hcdcc74fag7040g4a32gabc7g12f77307d881" version="1">UI Module Menu Next Mode</content>
+	<content contentuid="hd043128cg6b22g4449gbeadgaf3a2edcbca5" version="1">UI Radial Up</content>
+	<content contentuid="hd0a48044geccag4b22g93fegbf3ece3598e6" version="1">UI Character Creation Remove Spell</content>
+	<content contentuid="hd2cf38afg86b9g440cgba31gf2e3e6cb600e" version="1">UI Map Right</content>
+	<content contentuid="hd7a4986cg105ag4a3cg8c08g69f9f0a91d79" version="1">UI Radial Down</content>
+	<content contentuid="he6b406ebg5f19g44e3gbe84ge92a03b487e0" version="1">UI Invite player</content>
+	<content contentuid="he8c5858bg8e8eg4cb2gbe10gf031506d467d" version="1">UI Show info panel</content>
+	<content contentuid="he93262aagc443g4105g97c7g808548ab4033" version="1">UI Options</content>
+	<content contentuid="hed45071agd783g41cagbbf3ge9dbc6952de4" version="1">UI Paste call</content>
+	<content contentuid="hf3ea7dd0g5f31g43b4ga24cga4d7cfbf2d90" version="1">UI Left</content>
+	<content contentuid="hfaefda40g13c6g48acga194gd71dc53670c9" version="1">UI Map Reset</content>
+
+
+	<!-- WEAPONS -->
+	<content contentuid="h0d6e5793g954eg40e4g8941gaf2367d0d939" version="1">Weapon Enchantment</content>
+	<content contentuid="h15a6c258g4361g4179ga327g19244010f7d1" version="2">Weapon Stolen!</content>
+	<content contentuid="h28f6cd96gfab2g4d90gaf97gea480834c1e4" version="1">Weapon Enchantment</content>
+	<content contentuid="h37cf9a7bge200g4d99g8cf8gaf035b189c60" version="1">Weapon Actions</content>
+	<content contentuid="h3e00b615g67dcg49bag9aadgc883a9d800ac" version="2">Weapon Action Point</content>
+	<content contentuid="h4a198683gedadg497dg9f15ga8606e44fc56" version="1">Weapons</content>
+	<content contentuid="h4ad59a2cg4f1cg4438gbb53g8064500db513" version="1">Weapons Trader</content>
+	<content contentuid="h4e3eb4bdg5df8g4319g9ebfgd6324f6565c7" version="1">Weapon Proficiency</content>
+	<content contentuid="h5fb2ef9cg4258g446eg9522gd6be58f3ab23" version="1">Weapons</content>
+	<content contentuid="h6c2e19f1gcf94g4189g8a79gfc5f3062cccc" version="1">Weapon Master</content>
+	<content contentuid="h72fd7f73g7489g428bg8efdg13c3f7030b83" version="1">Weapon Damage Halved</content>
+	<content contentuid="h965341dcg56d8g4869g9f1egc1ad2275e37d" version="2">Weapon Bond</content>
+	<content contentuid="ha4d4a2b6gb639g45d1gbf12g8bfd4b5be053" version="1">Weapon Master</content>
+	<content contentuid="had4b2edeg74a0g4bb0gac33g11c2ea95079e" version="1">Weapon Enchantment</content>
+	<content contentuid="hb115268eg66f3g4f91g827bgdbad9a941c6b" version="1">Weapon Damage</content>
+	<content contentuid="hb4324b99gc2cdg44c3gb111gee1985f3d563" version="1">Weapon Enchantment</content>
+	<content contentuid="hbbb6a988gedd7g4363g924dg531c71822d6d" version="1">Weapon Skills</content>
+	<content contentuid="hc145bacfgca64g40a6ga912ga97ab2a88da3" version="1">Weapon Skill</content>
+	<content contentuid="hd866c23fgff8fg4c12gab41g793bcb530a5d" version="1">Weapon</content>
+	<content contentuid="he763e66bgb274g4914g9501gccfd2c947329" version="1">Weapons!</content>
+	<content contentuid="hef7a7279g3977g496bga1a5g24be3a434868" version="2">Weapon Dropped!</content>
+	<content contentuid="heff20109g8171g4d21g8d6agd9bfd7c069f9" version="2">Weapons Rack</content>
+	<content contentuid="hfd529e8dgf889g4c68g84aagad6427bad8ae" version="1">Weapon Action DC</content>
+
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_64" version="1">Weapons</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_1" version="1">Equipment</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_1024" version="1">Very Rare</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_128" version="1">Common</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_16" version="1">Throwables</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_2" version="1">Potions</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_2048" version="1">Legendary</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_256" version="1">Uncommon</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_32" version="1">Camp Supplies</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_4" version="1">Scrolls</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_512" version="1">Rare</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_8" version="1">Arrows</content>
+
+	<content contentuid="h22ee5330gdd69g459bg9deag372ce1c31127_4" version="1">Scrolls</content>
+	<content contentuid="h22ee5330gdd69g459bg9deag372ce1c31127_0" version="1">None</content>
+	<content contentuid="h22ee5330gdd69g459bg9deag372ce1c31127_1" version="1">Commons</content>
+	<content contentuid="h22ee5330gdd69g459bg9deag372ce1c31127_2" version="1">Grenades</content>
+	<content contentuid="h22ee5330gdd69g459bg9deag372ce1c31127_3" version="1">Arrows</content>
+	<content contentuid="h22ee5330gdd69g459bg9deag372ce1c31127_5" version="1">Potions</content>
+	<content contentuid="h22ee5330gdd69g459bg9deag372ce1c31127_6" version="1">Throwables</content>
+	<content contentuid="h22ee5330gdd69g459bg9deag372ce1c31127_7" version="1">Consumables</content>
+
+</contentList>
