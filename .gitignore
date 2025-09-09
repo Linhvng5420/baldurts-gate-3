@@ -15,6 +15,9 @@ src/config.json
 src/*.log
 src/*_analysis.json
 
+# Path history file
+src/XML-Tool-BG3/path_history.json
+
 # Data files
 data/input/
 data/filtered/

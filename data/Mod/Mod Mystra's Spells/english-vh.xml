@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<contentList>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <content contentuid="h041de896gbb39ge13agabffgcc5189add816" version="1">Touch of Fire</content>
     <content contentuid="h76528c19g20c0ge9f3g5cafg497d4489505f" version="1">Chạm vào kẻ địch bằng sức mạnh của một quả cầu lửa. Mọi người trong khu vực sẽ nhận [1] và người thi triển sẽ được hồi [2] máu.</content>
     <content contentuid="haefd685egb98eg32d7g0285g47f976134d96" version="1">Larloch's Minor Drain</content>
@@ -249,7 +249,7 @@
     <content contentuid="h65d5f789g8a7agb0b9g3d19g621517dc6f1c" version="1">Gây ra một cơn địa chấn trong lòng đất, biến khu vực xung quanh bạn thành bùn lầy và có khả năng đánh ngã các sinh vật gần đó &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Ngã&lt;/LSTag&gt;.</content>
     <content contentuid="h08666fbag9e84g050cgf85bg54b5712ea232" version="1">Frost Fingers</content>
     <content contentuid="hc36296a4g4bcbg4b9cgdb3dg78406287d246" version="1">Không khí lạnh giá thổi ra từ đầu ngón tay của bạn.</content>
-    <content uid="hd0cb3178gacdcgba8ag9ee4gcdde654649df" version="1">Gift of Alacrity</content>
+    <content contentuid="hd0cb3178gacdcgba8ag9ee4gcdde654649df" version="1">Gift of Alacrity</content>
     <content contentuid="h6cda55dfga119gb2cagdb65g3acb70b05121" version="3">Ban cho sinh vật một điểm cộng +[1] vào Sáng kiến.</content>
     <content contentuid="he860416bg3a4eg7355ga6dbg56c60f3b8c34" version="1">Gift of Alacrity</content>
     <content contentuid="h75a93558g597bgd28bg2dfbg7f1fa435df1c" version="1">Nhận một điểm cộng +[1] vào Sáng kiến.</content>
