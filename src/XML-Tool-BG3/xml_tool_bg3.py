@@ -31,15 +31,18 @@ def _keyword_matches(text, keyword, match_case=False, match_whole_word=False):
     if not match_case:
         text = text.lower()
         keyword = keyword.lower()
-    
-    if match_whole_word:
-        # Sử dụng regex để tìm từ hoàn chỉnh
+
+    # Nếu từ khóa chứa ký tự đặc biệt, không dùng \b
+    has_special = bool(re.search(r'[^\w ]', keyword))
+    if match_whole_word and not has_special:
+        # Chỉ dùng \b nếu từ khóa là chữ/số
         pattern = r'\b' + re.escape(keyword) + r'\b'
         flags = 0 if match_case else re.IGNORECASE
         return bool(re.search(pattern, text, flags))
     else:
-        # Tìm kiếm bình thường
-        return keyword in text
+        # Tìm kiếm chính xác chuỗi keyword (dù có ký tự đặc biệt)
+        flags = 0 if match_case else re.IGNORECASE
+        return bool(re.search(re.escape(keyword), text, flags))
 
 def _count_words_in_content(xml_element):
     """
@@ -84,82 +87,75 @@ def tim_kiem_noi_dung(file_path, search_pattern, match_case=False, match_whole_w
     try:
         with open(file_path, 'r', encoding='utf-8') as file:
             content = file.read()
-            
-        # Phân tách từ khóa tìm kiếm bằng dấu phẩy (giữ nguyên khoảng trắng)
-        search_keywords = [keyword.strip() for keyword in search_pattern.split(',')]
-        
+
+        # Phân tách từ khóa tìm kiếm bằng dấu / (giữ nguyên khoảng trắng)
+        search_keywords = [keyword.strip() for keyword in search_pattern.split('/') if keyword.strip()]
+
         print(f"🔍 Đang tìm kiếm với {len(search_keywords)} từ khóa:")
         for i, keyword in enumerate(search_keywords, 1):
             print(f"   {i}. '{keyword}'")
-        
+
         # Hiển thị tùy chọn tìm kiếm
         options = []
         if match_case:
             options.append("Match Case")
         if match_whole_word:
             options.append("Match Whole Word")
-        
+
         # Hiển thị chế độ tìm kiếm
         mode_text = "Tìm cả Code XML" if search_mode == "full" else "Chỉ tìm Nội Dung Text"
         options.append(f"Chế độ: {mode_text}")
-        
+
         # Hiển thị tùy chọn giới hạn số từ
         if limit_words:
             options.append(f"Giới hạn số từ: ≤ {max_words}")
-        
+
         if options:
             print(f"🔧 Tùy chọn: {', '.join(options)}")
         print()
-        
+
         # Tìm tất cả các phần tử content trong file XML với format chính xác
-        # Pattern để tìm content với cấu trúc chính xác, bao gồm tab và xuống dòng
         pattern = r'(\t<content[^>]*>.*?</content>)'
         content_elements = re.finditer(pattern, content, re.DOTALL)
         matches = []
         matches_by_keyword = {keyword: [] for keyword in search_keywords}
-        
+
         for element in content_elements:
-            full_element = element.group(1)  # Lấy toàn bộ phần tử bao gồm tab
-            
+            full_element = element.group(1)
             # Tùy theo chế độ tìm kiếm, chọn vùng text để tìm
             if search_mode == "content_only":
-                # Chỉ tìm trong phần text content (giữa > và </content>)
                 text_match = re.search(r'>([^<]*)</content>', full_element)
                 search_text = text_match.group(1) if text_match else ""
             else:
-                # Tìm trong toàn bộ XML element
                 search_text = full_element
-            
-            # Kiểm tra từng từ khóa
+
+            # Kiểm tra từng từ khóa, chỉ thêm nếu thực sự khớp
+            found = False
             for keyword in search_keywords:
                 if _keyword_matches(search_text, keyword, match_case, match_whole_word):
-                    if full_element not in matches:  # Tránh trùng lặp
-                        matches.append(full_element)
+                    found = True
                     matches_by_keyword[keyword].append(full_element)
+            if found:
+                matches.append(full_element)
         
         # Áp dụng bộ lọc giới hạn số từ nếu được bật
         if limit_words and max_words > 0:
             print(f"🔍 Áp dụng bộ lọc giới hạn số từ: ≤ {max_words} từ")
             filtered_matches = []
             filtered_by_keyword = {keyword: [] for keyword in search_keywords}
-            
             for match in matches:
                 word_count = _count_words_in_content(match)
                 if word_count <= max_words:
                     filtered_matches.append(match)
-                    # Cập nhật filtered_by_keyword
                     for keyword in search_keywords:
                         if match in matches_by_keyword[keyword]:
                             filtered_by_keyword[keyword].append(match)
                 else:
-                    # Hiển thị thông tin về kết quả bị lọc bỏ
                     uid_match = re.search(r'contentuid="([^"]+)"', match)
                     text_match = re.search(r'>([^<]*)</content>', match)
                     content_text = text_match.group(1).strip() if text_match else "N/A"
                     uid_text = uid_match.group(1) if uid_match else "N/A"
                     print(f"   🚫 Bỏ qua kết quả có {word_count} từ: '{content_text}' (UID: {uid_text})")
-            
-            # Cập nhật matches và matches_by_keyword với kết quả đã lọc
             matches = filtered_matches
             matches_by_keyword = filtered_by_keyword
             print(f"   ✅ Còn lại {len(matches)} kết quả sau khi lọc\n")
@@ -837,7 +833,7 @@ class SearchToolUI:
         search_info_frame = ttk.Frame(frame)
         search_info_frame.pack(fill="x", padx=5, pady=2)
         
-        search_info_text = "🔍 Tìm kiếm trong toàn bộ dòng XML: contentuid, version, content text... | Nhiều từ khóa: cách nhau bởi dấu phẩy (,) | Tùy chọn: Match Case & Match Whole Word"
+        search_info_text = "🔍 Tìm kiếm trong toàn bộ dòng XML: contentuid, version, content text... | Nhiều từ khóa: cách nhau bởi dấu / (,) | Tùy chọn: Match Case & Match Whole Word"
         ttk.Label(search_info_frame, text=search_info_text, font=("Arial", 9), foreground="darkgreen").pack(side=tk.LEFT)
         
         # Frame cho đường dẫn file
@@ -875,7 +871,7 @@ class SearchToolUI:
         search_entry.pack(side=tk.LEFT, padx=5, fill="x", expand=True)
         
         # Thêm placeholder cho ô tìm kiếm
-        search_entry.insert(0, "Từ khóa 1, từ khóa 2, ... (cách nhau bởi dấu phẩy)")
+        search_entry.insert(0, "Từ khóa 1, từ khóa 2, ... (cách nhau bởi dấu /)")
         search_entry.configure(foreground="gray")
         search_entry.bind("<FocusIn>", lambda e: self.clear_search_placeholder(e))
         search_entry.bind("<FocusOut>", lambda e: self.add_search_placeholder(e))
@@ -1385,14 +1381,14 @@ class SearchToolUI:
 
     def clear_search_placeholder(self, event):
         """Xóa placeholder text cho ô tìm kiếm"""
-        if event.widget.get() == "Từ khóa 1, từ khóa 2, ... (cách nhau bởi dấu phẩy)":
+        if event.widget.get() == "Từ khóa 1, từ khóa 2, ... (cách nhau bởi dấu /)":
             event.widget.delete(0, tk.END)
             event.widget.configure(foreground="black")
 
     def add_search_placeholder(self, event):
         """Thêm placeholder text cho ô tìm kiếm"""
         if not event.widget.get():
-            event.widget.insert(0, "Từ khóa 1, từ khóa 2, ... (cách nhau bởi dấu phẩy)")
+            event.widget.insert(0, "Từ khóa 1, từ khóa 2, ... (cách nhau bởi dấu /)")
             event.widget.configure(foreground="gray")
 
     def clear_output(self):
@@ -1443,7 +1439,7 @@ class SearchToolUI:
             messagebox.showerror("Lỗi", f"File {file_path} không tồn tại")
             return
             
-        if search_content in ["", "Từ khóa 1, từ khóa 2, ... (cách nhau bởi dấu phẩy)"]:
+        if search_content in ["", "Từ khóa 1, từ khóa 2, ... (cách nhau bởi dấu /)"]:
             messagebox.showerror("Lỗi", "Vui lòng nhập nội dung cần tìm kiếm")
             return
         
@@ -1466,7 +1462,7 @@ class SearchToolUI:
         """
         try:
             # Phân tách từ khóa để hiển thị
-            search_keywords = [keyword.strip() for keyword in search_content.split(',')]
+            search_keywords = [keyword.strip() for keyword in search_content.split('/')]
             
             # Thông báo bắt đầu tìm kiếm
             if len(search_keywords) == 1:
@@ -2395,7 +2391,7 @@ def main():
     
     # Thiết lập tiêu đề cửa sổ và kích thước mặc định
     root.title("Công cụ xử lý XML - Baldur's Gate 3 Việt Hóa")
-    root.geometry("1000x700")
+    root.geometry("1000x850")
     
     # Hiển thị thông báo hướng dẫn
     app.print_to_output("🎉 Chào mừng đến với Công cụ xử lý XML!")
