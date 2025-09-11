@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_0" version="1">Headgear</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_1" version="1">Clothing</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_10" version="1">Gloves</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_12" version="1">Ring</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_13" version="1">Wings</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_14" version="1">Horns</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_15" version="1">Overhead</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_16" version="1">Musical Instrument</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_2" version="1">Cloak</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_3" version="1">Main Hand - Melee</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_4" version="1">Off-Hand - Melee</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_5" version="1">Main Hand - Ranged</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_6" version="1">Off-Hand - Ranged</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_7" version="1">Ring</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_8" version="1">Undergarments</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_9" version="1">Boots</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_17" version="1">Overclothes</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_18" version="1">Overshoes</content>
+
+	<content contentuid="h22ee5330gdd69g459bg9deag372ce1c31127_0" version="1">None</content>
+	<content contentuid="h22ee5330gdd69g459bg9deag372ce1c31127_1" version="1">Commons</content>
+	<content contentuid="h22ee5330gdd69g459bg9deag372ce1c31127_2" version="1">Grenades</content>
+	<content contentuid="h22ee5330gdd69g459bg9deag372ce1c31127_3" version="1">Arrows</content>
+	<content contentuid="h22ee5330gdd69g459bg9deag372ce1c31127_4" version="1">Scrolls</content>
+	<content contentuid="h22ee5330gdd69g459bg9deag372ce1c31127_5" version="1">Potions</content>
+	<content contentuid="h22ee5330gdd69g459bg9deag372ce1c31127_6" version="1">Throwables</content>
+	<content contentuid="h22ee5330gdd69g459bg9deag372ce1c31127_7" version="1">Consumables</content>
+
+	<content contentuid="hffb1b066gf27eg4e69gbda1gdbfd13932b00_0" version="1">When Pinned</content>
+	<content contentuid="hffb1b066gf27eg4e69gbda1gdbfd13932b00_1" version="1">Always</content>
+	<content contentuid="hffb1b066gf27eg4e69gbda1gdbfd13932b00_2" version="1">Never</content>
+
+	<content contentuid="hdb7e2a56g86d2g46c0g923cg11da095663d8_0" version="1">Steam</content>
+	<content contentuid="hdb7e2a56g86d2g46c0g923cg11da095663d8_1" version="1">GOG Galaxy</content>
+	<content contentuid="hdb7e2a56g86d2g46c0g923cg11da095663d8_2" version="1">PSN</content>
+	<content contentuid="hdb7e2a56g86d2g46c0g923cg11da095663d8_3" version="1">Twitch</content>
+	<content contentuid="hdb7e2a56g86d2g46c0g923cg11da095663d8_4" version="1">Xbox Live</content>
+
+	<content contentuid="hbfa00712gc05dg454bg89e8gacb7488da0f3_0" version="1">Connected</content>
+	<content contentuid="hbfa00712gc05dg454bg89e8gacb7488da0f3_1" version="1">Not Connected</content>
+	<content contentuid="hbfa00712gc05dg454bg89e8gacb7488da0f3_10" version="1">Friend Request Declined</content>
+	<content contentuid="hbfa00712gc05dg454bg89e8gacb7488da0f3_11" version="1">Friend Request Received</content>
+	<content contentuid="hbfa00712gc05dg454bg89e8gacb7488da0f3_12" version="1">Error</content>
+	<content contentuid="hbfa00712gc05dg454bg89e8gacb7488da0f3_2" version="1">Logged In</content>
+	<content contentuid="hbfa00712gc05dg454bg89e8gacb7488da0f3_3" version="1">Logged Out</content>
+	<content contentuid="hbfa00712gc05dg454bg89e8gacb7488da0f3_4" version="1">Lobby Invitation Received</content>
+	<content contentuid="hbfa00712gc05dg454bg89e8gacb7488da0f3_5" version="1">Friend Connected</content>
+	<content contentuid="hbfa00712gc05dg454bg89e8gacb7488da0f3_6" version="1">Friend Disconnected</content>
+	<content contentuid="hbfa00712gc05dg454bg89e8gacb7488da0f3_7" version="1">Invite Sent</content>
+	<content contentuid="hbfa00712gc05dg454bg89e8gacb7488da0f3_8" version="1">Friend Added</content>
+	<content contentuid="hbfa00712gc05dg454bg89e8gacb7488da0f3_9" version="1">Friend Removed</content>
+
+	<content contentuid="habe6b14fge373g4d19g86c6g2f48faa77fed_0" version="1">Automatic</content>
+	<content contentuid="habe6b14fge373g4d19g86c6g2f48faa77fed_1" version="1">Keyboard only</content>
+	<content contentuid="habe6b14fge373g4d19g86c6g2f48faa77fed_2" version="1">Controller only</content>
+
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_0" version="1">None</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_1" version="1">Battleaxes</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_1024" version="1">Hand Crossbows</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_1048576" version="1">Maces</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_1073741824" version="1">Shortbows</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_128" version="1">Greatclubs</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_131072" version="1">Light Hammers</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_134217728" version="1">Rapiers</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_137438953472" version="1">Warhammers</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_16" version="1">Flails</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_16384" version="1">Javelins</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_16777216" version="1">Morningstars</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_17179869184" version="1">Slings</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_2" version="1">Clubs</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_2048" version="1">Handaxes</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_2097152" version="1">Martial Weapons</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_2147483648" version="1">Shortswords</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_256" version="1">Greatswords</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_262144" version="1">Longbows</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_268435456" version="1">Scimitars</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_274877906944" version="1">Warpicks</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_32" version="1">Glaives</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_32768" version="1">Light Armour</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_33554432" version="1">Pikes</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_34359738368" version="1">Spears</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_4" version="1">Daggers</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_4096" version="1">Heavy Armour</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_4194304" version="1">Mauls</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_4294967296" version="1">Sickles</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_512" version="1">Halberds</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_524288" version="1">Longswords</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_536870912" version="1">Shields</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_545296384" version="1">Armours</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_549755813888" version="1">Musical Instrument</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_64" version="1">Greataxes</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_65536" version="1">Light Crossbows</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_67108864" version="1">Quarterstaffs</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_68719476736" version="1">Tridents</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_8" version="1">Darts</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_8192" version="1">Heavy Crossbows</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_8388608" version="1">Medium Armour</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_8589934592" version="1">Simple Weapons</content>
+
+	<content contentuid="h9de08869g5612g419fgbccbg4655074a1030_0" version="1">Actions</content>
+	<content contentuid="h9de08869g5612g419fgbccbg4655074a1030_1" version="1">Campaign</content>
+	<content contentuid="h9de08869g5612g419fgbccbg4655074a1030_10" version="1">Resting</content>
+	<content contentuid="h9de08869g5612g419fgbccbg4655074a1030_11" version="1">HUD</content>
+	<content contentuid="h9de08869g5612g419fgbccbg4655074a1030_12" version="1">Characters</content>
+	<content contentuid="h9de08869g5612g419fgbccbg4655074a1030_13" version="1">Gameplay</content>
+	<content contentuid="h9de08869g5612g419fgbccbg4655074a1030_14" version="1">Camp</content>
+	<content contentuid="h9de08869g5612g419fgbccbg4655074a1030_15" version="1">Character Creation</content>
+	<content contentuid="h9de08869g5612g419fgbccbg4655074a1030_16" version="1">Class</content>
+	<content contentuid="h9de08869g5612g419fgbccbg4655074a1030_17" version="1">Companions</content>
+	<content contentuid="h9de08869g5612g419fgbccbg4655074a1030_18" version="1">Crafting</content>
+	<content contentuid="h9de08869g5612g419fgbccbg4655074a1030_19" version="1">Crime</content>
+	<content contentuid="h9de08869g5612g419fgbccbg4655074a1030_2" version="1">Combat</content>
+	<content contentuid="h9de08869g5612g419fgbccbg4655074a1030_20" version="1">Hotbar</content>
+	<content contentuid="h9de08869g5612g419fgbccbg4655074a1030_21" version="1">Illithid</content>
+	<content contentuid="h9de08869g5612g419fgbccbg4655074a1030_22" version="1">Inventory</content>
+	<content contentuid="h9de08869g5612g419fgbccbg4655074a1030_23" version="1">Journal</content>
+	<content contentuid="h9de08869g5612g419fgbccbg4655074a1030_24" version="1">Map</content>
+	<content contentuid="h9de08869g5612g419fgbccbg4655074a1030_25" version="1">Multiplayer</content>
+	<content contentuid="h9de08869g5612g419fgbccbg4655074a1030_26" version="1">Stats</content>
+	<content contentuid="h9de08869g5612g419fgbccbg4655074a1030_27" version="1">Social</content>
+	<content contentuid="h9de08869g5612g419fgbccbg4655074a1030_28" version="1">Trading</content>
+	<content contentuid="h9de08869g5612g419fgbccbg4655074a1030_3" version="1">Core Rules</content>
+	<content contentuid="h9de08869g5612g419fgbccbg4655074a1030_4" version="1">Characters and Relationships</content>
+	<content contentuid="h9de08869g5612g419fgbccbg4655074a1030_5" version="1">Exploration</content>
+	<content contentuid="h9de08869g5612g419fgbccbg4655074a1030_6" version="1">Game Environment</content>
+	<content contentuid="h9de08869g5612g419fgbccbg4655074a1030_7" version="1">General</content>
+	<content contentuid="h9de08869g5612g419fgbccbg4655074a1030_8" version="1">Inventory and Crafting</content>
+	<content contentuid="h9de08869g5612g419fgbccbg4655074a1030_9" version="1">Magic</content>
+
+	<content contentuid="h6c83537fg6358g41e0g8a18g32cc8316ced2_0" version="1">None</content>
+	<content contentuid="h6c83537fg6358g41e0g8a18g32cc8316ced2_1" version="1">Strength</content>
+	<content contentuid="h6c83537fg6358g41e0g8a18g32cc8316ced2_2" version="1">Dexterity</content>
+	<content contentuid="h6c83537fg6358g41e0g8a18g32cc8316ced2_3" version="1">Constitution</content>
+	<content contentuid="h6c83537fg6358g41e0g8a18g32cc8316ced2_4" version="1">Intelligence</content>
+	<content contentuid="h6c83537fg6358g41e0g8a18g32cc8316ced2_5" version="1">Wisdom</content>
+	<content contentuid="h6c83537fg6358g41e0g8a18g32cc8316ced2_6" version="1">Charisma</content>
+
+	<content contentuid="h65e11968gf9b6g4c47g9efcg03fb60fb923c_0" version="1">Deception</content>
+	<content contentuid="h65e11968gf9b6g4c47g9efcg03fb60fb923c_1" version="1">Intimidation</content>
+	<content contentuid="h65e11968gf9b6g4c47g9efcg03fb60fb923c_10" version="1">Nature</content>
+	<content contentuid="h65e11968gf9b6g4c47g9efcg03fb60fb923c_11" version="1">Religion</content>
+	<content contentuid="h65e11968gf9b6g4c47g9efcg03fb60fb923c_12" version="1">Athletics</content>
+	<content contentuid="h65e11968gf9b6g4c47g9efcg03fb60fb923c_13" version="1">Animal Handling</content>
+	<content contentuid="h65e11968gf9b6g4c47g9efcg03fb60fb923c_14" version="1">Insight</content>
+	<content contentuid="h65e11968gf9b6g4c47g9efcg03fb60fb923c_15" version="1">Medicine</content>
+	<content contentuid="h65e11968gf9b6g4c47g9efcg03fb60fb923c_16" version="1">Perception</content>
+	<content contentuid="h65e11968gf9b6g4c47g9efcg03fb60fb923c_17" version="1">Survival</content>
+	<content contentuid="h65e11968gf9b6g4c47g9efcg03fb60fb923c_2" version="1">Performance</content>
+	<content contentuid="h65e11968gf9b6g4c47g9efcg03fb60fb923c_3" version="1">Persuasion</content>
+	<content contentuid="h65e11968gf9b6g4c47g9efcg03fb60fb923c_4" version="1">Acrobatics</content>
+	<content contentuid="h65e11968gf9b6g4c47g9efcg03fb60fb923c_5" version="1">Sleight Of Hand</content>
+	<content contentuid="h65e11968gf9b6g4c47g9efcg03fb60fb923c_6" version="1">Stealth</content>
+	<content contentuid="h65e11968gf9b6g4c47g9efcg03fb60fb923c_7" version="1">Arcana</content>
+	<content contentuid="h65e11968gf9b6g4c47g9efcg03fb60fb923c_8" version="1">History</content>
+	<content contentuid="h65e11968gf9b6g4c47g9efcg03fb60fb923c_9" version="1">Investigation</content>
+
+	<content contentuid="h2e12e1f7g7318g4704ga3efgf4121ab0027a_0" version="1">Minimal</content>
+	<content contentuid="h2e12e1f7g7318g4704ga3efgf4121ab0027a_1" version="1">Small</content>
+	<content contentuid="h2e12e1f7g7318g4704ga3efgf4121ab0027a_2" version="1">Medium</content>
+	<content contentuid="h2e12e1f7g7318g4704ga3efgf4121ab0027a_3" version="1">Large</content>
+	<content contentuid="h2e12e1f7g7318g4704ga3efgf4121ab0027a_4" version="1">Extra Large</content>
+
+	<content contentuid="hec34e9b7g5b4ag4d58gb8f2gd1601a3f5b8b_1" version="1">Abjuration</content>
+	<content contentuid="hec34e9b7g5b4ag4d58gb8f2gd1601a3f5b8b_2" version="1">Conjuration</content>
+	<content contentuid="hec34e9b7g5b4ag4d58gb8f2gd1601a3f5b8b_3" version="1">Divination</content>
+	<content contentuid="hec34e9b7g5b4ag4d58gb8f2gd1601a3f5b8b_4" version="1">Enchantment</content>
+	<content contentuid="hec34e9b7g5b4ag4d58gb8f2gd1601a3f5b8b_5" version="1">Evocation</content>
+	<content contentuid="hec34e9b7g5b4ag4d58gb8f2gd1601a3f5b8b_6" version="1">Illusion</content>
+	<content contentuid="hec34e9b7g5b4ag4d58gb8f2gd1601a3f5b8b_7" version="1">Necromancy</content>
+	<content contentuid="hec34e9b7g5b4ag4d58gb8f2gd1601a3f5b8b_8" version="1">Transmutation</content>
+
+	<content contentuid="hec30ce0dgb76bg45cagaf40gad771ff7902b_1" version="1">Strength</content>
+	<content contentuid="hec30ce0dgb76bg45cagaf40gad771ff7902b_2" version="1">Dexterity</content>
+	<content contentuid="hec30ce0dgb76bg45cagaf40gad771ff7902b_3" version="1">Constitution</content>
+	<content contentuid="hec30ce0dgb76bg45cagaf40gad771ff7902b_4" version="1">Intelligence</content>
+	<content contentuid="hec30ce0dgb76bg45cagaf40gad771ff7902b_5" version="1">Wisdom</content>
+	<content contentuid="hec30ce0dgb76bg45cagaf40gad771ff7902b_6" version="1">Charisma</content>
+
+	<content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_1" version="1">Slashing</content>
+	<content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_10" version="1">Psychic</content>
+	<content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_11" version="1">Poison</content>
+	<content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_12" version="1">Radiant</content>
+	<content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_13" version="1">Force</content>
+	<content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_14" version="1">Weapon</content>
+	<content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_15" version="1">Spell</content>
+	<content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_16" version="1">Healing</content>
+	<content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_2" version="1">Piercing</content>
+	<content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_3" version="1">Bludgeoning</content>
+	<content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_4" version="1">Acid</content>
+	<content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_5" version="1">Thunder</content>
+	<content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_6" version="1">Necrotic</content>
+	<content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_7" version="1">Fire</content>
+	<content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_8" version="1">Lightning</content>
+	<content contentuid="hc3cd9b4eg4ea4g4438gbfbbg493c0abb6dd7_9" version="1">Cold</content>
+
+	<content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_1" version="1">Slashing damage against this entity from non-magical attacks is nullified.</content>
+	<content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_10" version="1">Psychic damage against this entity from non-magical attacks is nullified.</content>
+	<content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_11" version="1">Poison damage against this entity from non-magical attacks is nullified.</content>
+	<content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_12" version="1">Radiant damage against this entity from non-magical attacks is nullified.</content>
+	<content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_13" version="1">Force damage against this entity from non-magical attacks is nullified.</content>
+	<content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_14" version="1">Weapon damage against this entity from non-magical attacks is nullified.</content>
+	<content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_15" version="1">Spell damage against this entity from non-magical attacks is nullified.</content>
+	<content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_16" version="1">Healing damage against this entity from non-magical attacks is nullified.</content>
+	<content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_2" version="1">Piercing damage against this entity from non-magical attacks is nullified.</content>
+	<content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_3" version="1">Bludgeoning damage against this entity from non-magical attacks is nullified.</content>
+	<content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_4" version="1">Acid damage against this entity from non-magical attacks is nullified.</content>
+	<content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_5" version="1">Thunder damage against this entity from non-magical attacks is nullified.</content>
+	<content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_6" version="1">Necrotic damage against this entity from non-magical attacks is nullified.</content>
+	<content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_7" version="1">Fire damage against this entity from non-magical attacks is nullified.</content>
+	<content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_8" version="1">Lightning damage against this entity from non-magical attacks is nullified.</content>
+	<content contentuid="h97808b5cgaad5g464dg968eg0c072a28050f_9" version="1">Cold damage against this entity from non-magical attacks is nullified.</content>
+
+	<content contentuid="h05322b79g00ecg45c6gbbe0g691acc45fe63_1" version="1">Slashing damage against this entity from non-magical attacks is halved.</content>
+	<content contentuid="h05322b79g00ecg45c6gbbe0g691acc45fe63_10" version="1">Psychic damage against this entity from non-magical attacks is halved.</content>
+	<content contentuid="h05322b79g00ecg45c6gbbe0g691acc45fe63_11" version="1">Poison damage against this entity from non-magical attacks is halved.</content>
+	<content contentuid="h05322b79g00ecg45c6gbbe0g691acc45fe63_12" version="1">Radiant damage against this entity from non-magical attacks is halved.</content>
+	<content contentuid="h05322b79g00ecg45c6gbbe0g691acc45fe63_13" version="1">Force damage against this entity from non-magical attacks is halved.</content>
+	<content contentuid="h05322b79g00ecg45c6gbbe0g691acc45fe63_14" version="1">Weapon damage against this entity from non-magical attacks is halved.</content>
+	<content contentuid="h05322b79g00ecg45c6gbbe0g691acc45fe63_15" version="1">Spell damage against this entity from non-magical attacks is halved.</content>
+	<content contentuid="h05322b79g00ecg45c6gbbe0g691acc45fe63_16" version="1">Healing damage against this entity from non-magical attacks is halved.</content>
+	<content contentuid="h05322b79g00ecg45c6gbbe0g691acc45fe63_2" version="1">Piercing damage against this entity from non-magical attacks is halved.</content>
+	<content contentuid="h05322b79g00ecg45c6gbbe0g691acc45fe63_3" version="1">Bludgeoning damage against this entity from non-magical attacks is halved.</content>
+	<content contentuid="h05322b79g00ecg45c6gbbe0g691acc45fe63_4" version="1">Acid damage against this entity from non-magical attacks is halved.</content>
+	<content contentuid="h05322b79g00ecg45c6gbbe0g691acc45fe63_5" version="1">Thunder damage against this entity from non-magical attacks is halved.</content>
+	<content contentuid="h05322b79g00ecg45c6gbbe0g691acc45fe63_6" version="1">Necrotic damage against this entity from non-magical attacks is halved.</content>
+	<content contentuid="h05322b79g00ecg45c6gbbe0g691acc45fe63_7" version="1">Fire damage against this entity from non-magical attacks is halved.</content>
+	<content contentuid="h05322b79g00ecg45c6gbbe0g691acc45fe63_8" version="1">Lightning damage against this entity from non-magical attacks is halved.</content>
+	<content contentuid="h05322b79g00ecg45c6gbbe0g691acc45fe63_9" version="1">Cold damage against this entity from non-magical attacks is halved.</content>
+
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_1" version="1">Equipment</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_1024" version="1">Very Rare</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_128" version="1">Common</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_16" version="1">Throwables</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_2" version="1">Potions</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_2048" version="1">Legendary</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_256" version="1">Uncommon</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_32" version="1">Camp Supplies</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_4" version="1">Scrolls</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_512" version="1">Rare</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_64" version="1">Weapons</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_8" version="1">Arrows</content>
+
+	<content contentuid="h8aa64a61g697ag44eag8025g72455bb15041_1" version="1">Slashing damage against this entity is doubled.</content>
+	<content contentuid="h8aa64a61g697ag44eag8025g72455bb15041_10" version="1">Psychic damage against this entity is doubled.</content>
+	<content contentuid="h8aa64a61g697ag44eag8025g72455bb15041_11" version="1">Poison damage against this entity is doubled.</content>
+	<content contentuid="h8aa64a61g697ag44eag8025g72455bb15041_12" version="1">Radiant damage against this entity is doubled.</content>
+	<content contentuid="h8aa64a61g697ag44eag8025g72455bb15041_13" version="1">Force damage against this entity is doubled.</content>
+	<content contentuid="h8aa64a61g697ag44eag8025g72455bb15041_14" version="1">Weapon damage against this entity is doubled.</content>
+	<content contentuid="h8aa64a61g697ag44eag8025g72455bb15041_15" version="1">Spell damage against this entity is doubled.</content>
+	<content contentuid="h8aa64a61g697ag44eag8025g72455bb15041_16" version="1">Healing damage against this entity is doubled.</content>
+	<content contentuid="h8aa64a61g697ag44eag8025g72455bb15041_2" version="1">Piercing damage against this entity is doubled.</content>
+	<content contentuid="h8aa64a61g697ag44eag8025g72455bb15041_3" version="1">Bludgeoning damage against this entity is doubled.</content>
+	<content contentuid="h8aa64a61g697ag44eag8025g72455bb15041_4" version="1">Acid damage against this entity is doubled.</content>
+	<content contentuid="h8aa64a61g697ag44eag8025g72455bb15041_5" version="1">Thunder damage against this entity is doubled.</content>
+	<content contentuid="h8aa64a61g697ag44eag8025g72455bb15041_6" version="1">Necrotic damage against this entity is doubled.</content>
+	<content contentuid="h8aa64a61g697ag44eag8025g72455bb15041_7" version="1">Fire damage against this entity is doubled.</content>
+	<content contentuid="h8aa64a61g697ag44eag8025g72455bb15041_8" version="1">Lightning damage against this entity is doubled.</content>
+	<content contentuid="h8aa64a61g697ag44eag8025g72455bb15041_9" version="1">Cold damage against this entity is doubled.</content>
+
+	<content contentuid="h7e5f30e8g1fd8g4f3bg837dg3f275d25f638_1" version="1">Most Downloaded</content>
+	<content contentuid="h7e5f30e8g1fd8g4f3bg837dg3f275d25f638_10" version="1">Trending</content>
+	<content contentuid="h7e5f30e8g1fd8g4f3bg837dg3f275d25f638_11" version="1">Subscribers</content>
+	<content contentuid="h7e5f30e8g1fd8g4f3bg837dg3f275d25f638_2" version="1">Least Downloaded</content>
+	<content contentuid="h7e5f30e8g1fd8g4f3bg837dg3f275d25f638_3" version="1">Most Liked</content>
+	<content contentuid="h7e5f30e8g1fd8g4f3bg837dg3f275d25f638_4" version="1">Least Liked</content>
+	<content contentuid="h7e5f30e8g1fd8g4f3bg837dg3f275d25f638_5" version="1">Date Published</content>
+	<content contentuid="h7e5f30e8g1fd8g4f3bg837dg3f275d25f638_6" version="1">Date Updated</content>
+	<content contentuid="h7e5f30e8g1fd8g4f3bg837dg3f275d25f638_7" version="1">Name</content>
+	<content contentuid="h7e5f30e8g1fd8g4f3bg837dg3f275d25f638_8" version="1">Author</content>
+	<content contentuid="h7e5f30e8g1fd8g4f3bg837dg3f275d25f638_9" version="1">Size</content>
+	<content contentuid="h613f3ccbgb531g4175ga9cbge4a9ed938a12_1" version="1">Slashing damage against this entity from magical attacks is halved.</content>
+	<content contentuid="h613f3ccbgb531g4175ga9cbge4a9ed938a12_10" version="1">Psychic damage against this entity from magical attacks is halved.</content>
+	<content contentuid="h613f3ccbgb531g4175ga9cbge4a9ed938a12_11" version="1">Poison damage against this entity from magical attacks is halved.</content>
+	<content contentuid="h613f3ccbgb531g4175ga9cbge4a9ed938a12_12" version="1">Radiant damage against this entity from magical attacks is halved.</content>
+	<content contentuid="h613f3ccbgb531g4175ga9cbge4a9ed938a12_13" version="1">Force damage against this entity from magical attacks is halved.</content>
+	<content contentuid="h613f3ccbgb531g4175ga9cbge4a9ed938a12_14" version="1">Weapon damage against this entity from magical attacks is halved.</content>
+	<content contentuid="h613f3ccbgb531g4175ga9cbge4a9ed938a12_15" version="1">Spell damage against this entity from magical attacks is halved.</content>
+	<content contentuid="h613f3ccbgb531g4175ga9cbge4a9ed938a12_16" version="1">Healing damage against this entity from magical attacks is halved.</content>
+	<content contentuid="h613f3ccbgb531g4175ga9cbge4a9ed938a12_2" version="1">Piercing damage against this entity from magical attacks is halved.</content>
+	<content contentuid="h613f3ccbgb531g4175ga9cbge4a9ed938a12_3" version="1">Bludgeoning damage against this entity from magical attacks is halved.</content>
+	<content contentuid="h613f3ccbgb531g4175ga9cbge4a9ed938a12_4" version="1">Acid damage against this entity from magical attacks is halved.</content>
+	<content contentuid="h613f3ccbgb531g4175ga9cbge4a9ed938a12_5" version="1">Thunder damage against this entity from magical attacks is halved.</content>
+	<content contentuid="h613f3ccbgb531g4175ga9cbge4a9ed938a12_6" version="1">Necrotic damage against this entity from magical attacks is halved.</content>
+	<content contentuid="h613f3ccbgb531g4175ga9cbge4a9ed938a12_7" version="1">Fire damage against this entity from magical attacks is halved.</content>
+	<content contentuid="h613f3ccbgb531g4175ga9cbge4a9ed938a12_8" version="1">Lightning damage against this entity from magical attacks is halved.</content>
+	<content contentuid="h613f3ccbgb531g4175ga9cbge4a9ed938a12_9" version="1">Cold damage against this entity from magical attacks is halved.</content>
+
+	<content contentuid="h5356720egefe8g4bd9ga82cg601b2352b8c4_1" version="1">Slashing damage against this entity is halved.</content>
+	<content contentuid="h5356720egefe8g4bd9ga82cg601b2352b8c4_10" version="1">Psychic damage against this entity is halved.</content>
+	<content contentuid="h5356720egefe8g4bd9ga82cg601b2352b8c4_11" version="1">Poison damage against this entity is halved.</content>
+	<content contentuid="h5356720egefe8g4bd9ga82cg601b2352b8c4_12" version="1">Radiant damage against this entity is halved.</content>
+	<content contentuid="h5356720egefe8g4bd9ga82cg601b2352b8c4_13" version="1">Force damage against this entity is halved.</content>
+	<content contentuid="h5356720egefe8g4bd9ga82cg601b2352b8c4_14" version="1">Weapon damage against this entity is halved.</content>
+	<content contentuid="h5356720egefe8g4bd9ga82cg601b2352b8c4_15" version="1">Spell damage against this entity is halved.</content>
+	<content contentuid="h5356720egefe8g4bd9ga82cg601b2352b8c4_16" version="1">Healing damage against this entity is halved.</content>
+	<content contentuid="h5356720egefe8g4bd9ga82cg601b2352b8c4_2" version="1">Piercing damage against this entity is halved.</content>
+	<content contentuid="h5356720egefe8g4bd9ga82cg601b2352b8c4_3" version="1">Bludgeoning damage against this entity is halved.</content>
+	<content contentuid="h5356720egefe8g4bd9ga82cg601b2352b8c4_4" version="1">Acid damage against this entity is halved.</content>
+	<content contentuid="h5356720egefe8g4bd9ga82cg601b2352b8c4_5" version="1">Thunder damage against this entity is halved.</content>
+	<content contentuid="h5356720egefe8g4bd9ga82cg601b2352b8c4_6" version="1">Necrotic damage against this entity is halved.</content>
+	<content contentuid="h5356720egefe8g4bd9ga82cg601b2352b8c4_7" version="1">Fire damage against this entity is halved.</content>
+	<content contentuid="h5356720egefe8g4bd9ga82cg601b2352b8c4_8" version="1">Lightning damage against this entity is halved.</content>
+	<content contentuid="h5356720egefe8g4bd9ga82cg601b2352b8c4_9" version="1">Cold damage against this entity is halved.</content>
+
+	<content contentuid="h4c9804e9gee38g479agb4d4g58fb0b82ef4a_1" version="1">Slashing Immunity</content>
+	<content contentuid="h4c9804e9gee38g479agb4d4g58fb0b82ef4a_10" version="1">Psychic Immunity</content>
+	<content contentuid="h4c9804e9gee38g479agb4d4g58fb0b82ef4a_11" version="1">Poison Immunity</content>
+	<content contentuid="h4c9804e9gee38g479agb4d4g58fb0b82ef4a_12" version="1">Radiant Immunity</content>
+	<content contentuid="h4c9804e9gee38g479agb4d4g58fb0b82ef4a_13" version="1">Force Immunity</content>
+	<content contentuid="h4c9804e9gee38g479agb4d4g58fb0b82ef4a_14" version="1">Weapon Immunity</content>
+	<content contentuid="h4c9804e9gee38g479agb4d4g58fb0b82ef4a_15" version="1">Spell Immunity</content>
+	<content contentuid="h4c9804e9gee38g479agb4d4g58fb0b82ef4a_16" version="1">Healing Immunity</content>
+	<content contentuid="h4c9804e9gee38g479agb4d4g58fb0b82ef4a_2" version="1">Piercing Immunity</content>
+	<content contentuid="h4c9804e9gee38g479agb4d4g58fb0b82ef4a_3" version="1">Bludgeoning Immunity</content>
+	<content contentuid="h4c9804e9gee38g479agb4d4g58fb0b82ef4a_4" version="1">Acid Immunity</content>
+	<content contentuid="h4c9804e9gee38g479agb4d4g58fb0b82ef4a_5" version="1">Thunder Immunity</content>
+	<content contentuid="h4c9804e9gee38g479agb4d4g58fb0b82ef4a_6" version="1">Necrotic Immunity</content>
+	<content contentuid="h4c9804e9gee38g479agb4d4g58fb0b82ef4a_7" version="1">Fire Immunity</content>
+	<content contentuid="h4c9804e9gee38g479agb4d4g58fb0b82ef4a_8" version="1">Lightning Immunity</content>
+	<content contentuid="h4c9804e9gee38g479agb4d4g58fb0b82ef4a_9" version="1">Cold Immunity</content>
+
+	<content contentuid="h438d92f7g623dg4239gb196g1de87cbad902_1" version="1">[1] needs [3] to pass. They rolled [2].</content>
+	<content contentuid="h438d92f7g623dg4239gb196g1de87cbad902_10" version="1">[1] needs [3] to pass. They rolled [2].</content>
+	<content contentuid="h438d92f7g623dg4239gb196g1de87cbad902_11" version="1">[1] needs [3] to pass. They rolled [2].</content>
+	<content contentuid="h438d92f7g623dg4239gb196g1de87cbad902_12" version="1">[1] needs [3] to pass. They rolled [2].</content>
+	<content contentuid="h438d92f7g623dg4239gb196g1de87cbad902_13" version="1">[1] needs [3] to pass. They rolled [2].</content>
+	<content contentuid="h438d92f7g623dg4239gb196g1de87cbad902_14" version="1">[1] needs [3] to pass. They rolled [2].</content>
+	<content contentuid="h438d92f7g623dg4239gb196g1de87cbad902_15" version="1">[1] needs [3] to pass. They rolled [2].</content>
+	<content contentuid="h438d92f7g623dg4239gb196g1de87cbad902_16" version="1">[1] needs [3] to pass. They rolled [2].</content>
+	<content contentuid="h438d92f7g623dg4239gb196g1de87cbad902_17" version="1">[1] needs [3] to pass. They rolled [2].</content>
+	<content contentuid="h438d92f7g623dg4239gb196g1de87cbad902_18" version="1">[1] needs [3] to pass. They rolled [2].</content>
+	<content contentuid="h438d92f7g623dg4239gb196g1de87cbad902_19" version="1">[1] needs [3] to pass. They rolled [2].</content>
+	<content contentuid="h438d92f7g623dg4239gb196g1de87cbad902_2" version="1">[1] needs [3] to pass. They rolled [2].</content>
+	<content contentuid="h438d92f7g623dg4239gb196g1de87cbad902_20" version="1">[1] needs [3] to pass. They rolled [2].</content>
+	<content contentuid="h438d92f7g623dg4239gb196g1de87cbad902_3" version="1">[1] needs [3] to pass. They rolled [2].</content>
+	<content contentuid="h438d92f7g623dg4239gb196g1de87cbad902_4" version="1">[1] needs [3] to pass. They rolled [2].</content>
+	<content contentuid="h438d92f7g623dg4239gb196g1de87cbad902_5" version="1">[1] needs [3] to pass. They rolled [2].</content>
+	<content contentuid="h438d92f7g623dg4239gb196g1de87cbad902_6" version="1">[1] needs [3] to pass. They rolled [2].</content>
+	<content contentuid="h438d92f7g623dg4239gb196g1de87cbad902_7" version="1">[1] needs [3] to pass. They rolled [2].</content>
+	<content contentuid="h438d92f7g623dg4239gb196g1de87cbad902_8" version="1">[1] needs [3] to pass. They rolled [2].</content>
+	<content contentuid="h438d92f7g623dg4239gb196g1de87cbad902_9" version="1">[1] needs [3] to pass. They rolled [2].</content>
+
+	<content contentuid="h3b757f96g93fag46e1gb476gb456380a318e_1" version="1">Protanopia</content>
+	<content contentuid="h3b757f96g93fag46e1gb476gb456380a318e_2" version="1">Deuteranopia</content>
+	<content contentuid="h3b757f96g93fag46e1gb476gb456380a318e_3" version="1">Tritanopia</content>
+
+	<content contentuid="h3aae6c8cg0762g42a1g8009g198913051bda_1" version="1">Slashing damage against this entity from magical attacks is nullified.</content>
+	<content contentuid="h3aae6c8cg0762g42a1g8009g198913051bda_10" version="1">Psychic damage against this entity from magical attacks is nullified.</content>
+	<content contentuid="h3aae6c8cg0762g42a1g8009g198913051bda_11" version="1">Poison damage against this entity from magical attacks is nullified.</content>
+	<content contentuid="h3aae6c8cg0762g42a1g8009g198913051bda_12" version="1">Radiant damage against this entity from magical attacks is nullified.</content>
+	<content contentuid="h3aae6c8cg0762g42a1g8009g198913051bda_13" version="1">Force damage against this entity from magical attacks is nullified.</content>
+	<content contentuid="h3aae6c8cg0762g42a1g8009g198913051bda_14" version="1">Weapon damage against this entity from magical attacks is nullified.</content>
+	<content contentuid="h3aae6c8cg0762g42a1g8009g198913051bda_15" version="1">Spell damage against this entity from magical attacks is nullified.</content>
+	<content contentuid="h3aae6c8cg0762g42a1g8009g198913051bda_16" version="1">Healing damage against this entity from magical attacks is nullified.</content>
+	<content contentuid="h3aae6c8cg0762g42a1g8009g198913051bda_2" version="1">Piercing damage against this entity from magical attacks is nullified.</content>
+	<content contentuid="h3aae6c8cg0762g42a1g8009g198913051bda_3" version="1">Bludgeoning damage against this entity from magical attacks is nullified.</content>
+	<content contentuid="h3aae6c8cg0762g42a1g8009g198913051bda_4" version="1">Acid damage against this entity from magical attacks is nullified.</content>
+	<content contentuid="h3aae6c8cg0762g42a1g8009g198913051bda_5" version="1">Thunder damage against this entity from magical attacks is nullified.</content>
+	<content contentuid="h3aae6c8cg0762g42a1g8009g198913051bda_6" version="1">Necrotic damage against this entity from magical attacks is nullified.</content>
+	<content contentuid="h3aae6c8cg0762g42a1g8009g198913051bda_7" version="1">Fire damage against this entity from magical attacks is nullified.</content>
+	<content contentuid="h3aae6c8cg0762g42a1g8009g198913051bda_8" version="1">Lightning damage against this entity from magical attacks is nullified.</content>
+	<content contentuid="h3aae6c8cg0762g42a1g8009g198913051bda_9" version="1">Cold damage against this entity from magical attacks is nullified.</content>
+
+	<content contentuid="h2f4ba7deg0605g4cedg8e50ge4c0851c69f0_1" version="1">Slashing Damage</content>
+	<content contentuid="h2f4ba7deg0605g4cedg8e50ge4c0851c69f0_10" version="1">Psychic Damage</content>
+	<content contentuid="h2f4ba7deg0605g4cedg8e50ge4c0851c69f0_11" version="1">Poison Damage</content>
+	<content contentuid="h2f4ba7deg0605g4cedg8e50ge4c0851c69f0_12" version="1">Radiant Damage</content>
+	<content contentuid="h2f4ba7deg0605g4cedg8e50ge4c0851c69f0_13" version="1">Force Damage</content>
+	<content contentuid="h2f4ba7deg0605g4cedg8e50ge4c0851c69f0_14" version="1">Weapon Damage</content>
+	<content contentuid="h2f4ba7deg0605g4cedg8e50ge4c0851c69f0_15" version="1">Spell Damage</content>
+	<content contentuid="h2f4ba7deg0605g4cedg8e50ge4c0851c69f0_16" version="1">Healing</content>
+	<content contentuid="h2f4ba7deg0605g4cedg8e50ge4c0851c69f0_2" version="1">Piercing Damage</content>
+	<content contentuid="h2f4ba7deg0605g4cedg8e50ge4c0851c69f0_3" version="1">Bludgeoning Damage</content>
+	<content contentuid="h2f4ba7deg0605g4cedg8e50ge4c0851c69f0_4" version="1">Acid Damage</content>
+	<content contentuid="h2f4ba7deg0605g4cedg8e50ge4c0851c69f0_5" version="1">Thunder Damage</content>
+	<content contentuid="h2f4ba7deg0605g4cedg8e50ge4c0851c69f0_6" version="1">Necrotic Damage</content>
+	<content contentuid="h2f4ba7deg0605g4cedg8e50ge4c0851c69f0_7" version="1">Fire Damage</content>
+	<content contentuid="h2f4ba7deg0605g4cedg8e50ge4c0851c69f0_8" version="1">Lightning Damage</content>
+	<content contentuid="h2f4ba7deg0605g4cedg8e50ge4c0851c69f0_9" version="1">Cold Damage</content>
+
+	<content contentuid="h1acad36eg1d2ag46c5g9b98g906b8a17bb70_1" version="1">Slashing Resistance</content>
+	<content contentuid="h1acad36eg1d2ag46c5g9b98g906b8a17bb70_10" version="1">Psychic Resistance</content>
+	<content contentuid="h1acad36eg1d2ag46c5g9b98g906b8a17bb70_11" version="1">Poison Resistance</content>
+	<content contentuid="h1acad36eg1d2ag46c5g9b98g906b8a17bb70_12" version="1">Radiant Resistance</content>
+	<content contentuid="h1acad36eg1d2ag46c5g9b98g906b8a17bb70_13" version="1">Force Resistance</content>
+	<content contentuid="h1acad36eg1d2ag46c5g9b98g906b8a17bb70_14" version="1">Weapon Resistance</content>
+	<content contentuid="h1acad36eg1d2ag46c5g9b98g906b8a17bb70_15" version="1">Spell Resistance</content>
+	<content contentuid="h1acad36eg1d2ag46c5g9b98g906b8a17bb70_16" version="1">Healing Resistance</content>
+	<content contentuid="h1acad36eg1d2ag46c5g9b98g906b8a17bb70_2" version="1">Piercing Resistance</content>
+	<content contentuid="h1acad36eg1d2ag46c5g9b98g906b8a17bb70_3" version="1">Bludgeoning Resistance</content>
+	<content contentuid="h1acad36eg1d2ag46c5g9b98g906b8a17bb70_4" version="1">Acid Resistance</content>
+	<content contentuid="h1acad36eg1d2ag46c5g9b98g906b8a17bb70_5" version="1">Thunder Resistance</content>
+	<content contentuid="h1acad36eg1d2ag46c5g9b98g906b8a17bb70_6" version="1">Necrotic Resistance</content>
+	<content contentuid="h1acad36eg1d2ag46c5g9b98g906b8a17bb70_7" version="1">Fire Resistance</content>
+	<content contentuid="h1acad36eg1d2ag46c5g9b98g906b8a17bb70_8" version="1">Lightning Resistance</content>
+	<content contentuid="h1acad36eg1d2ag46c5g9b98g906b8a17bb70_9" version="1">Cold Resistance</content>
+
+	<content contentuid="h1a4566fcgb2a0g403bg8290ga38efbb04b46_1" version="1">Slashing damage against this entity is nullified.</content>
+	<content contentuid="h1a4566fcgb2a0g403bg8290ga38efbb04b46_10" version="1">Psychic damage against this entity is nullified.</content>
+	<content contentuid="h1a4566fcgb2a0g403bg8290ga38efbb04b46_11" version="1">Poison damage against this entity is nullified.</content>
+	<content contentuid="h1a4566fcgb2a0g403bg8290ga38efbb04b46_12" version="1">Radiant damage against this entity is nullified.</content>
+	<content contentuid="h1a4566fcgb2a0g403bg8290ga38efbb04b46_13" version="1">Force damage against this entity is nullified.</content>
+	<content contentuid="h1a4566fcgb2a0g403bg8290ga38efbb04b46_14" version="1">Weapon damage against this entity is nullified.</content>
+	<content contentuid="h1a4566fcgb2a0g403bg8290ga38efbb04b46_15" version="1">Spell damage against this entity is nullified.</content>
+	<content contentuid="h1a4566fcgb2a0g403bg8290ga38efbb04b46_16" version="1">Healing damage against this entity is nullified.</content>
+	<content contentuid="h1a4566fcgb2a0g403bg8290ga38efbb04b46_2" version="1">Piercing damage against this entity is nullified.</content>
+	<content contentuid="h1a4566fcgb2a0g403bg8290ga38efbb04b46_3" version="1">Bludgeoning damage against this entity is nullified.</content>
+	<content contentuid="h1a4566fcgb2a0g403bg8290ga38efbb04b46_4" version="1">Acid damage against this entity is nullified.</content>
+	<content contentuid="h1a4566fcgb2a0g403bg8290ga38efbb04b46_5" version="1">Thunder damage against this entity is nullified.</content>
+	<content contentuid="h1a4566fcgb2a0g403bg8290ga38efbb04b46_6" version="1">Necrotic damage against this entity is nullified.</content>
+	<content contentuid="h1a4566fcgb2a0g403bg8290ga38efbb04b46_7" version="1">Fire damage against this entity is nullified.</content>
+	<content contentuid="h1a4566fcgb2a0g403bg8290ga38efbb04b46_8" version="1">Lightning damage against this entity is nullified.</content>
+	<content contentuid="h1a4566fcgb2a0g403bg8290ga38efbb04b46_9" version="1">Cold damage against this entity is nullified.</content>
+
+	<content contentuid="h060ad079g2abdg43d8g9873gbb5fc58ba0e0_1" version="1">Slashing Vulnerability</content>
+	<content contentuid="h060ad079g2abdg43d8g9873gbb5fc58ba0e0_10" version="1">Psychic Vulnerability</content>
+	<content contentuid="h060ad079g2abdg43d8g9873gbb5fc58ba0e0_11" version="1">Poison Vulnerability</content>
+	<content contentuid="h060ad079g2abdg43d8g9873gbb5fc58ba0e0_12" version="1">Radiant Vulnerability</content>
+	<content contentuid="h060ad079g2abdg43d8g9873gbb5fc58ba0e0_13" version="1">Force Vulnerability</content>
+	<content contentuid="h060ad079g2abdg43d8g9873gbb5fc58ba0e0_14" version="1">Weapon Vulnerability</content>
+	<content contentuid="h060ad079g2abdg43d8g9873gbb5fc58ba0e0_15" version="1">Spell Vulnerability</content>
+	<content contentuid="h060ad079g2abdg43d8g9873gbb5fc58ba0e0_16" version="1">Healing Vulnerability</content>
+	<content contentuid="h060ad079g2abdg43d8g9873gbb5fc58ba0e0_2" version="1">Piercing Vulnerability</content>
+	<content contentuid="h060ad079g2abdg43d8g9873gbb5fc58ba0e0_3" version="1">Bludgeoning Vulnerability</content>
+	<content contentuid="h060ad079g2abdg43d8g9873gbb5fc58ba0e0_4" version="1">Acid Vulnerability</content>
+	<content contentuid="h060ad079g2abdg43d8g9873gbb5fc58ba0e0_5" version="1">Thunder Vulnerability</content>
+	<content contentuid="h060ad079g2abdg43d8g9873gbb5fc58ba0e0_6" version="1">Necrotic Vulnerability</content>
+	<content contentuid="h060ad079g2abdg43d8g9873gbb5fc58ba0e0_7" version="1">Fire Vulnerability</content>
+	<content contentuid="h060ad079g2abdg43d8g9873gbb5fc58ba0e0_8" version="1">Lightning Vulnerability</content>
+	<content contentuid="h060ad079g2abdg43d8g9873gbb5fc58ba0e0_9" version="1">Cold Vulnerability</content>
+
+	<content contentuid="habe6b14fge373g4d19g86c6g2f48faa77fed_1" version="1">Keyboard only</content>
+	<content contentuid="habe6b14fge373g4d19g86c6g2f48faa77fed_0" version="1">Automatic</content>
+	<content contentuid="habe6b14fge373g4d19g86c6g2f48faa77fed_2" version="1">Controller only</content>
+
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_64" version="1">Weapons</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_1" version="1">Equipment</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_1024" version="1">Very Rare</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_128" version="1">Common</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_16" version="1">Throwables</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_2" version="1">Potions</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_2048" version="1">Legendary</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_256" version="1">Uncommon</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_32" version="1">Camp Supplies</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_4" version="1">Scrolls</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_512" version="1">Rare</content>
+	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_8" version="1">Arrows</content>
+
+	<content contentuid="h22ee5330gdd69g459bg9deag372ce1c31127_4" version="1">Scrolls</content>
+	<content contentuid="h22ee5330gdd69g459bg9deag372ce1c31127_0" version="1">None</content>
+	<content contentuid="h22ee5330gdd69g459bg9deag372ce1c31127_1" version="1">Commons</content>
+	<content contentuid="h22ee5330gdd69g459bg9deag372ce1c31127_2" version="1">Grenades</content>
+	<content contentuid="h22ee5330gdd69g459bg9deag372ce1c31127_3" version="1">Arrows</content>
+	<content contentuid="h22ee5330gdd69g459bg9deag372ce1c31127_5" version="1">Potions</content>
+	<content contentuid="h22ee5330gdd69g459bg9deag372ce1c31127_6" version="1">Throwables</content>
+	<content contentuid="h22ee5330gdd69g459bg9deag372ce1c31127_7" version="1">Consumables</content>
+
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_0" version="1">None</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_1" version="1">Battleaxes</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_1024" version="1">Hand Crossbows</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_1048576" version="1">Maces</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_1073741824" version="1">Shortbows</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_128" version="1">Greatclubs</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_131072" version="1">Light Hammers</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_134217728" version="1">Rapiers</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_137438953472" version="1">Warhammers</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_16" version="1">Flails</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_16384" version="1">Javelins</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_16777216" version="1">Morningstars</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_17179869184" version="1">Slings</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_2" version="1">Clubs</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_2048" version="1">Handaxes</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_2097152" version="1">Martial Weapons</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_2147483648" version="1">Shortswords</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_256" version="1">Greatswords</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_262144" version="1">Longbows</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_268435456" version="1">Scimitars</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_274877906944" version="1">Warpicks</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_32" version="1">Glaives</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_32768" version="1">Light Armour</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_33554432" version="1">Pikes</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_34359738368" version="1">Spears</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_4" version="1">Daggers</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_4096" version="1">Heavy Armour</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_4194304" version="1">Mauls</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_4294967296" version="1">Sickles</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_512" version="1">Halberds</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_524288" version="1">Longswords</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_536870912" version="1">Shields</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_545296384" version="1">Armours</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_549755813888" version="1">Musical Instrument</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_64" version="1">Greataxes</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_65536" version="1">Light Crossbows</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_67108864" version="1">Quarterstaffs</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_68719476736" version="1">Tridents</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_8" version="1">Darts</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_8192" version="1">Heavy Crossbows</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_8388608" version="1">Medium Armour</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_8589934592" version="1">Simple Weapons</content>
+</contentList>

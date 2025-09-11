@@ -1,0 +1,12 @@
+Promp ChatGTP
+
+- Danh sách đầy đủ tên và miêu tả của tất cả Item
+```
+Dự án dịch game BG3 từ tiếng anh sang tiếng việt.
+Đọc dữ liệu trên trang https://bg3.wiki/wiki/Items.
+Tôi muốn một danh sách đầy đủ tên và miêu tả của tất cả Item Equipment - Amulets trong Game BG3.
+Tôi muốn trả về kết quả hiển thị .txt với cấu trúc như sau: tên item/4 từ miêu tả của item đó.
+Ví dụ có tên item và miêu tả như sau: Elixir of Arcane Cultivation và A small bottle, filled to the brim with arcane energy.
+Khi tạo kết quả sẽ hiển thị: Elixir of Arcane Cultivation/A small bottle, filled (trước sau / ko có dấu cách).
+
+```

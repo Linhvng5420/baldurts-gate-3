@@ -1,49 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <contentList>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_0" version="1">None</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_1" version="1">Battleaxes</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_1024" version="1">Hand Crossbows</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_1048576" version="1">Maces</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_1073741824" version="1">Shortbows</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_128" version="1">Greatclubs</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_131072" version="1">Light Hammers</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_134217728" version="1">Rapiers</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_137438953472" version="1">Warhammers</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_16" version="1">Flails</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_16384" version="1">Javelins</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_16777216" version="1">Morningstars</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_17179869184" version="1">Slings</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_2" version="1">Clubs</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_2048" version="1">Handaxes</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_2097152" version="1">Martial Weapons</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_2147483648" version="1">Shortswords</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_256" version="1">Greatswords</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_262144" version="1">Longbows</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_268435456" version="1">Scimitars</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_274877906944" version="1">Warpicks</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_32" version="1">Glaives</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_32768" version="1">Light Armour</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_33554432" version="1">Pikes</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_34359738368" version="1">Spears</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_4" version="1">Daggers</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_4096" version="1">Heavy Armour</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_4194304" version="1">Mauls</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_4294967296" version="1">Sickles</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_512" version="1">Halberds</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_524288" version="1">Longswords</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_536870912" version="1">Shields</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_545296384" version="1">Armours</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_549755813888" version="1">Musical Instrument</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_64" version="1">Greataxes</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_65536" version="1">Light Crossbows</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_67108864" version="1">Quarterstaffs</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_68719476736" version="1">Tridents</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_8" version="1">Darts</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_8192" version="1">Heavy Crossbows</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_8388608" version="1">Medium Armour</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_8589934592" version="1">Simple Weapons</content>
-
-
 
 
 	<!-- ADAMANTINE -->
@@ -780,6 +736,75 @@
 	<content contentuid="hfcb933e9g3b8cg4cffga547gca963e584ff7" version="1">Silver Plate</content>
 
 
+	<!-- Amulets - Vòng Hộ Mệnh -->
+	<content contentuid="h05cc3475g0570g4110g8876g3cc13b9f77ca" version="1">Amulet of Greater Health</content>
+	<content contentuid="h0f8acd8dg2e16g4ed8g82cdgccb9efc4c65c" version="1">Staggering Amulet</content>
+	<content contentuid="h0fca6475g0de9g4148gb88cg4e89413ee344" version="2">Kruznabir's Asylum Amulet</content>
+	<content contentuid="h17dca837gfab0g47acga0fegd96b3e0e0d1f" version="2">Treacleflow Amulet</content>
+	<content contentuid="h1de08607ga35ag4342gbdb1gc7b2131e1ca1" version="2">Amulet of Restoration</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_11" version="1">Amulet</content>
+	<content contentuid="h1e50e6cege15cg46a2g837dg7d752ea79a7b" version="3">Absolute Confidence Amulet</content>
+	<content contentuid="h2e960a15geebfg4c4dga6a1g741690720575" version="1">Amulet of Greater Health</content>
+	<content contentuid="h30164c75g2676g4910gbf3age65ee29ab533" version="1">Amulet of Misty Step</content>
+	<content contentuid="h36a418ccg070dg4f99g8170gf749abd3d0cb" version="1">Amulet of the Drunkard</content>
+	<content contentuid="h44697e65g55afg487cgb261g59b8cd7d30ea" version="1">Soul Amulet</content>
+	<content contentuid="h452fdfb7g2ae8g4bebga1cag7a585f1404fa" version="2">Talk to the Sentient Amulet</content>
+	<content contentuid="h49b8e760gc0b6g412fg9e0fg1c20de2b5a0a" version="2">Bloody Amulet</content>
+	<content contentuid="h4bcf6fe5ga85dg4884g83aeg0132a17af90d" version="1">Amulet</content>
+	<content contentuid="h5339161cg6412g4b8fga35cgabf1c16f0c56" version="1">Amulet of Elemental Torment</content>
+	<content contentuid="h550c139dg68e4g4b36gbf3ag2dcabde9db9a" version="1">Amulet Lathander</content>
+	<content contentuid="h5e0888bcg8b31g4d6cgbbcage148ef1f3fe9" version="2">Surgeon's Subjugation Amulet</content>
+	<content contentuid="h5fb0fffbg3a20g41b1g93f5g8feb848281e4" version="1">Silver Amulet</content>
+	<content contentuid="h6c91d5b0g4549g4c0fg8700ga9ff79b7bda6" version="2">Hammergrim Mist Amulet</content>
+	<content contentuid="h6cc196acge915g4fbag8594gc2df8cc7a15a" version="2">Amulet of the Harpers</content>
+	<content contentuid="h70b94fb9gc92cg428eg841dg96b5f6850725" version="1">Amulet of Second Chance</content>
+	<content contentuid="h7188dfd9g8298g4f6dg84dbged0f48cf5086" version="2">Amulet of Bhaal</content>
+	<content contentuid="h72235427gcc16g49afg8ab3g2661c613bd43" version="1">Amulet of Silvanus</content>
+	<content contentuid="h7f684d98g3517g4412gb905gbb99b1b48030" version="2">Amulet of the Unworthy</content>
+	<content contentuid="h7ff98b83g02edg4820ga8a8g355b67cef761" version="2">Amulet of Branding</content>
+	<content contentuid="h809a243bgd61ag4d49g80bag608d4315dbfb" version="2">Amulet of The Devout: Channel Divinity Depleted</content>
+	<content contentuid="h8eacec76g2141g41a6g9cbcgf32c5f6803e1" version="1">Etched Amulet</content>
+	<content contentuid="h9310aa90g5d46g4346g992eg95c0a49b0a0b" version="1">Amulet Lathander</content>
+	<content contentuid="h93e9d9e0gc6bbg468dg9b08g7608db87a9a1" version="4">Strange Tendril Amulet</content>
+	<content contentuid="h9ede2b61g0d96g4fc8ga98ag200f1e7f596b" version="2">Bloody Amulet</content>
+	<content contentuid="ha79d98fage412g4f55g86b0gacd612ef67d3" version="2">Pearl of Power Amulet</content>
+	<content contentuid="hb1e27891gb797g42e1ga9a6g04db27aa9927" version="2">Lofty Sorcerer's Amulet</content>
+	<content contentuid="hb33061b9gb205g483agbd8egf1006970c7ae" version="2">Amulet of The Devout</content>
+	<content contentuid="hb4a7bbf2gdecdg4b21g93f6ga243535b127d" version="1">Dusty Little Amulet</content>
+	<content contentuid="hb4b668d2g0e09g4b1aga298g57d6bac2b0da" version="2">%%% Shield Resource Amulet</content>
+	<content contentuid="hb9d79ca5g59afg4255g9cdbgf614b894be68" version="1">Amulet</content>
+	<content contentuid="hbfd091e4gbc9eg43a0ga223g8cb548b97629" version="2">Spineshudder Amulet</content>
+	<content contentuid="hc0a000bagd694g4804gb2efgaec38a51e02f" version="2">Selûnite Amulet</content>
+	<content contentuid="hc0a96286ged74g4428ga72cgcbfde2a5195d" version="2">Help the Spirit of the Amulet</content>
+	<content contentuid="hc417fa98gecf2g4007ga1a8gf567817b9a7c" version="1">Bhaalist Amulet</content>
+	<content contentuid="hc53cd297g547dg4ae4g8b79g60a0332e722e" version="1">Envoy's Amulet</content>
+	<content contentuid="hcc13650cge610g4c82gac4agf6403872c0cc" version="1">Amulet of Selûne's Chosen</content>
+	<content contentuid="hce736211g12e7g4ad2g9888g873d9b639226" version="1">Amulet of Windrider</content>
+	<content contentuid="hcfa38834g8bc7g4cfbg9ceag7fcea042f28f" version="1">Amulet</content>
+	<content contentuid="hd2cf4eecg4f89g4a98g8d5ag96fbbb00b84c" version="2">Bloody Amulet</content>
+	<content contentuid="hdca82c8bgf098g4500gb3f7gb51a9bb15517" version="4">Fey Semblance Amulet</content>
+	<content contentuid="hdefe1a47g9300g4e54ga8a8gb74879e4909b" version="2">Unflinching Protector Amulet</content>
+	<content contentuid="he7b7050dg92deg406eg998ag02c1976ec3b7" version="2">Dauntless Amulet</content>
+	<content contentuid="he9f587f1gc090g4175g9acdge1e18c209ee0" version="2">Wakeful Amulet</content>
+	<content contentuid="hef3175eeg87e8g4530gbb87gabbdee3d4a45" version="1">Lightning Aura Amulet</content>
+	<content contentuid="hf00ecb4cgd9e1g49c0g8c49g5cf1b37a4586" version="2">Aberration Hunters' Amulet</content>
+	<content contentuid="hf498c048ge54dg479aga82fg963cbb00f7a0" version="2">Bloody Amulet</content>
+	<content contentuid="hfd6df087g2e4bg4c85ga815gcbe68c4c3c5b" version="2">Amulet of the Absolute</content>
+	<content contentuid="hfd8f6d80g550bg4cdbg8473g457aac169198" version="2">Spell Savant Amulet</content>
+	<content contentuid="hfdb32d43gb697g4609gbc89g3c6c8d69b839" version="2">Sentient Amulet</content>
+	<content contentuid="h0060940bg96fdg4189g8d18g75c59d4f48fd" version="1">%%% Legendary Evasion Amulet Resource</content>
+	<content contentuid="h043b8649g00a9g4187g8f13g1228e9ab64ec" version="1">Cursed Amulet Area</content>
+	<content contentuid="h084045a5gcdfag47b0ga1bdgdc33376eaa07" version="1">%%% Amulet of Restoration Technical</content>
+	<content contentuid="h0ac72a27gc582g405agbe1egd2bb44c36bd7" version="1">%%% Gob Priest Amulet Technical</content>
+	<content contentuid="h37549c7cg0892g4611g919ag1f5578cdcf8b" version="1">%%% Amulet of Second Chance</content>
+	<content contentuid="h870f16a7g13e3g432dga5eag768b4a4804aa" version="2">Synaptic Needle Amulet </content>
+	<content contentuid="h8bbaa064ge271g473dgb291gbc9a7eb35596" version="2">Spellcrux Amulet </content>
+	<content contentuid="h9ace6f8agd049g49b0gbe2fgfb1d635401a8" version="1">The Amulet of Lost Voices</content>
+	<content contentuid="ha3b294c8g751cg4df3g9752g4a1247ce2712" version="2">*Amulet of Greater Health.*</content>
+	<content contentuid="hab35c018ge4fdg4d90gb396g678cfe2ecf65" version="1">%%% Mag Shield Amulet Resource</content>
 
 
+
+	<!-- Clothes -->
+	
 </contentList>

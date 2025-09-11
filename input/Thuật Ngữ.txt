@@ -1,0 +1,39 @@
+## Equipment
+Amulets - Vật Hộ Mệnh
+Armour
+Camp Clothing
+Cloaks
+Clothing
+Footwear
+Headwear
+Handwear
+Instruments
+Rings
+Shields
+Underwear
+Melee weapons
+Ranged weapons
+
+
+## Consumables
+
+Ammunition
+
+Camp Supplies
+Coatings
+Dyes
+Elixirs
+Grenades
+Potions
+Scrolls
+
+
+## Miscellaneous
+
+Books
+
+Containers
+Notes
+Other
+Story Items
+Valuables

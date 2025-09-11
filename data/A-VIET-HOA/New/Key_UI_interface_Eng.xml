@@ -2,11 +2,6 @@
 <contentList>
 
     <!-- OTHERS -->
-    <content contentuid="hdb7e2a56g86d2g46c0g923cg11da095663d8_0" version="1">Steam</content>
-	<content contentuid="hdb7e2a56g86d2g46c0g923cg11da095663d8_1" version="1">GOG Galaxy</content>
-	<content contentuid="hdb7e2a56g86d2g46c0g923cg11da095663d8_2" version="1">PSN</content>
-	<content contentuid="hdb7e2a56g86d2g46c0g923cg11da095663d8_3" version="1">Twitch</content>
-	<content contentuid="hdb7e2a56g86d2g46c0g923cg11da095663d8_4" version="1">Xbox Live</content>
 	<content contentuid="h430734afgc5ecg4567g9a89g0e83b864ec71" version="1">Invalid email format</content>
 	<content contentuid="h8507397fg761ag4bb3g87eag0aca0e4647cd" version="1">Email already exists</content>
 	<content contentuid="h94e957aega94cg4ed8g9138gfe77980182af" version="1">Email*</content>
@@ -42,9 +37,6 @@
     <!-- KEYBINDS -->
 	<content contentuid="hfeda2eecg2914g43b5g8c40gf631955c6fc7" version="1">Keybinds</content>
 	<content contentuid="hee7968bbg7c64g4bf5gb980g634a228b6411" version="1">Key Force End Turn</content>
-	<content contentuid="habe6b14fge373g4d19g86c6g2f48faa77fed_1" version="1">Keyboard only</content>
-	<content contentuid="habe6b14fge373g4d19g86c6g2f48faa77fed_0" version="1">Automatic</content>
-	<content contentuid="habe6b14fge373g4d19g86c6g2f48faa77fed_2" version="1">Controller only</content>
 	<content contentuid="habede442g55dbg4d39g93edg40c507794ea5" version="1">Key bind requires remapping.</content>
 
 
@@ -121,26 +113,5 @@
 	<content contentuid="heff20109g8171g4d21g8d6agd9bfd7c069f9" version="2">Weapons Rack</content>
 	<content contentuid="hfd529e8dgf889g4c68g84aagad6427bad8ae" version="1">Weapon Action DC</content>
 
-	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_64" version="1">Weapons</content>
-	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_1" version="1">Equipment</content>
-	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_1024" version="1">Very Rare</content>
-	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_128" version="1">Common</content>
-	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_16" version="1">Throwables</content>
-	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_2" version="1">Potions</content>
-	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_2048" version="1">Legendary</content>
-	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_256" version="1">Uncommon</content>
-	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_32" version="1">Camp Supplies</content>
-	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_4" version="1">Scrolls</content>
-	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_512" version="1">Rare</content>
-	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_8" version="1">Arrows</content>
-
-	<content contentuid="h22ee5330gdd69g459bg9deag372ce1c31127_4" version="1">Scrolls</content>
-	<content contentuid="h22ee5330gdd69g459bg9deag372ce1c31127_0" version="1">None</content>
-	<content contentuid="h22ee5330gdd69g459bg9deag372ce1c31127_1" version="1">Commons</content>
-	<content contentuid="h22ee5330gdd69g459bg9deag372ce1c31127_2" version="1">Grenades</content>
-	<content contentuid="h22ee5330gdd69g459bg9deag372ce1c31127_3" version="1">Arrows</content>
-	<content contentuid="h22ee5330gdd69g459bg9deag372ce1c31127_5" version="1">Potions</content>
-	<content contentuid="h22ee5330gdd69g459bg9deag372ce1c31127_6" version="1">Throwables</content>
-	<content contentuid="h22ee5330gdd69g459bg9deag372ce1c31127_7" version="1">Consumables</content>
 
 </contentList>

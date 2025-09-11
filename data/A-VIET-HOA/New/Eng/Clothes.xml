@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h0b5c8001gd743g4f07gbf4ag6ea12de0427e" version="2">Destitute Clothes</content>
+	<content contentuid="h0dc46cf0g765ag49a1gbdaeg8639e7d8051d" version="1">Overclothes</content>
+	<content contentuid="h290064c1gcb32g4b6bgaf2bga2fccd7d4cfd" version="2">Barbarian Clothes</content>
+	<content contentuid="h2e2aaecdgb960g4c0cg95e1g870e1c09d86b" version="1">Grubby Ochre Clothes</content>
+	<content contentuid="h31cc9af5g00afg4a83g82f4g8c8e93439ae0" version="1">Camp Clothes</content>
+	<content contentuid="h38354ddfg9f5cg48bbg8edag6f09d3ea8c47" version="1">Set Camp Clothes</content>
+	<content contentuid="h3f6e527ag4c29g4b0eg8ac0gc2ac08c6a7bf" version="1">Lae'zel's Clothes</content>
+	<content contentuid="h5d70015agdbd9g45c9g9270g7ee6876b5b9a" version="1">Hide Clothes</content>
+	<content contentuid="h65dc3daegfc05g497fga1ebge3c00481bc53" version="1">Road-Dust Grey Clothes</content>
+	<content contentuid="h75b7e329g6cceg47edg8cffg0e4cf3f1e050" version="1">Gale's Austere Clothes</content>
+	<content contentuid="h8eba68c3g3f0cg43cdg9f53g8f8befb7acdc" version="2">Homely Clothes</content>
+	<content contentuid="hac5faa3fg9d74g4441gbf9cg664e8e0bc870" version="1">Fancy Clothes</content>
+	<content contentuid="hb00d6196gea60g4fdag98e1g5829a3170e39" version="1">Minthara's At-Ease Clothes</content>
+	<content contentuid="hb4b551cbgb1b3g41f1gbc2eg04569fc4f6f6" version="1">Scruffy Vagabond Clothes</content>
+	<content contentuid="hbffef0b3gb8e1g4bb0g8e04g1d75f6ee2d23" version="1">Astarion's Eccentric Clothes</content>
+	<content contentuid="hc9d38183g9de7g42c5ga1a1ge1a43683aa8f" version="2">Clothes</content>
+	<content contentuid="hca732509gf0e2g4e86g86bdge25590ad024e" version="1">Clothes Line</content>
+	<content contentuid="hcc7cea19g907dg4f10g8e90g791e91bf3d7f" version="1">Clothes Line</content>
+	<content contentuid="hf4cf66fdg083fg4cdeg9e1fg0e92b8e216e6" version="1">Shadowheart's Clothes</content>
+	<content contentuid="hf4f6dfc8gd492g4693ga8a6g48d7a0dee562" version="1">Haltingly Tailored Clothes</content>
+	<content contentuid="hf59a062bg72dfg4fa1gab9dg6b6445af2185" version="1">Jaheira's Respectable Clothes</content>
+	<content contentuid="hfe9b6acfg7155g4caagaeecgb22782fb7b82" version="1">Clothes</content>
+
+	<content contentuid="h02f5ec89g9babg4d01g9866gf5dcdfad1fe1" version="1">Chain Shirt</content>
+	<content contentuid="h13faae8dg2804g457agac32g02c2dcf9ddcf" version="1">Cosy Blue Shirt</content>
+	<content contentuid="h5d739166g4967g4889ga611gf8e40de29389" version="1">Very Handsome Shirt</content>
+	<content contentuid="h6f74d4f1g6bb6g4386gb915g26bd8df6b28d" version="1">Mellow Black Shirt</content>
+	<content contentuid="h76caba96gba26g49beg93f9g4372247b2e8f" version="1">Chain Shirt +1</content>
+	<content contentuid="h8892ca77g4808g4d28g945ag81d51228f59a" version="1">Snug Purple Shirt</content>
+	<content contentuid="h9feac94agaf43g42bfg8977g09bb5d33a770" version="1">Robust Chain Shirt</content>
+	<content contentuid="hb580ee7dg56f9g4008gb0edg834811b28f28" version="2">Slippery Chain Shirt</content>
+	<content contentuid="hc2ab941eg2fafg498egbbc1gb77cf325fa8d" version="1">Chain Shirt +2</content>
+	<content contentuid="hc70aa693g7351g40caga464gddafe2a1244d" version="1">Comfortable Red Shirt</content>
+	<content contentuid="hcd813a34gbbc1g4d44gb0a9g74c95acdc1d3" version="2">Damaged Chain Shirt</content>
+	<content contentuid="hebbcd254g1b86g48eeg8e69g416677352dac" version="3">Prison Shirt</content>
+	<content contentuid="hfc5856b1ge138g4992g929dge150db671d5a" version="1">Snugglesome Green Shirt</content>
+
+	<content contentuid="h063c2656g227ag416egb1d4g26ae6193dba8" version="1">Anarchic White Outfit</content>
+	<content contentuid="h090b6546g436ag4e98g93abge823d92df6ec" version="1">Fastidiously Perfect Outfit</content>
+	<content contentuid="h132f6a3bg4db7g4172ga470gf5757e5aeee6" version="1">Bright Flare Leather Outfit</content>
+	<content contentuid="h13f8876fgf255g4707g860eg0edb44661e54" version="1">Anarchic Blue Outfit</content>
+	<content contentuid="h1420b3e5gf926g49a2gaa2ag04b1671538ca" version="1">Sweetly Tailored Outfit</content>
+	<content contentuid="h188f0204g885eg4310g99a8gc5518d301e53" version="1">Lionheart Teal Outfit</content>
+	<content contentuid="h1aea3853ga1cag4a9eg82ffg3c8795074ee3" version="1">Black Flare Leather Outfit</content>
+	<content contentuid="h274d4a4eg4d21g4a34gb731g2024567e0019" version="1">Green Flare Leather Outfit</content>
+	<content contentuid="h2832396eg4511g498aga73bg7893f5f088ed" version="1">Comfortable Autumnal Outfit</content>
+	<content contentuid="h28496d0cg9169g49b9g9bf3g852bbb449d3e" version="1">Rustic Dark Outfit</content>
+	<content contentuid="h2f06859dg9f9fg43fcg9e18gdccfc3a26d11" version="1">Spring Slimfit Outfit</content>
+	<content contentuid="h31273843gb32cg4d24g9c95g32746937c348" version="1">Lionheart Green-Pink Outfit</content>
+	<content contentuid="h33f62a93gc7e4g49dega784g06c21ecbc772" version="1">Frilly Outfit</content>
+	<content contentuid="h355e1ff1g3f35g439ega286g9360d6fe16a5" version="1">Outfit</content>
+	<content contentuid="h39d5697bg40eag404eg89b1g7655847235b6" version="1">Splendid Red Outfit</content>
+	<content contentuid="h4be311b5gc48cg4809g996bgaa12af07b157" version="1">Angelic Scion Outfit</content>
+	<content contentuid="h4d505787g9db4g4c8agb4bfg08f1ce80cf11" version="1">Splendid Teal Outfit</content>
+	<content contentuid="h4fa63b8cgeac0g4eb7gb8c3gee0a7feb86f8" version="1">Splendid Gold Outfit</content>
+	<content contentuid="h51541e13g12c5g41acg854cg283fe008c19e" version="1">Absolute Outfit</content>
+	<content contentuid="h556239f2gea8dg4a50g888bg838faed964b9" version="1">Raffish Chestnut Outfit</content>
+	<content contentuid="h59e719bfgcce0g46d7ga02dg3cb28ea9716a" version="1">Raffish Metallic-Shaded Outfit</content>
+	<content contentuid="h5a65e46dgd740g48acga648g087abd95efac" version="1">Splendid Beige Outfit</content>
+	<content contentuid="h60cf0a9ag6e4dg4e76ga13bgcc54fc6b752c" version="1">Anarchic Green Outfit</content>
+	<content contentuid="h65e0b680g2a46g4d89g80dcg1010855a7da5" version="1">Comfortable Ashmeadow Outfit</content>
+	<content contentuid="h6b020acagf1d0g40cfg860fg12055216be5a" version="1">Outfit</content>
+	<content contentuid="h6d512248gfd71g40d5g94beg010b3c5e370f" version="1">City of Brass Outfit</content>
+	<content contentuid="h7fed8d37g61bcg4fb7g90bdgf21bf076b879" version="1">Splendid Purple Outfit</content>
+	<content contentuid="h860e0ff5g709fg4991g88ebg82dc73e6c8b7" version="1">Eminent Obsidian Outfit</content>
+	<content contentuid="h8805b67cgb774g4c49gaf8cgffd3771960a4" version="1">Mesmerising Circus Outfit</content>
+	<content contentuid="h88eb1369g0ee8g4362g9aeeg82623571f3bb" version="1">Anarchic Purple Outfit</content>
+	<content contentuid="h8c7369c9g7b3fg4ccdgab66gf96d9d886015" version="1">Outfit</content>
+	<content contentuid="h992d841eg766eg474fgab39gdaaa7c240251" version="1">Drow Outfit</content>
+	<content contentuid="h9b95b44bg8960g426aga4a4ga60ef4f3ad47" version="1">Raffish Midnight Outfit</content>
+	<content contentuid="h9c94652dga944g476cg8710gbbf82f370828" version="1">Opalescent Outfit</content>
+	<content contentuid="ha0fa6a3fg519cg4642ga450g6767d2b960ef" version="1">Solemnity Outfit</content>
+	<content contentuid="ha532cf91ge60cg4c8cga7e4g980bb6de5843" version="1">Blue Flare Leather Outfit</content>
+	<content contentuid="hb9f3cbf1gd732g4917g954bg62435acc5eed" version="1">Teal Slimfit Outfit</content>
+	<content contentuid="hc5916ebcg4b58g4210g8383g31455a2d8afd" version="1">Delicately Constructed Outfit</content>
+	<content contentuid="hd9f7c75agc910g4e7cga5f8gcb2ca83c17b5" version="1">Eminent Emerald Outfit</content>
+	<content contentuid="hdbde7e32g1b7eg47b5g81abg476be74883cd" version="1">Comfortable Blue-Red Outfit</content>
+	<content contentuid="he659b191g5b76g4014gaf29g670b624146c2" version="1">Splendid Outfit</content>
+	<content contentuid="he9116c11g8c44g4fe1ga6a1gd88692e21974" version="1">Outfit</content>
+	<content contentuid="he9b0a00ege675g42f1g922dg271e08375368" version="1">Splendid Blue Outfit</content>
+	<content contentuid="hfd63db99gabc2g46d3gaebeg765a580d93f1" version="1">Lionheart Outfit</content>
+	<content contentuid="hda394fcag98bfg4993g814ag978bcf541d31" version="1">Splendid Green Outfit </content>
+	<content contentuid="hd6d331fbg9587g4f9ag8258g016681ac9ede" version="1">Solemnity Outfit in Green</content>
+	<content contentuid="h4cd2c0d4g40beg4169g8f16gab03d5329aa1" version="1">Solemnity Outfit in Blue</content>
+	<content contentuid="h888e886bgc531g408ag9acag5cb836d7805f" version="1">Solemnity Outfit in Purple</content>
+	<content contentuid="h9c40060fg331bg47degab54gdb29872cf738" version="2">Solemnity Outfit in Gold Medallions</content>
+
+	<content contentuid="hab2f4ce0gea68g45ebga52cgb068b3d57779" version="1">Umber Trousers</content>
+	<content contentuid="h82dd1d6dg7624g4588ga4d4ga5638ab5dd72" version="1">Karlach's Infernal Trousers</content>
+
+	<content contentuid="h100dc877g2ea4g45f8g8b8cg21f670fc4372" version="1">Swarthy Wayfarer in Green</content>
+	<content contentuid="he4fdf7d6g8445g42fcgb58cga3da664e26ab" version="1">Swarthy Wayfarer in Cream</content>
+	<content contentuid="h64e19e1fg02d4g4d75gbadfg1f4e02c0731f" version="1">Swarthy Wayfarer in Red</content>
+	<content contentuid="h59242fefgd51fg444dg9870g0319d753f16b" version="1">Swarthy Wayfarer in Blue</content>
+
+	<content contentuid="hd0db36a8g008eg4060gb099g494529861f72" version="1">Backless Extravaganza</content>
+
+	<content contentuid="h13ece476g2d0cg4282g8375g30a5223761fc" version="3">Bloodguzzler Garb</content>
+	<content contentuid="h1f687eb7gc5d4g49c0gb775g1e40c816c20e" version="1">Leathery Garb</content>
+	<content contentuid="h211167efgff17g4e79g87b5g66c9319679e9" version="1">Lacey Garb</content>
+	<content contentuid="h2e24bdc0g5451g4ac7g84e6ga91fe528af28" version="1">Nomad's Garb</content>
+	<content contentuid="h35f67d99g7187g478bg97dagc02b9173968c" version="1">Diamond Pattern Garb</content>
+	<content contentuid="h39d0a7ffgc76cg4828g8b8bg6f16f9444d14" version="1">Wyll's Earthy Garb</content>
+	<content contentuid="h5def886egaa2bg495dg84ddgeab1aa65b380" version="2">Enraging Heart Garb</content>
+	<content contentuid="h6fbbb3ebg017bg4e6fg97eegc006b15a450f" version="3">Elegant Light Garb</content>
+	<content contentuid="h76a1f180g695eg4797gbfb3g200bdd25dcb0" version="2">Garbage.</content>
+	<content contentuid="ha20109b5g1fd9g4e93g8b9bgbcf89290273f" version="4">Bonespike Garb</content>
+	<content contentuid="ha5bc5342g8f5cg44fdgb456g8d3d1efed482" version="5">Garb of The Land and Sky</content>
+	<content contentuid="ha75528d9g407dg425ag887fg2737fd0aeb45" version="1">Raffish Garb</content>
+	<content contentuid="haeae73a7g836bg4654g99bfgd1c1829619cc" version="1">Glittering Garb</content>
+	<content contentuid="hcfcb6618gea79g47f8g8e4bge3a481fe777d" version="1">Garbage.</content>
+	<content contentuid="hd45a8642gfc09g40fega6d2gba27f833ceae" version="1">Minsc's Fantastical Relaxation Garb</content>
+	<content contentuid="heabc38e3g7361g4c54gaa48g3c0b5d36c0b7" version="3">Hearthfire Story Garb</content>
+	
+	<content contentuid="h06398283g2d35g4f11g9bcag076c1c3863de" version="1">Winter Gala Doublet</content>
+	<content contentuid="h82e086edgc660g429fg8916g184013382a46" version="1">Chocolatier Style Doublet</content>
+	<content contentuid="hd9085716g3412g47ecg9138g8b29b7f706ed" version="1">Diamond Blue Doublet</content>
+
+	<content contentuid="h1ce3586eg9f5eg45ccg9bbbg8b7f8a61f65a" version="1">Magnificently Realised Ensemble</content>
+	<content contentuid="hdf826973gf826g45fagab6ag83a521978d6a" version="1">Chandelier-Style Embroidered Ensemble</content>
+	<content contentuid="h04aa9c42g48a8g4a64g8cafg56d17a850652" version="1">Strapped Choker Leather Ensemble</content>
+	<content contentuid="h1ce3586eg9f5eg45ccg9bbbg8b7f8a61f65a" version="1">Magnificently Realised Ensemble</content>
+	<content contentuid="h510c12cbgedd4g4acbg96deg585338c3f224" version="1">Embroidered Ensemble</content>
+	<content contentuid="h7d8e9a53gf6f0g495dg8918gcd11414b96c4" version="1">Finely Crafted Ensemble</content>
+	<content contentuid="h865f5db1g7d17g42e2gb119g432d20816a4b" version="1">Cut-Throat Leather Ensemble</content>
+	<content contentuid="h97ebabf1g2a42g4271ga0d6g37de306bcb82" version="1">Moonlit Ensemble</content>
+	<content contentuid="h9a5540ecg4bd9g4d89gaee6g564994651e6a" version="1">Brocade Ensemble</content>
+	<content contentuid="h9cad0664ga48fg4ffcg8827gf452ae03b090" version="1">Dandy's Dream Ensemble</content>
+	<content contentuid="hc811a221g4355g43bag913fgfbd3ec7b9f91" version="1">Decadent Ensemble</content>
+	<content contentuid="hda5345f6g8d7bg4678gb3a8ge4b6754ce922" version="1">Circus Ensemble</content>
+	<content contentuid="heda9e1d3gac9dg4f58g8004ge6d5cd0e9060" version="1">Dusky Ensemble</content>
+
+	<content contentuid="h29c0670dg7e41g4faag87e7g6d50116ad7f2" version="1">Debtor's Attire</content>
+	<content contentuid="h68f694c7g0fb3g4834gaac5gf97f2b38c8a7" version="3">Body Attire</content>
+	<content contentuid="ha1e3b922gf93cg4413gb721ge9cdd721553e" version="1">Debtor's Attire</content>
+
+	<content contentuid="h0be255e4ge9f4g4505g8af2g451a1d9ee5f5" version="1">Simple Sandals</content>
+	<content contentuid="h34b4d7c8g6a43g4ef7gb706gf811ea454444" version="2">Firm-Heeled Sandals</content>
+	<content contentuid="h5ffe6ff6gbd37g4063gbadagc0dca3459d5e" version="2">Slashstrip Sandals</content>
+	<content contentuid="h602cddcfgc7c2g4241g8cc3gca1076f47b58" version="1">Celestial Sandals</content>
+	<content contentuid="h69cb6cefgf856g4fa5gbb04g5e6fb41878f8" version="1">Pristine Meshtoe Sandals</content>
+	<content contentuid="h6a49431aged4fg471cg9decgfbb1c4782bbf" version="2">Seaside Sandals</content>
+	<content contentuid="ha156bde5g0513g48d2gb83ag677b6b2b945d" version="1">Acolyte's Sandals</content>
+	<content contentuid="ha49af9ecg3fa9g4275gbd98gcb4f3b23aa82" version="2">Cross-Crest Sandals</content>
+	<content contentuid="ha8169bcegabdcg4811gb25fgd0b6f6bfa290" version="1">Casual Sandals</content>
+	<content contentuid="hc481cdf6g4e9fg413fg84fegbc9d115d6710" version="2">Meshtoe Sandals</content>
+	<content contentuid="hda1db05fgb3ecg4d84ga528g5ec834ec3e5d" version="2">Gladiatorial Sandals</content>
+	<content contentuid="he89c0501gccddg44f4gbf67ge8607bb3cf8c" version="1">Nomad's Sandals</content>
+	<content contentuid="hf28f5319gf5b6g4c33g91afg899a85865175" version="1">Worn Slashstrip Sandals</content>
+	<content contentuid="hf6f3693bg97c1g49c7g8accg52e8cddcd4a4" version="1">Breezy Sandals</content>
+	<content contentuid="h56e94a5ag2cd5g4d4agabf3g5526b2daa470" version="2">Diamond-Stitch Sandals </content>
+
+	<content contentuid="h2447aa94g4392g4671gb49cg1723928237ce" version="4">Slinging Shoes</content>
+	<content contentuid="h32c40548gd0d1g43d7gbf7ag9764eb706c5e" version="1">Delicate Shoes</content>
+	<content contentuid="h4651206fgc32eg4fafgae4eg03e1ec1a1206" version="2">Roomy Shoes</content>
+	<content contentuid="h5a7276abga173g4a48gaaefg84c3b26f9944" version="1">Soft and Comfortable Shoes</content>
+	<content contentuid="h5d9bbcf1g5600g43c9g8e03g4dd58ef194a1" version="1">Well-Worn Dress Shoes</content>
+	<content contentuid="h7613d0dfge7c8g4dc7g84d9g809fb13f6525" version="1">Evasive Shoes</content>
+	<content contentuid="h794849a2ga0cbg4b9fgbf30g88a2a4d8a991" version="2">Swiresy Shoes</content>
+	<content contentuid="h889cb794g945cg4351g900eg941af1cc191a" version="1">Humbly Cobbled Shoes</content>
+	<content contentuid="h88f2ee8bgcf61g4018gb48ageb0843ca7948" version="1">Tough Shoes</content>
+	<content contentuid="h9596b66cg116eg4793g8bbcg87eb0301e2d4" version="1">Pointed-Toe Shoes</content>
+	<content contentuid="h95e93e8dg00a0g4b18ga8c3g2647e2d67a0b" version="1">Comfy Warm Shoes</content>
+	<content contentuid="h9dec3cbag7b94g4f58g831dg846bb252659a" version="1">Thick Soled Shoes</content>
+	<content contentuid="ha0877c6cg5471g4a47g9407gfcaefe2b1ac9" version="1">Tough-Soled Shoes</content>
+	<content contentuid="ha63c9b71g539fg4537ga46ag985ba68e83a8" version="2">Acrobat Shoes</content>
+	<content contentuid="hb11b48fbgc40fg44d9gb4e8g560b746c4a59" version="1">Casual Shoes</content>
+	<content contentuid="hc4078eddg4924g4469ga9e3gec037e97da5e" version="1">Thin-Soled Shoes</content>
+	<content contentuid="hc4abb12dg2b3eg44a2g9e82g8c46d8187819" version="1">Deadly Dress Shoes</content>
+	<content contentuid="hcb39e8c6gd15cg4b88g9815g041438e5d85c" version="1">Worn Shoes</content>
+	<content contentuid="he6dd3483g2ea4g4bc8gb60ag8677274ecb2c" version="2">Cinder Shoes</content>
+
+	<content contentuid="h06fbe8bbg4bd7g4626g9c8aga96613d16856" version="3">Vital Conduit Boots</content>
+	<content contentuid="h078f1d52g7466g4c00gb18bg62cb13ec3611" version="1">Dreamsome Boots</content>
+	<content contentuid="h08550e1bgc643g4026g9cdegb8f346ba7930" version="1">Springstep Boots</content>
+	<content contentuid="h08e8fb31geb4fg4eecg812egd872e58c4b49" version="1">Spaceshunt Boots</content>
+	<content contentuid="h0c24ca85g98ebg4368gb695ge50b34bd60d2" version="2">Boots of Apparent Death</content>
+	<content contentuid="h1141c5e4g87ceg42ceg9ec5gb4e6c16d8396" version="1">Senja'si Boots</content>
+	<content contentuid="h136dfa37gebc8g4e53g89f1g59bca7a4d9fb" version="1">Dennon's Boots</content>
+	<content contentuid="h1680e4f2g9060g4834g8e82gfc1606e5c3f5" version="3">Wavemother's Boots</content>
+	<content contentuid="h1868c3dbg2518g43a9gaa5eg37a9d64218ba" version="1">Boots of Aid and Comfort</content>
+	<content contentuid="h23f5a39cg6ed3g442fga86dg1c28e8db4878" version="2">Boots of Genial Striding </content>
+	<content contentuid="h29a81843g60bcg4f28ga8b1gdecc0bca1062" version="1">Gortash's Boots</content>
+	<content contentuid="h2bd62ac0gfcb5g4075g9b7dgbdd5ca6d72b9" version="1">Spiderstep Boots</content>
+	<content contentuid="h2d58ca15gb8efg455fgacefg0443a7bd74a4" version="1">Illithid Carapace Boots</content>
+	<content contentuid="h3316c0e9g1b62g45b1gae4dg066995ef3df3" version="1">Boots of Very Fast Blinking</content>
+	<content contentuid="h37e01cf7g0faeg47c2g8110g68fff3e8a506" version="1">Hardily Constructed Boots</content>
+	<content contentuid="h3c102d2cg3742g4d12g8436g6018273fa3fa" version="1">Light Boots</content>
+	<content contentuid="h3c18b27agee7bg4cd9gb78bg0663193eb9b2" version="1">Boots</content>
+	<content contentuid="h3ea26a83g298dg43a6ga9cdg603e854cd4f3" version="1">Isobel's Boots</content>
+	<content contentuid="h3fc0bb9fgb328g4363g9926gd145eacdafc9" version="4">Boots of Elemental Momentum</content>
+	<content contentuid="h40c33552g31ebg41f3gbd0bg6106e426e71b" version="1">Boots of Butt-Kicking</content>
+	<content contentuid="h429110ecg267eg438bgaa46g6ae161f8f528" version="1">Karlach's Boots</content>
+	<content contentuid="h457182c4g119eg4e8dgadc1gc693c98c496f" version="2">Boots of Arcane Bolstering </content>
+	<content contentuid="h48964774g3413g4bc6g8810gda1a28f3cf97" version="1">Boots of Speed</content>
+	<content contentuid="h4a1371d0gc86ag4b61g875ege1e23f0de138" version="2">Sergeant's Boots</content>
+	<content contentuid="h4e054526g4a50g47c8ga028gf172b80e5181" version="1">Grovetender Boots</content>
+	<content contentuid="h53a21b91gc180g4972gbe7bg4c47ed731a73" version="1">Cleverly Cobbled Boots</content>
+	<content contentuid="h541ca2dbg4b26g4e8eg9e07gfdbdd4c0e81b" version="2">Boots of Uninhibited Kushigo</content>
+	<content contentuid="h5438044fg793bg4aa1ga393g733cadb84790" version="1">Oathbreaker Knight Boots</content>
+	<content contentuid="h556f3cfcg6cccg42b0g8d79g19ba23841853" version="2">Helldusk Boots</content>
+	<content contentuid="h57d2bbd2gd4abg4339gbee9g0e4634346da5" version="1">Chainmail Boots</content>
+	<content contentuid="h5b6d1a8eg71eag42d9gba12gcbb580475d70" version="1">Metal Boots</content>
+	<content contentuid="h5e607b91g07b2g4274gaf9cg02b80f0834c2" version="2">Nightsong Boots</content>
+	<content contentuid="h6262848dga908g41d9g99b4g5aba98b6d1ad" version="1">Leather Boots</content>
+	<content contentuid="h6a7ede59g3087g4c20g8352g467e3bd69f2d" version="1">Harper Boots</content>
+	<content contentuid="h6b57a158gf9f3g4ac5gaa75ga68479c14157" version="1">Tidy Boots</content>
+	<content contentuid="h7132854dg3989g4e8dga655g3abebc1fedfb" version="1">Well-Cobbled Boots</content>
+	<content contentuid="h7391420agc641g4cc8gae1bgb575af1ddf56" version="1">Boots</content>
+	<content contentuid="h76dc1283g3cccg4994g8efegc23016429ebb" version="1">Leather Boots</content>
+	<content contentuid="h7849a89eg9c4fg46a0g8336g500a54eea244" version="1">Quite Fashionable Boots</content>
+	<content contentuid="h786868acg7c5ag4e6agaa35g5eabddb641bc" version="1">Simple Boots</content>
+	<content contentuid="h79cf26c7gdaf2g4979g8f83g27b3a65ce362" version="3">Tyrannical Jackboots</content>
+	<content contentuid="h815e0ab7g7744g4949ga346g79b15c96dab7" version="2">Leather Boots</content>
+	<content contentuid="h82100944ge3cfg411cg95abg2df409927361" version="1">Tasteful Boots</content>
+	<content contentuid="h8491a23ag7cb8g4245gbf9bg4ba6efbd52ea" version="1">Well-Crafted Hide Boots</content>
+	<content contentuid="h869a092eg4bd9g41d8g9c0egbf532520881c" version="1">Drow Boots</content>
+	<content contentuid="h86ab2cacgaccbg4c70g9ceag21a59ecab424" version="1">Boots</content>
+	<content contentuid="h8869eadfgebd3g4560g825fgde68faba0e4b" version="1">Heavy Boots</content>
+	<content contentuid="h8a9bb5b3g81ceg4b4fga52eg252abfbf4ee7" version="2">Githborn: Flying Boots</content>
+	<content contentuid="h8b9b3626g9d84g4018g9da7gd90a67a014a5" version="1">Reliably Built Boots</content>
+	<content contentuid="h8f84ab9ag1768g456eg8e78g77ac5bdbecee" version="1">Slender Boots</content>
+	<content contentuid="h8fea7cb9gdef3g41cfg8a97g7720c24a3aa7" version="1">Gargoyle Boots</content>
+	<content contentuid="h9356e58dg216dg4347gb8afg324c79a12173" version="2">Shadowstep Boots</content>
+	<content contentuid="h94bba4bfgf3b3g45cfg8e0ag51771f539700" version="2">Bonespike Boots</content>
+	<content contentuid="h981cd71fg6fc5g445bg8351g83ffa46de715" version="2">Boots worn through.</content>
+	<content contentuid="h9b29bd46g2b12g4988g80b6ge44c491d8b34" version="2">Boots of Striding</content>
+	<content contentuid="h9b65aab2gf4c4g4b81g96e6g1dcf7ffa8306" version="1">Boots</content>
+	<content contentuid="h9da6a079gfa5cg4cf3g89deg2e3d2a48104f" version="1">Plain Boots</content>
+	<content contentuid="h9f587d77g80f7g4f9cg9ed7g4a3dac9928d6" version="1">Smarmy Swaggerer Boots</content>
+	<content contentuid="h9fbe2489g582cg4305g9672ge613bd36842e" version="2">Curled-Toe Boots</content>
+	<content contentuid="ha3c45200g3443g49a8g94e9g09e4c829637c" version="1">Boots of Speed</content>
+	<content contentuid="ha52f8300g4be4g4139ga4b6g1303ce05bc41" version="1">Featherlight Boots</content>
+	<content contentuid="haa66455dg16d1g4664g89abg010ce048e9f5" version="1">Stiffly-Shod Boots</content>
+	<content contentuid="hacb32b78gd406g47ddg9622ga300c707ab9b" version="5">Find the Missing Boots</content>
+	<content contentuid="haf51608bg0e66g4e20g83e6g6b1ed1316202" version="2">Demonwight Boots</content>
+	<content contentuid="hb5128753g35ecg4c55gaaddg1674e0de9779" version="1">Ketheric's Boots</content>
+	<content contentuid="hb6225389g5245g4fcbg879egda127c83b5d1" version="2">Leather Boots</content>
+	<content contentuid="hb68be288g2796g4734g83f2g752ba8eb3444" version="2">Boots of Dimension Door</content>
+	<content contentuid="hb86df45bg7759g4ac9ga554g60e28654e183" version="2">Drow Leather Boots</content>
+	<content contentuid="hbed01cd6gafe3g4b33g8a53g4d12d61cda35" version="2">Varsh Ko'kuu's Boots</content>
+	<content contentuid="hc1a7cb27g8e7eg4e7eg93e6gcba20e2e68aa" version="3">Boots of Psionic Movement</content>
+	<content contentuid="hc7c1ce37g9968g4273gab44g7b0a96b19686" version="1">Simple Boots</content>
+	<content contentuid="hc9411f3fgc75eg41eagb729g3b1b4f480dde" version="1">Firm-Soled Boots</content>
+	<content contentuid="hcf3f1711g827fg48e4g8e12g7d07b9212b01" version="1">Flaming Fist Boots</content>
+	<content contentuid="hd02a3cf1g21eeg4bb6gbb65g181161989fc1" version="1">Metal Boots</content>
+	<content contentuid="hd10a15c0g89f7g4e32g96e1g9f5ef0a30457" version="1">Metallic Boots</content>
+	<content contentuid="hd428ecc2g09a4g4adeg8837g56a02ccebd2a" version="2">Monastic Boots</content>
+	<content contentuid="hd8e47b53gc8b5g43a9g90aegcc9ee88ba5c9" version="1">Tidy Slender Boots</content>
+	<content contentuid="hdb66374egb921g480dgb2aeg64d82ba34e60" version="1">Dark Justiciar Boots</content>
+	<content contentuid="hdb91007cg9efdg43d6gb93agae6cef3c21c0" version="1">Boots of Striding</content>
+	<content contentuid="hdd4a6ad1ga966g4eabg8c5fg121732ad0be3" version="1">Magic Metal Boots</content>
+	<content contentuid="hdd9c87d4g44d4g4fbcgaf87g875c273a38d9" version="1">Githyanki Boots</content>
+	<content contentuid="hde1f05begbcd1g4525g9d6dge930d75b365d" version="2">Linebreaker Boots</content>
+	<content contentuid="he48b4550g8cb0g4b1bga196g061e7c97de20" version="2">Boots of Stormy Clamour</content>
+	<content contentuid="he583c65ag06b7g4359ga9a1g3677056bcb26" version="2">Boots of Persistence</content>
+	<content contentuid="he66a505fge353g4e2bgb8ecgf699ada0cfd7" version="3">Tenacious Boots</content>
+	<content contentuid="he6f01a9dgb27fg4505g8cf7gc56a94d74a9c" version="2">Briskwind Boots</content>
+	<content contentuid="he9ffca2fgb889g4eddga908ga928ad6c518e" version="2">Boots of Very Fast Blinking</content>
+	<content contentuid="hef15343bg59f7g483dgbfb9g23a2ecd22350" version="1">Metallic Boots</content>
+	<content contentuid="hf6a316fcg79d9g4d5bgbfa1g400089e95838" version="1">Appreciably-Cared-For Boots</content>
+	<content contentuid="hf6fbe965gbb1ag44a5ga23cg2d8ab499c906" version="5">Boots of Brilliance</content>
+	<content contentuid="hf9b55017gf8e4g4374gb328gf75364fb52f9" version="1">Jaheira's Boots</content>
+
+	<content contentuid="hca28b26dgd075g4b0dg86dcg7d8b1cb92600" version="1">Elfin Woodsoles</content>
+	<content contentuid="ha6637e3agcfd5g408ega28cgae7e8e72798a" version="1">Tanner's Delight</content>
+	<content contentuid="h81916c0egb700g455cgacedge4a293e45bed" version="1">The Devil-Crushers</content>
+	<content contentuid="h3fb26a74g0602g4846g80dfg95f70b1b2527" version="1">Robes of the New Moon</content>
+	<content contentuid="h7e8c3bcfgd63ag4ac5g913eg460cb37dd36b" version="1">Duke's Magnificent Raiments</content>
+	<content contentuid="h61845310g960ag4058ga6d3g8f8e4382d84d" version="1">Duke's Formal Footwear</content>
+	<content contentuid="h0ddc05c0ge4edg4f82g9965g4a730dcc7f64" version="1">Harper Finery</content>
+	<content contentuid="h7eb8c6dageaa5g48fbgb426g3c8b5d0389b5" version="1">Senja'si Finery</content>
+	<content contentuid="ha898dbebg8cc5g45c6g80bcga12677959082" version="1">Brocade Booties</content>
+	<content contentuid="h179fd253geeb9g417cga2fag04bed181f0c6" version="1">Tasteful Suit</content>
+
+	<content contentuid="h00ff5d5dgd5edg4ecfg826bg238dcb75a31a" version="3">Prison Entrance</content>
+	<content contentuid="h090c438dgc1b6g433fgb1ebg7232ad8f7680" version="1">Emperor's Wardrobe</content>
+	<content contentuid="h092c1109gdf31g42abga589gba29cb4be22b" version="1">Simple Robe</content>
+	<content contentuid="h0ae04ff2g6485g4c06ga1a5gff5118776b42" version="2">Mahogany Wardrobe</content>
+	<content contentuid="h122cf6d0g8d15g4525g884dgc4754b408df7" version="2">Prison Log</content>
+	<content contentuid="h13325762g952ag478bgb782g002dcbeb47a4" version="1">Halsin's Underwear</content>
+	<content contentuid="h139ea741g675bg4ba5g977dgd7aab3df30a0" version="2">Prison</content>
+	<content contentuid="h15137b9ag09dfg4b34gb9dfg0dd47d2706c5" version="1">Prison Key</content>
+	<content contentuid="h1860f906g2c76g4899gb320g77aa149d7a2b" version="1">Selûnite Slippers</content>
+	<content contentuid="h1af36b75gf56fg4736g9ec7g93e4f5474e9b" version="2">Icebite Robe</content>
+	<content contentuid="h22f96aa2g5326g4b45g978eg58020860b579" version="3">Wardrobe</content>
+	<content contentuid="h256f11e1gcc8dg4ae6gbaacg35ff9972d795" version="1">Minsc's Underwear</content>
+	<content contentuid="h2b8cd043g2fd0g4e18g8dedgaeef62fc398f" version="2">Prison Log</content>
+	<content contentuid="h2c93dccbg8415g415cg9b36gf8463fedc7a2" version="1">Robe</content>
+	<content contentuid="h2ceeba58g2250g4f73g9c7fgbc51b889fd3d" version="1">Shabby Wardrobe</content>
+	<content contentuid="h2de5c3a1gdceag460agb730g1308e37f1c2e" version="3">Mahogany Wardrobe</content>
+	<content contentuid="h2fabdc52g640dg4b5fga59agb8d2d4d33646" version="1">Robe</content>
+	<content contentuid="h31c01e1eg1ac5g4895gaf92gae384668f9b0" version="3">Wardrobe</content>
+	<content contentuid="h39f29767g474dg4d4cgb300g81e0f6762d10" version="2">Mahogany Wardrobe</content>
+	<content contentuid="h3a0ba331g3bd3g444cg9083g6486b1ae2b1f" version="1">Decadent Slippers</content>
+	<content contentuid="h3ecad8b2gb034g4c99g8407g02aec91963ba" version="1">Wardrobe</content>
+	<content contentuid="h425c08a9ge870g4062g98cegee6dace524cc" version="1">Minthara's Underwear</content>
+	<content contentuid="h43f9c303geaf7g4963ga82cg4f532bbc882d" version="2">Prison Log</content>
+	<content contentuid="h4437ef68gec83g4657g9878ga9cd354b3e1e" version="1">Moonlit Slippers</content>
+	<content contentuid="h46d66402g020fg44ddg98eag1ae8694f22ad" version="1">Wardrobe</content>
+	<content contentuid="h497d8ebag39cdg478fga793g52cd6fc04191" version="1">Robe of the Weave</content>
+	<content contentuid="h498749d2g0e85g46afgb680g4398e8b52273" version="2">Roberon Silt</content>
+	<content contentuid="h4fcc8b9bg740cg47dag9436g3b5cfc18ffcb" version="1">Underwear</content>
+	<content contentuid="h51df4d8eg3050g40aegb8abg3d2132ec96ea" version="1">Jaheira's Underwear</content>
+	<content contentuid="h544f6f51gb664g4c79g9443gd429f3e4b5c8" version="1">Prison Key</content>
+	<content contentuid="h54a5a1cfg6360g453eg96e9gfa6f5b1991a3" version="2">Prisoner's Journal</content>
+	<content contentuid="h5c062118gda0fg4ac3ga853g9656d6c78ec4" version="1">Shabby Wardrobe</content>
+	<content contentuid="h6096aa79gec21g424dgb895g89999fae304b" version="1">Robe</content>
+	<content contentuid="h64202479g49a5g460agac9fg9d32e63a0411" version="2">Prisoner's loose!</content>
+	<content contentuid="h671a3c76g25a8g4178g85e9g3a7097e467b1" version="2">Lae'zel's Underwear</content>
+	<content contentuid="h6959d3c6g8ec2g4900g99a1g599b7f7e4f86" version="2">Robe of Spell Resistance</content>
+	<content contentuid="h6a34e1e2gcac4g4edbg9d45ga267a4b116b4" version="1">Selûnite Robe</content>
+	<content contentuid="h6c7d1596gec00g4f57gbcc1g0b228fccefd8" version="1">Robe of Summer</content>
+	<content contentuid="h733e4b01g77c7g458fgb049g9a2650d679b2" version="2">Karlach's Underwear</content>
+	<content contentuid="h7430c98ag077bg4343ga478g5e16d2bec5a5" version="1">Prison Exit</content>
+	<content contentuid="h780b5468gaad2g4aa1ga06fg05255e6111c2" version="2">Prison Log</content>
+	<content contentuid="h79003de9g1b23g4236g9fdcg475e4a830d9e" version="1">Sorcerer Robe</content>
+	<content contentuid="h79e79f4cg4d69g4b01g9eefgf97fb3210f5e" version="1">Mahogany Wardrobe</content>
+	<content contentuid="h7abba97bga4ecg4c18gaf3agdc61d20e5b4e" version="2">Prison Hatchway</content>
+	<content contentuid="h7bc7c498g2594g48edgb63fgbcf223ee5a34" version="1">Prison Door</content>
+	<content contentuid="h7f59cd92g90b2g4b78g8658ga3797d4c1424" version="1">Prison Entrance Key</content>
+	<content contentuid="h81a90768g04a1g428fg97e6g96edd1d0958d" version="1">Potent Robe</content>
+	<content contentuid="h832a075cgb52fg4a6ag93abgdb7bddd1d886" version="1">Shadowheart's Underwear</content>
+	<content contentuid="h86907afage48fg4b32g9ee1ga72348f85266" version="1">Glittering Slippers</content>
+	<content contentuid="h88ef928fgf600g407cg8418gdedf88a21856" version="1">Prison Cage</content>
+	<content contentuid="h8952642cgbc27g4557g8339g17d1f61cb74f" version="2">Prison Log</content>
+	<content contentuid="h8bbee0a7g752ag4102gbd28gef3787d378ca" version="1">Shabby Wardrobe</content>
+	<content contentuid="h8cc84d3bg087dg437egab1fg0e55f9f37f19" version="1">Wardrobe</content>
+	<content contentuid="h8cd0538ag6d38g4f31g8510g67c56731845c" version="2">Robe of Supreme Defences</content>
+	<content contentuid="h8ef60a30gb174g455cga4aagb2793df64ea5" version="1">Shabby Wardrobe</content>
+	<content contentuid="h9097f39fg78f7g4ae4g8f28gc394cb9bed6e" version="1">Klagga's Pants</content>
+	<content contentuid="h9386f2a7g53b7g42c9gbc62g9d094e1b9736" version="2">Prison Log</content>
+	<content contentuid="h98396c3dgfe42g45c4g927ag51c8bfb644be" version="1">Robe</content>
+	<content contentuid="h984ae6afge918g40ccgb3c2g3e8154fd2759" version="1">Weave-Touched Robe</content>
+	<content contentuid="ha4f23c31g4b6ag41d6g8bb1g2924b4d7959d" version="4">Viconia's Priestess Robe</content>
+	<content contentuid="ha5605b84g390bg41fbgb92bgce3a1450a3bb" version="1">Weave-Touched Robe</content>
+	<content contentuid="hb334fc32g0094g48ddgb88ag5021e0a31fae" version="1">Hot Pants</content>
+	<content contentuid="hb5693042g3d7bg43b9gb4b4gdda2c2f76611" version="1">Sorcerer Robe</content>
+	<content contentuid="hb91abc7cgb5e0g484dga6ecg37487b28a7d1" version="2">Mahogany Wardrobe</content>
+	<content contentuid="hbbd1e2f4gb65cg4becgb231g8abefbc4e0f9" version="1">Astarion's Underwear</content>
+	<content contentuid="hbc7764e6ge825g4889ga960gc38f9040334d" version="1">Elegant Robe</content>
+	<content contentuid="hbdb79c1eg8e39g44e2gbb27ga1208a8c08ee" version="2">Mahogany Wardrobe</content>
+	<content contentuid="hc060143cg3a61g4a9cga707g308a097c2d77" version="1">Prison Key</content>
+	<content contentuid="hc42baf78g8afcg43cagb4ebg2437ee8c37b7" version="1">Damaged Robe</content>
+	<content contentuid="hc5ec0114gf543g4515g8383g01b4f59a83b9" version="2">Prisoners!</content>
+	<content contentuid="hc93c1e5aged04g4a17g8ff0g78232110ca15" version="1">Infernal Robe</content>
+	<content contentuid="hcf1d52d2g024ag48cfg9639gaafb96d72aae" version="1">Mahogany Wardrobe</content>
+	<content contentuid="hcf65ca9eg1624g4dc0ga8ceg38e6e4dd017f" version="2">Moon Devotion Robe</content>
+	<content contentuid="hcfdc2b04g10aag43dfg824fg7c3bb9e95f7d" version="2">Poisoner's Robe</content>
+	<content contentuid="hd0b70d07g1786g43cfgb78dgeafea8c0b0de" version="3">Wardrobe</content>
+	<content contentuid="hd32fb450ga143g4277g8e0egc4b29daa155e" version="1">Prison Cage</content>
+	<content contentuid="hd4cf5819g032fg406ag8629ge4b388980d98" version="1">Elegant Robe</content>
+	<content contentuid="hd5da563bgac67g4074g9750g3b2415ee172f" version="1">Wyll's Underwear</content>
+	<content contentuid="hd5e7df3ag0c04g47beg973bgb90914463e6f" version="1">Prison Door</content>
+	<content contentuid="hd60abcdcgb8f3g4408g93f1g88cac33ea235" version="1">Elegant Slippers</content>
+	<content contentuid="hda1877b6gedd2g4011g9bc1gc34d38f2e840" version="2">Robe of the Weave</content>
+	<content contentuid="hdb6d06dbg37b0g4187g8c70g89bdaaa7150b" version="2">Prison Guard</content>
+	<content contentuid="hdeac7383gd552g4dbdga936gb24c5acaa5cb" version="1">Elegant Robe</content>
+	<content contentuid="he2ecd6cegc724g4c0cgb97cg4a34d74fb6a5" version="1">Wavemother's Robe</content>
+	<content contentuid="he3ad21bbg79dag43f4ga59bgfc1f0527082a" version="2">Updating Your Wardrobe</content>
+	<content contentuid="hebebdfd1g4b18g4ffaga439g1b1c99179071" version="1">Prison Key</content>
+	<content contentuid="hef7e8cabge80ag4464g8ce6g41529a1d5a63" version="1">Prison Entrance</content>
+	<content contentuid="hf0d1c228g1b6eg4ad1g8d0cg1783c25950f0" version="1">Prison Cage</content>
+	<content contentuid="hf1b3db63ga190g4770g87acg4e87132dadae" version="2">Robe of Exquisite Focus</content>
+	<content contentuid="hf51ce92cg3ed5g4aa7gb22eg42efe8d1b57a" version="3">Prison Exit</content>
+	<content contentuid="hf6b53fdegf325g4e49g8bcbg11322013ed2e" version="2">Prisoners can lay down their tools. </content>
+	<content contentuid="hfeb8ab63gc2f9g4c23g922dg197724dc4af3" version="1">Prison Entrance Door</content>
+	<content contentuid="hfed71b5eg2fadg4bd6ga6f0gba1ecea7e59d" version="1">Prison Tatters</content>
+
+	<content contentuid="hfdbf48e6g361cg43d1g91aag213b6a4bd9df" version="2">Channeler's Trunks</content>
+	<content contentuid="h357f3f99g9dc0g4061g9f24g702c70db03a8" version="2">Chatterbox's Tabard</content>
+	<content contentuid="hccd6565agb388g4b95g8936gc76547fc8655" version="4">Periwinkle Undergarments</content>
+	<content contentuid="h99acf67cg3be5g4476gbfe0g338fe89ce89b" version="2">Streamhopper Loafers</content>
+
+</contentList>
