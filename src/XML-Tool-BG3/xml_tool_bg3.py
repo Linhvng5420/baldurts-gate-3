@@ -833,7 +833,7 @@ class SearchToolUI:
         search_info_frame = ttk.Frame(frame)
         search_info_frame.pack(fill="x", padx=5, pady=2)
         
-        search_info_text = "🔍 Tìm kiếm trong toàn bộ dòng XML: contentuid, version, content text... | Nhiều từ khóa: cách nhau bởi dấu / (,) | Tùy chọn: Match Case & Match Whole Word"
+        search_info_text = "🔍 Tìm kiếm trong toàn bộ dòng XML: contentuid, version, content text... | Nhiều từ khóa: cách nhau bởi dấu / [VD: A/B/C/D ]"
         ttk.Label(search_info_frame, text=search_info_text, font=("Arial", 9), foreground="darkgreen").pack(side=tk.LEFT)
         
         # Frame cho đường dẫn file
@@ -1072,7 +1072,7 @@ class SearchToolUI:
         trung_frame = ttk.LabelFrame(self.compare_options_frame, text="Xử lý các contentUID trùng nhau")
         trung_frame.pack(fill="x", padx=5, pady=5)
         
-        ttk.Button(trung_frame, text="Lọc contentUID trùng nhau ra file", 
+        ttk.Button(trung_frame, text="Lọc contentUID trùng nhau (lấy từ file B)", 
                   command=self.export_duplicate_uids).pack(side=tk.LEFT, padx=5, pady=2)
         
         ttk.Button(trung_frame, text="Xóa contentUID trùng nhau ở file A", 
@@ -2390,7 +2390,7 @@ def main():
         style.theme_use('vista')
     
     # Thiết lập tiêu đề cửa sổ và kích thước mặc định
-    root.title("Công cụ xử lý XML - Baldur's Gate 3 Việt Hóa")
+    root.title("Công cụ xử lý XML - Baldur's Gate 3 Việt Hóa by Linhvng5420")
     root.geometry("1000x850")
     
     # Hiển thị thông báo hướng dẫn
