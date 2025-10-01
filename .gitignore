@@ -43,9 +43,9 @@ test_*
 *_test.py
 
 # Virtual environment
-venv/
-env/
-.env
+# venv/
+# env/
+# .env
 
 # Distribution / packaging
 .Python
