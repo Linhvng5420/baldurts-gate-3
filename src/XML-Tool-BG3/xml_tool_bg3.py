@@ -150,74 +150,18 @@ def tim_kiem_noi_dung(file_path, search_pattern, match_case=False, match_whole_w
                     for keyword in search_keywords:
                         if match in matches_by_keyword[keyword]:
                             filtered_by_keyword[keyword].append(match)
-                else:
-                    uid_match = re.search(r'contentuid="([^"]+)"', match)
-                    text_match = re.search(r'>([^<]*)</content>', match)
-                    content_text = text_match.group(1).strip() if text_match else "N/A"
-                    uid_text = uid_match.group(1) if uid_match else "N/A"
-                    print(f"   🚫 Bỏ qua kết quả có {word_count} từ: '{content_text}' (UID: {uid_text})")
             matches = filtered_matches
             matches_by_keyword = filtered_by_keyword
-            print(f"   ✅ Còn lại {len(matches)} kết quả sau khi lọc\n")
+            # print(f"   ✅ Còn lại {len(matches)} kết quả sau khi lọc")
         
         if matches:
-            print(f"✅ Đã tìm thấy {len(matches)} kết quả tổng cộng trong toàn bộ dòng XML:")
-            
             # Hiển thị thống kê theo từng từ khóa
-            print("\n📊 Thống kê theo từng từ khóa:")
+            print(f"\n📊 Thống Kê {len(matches)} Kết Quả theo từng Từ Khóa:")
             for keyword in search_keywords:
                 count = len(matches_by_keyword[keyword])
                 print(f"   '{keyword}': {count} kết quả")
             print()
-            
-            for i, match in enumerate(matches, 1):
-                # Hiển thị contentuid để dễ nhận biết
-                uid_match = re.search(r'contentuid="([^"]+)"', match)
-                if uid_match:
-                    print(f"\n📄 Kết quả {i} (UID: {uid_match.group(1)}):")
-                else:
-                    print(f"\n📄 Kết quả {i}:")
-                
-                # Tìm từ khóa nào khớp với kết quả này
-                matched_keywords = []
-                for keyword in search_keywords:
-                    if _keyword_matches(match, keyword, match_case, match_whole_word):
-                        matched_keywords.append(keyword)
-                
-                if matched_keywords:
-                    keywords_str = ', '.join([f"'{kw}'" for kw in matched_keywords])
-                    print(f"🎯 Khớp với từ khóa: {keywords_str}")
-                
-                # Highlight từ khóa tìm thấy trong preview
-                preview = match.strip()
-                highlighted_preview = preview
-                
-                # Highlight tất cả từ khóa tìm thấy
-                for keyword in matched_keywords:
-                    if match_whole_word:
-                        # Sử dụng regex để highlight từ hoàn chỉnh
-                        pattern = r'\b' + re.escape(keyword) + r'\b'
-                        flags = 0 if match_case else re.IGNORECASE
-                        highlighted_preview = re.sub(pattern, f"🔍[{keyword}]🔍", highlighted_preview, flags=flags)
-                    else:
-                        # Highlight bình thường
-                        if match_case:
-                            highlighted_preview = highlighted_preview.replace(keyword, f"🔍[{keyword}]🔍")
-                        else:
-                            # Tìm vị trí chính xác của từ khóa (giữ nguyên case)
-                            preview_lower = highlighted_preview.lower()
-                            keyword_lower = keyword.lower()
-                            start_idx = preview_lower.find(keyword_lower)
-                            if start_idx != -1:
-                                end_idx = start_idx + len(keyword)
-                                found_text = highlighted_preview[start_idx:end_idx]
-                                highlighted_preview = highlighted_preview.replace(found_text, f"🔍[{found_text}]🔍", 1)
-                
-                # Rút gọn nếu quá dài
-                if len(highlighted_preview) > 200:
-                    highlighted_preview = highlighted_preview[:200] + "..."
-                
-                print(highlighted_preview)
+           
         else:
             print("❌ Không tìm thấy kết quả nào.")
         
@@ -1461,17 +1405,6 @@ class SearchToolUI:
             max_words (int): Số từ tối đa (nếu limit_words=True)
         """
         try:
-            # Phân tách từ khóa để hiển thị
-            search_keywords = [keyword.strip() for keyword in search_content.split('/')]
-            
-            # Thông báo bắt đầu tìm kiếm
-            if len(search_keywords) == 1:
-                self.print_to_output(f"🔍 Đang tìm kiếm '{search_content}' trong file:")
-            else:
-                self.print_to_output(f"🔍 Đang tìm kiếm {len(search_keywords)} từ khóa trong file:")
-                for i, keyword in enumerate(search_keywords, 1):
-                    self.print_to_output(f"   {i}. '{keyword}'")
-            
             # Hiển thị tùy chọn tìm kiếm
             options = []
             if match_case:
@@ -1484,8 +1417,6 @@ class SearchToolUI:
             if options:
                 self.print_to_output(f"🔧 Tùy chọn: {', '.join(options)}")
             
-            self.print_to_output(f"📁 {file_path}")
-            
             # Kiểm tra kích thước file
             file_size = os.path.getsize(file_path) / (1024 * 1024)  # MB
             self.print_to_output(f"📊 Kích thước file: {file_size:.2f} MB")
@@ -1495,10 +1426,12 @@ class SearchToolUI:
             
             # Hiển thị kết quả
             if self.search_results:
-                self.print_to_output(f"\n✅ Tìm kiếm hoàn tất! Đã tìm thấy {len(self.search_results)} kết quả.")
-                self.print_to_output("📋 Chi tiết kết quả:")
+                self.print_to_output("📋 Chi Tiết Kết Quả:")
                 
                 for i, result in enumerate(self.search_results, 1):
+                    if i > 20:
+                        self.print_to_output("   ... và các kết quả khác.")
+                        break
                     # Tìm contentuid
                     uid_match = re.search(r'contentuid="([^"]+)"', result)
                     if uid_match:
@@ -1510,21 +1443,19 @@ class SearchToolUI:
                             # Hiển thị thông tin số từ nếu có sử dụng bộ lọc
                             if limit_words:
                                 word_count = len(text.split())
-                                self.print_to_output(f"   {i}. UID: {uid} ({word_count} từ)")
+                                self.print_to_output(f"   {i}. {uid} ({word_count} từ)")
                             else:
-                                self.print_to_output(f"   {i}. UID: {uid}")
+                                self.print_to_output(f"   {i}. {uid}")
                             
                             # Hiển thị text (giới hạn 100 ký tự)
                             display_text = text[:100]
                             if len(text) > 100:
                                 display_text += "..."
-                            self.print_to_output(f"      Text: {display_text}")
+                            self.print_to_output(f" {display_text}")
                         else:
-                            self.print_to_output(f"   {i}. UID: {uid}")
+                            self.print_to_output(f"   {i}. {uid}")
                     else:
                         self.print_to_output(f"   {i}. Không tìm thấy UID")
-                
-                self.print_to_output("\n💡 Bạn có thể nhấn '🗑️ Xóa nội dung' để xóa các kết quả này.")
             else:
                 self.print_to_output("\n❌ Không tìm thấy kết quả nào phù hợp với từ khóa tìm kiếm.")
                 self.print_to_output("💡 Thử lại với từ khóa khác hoặc kiểm tra đường dẫn file.")
