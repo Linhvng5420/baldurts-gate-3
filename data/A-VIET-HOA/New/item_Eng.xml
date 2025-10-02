@@ -26,9 +26,6 @@
 	<content contentuid="he8e5d5d3g15ceg4226gbbf1g3c83cc9beb1c" version="2">Adamantine Longsword</content>
 	<content contentuid="hf1c118d2gfc2eg4732ga84ag8f364c53a82b" version="1">Adamantine Golem</content>
 
-
-
-
 	<!-- Equipment Items -->
     <content contentuid="h0cf9ffebga616g4e18g84aeg73adc4261808" version="1">Armour of Agathys</content>
 	<content contentuid="h115016e2g742fg4161ga4fdgac867231ad3a" version="2">Armour of Landfall</content>
@@ -251,24 +248,16 @@
 	<content contentuid="hf0de005cgbcecg4611gbdefgfaf154e541b5" version="3">Leather-Bound Tome</content>
 	<content contentuid="hf386f196g9f0fg48bfg96b5gdec8e99a899d" version="3">Leather-Bound Tome</content>
 	<content contentuid="hfbbd8256g9dd1g4101gb30eg6ecdb606d9ba" version="4">Leather-Bound Tome</content>
-
 	<content contentuid="h51b69e48g97f7g4b42ga87cg50d198bbcdff" version="3">Blazer of Benevolence</content>
-	
 
 	<!-- FOODS AND DRINK -->
 	<content contentuid="hc3e856eag4c6dg47f1g8821g4776a8273ed7" version="1">Wyvern Whiskey</content>
 	<content contentuid="hcf2d56f8gb3efg4699ga5b2ge23492895fcd" version="1">Mermaid Whiskey</content>
 
-
-
-
 	<!-- ITEMS -->
 	<content contentuid="h99a703bbgb03ag4802g8d4ag554880d5dd3e" version="1">Printing plate</content>
 	<content contentuid="hb42f07e3g1c0fg415eg8241g590d220fe52b" version="1">Printing Plate</content>
 	<content contentuid="haa4e71f5gda44g4768gb3c4gcb37366dff46" version="2">Blackmail Letter</content>
-
-
-
 
 	<!-- Mailbox -->
 	<content contentuid="h0514b590gd8efg48b2g82a8g93054aa641c2" version="1">Mailbox</content>
@@ -322,10 +311,6 @@
 	<content contentuid="heddec2c5ga52dg4c1fga8b3g65c7f8b9f83a" version="1">Mailbox</content>
 	<content contentuid="hfa37a532gaf6dg4461gac7eg2df77637546f" version="1">Mailbox</content>
 	<content contentuid="hfea8dda9g460dg4dcfg89b2ga6f970ea7692" version="1">Mailbox</content>
-	
-
-
-
 
 	<!-- KEYS -->
 	<content contentuid="h0d882023g9311g44e8g9042gb3debe6e75fe" version="1">Key to Ramparts Door</content>
@@ -348,7 +333,6 @@
 	<content contentuid="he26a52dag4043g4c19g8783g88e3d9897174" version="1">Key to the Murder Tribunal</content>
 	<content contentuid="hfd08527eg2b5dg4d19gadc2ga7f72c7e009b" version="1">Keychain</content>
 	<content contentuid="h8cd965f2g0efeg48a4gb023g1f44fc0900b1" version="1">Keyhole</content>
-
 	<content contentuid="h0010c118g2257g41b6g9fe6g97e71e759fdb" version="1">Cage Key</content>
 	<content contentuid="h00c31f7bgba5cg4394gaf4cgaf1489827aaf" version="1">Vault Key</content>
 	<content contentuid="h02087933gdb56g4da0ga37dg7efdf712e4fb" version="1">Adamantine Key</content>
@@ -669,9 +653,6 @@
 	<content contentuid="hfe4fa8eegbb90g471bgb427gb3a853ceae6a" version="3">High Security Vault nº5 Key</content>
 	<content contentuid="hfeb50b52g9d06g4a85gaf22gb63e7b26df32" version="2">Wyrm's Rock Prison Key</content>
 
-
-
-
 	<!-- PLATE -->
 	<content contentuid="h01da18eag2adfg4cf5g8d57g15fef5ee2c9e" version="1">Plate</content>
 	<content contentuid="h21269969gc3bbg4624g8637g5684033e29d5" version="1">Plate</content>
@@ -681,7 +662,6 @@
 	<content contentuid="h5e8a0f8fgc6b6g4a5fg8ed3g83ef935fbd51" version="1">Plate</content>
 	<content contentuid="h8948c3d0g395eg4cadg9564g1e9528d7de01" version="1">Plate</content>
 	<content contentuid="hb9c38deagcc44g4f93gbc7fg2339f96fceea" version="1">Plate</content>
-	
 	<content contentuid="h044a462cgb2f5g460ag9c82ge3d484879fa5" version="2">Dark Justiciar Half-Plate</content>
 	<content contentuid="h04c058acg5b24g45e1g9f26g7ac33f911920" version="1">Marble Plate</content>
 	<content contentuid="h05e94d9eg15feg4151gae95g17ba0c3c39c7" version="2">Magical Plate</content>
@@ -735,7 +715,6 @@
 	<content contentuid="hf238314bg21afg4282gabf4gd966710990d1" version="1">Marble Plate</content>
 	<content contentuid="hfcb933e9g3b8cg4cffga547gca963e584ff7" version="1">Silver Plate</content>
 
-
 	<!-- Amulets - Vòng Hộ Mệnh -->
 	<content contentuid="h05cc3475g0570g4110g8876g3cc13b9f77ca" version="1">Amulet of Greater Health</content>
 	<content contentuid="h0f8acd8dg2e16g4ed8g82cdgccb9efc4c65c" version="1">Staggering Amulet</content>
@@ -771,7 +750,6 @@
 	<content contentuid="hb1e27891gb797g42e1ga9a6g04db27aa9927" version="2">Lofty Sorcerer's Amulet</content>
 	<content contentuid="hb33061b9gb205g483agbd8egf1006970c7ae" version="2">Amulet of The Devout</content>
 	<content contentuid="hb4a7bbf2gdecdg4b21g93f6ga243535b127d" version="1">Dusty Little Amulet</content>
-	<content contentuid="hb4b668d2g0e09g4b1aga298g57d6bac2b0da" version="2">%%% Shield Resource Amulet</content>
 	<content contentuid="hb9d79ca5g59afg4255g9cdbgf614b894be68" version="1">Amulet</content>
 	<content contentuid="hbfd091e4gbc9eg43a0ga223g8cb548b97629" version="2">Spineshudder Amulet</content>
 	<content contentuid="hc0a000bagd694g4804gb2efgaec38a51e02f" version="2">Selûnite Amulet</content>
@@ -792,19 +770,9 @@
 	<content contentuid="hfd6df087g2e4bg4c85ga815gcbe68c4c3c5b" version="2">Amulet of the Absolute</content>
 	<content contentuid="hfd8f6d80g550bg4cdbg8473g457aac169198" version="2">Spell Savant Amulet</content>
 	<content contentuid="hfdb32d43gb697g4609gbc89g3c6c8d69b839" version="2">Sentient Amulet</content>
-	<content contentuid="h0060940bg96fdg4189g8d18g75c59d4f48fd" version="1">%%% Legendary Evasion Amulet Resource</content>
 	<content contentuid="h043b8649g00a9g4187g8f13g1228e9ab64ec" version="1">Cursed Amulet Area</content>
-	<content contentuid="h084045a5gcdfag47b0ga1bdgdc33376eaa07" version="1">%%% Amulet of Restoration Technical</content>
-	<content contentuid="h0ac72a27gc582g405agbe1egd2bb44c36bd7" version="1">%%% Gob Priest Amulet Technical</content>
-	<content contentuid="h37549c7cg0892g4611g919ag1f5578cdcf8b" version="1">%%% Amulet of Second Chance</content>
 	<content contentuid="h870f16a7g13e3g432dga5eag768b4a4804aa" version="2">Synaptic Needle Amulet </content>
 	<content contentuid="h8bbaa064ge271g473dgb291gbc9a7eb35596" version="2">Spellcrux Amulet </content>
 	<content contentuid="h9ace6f8agd049g49b0gbe2fgfb1d635401a8" version="1">The Amulet of Lost Voices</content>
 	<content contentuid="ha3b294c8g751cg4df3g9752g4a1247ce2712" version="2">*Amulet of Greater Health.*</content>
-	<content contentuid="hab35c018ge4fdg4d90gb396g678cfe2ecf65" version="1">%%% Mag Shield Amulet Resource</content>
-
-
-
-	<!-- Clothes -->
-	
 </contentList>

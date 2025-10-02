@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <contentList>
 
-	<!-- Vũ Khí Chung -->
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_0" version="1">Non</content>
+	<!-- Phân Loại -->
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_0" version="1">Vật trang trí đầu</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_1" version="1">Quần áo</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_2" version="1">Áo choàng</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_3" version="1">Tay Thuận - Cận chiến</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_4" version="1">Tay Phụ - Cận chiến</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_5" version="1">Tay Thuận - Tầm xa</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_6" version="1">Tay Phụ - Tầm xa</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_7" version="1">Nhẫn</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_8" version="1">Đồ lót</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_9" version="1">Giày ống</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_10" version="1">Gloves</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_11" version="1">Dây chuyền</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_12" version="1">Nhẫn</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_13" version="1">Cánh</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_14" version="1">Sừng</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_15" version="1">Trên đầu</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_16" version="1">Nhạc cụ</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_17" version="1">Áo choàng ngoài</content>
+	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_18" version="1">Giày bọc</content>
+
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_0" version="1">Không Có</content>
 	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_1" version="1">Rìu Chiến</content>
 	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_2" version="1">Gậy</content>
 	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_4" version="1">Dao Găm</content>
@@ -22,8 +42,10 @@
 	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_65536" version="1">Nỏ Nhẹ</content>
 	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_262144" version="1">Cung Dài</content>
 	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_524288" version="1">Kiếm Dài</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_131072" version="1">Búa Nhẹ</content>
 	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_1048576" version="1">Chùy</content>
 	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_2097152" version="1">Vũ Khí Chiến Đấu</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_4194304" version="1">Búa Tạ</content>
 	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_8388608" version="1">Giáp Vừa</content>
 	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_16777216" version="1">Sao Mai</content>
 	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_33554432" version="1">Thương Dài</content>
@@ -39,16 +61,10 @@
 	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_17179869184" version="1">Ná</content>
 	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_34359738368" version="1">Giáo</content>
 	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_68719476736" version="1">Đinh Ba</content>
+	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_137438953472" version="1">Búa Chiến</content>
 	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_274877906944" version="1">Cuốc Chim</content>
 	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_549755813888" version="1">Nhạc Cụ</content>
 
-	<!-- Item -->
-	<content contentuid="h16cad0c9gf0f2g4d07g8252gb750da461af0" version="1">Thùng</content>
-	<content contentuid="h16449644g8473g4ffdg9e83g3ad3e4c5ac52" version="1">Đuốc Đứng</content>
-	<content contentuid="h26577550gc525g40d1ga973g8a6e540184a2" version="60">Rương Quần áo</content>
-
-
-	<!-- Thuộc Tính -->
 	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_1" version="1">Trang bị</content>
 	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_2" version="1">Bình thuốc</content>
 	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_4" version="1">Cuộn phép</content>
@@ -62,285 +78,228 @@
 	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_1024" version="1">Rất Hiếm</content>
 	<content contentuid="h977af483ga6d9g4334g9ee0g3b85b94c67db_2048" version="1">Huyền Thoại</content>
 
-	<!-- Vũ Khí Ma Thuật / Niệm Phép-->
-	<content contentuid="h5eb1e1b1gc7afg48a4g93fcgf09282a4bacb" version="1">Glaive Ma Thuật</content>
-	<content contentuid="h0d6e5793g954eg40e4g8941gaf2367d0d939" version="1">Vũ khí Niệm phép</content>
-	<content contentuid="h28f6cd96gfab2g4d90gaf97gea480834c1e4" version="1">Vũ khí Niệm phép</content>
-	<content contentuid="had4b2edeg74a0g4bb0gac33g11c2ea95079e" version="1">Vũ khí Niệm phép</content>
-	<content contentuid="hb4324b99gc2cdg44c3gb111gee1985f3d563" version="1">Vũ khí Niệm phép</content>
-
 	<!-- Búa Chiến / Rìu Chiến -->
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_131072" version="1">Búa Nhẹ</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_4194304" version="1">Búa Tạ</content>
-	<content contentuid="ha4c5f0cfg93ebg47ecg8eecg6524ad70aee0_137438953472" version="1">Búa Chiến</content>
-	<content contentuid="h836c94a9gc610g4686g99dbgcd2415fa5259" version="2">Một cây Búa Chiến</content>
-
-	<content contentuid="h28ccbd16g99a6g4790gaa7eg78b99e0b5df6" version="2">Búa Orphic</content>
-	<content contentuid="h347cfab9g4150g4907g8698g62913d3a6b95" version="1">Búa Orphic</content>
-	<content contentuid="h7b0dddfag8528g4780gb037g09e380c631c3" version="1">Búa Orphic</content>
 	<content contentuid="h0768598ag66c9g4b2bgb5ebg2146a362960c" version="1">Búa Chiến Ma Thuật</content>
 	<content contentuid="h18b57093g4f09g4b89g8873g44cefd964d8b" version="2">Búa Chiến Azer</content>
+	<content contentuid="h28ccbd16g99a6g4790gaa7eg78b99e0b5df6" version="2">Búa Orphic</content>
 	<content contentuid="h2e87c006g29b2g4ca7gb28agfcba61b127fa" version="1">Búa Chiến Luyện Ngục</content>
+	<content contentuid="h347cfab9g4150g4907g8698g62913d3a6b95" version="1">Búa Orphic</content>
 	<content contentuid="h73bc21c6gf095g436dgb5b3gc57bc40bd1e3" version="1">Búa Chiến</content>
-
+	<content contentuid="h7b0dddfag8528g4780gb037g09e380c631c3" version="1">Búa Orphic</content>
+	<content contentuid="h836c94a9gc610g4686g99dbgcd2415fa5259" version="2">Một cây Búa Chiến</content>
 	<content contentuid="h94ae23b6ga7d9g4952gbfc8g4b9d311c0003" version="1">Rìu Chiến Ma Thuật</content>
 	<content contentuid="ha5623dedg690ag44cdgb2ceg1d8fd53ecd5c" version="2">Rìu Chiến Bóng Tối</content>
 	<content contentuid="hbd5de49cg1a6dg4ccegaf57geef0b1c57d64" version="1">Rìu Chiến Ma Thuật</content>
 	<content contentuid="hf0e00f9bg15dag4576ga301g18c52e2d947d" version="1">Rìu Chiến</content>
 	<content contentuid="hfa55dd2cgde7eg4fd5g8d5ag898feae3d126" version="1">Rìu Chiến Tàn Khốc</content>
-	<content contentuid="hfcccb8cbg2bdeg4245gb623g62b6d4f5b651" version="2">Rìu Chiến Nảy Lại</content>
+	<content contentuid="hfcccb8cbg2bdeg4245gb623g62b6d4f5b651" version="2">Rìu Chiến Phản Chấn</content>
 	
-	<!-- Loại Item -->
-	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_0" version="1">Vật trang trí đầu</content>
-	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_1" version="1">Quần áo</content>
-	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_2" version="1">Áo choàng</content>
-	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_3" version="1">Tay Thuận - Cận chiến</content>
-	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_4" version="1">Tay Phụ - Cận chiến</content>
-	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_5" version="1">Tay Thuận - Tầm xa</content>
-	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_6" version="1">Tay Phụ - Tầm xa</content>
-	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_7" version="1">Nhẫn</content>
-	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_8" version="1">Đồ lót</content>
-	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_11" version="1">Dây chuyền</content>
-	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_12" version="1">Nhẫn</content>
-	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_13" version="1">Cánh</content>
-	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_14" version="1">Sừng</content>
-	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_15" version="1">Trên đầu</content>
-	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_16" version="1">Nhạc cụ</content>
-	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_17" version="1">Áo choàng ngoài</content>
-
-
-
-	<!-- Giày Dép -->
-	<content contentuid="h0be255e4ge9f4g4505g8af2g451a1d9ee5f5" version="1">Dép Sandal Đơn giản</content>
-	<content contentuid="h34b4d7c8g6a43g4ef7gb706gf811ea454444" version="2">Dép Sandal Gót Chắc</content>
-	<content contentuid="h56e94a5ag2cd5g4d4agabf3g5526b2daa470" version="2">Dép Sandal Khâu Kim Cương </content>
-	<content contentuid="h5ffe6ff6gbd37g4063gbadagc0dca3459d5e" version="2">Dép Sandal Xẻ Sọc</content>
-	<content contentuid="h602cddcfgc7c2g4241g8cc3gca1076f47b58" version="1">Dép Sandal Thiên thể</content>
-	<content contentuid="h69cb6cefgf856g4fa5gbb04g5e6fb41878f8" version="1">Dép Sandal Lưới Ngón Chân Tinh khiết</content>
-	<content contentuid="h6a49431aged4fg471cg9decgfbb1c4782bbf" version="2">Dép Sandal Bờ biển</content>
-	<content contentuid="ha49af9ecg3fa9g4275gbd98gcb4f3b23aa82" version="2">Quai Chéo Sandals</content>
-	<content contentuid="ha156bde5g0513g48d2gb83ag677b6b2b945d" version="1">Dép Sandal của Tu sĩ</content>
-	<content contentuid="ha8169bcegabdcg4811gb25fgd0b6f6bfa290" version="1">Dép Sandal Thông thường</content>
-	<content contentuid="hc481cdf6g4e9fg413fg84fegbc9d115d6710" version="2">Dép Sandal Lưới Ngón Chân</content>
-	<content contentuid="hda1db05fgb3ecg4d84ga528g5ec834ec3e5d" version="2">Dép Sandal Đấu sĩ</content>
-	<content contentuid="he89c0501gccddg44f4gbf67ge8607bb3cf8c" version="1">Dép Sandal của Dân du mục</content>
-	<content contentuid="hf28f5319gf5b6g4c33g91afg899a85865175" version="1">Dép Sandal Xẻ Sọc Mòn</content>
-	<content contentuid="hf6f3693bg97c1g49c7g8accg52e8cddcd4a4" version="1">Dép Sandal Thoáng mát</content>
-	<content contentuid="h2447aa94g4392g4671gb49cg1723928237ce" version="4">Giày Săn mồi</content>
-	<content contentuid="h324962a0gac98g4731g95abg617afdff5125" version="1">Giày. Giày ống của tôi đâu?</content>
-	<content contentuid="h32c40548gd0d1g43d7gbf7ag9764eb706c5e" version="1">Giày Tinh xảo</content>
-	<content contentuid="h4651206fgc32eg4fafgae4eg03e1ec1a1206" version="2">Giày Rộng rãi</content>
-	<content contentuid="h56af61e0ge20fg4489gb27cg0105c7bad5a2" version="1">Giày Rọ</content>
-	<content contentuid="h7613d0dfge7c8g4dc7g84d9g809fb13f6525" version="1">Giày Lẩn tránh</content>
-	<content contentuid="h794849a2ga0cbg4b9fgbf30g88a2a4d8a991" version="2">Giày Swiresy</content>
-	<content contentuid="h889cb794g945cg4351g900eg941af1cc191a" version="1">Giày Dép Thô sơ</content>
+	<!-- Giày / Dép -->
 	<content contentuid="h88f2ee8bgcf61g4018gb48ageb0843ca7948" version="1">Giày Bền chắc</content>
-	<content contentuid="h9596b66cg116eg4793g8bbcg87eb0301e2d4" version="1">Giày Mũi nhọn</content>
-	<content contentuid="h95e93e8dg00a0g4b18ga8c3g2647e2d67a0b" version="1">Giày Ấm áp Thoải mái</content>
-	<content contentuid="h9dec3cbag7b94g4f58g831dg846bb252659a" version="1">Giày Đế dày</content>
-	<content contentuid="ha0877c6cg5471g4a47g9407gfcaefe2b1ac9" version="1">Giày Đế chắc</content>
-	<content contentuid="hb11b48fbgc40fg44d9gb4e8g560b746c4a59" version="1">Giày Thông thường</content>
-	<content contentuid="hc4078eddg4924g4469ga9e3gec037e97da5e" version="1">Giày Đế mỏng</content>
-	<content contentuid="hcb39e8c6gd15cg4b88g9815g041438e5d85c" version="1">Giày Đã mòn</content>
-	<content contentuid="he6dd3483g2ea4g4bc8gb60ag8677274ecb2c" version="2">Giày Than</content>
-	<content contentuid="hf8bce7a9g3cebg4f76g947bgde059de59696" version="1">Giày bọc</content>
-	<content contentuid="h5a7276abga173g4a48gaaefg84c3b26f9944" version="1">Giày Mềm và Thoải mái</content>
-	<content contentuid="h5d9bbcf1g5600g43c9g8e03g4dd58ef194a1" version="1">Giày Lễ phục Mòn</content>
+	<content contentuid="h889cb794g945cg4351g900eg941af1cc191a" version="1">Giày Dép Thô sơ</content>
+	<content contentuid="h7613d0dfge7c8g4dc7g84d9g809fb13f6525" version="1">Giày Lẩn tránh</content>
 	<content contentuid="hc4abb12dg2b3eg44a2g9e82g8c46d8187819" version="1">Giày Lễ phục Chết người</content>
-	<content contentuid="ha63c9b71g539fg4537ga46ag985ba68e83a8" version="2">Giày của Nghệ sĩ Nhào lộn</content>
-	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_9" version="1">Giày ống</content>
-	<content contentuid="h1e2fea14g1a4fg4567ga286g8c4162b78d6e_18" version="1">Giày bọc</content>
+	<content contentuid="h5d9bbcf1g5600g43c9g8e03g4dd58ef194a1" version="1">Giày Lễ phục Mòn</content>
+	<content contentuid="h9596b66cg116eg4793g8bbcg87eb0301e2d4" version="1">Giày Mũi nhọn</content>
+	<content contentuid="h5a7276abga173g4a48gaaefg84c3b26f9944" version="1">Giày Mềm và Thoải mái</content>
+	<content contentuid="h56af61e0ge20fg4489gb27cg0105c7bad5a2" version="1">Giày Rọ</content>
+	<content contentuid="h4651206fgc32eg4fafgae4eg03e1ec1a1206" version="2">Giày Rộng rãi</content>
+	<content contentuid="h794849a2ga0cbg4b9fgbf30g88a2a4d8a991" version="2">Giày Swiresy</content>
+	<content contentuid="h2447aa94g4392g4671gb49cg1723928237ce" version="4">Giày Săn mồi</content>
+	<content contentuid="he6dd3483g2ea4g4bc8gb60ag8677274ecb2c" version="2">Giày Than</content>
+	<content contentuid="hb11b48fbgc40fg44d9gb4e8g560b746c4a59" version="1">Giày Thông thường</content>
+	<content contentuid="h32c40548gd0d1g43d7gbf7ag9764eb706c5e" version="1">Giày Tinh xảo</content>
+	<content contentuid="hf8bce7a9g3cebg4f76g947bgde059de59696" version="1">Giày bọc</content>
+	<content contentuid="ha63c9b71g539fg4537ga46ag985ba68e83a8" version="2">Giày Nghệ sĩ Nhào lộn</content>
+	<content contentuid="hcb39e8c6gd15cg4b88g9815g041438e5d85c" version="1">Giày Đã mòn</content>
+	<content contentuid="ha0877c6cg5471g4a47g9407gfcaefe2b1ac9" version="1">Giày Đế chắc</content>
+	<content contentuid="h9dec3cbag7b94g4f58g831dg846bb252659a" version="1">Giày Đế dày</content>
+	<content contentuid="hc4078eddg4924g4469ga9e3gec037e97da5e" version="1">Giày Đế mỏng</content>
+	<content contentuid="h95e93e8dg00a0g4b18ga8c3g2647e2d67a0b" version="1">Giày Ấm áp Thoải mái</content>
+	<content contentuid="h6a49431aged4fg471cg9decgfbb1c4782bbf" version="2">Sandal Bờ biển</content>
+	<content contentuid="h34b4d7c8g6a43g4ef7gb706gf811ea454444" version="2">Sandal Gót Chắc</content>
+	<content contentuid="h56e94a5ag2cd5g4d4agabf3g5526b2daa470" version="2">Sandal Khâu Kim Cương </content>
+	<content contentuid="hc481cdf6g4e9fg413fg84fegbc9d115d6710" version="2">Sandal Lưới Ngón Chân</content>
+	<content contentuid="h69cb6cefgf856g4fa5gbb04g5e6fb41878f8" version="1">Sandal Lưới Ngón Chân Tinh khiết</content>
+	<content contentuid="ha49af9ecg3fa9g4275gbd98gcb4f3b23aa82" version="2">Sandal Quai Chéo </content>
+	<content contentuid="h602cddcfgc7c2g4241g8cc3gca1076f47b58" version="1">Sandal Thiên thể</content>
+	<content contentuid="hf6f3693bg97c1g49c7g8accg52e8cddcd4a4" version="1">Sandal Thoáng mát</content>
+	<content contentuid="ha8169bcegabdcg4811gb25fgd0b6f6bfa290" version="1">Sandal Thông thường</content>
+	<content contentuid="h5ffe6ff6gbd37g4063gbadagc0dca3459d5e" version="2">Sandal Xẻ Sọc</content>
+	<content contentuid="hf28f5319gf5b6g4c33g91afg899a85865175" version="1">Sandal Xẻ Sọc Mòn</content>
+	<content contentuid="he89c0501gccddg44f4gbf67ge8607bb3cf8c" version="1">Sandal Dân du mục</content>
+	<content contentuid="ha156bde5g0513g48d2gb83ag677b6b2b945d" version="1">Sandal Tu sĩ</content>
+	<content contentuid="h0be255e4ge9f4g4505g8af2g451a1d9ee5f5" version="1">Sandal Đơn giản</content>
+	<content contentuid="hda1db05fgb3ecg4d84ga528g5ec834ec3e5d" version="2">Sandal Đấu sĩ</content>
 
 	<!-- Giáp -->
-	<content contentuid="h57b51154gcdbdg4d82ga2cbg940e735e7c3a" version="2">Giáp Nẹp Adamantine</content>
-	<content contentuid="he36b54d7g0974g4908gb95fga014fe3a2d04" version="3">Giáp Sùng Kính</content>
-	<content contentuid="h02c7322eg811fg4097ga95fg4439f62ee871" version="3">Giáp da Drow Phai màu</content>
-	<content contentuid="h06af4790g316bg4d50gb36cg7898553e519b" version="1">Giáp Diệm ngục khiếm khuyết </content>
-	<content contentuid="h093c7448gab7ag477dg9e4bgac66bd669a20" version="1">Giáp độn Hư hại</content>
-	<content contentuid="h0a653e7egf7b7g4351gb2bagc6924fb36893" version="1">Giáp vảy Phục hận</content>
-	<content contentuid="h0cf9ffebga616g4e18g84aeg73adc4261808" version="1">Giáp Băng của Agathys</content>
-	<content contentuid="h0d36c182gd7acg4e02gacdcg8b6094f22408" version="1">Giáp Tơ Nhện</content>
-	<content contentuid="h1f5f61b0ge1b7g4d5fga2e9g46b1d5a9330b" version="1">Giáp cỡ nhẹ</content>
-	<content contentuid="h1fd36a6cg14b0g47d9gb00fgdc6991ebaa2f" version="1">Giáp ngực +2</content>
-	<content contentuid="h2087d968g92bdg4675gae0bgeb86f4be3bc2" version="1">Giáp da Nạm đinh +1</content>
-	<content contentuid="h22728338g5ee9g4fffg95degc682b7a51805" version="3">Giáp Da Cổ thụ</content>
 	<content contentuid="h23599e42g3311g49a0g9d4fg1a44d322d9f1" version="1">Giáp</content>
-	<content contentuid="h2376ccedg2fa7g4d79g99b6ga38f6f44ca80" version="2">Giáp Thánh quang </content>
-	<content contentuid="h2d4060a3g0aeeg43d2g9bb3g3d7751ce1799" version="1">Giáp Hiệp sĩ Phản thệ</content>
-	<content contentuid="h2eebdf9ag6c29g43d2g80d8g3371b7d65cdf" version="1">Giáp cỡ nhẹ</content>
-	<content contentuid="h3259a3ecg2809g470cgb8deg14caa6f8c1a6" version="2">Giáp Pháp sư</content>
-	<content contentuid="h3c2e54f6g9fc3g465bg84e5ged248c94da29" version="3">Giáp tay Vàng (Tr)</content>
-	<content contentuid="h3ff4600cgd883g4a49gafefgedbb079368cb" version="1">Giáp xích vòng +2</content>
-	<content contentuid="h44b84102g0bb5g4783g94d7g332b34dc3228" version="1">Giáp độn</content>
-	<content contentuid="h469dcb15g24e5g4012g8fe0g775d4c4abba2" version="1">Giáp trụ bảo vệ</content>
-	<content contentuid="h472ff680g4ac0g4374gbf86gbf3290fd1e65" version="1">Giáp da Druid</content>
-	<content contentuid="h47fe6d6eg6784g4fbdg895cg3d40ea34a675" version="2">Giáp Bóng trăng</content>
-	<content contentuid="h4871b471g84a3g4b3fga378gca15adf233d2" version="2">Giáp Cản Lôi</content>
-	<content contentuid="h48d231bfg2b53g4433g9edfg5ede5b7d6112" version="2">Giáp Ngực</content>
-	<content contentuid="h4aa3a46bg4908g4abagb5cag338536e4c3ef" version="1">Giáp da Nạm đinh +2</content>
-	<content contentuid="h4f205b16g8d8dg4360g9cbfgd3a7be3712ec" version="1">Giáp tốt. Của Drow, dĩ nhiên rồi.</content>
-	<content contentuid="h5013e5b4gcd78g4c9egb0d4g889196fa975a" version="3">Giáp Bảo vệ Tâm lực </content>
-	<content contentuid="h52ebd561ga551g4abcgaaa1gda62ab89e1e8" version="1">Giáp xích Giải phóng</content>
-	<content contentuid="h55c03a80gffb9g4ec7g9555g828159f39d64" version="1">Giáp da của Drow</content>
-	<content contentuid="h582c8880g8dbbg4674g8979g97dd8e38d323" version="2">Giáp Cản Lôi</content>
-	<content contentuid="h59206840g58f3g4a32g80afg737175740ee5" version="1">Giáp Trung bình</content>
-	<content contentuid="h5b629c28ga19fg4f46gb211g0bdef9937471" version="1">Giáp Nhẹ</content>
-	<content contentuid="h5bc3459ag34a8g4653gb7e9g2f902228cab2" version="1">Giáp da Nạm đinh của Drow</content>
-	<content contentuid="h5f9fc655gf5c9g4c50g8f66gbc1a772cd938" version="1">Giáp xích vòng +1</content>
-	<content contentuid="h61fe88c8g78b8g4baeg8efbg2d2fb20209a2" version="1">Giáp độn +1</content>
-	<content contentuid="h64b92622ga715g41a3g9228gd7640ca4c067" version="2">Giáp Rủ bóng </content>
-	<content contentuid="h64dcbd26g749fg4648g8018g102e0f61d71e" version="1">Giáp Băng của Agathys</content>
-	<content contentuid="h68b0e75cg762eg4aa7g8481gf7539227fa68" version="2">Giáp trụ Kín thân</content>
-	<content contentuid="h6a528140gbbdcg4a56gb219g9fbc4161921e" version="2">Giáp vảy +2</content>
-	<content contentuid="h6f7b9c94g4ee6g4d08g8fc1g7e79c1fc0e64" version="1">Giáp xích vòng</content>
 	<content contentuid="h6faae0a1gfb95g4a47g9c1cgbd4baa6c7766" version="1">Giáp</content>
-	<content contentuid="h71d00b00g56dcg4e21g8662g060ced42c3dc" version="1">Giáp hạng nặng</content>
-	<content contentuid="h7272d7bcgfb91g4022gba34g3d62146ba78f" version="6">Giáp Cản Lôi Sét</content>
-	<content contentuid="h75541ec9gc94dg4785g8014gb8b695bb9d30" version="1">Giáp Băng của Agathys</content>
 	<content contentuid="h75833133gc5cbg4422g9e40ge22ba82fbf9a" version="1">Giáp</content>
-	<content contentuid="h75a791a4g89d7g4796gaa53g2adad2b64396" version="1">Giáp trụ Kín thân</content>
-	<content contentuid="h77d95edfg7b6ag45b6gadddgcf2774c8b7a6" version="1">Giáp độn +2</content>
-	<content contentuid="h7b241021g84ddg4689ga7b7g32734914d09b" version="1">Giáp da</content>
-	<content contentuid="h7b45c9d3g2a5fg4ec5g9878g521282ccf401" version="2">Giáp ngực Thiết mộc</content>
-	<content contentuid="h85010296g10afg4baagbabeg4a6e624d82e3" version="1">Giáp Pháp sư</content>
-	<content contentuid="h866b6355g682cg4415g8048gd8097dde30a6" version="2">Giáp Nhẹ</content>
-	<content contentuid="h88bc0cb2gd82ag41cegb795g347b6efbc3e3" version="2">Giáp vảy Hư hại</content>
-	<content contentuid="h8c7a7cb0g6325g4794g8fc4g86564b22ff0c" version="2">Giáp người Drow. Không còn phép thuật nữa. Do ánh nắng mặt trời.</content>
-	<content contentuid="h8e799a51g299ag4f34gba13gcae78aff9994" version="2">Giáp xích +1</content>
-	<content contentuid="h8f5c3541g113eg4b60g9b49gaa208513b9ae" version="1">Giáp Vượt Rào</content>
-	<content contentuid="h90349260geefbg4931gaf12g20dac37332ee" version="1">Giáp độn hỏng</content>
-	<content contentuid="h90eecf62g0e0dg4eefgae12gd72a5ef17eb5" version="2">Giáp da rách</content>
-	<content contentuid="h92e017e4g8828g407dgb11cg5d7c201d9743" version="2">Giáp vảy Yuan-ti</content>
-	<content contentuid="h9618be2dg6e9fg46d7g96a2g302d2b15d035" version="1">Giáp Da thuộc</content>
-	<content contentuid="h96fe0f93ge5cbg4997g8656g9e19441ed3d5" version="2">Giáp tay Trấn thủ</content>
-	<content contentuid="h9aadb537g0cfcg4b16g99afg5f652ac8f853" version="5">Giáp Chông nhọn</content>
-	<content contentuid="h9ac79039g668bg4b3cg9a34g3688c34d084b" version="1">Giáp và Khiên</content>
-	<content contentuid="h9efc938bgfb84g4fc8ga191g142599734de4" version="2">Giáp của Hoả Quyền. Và một ai đó - một thứ gì đó - đã bật tung ra từ nó như một con bướm phá kén chui ra.</content>
-	<content contentuid="ha192e592g1e5eg41e9ga993gfde0418af0fb" version="2">Giáp xích</content>
-	<content contentuid="ha4f4b5d6gf510g41ecgbc7fga2d86540d26b" version="1">Giáp vảy Hiến dâng</content>
-	<content contentuid="ha7c79d0bg7c77g4186ga536g83e5968ea2f5" version="2">Giáp đùi Vàng (Ph)</content>
-	<content contentuid="ha90d4a31ga6a9g4f33gb368gfd010087f4f9" version="1">Giáp Da thuộc +2</content>
-	<content contentuid="ha9c53b00g69f5g459bg84a1g1cdca6c8e519" version="3">Giáp da Nạm đinh của Drow</content>
 	<content contentuid="had29e589gd812g473bg90dfg66d1280fbbf1" version="1">Giáp</content>
-	<content contentuid="had472b50g73feg4718gbfefgbad2e8aa3d49" version="1">Giáp Githyanki. Người chiến binh mặc nó thì không còn lại gì.</content>
 	<content contentuid="hb677b3f7g5cf6g49c3g84fag2f773ef50dd6" version="1">Giáp</content>
-	<content contentuid="hb8def06bgb7b2g400dg9533g75d746114017" version="1">Giáp da Nạm đinh</content>
+	<content contentuid="hf9e7b5aaga40eg4ce6gb799g0199a710c704" version="1">Giáp (thường dân)</content>
+	<content contentuid="h9a406564ga0cdg4196gacc5g761f776f087c" version="1">Giáp Bán Tấm Githyanki</content>
+	<content contentuid="ha12d9aaeg88ceg4721gabe2gd2d0dfecbff5" version="2">Giáp Bán Tấm Githyanki Hư Hỏng</content>
+	<content contentuid="hda39202dg63d7g48c7gabfag01142e786a85" version="2">Giáp Bán Tấm của NightSong</content>
+	<content contentuid="h60aeed1agd4b7g4bd0gb1a5g1a39ea20aa68" version="2">Giáp Bóng Tối</content>
+	<content contentuid="h47fe6d6eg6784g4fbdg895cg3d40ea34a675" version="2">Giáp Bóng trăng</content>
+	<content contentuid="h0cf9ffebga616g4e18g84aeg73adc4261808" version="1">Giáp Băng của Agathys</content>
+	<content contentuid="h64dcbd26g749fg4648g8018g102e0f61d71e" version="1">Giáp Băng của Agathys</content>
+	<content contentuid="h75541ec9gc94dg4785g8014gb8b695bb9d30" version="1">Giáp Băng của Agathys</content>
 	<content contentuid="hbbff7238gd49fg4248g9c7fg186bdb1d2f5b" version="1">Giáp Băng của Agathys</content>
-	<content contentuid="hbd44c0e2g6a6eg4c8ag8ef4gbe1b95e4bf49" version="1">Giáp cỡ trung</content>
-	<content contentuid="hc0e1dcacg9a38g4afdgb4aagcf98bee4343d" version="1">Giáp vảy Cổ đại</content>
-	<content contentuid="hc604d6adg35c1g4622gb2aega0c47e25a68e" version="2">Giáp Githyanki. Người mặc nó thì không còn lại gì. Hẳn là một người lính của đội đầu tiên đến chiếm đền.</content>
-	<content contentuid="hc711eb4ag0534g458egadddgc95938c8c370" version="2">Giáp Thoát tục của Kushigo</content>
-	<content contentuid="hc7ec371fg6a1cg4468g920ag28f3059635f3" version="2">Giáp Trung bình</content>
 	<content contentuid="hd0d5c5b6g213bg4a73g984egfeabf5d8f1f4" version="1">Giáp Băng của Agathys</content>
-	<content contentuid="hd135c195g1887g4ee4g85b8g586666685815" version="1">Giáp cao</content>
-	<content contentuid="hd2b99c87g218cg4845ga896g482b869e7b29" version="1">Giáp. Vũ khí. Bách hoá Rivington.</content>
-	<content contentuid="hd650a12dg925fg4788ga637gfa1c7ca78b24" version="1">Giáp da +2</content>
-	<content contentuid="hd82fea24g8fd9g4962g865ag39511bb2b33d" version="2">Giáp đùi Vàng (Tr)</content>
-	<content contentuid="hdc265487gc27cg43c1ga868gc8d6fe4c8f2e" version="4">Giáp tay Vàng (Ph)</content>
-	<content contentuid="hdc524c1age0cdg4303g9e52g7bcc933c7b0b" version="1">Giáp cỡ trung</content>
-	<content contentuid="he050c4c0g2f38g4241g9e4eg9cb294593602" version="1">Giáp da Druid</content>
-	<content contentuid="he1ac2197gd858g4b5egad52g88a00c689194" version="2">Giáp vảy Adamantine</content>
-	<content contentuid="he5350b87g59cbg4fbdgb0c8g4b648226ac0f" version="2">Giáp ngực Vàng</content>
-	<content contentuid="hf01ba1acgfe9eg42e1gb434g762e71543407" version="1">Giáp ngực +1</content>
-	<content contentuid="hf4bb7725g3f63g4a87g8a3agecbe943ec1ec" version="1">Giáp tốt. Của Drow, dĩ nhiên rồi.</content>
-	<content contentuid="hf5a7acccg6c9dg4699g9b98g2ac689ec96d4" version="2">Giáp da Nạm đinh</content>
-	<content contentuid="hf60138e2g3076g4824g8678g1aedcd31b914" version="2">Giáp xích +2</content>
-	<content contentuid="hf6f63a32g3127g45bag8c62gb85b8cb40040" version="2">Giáp vảy</content>
-	<content contentuid="hf7a2b514g0c09g4bedgbaafg7f272e37b73f" version="1">Giáp da +1</content>
-	<content contentuid="hfa2140c8g0b74g4ac0g81ffg75146ee3ef6c" version="1">Giáp nặng</content>
-	<content contentuid="hfcdc8aabg6c00g4d12g8963gdd110d202c56" version="3">Giáp Chánh quan Hắc ám Hư hại</content>
-	<content contentuid="hfe08e6f9gad35g4785g8e70g58fe94d145e2" version="1">Giáp Da thuộc +1</content>
 	<content contentuid="hfe195c05gfeaag4bcdg9883gcc0b6469e78d" version="1">Giáp Băng của Agathys</content>
-	<content contentuid="hff191c3cg352eg4672gb13eg61f03fade18e" version="2">Giáp vảy +1</content>
-	<content contentuid="h02f4ca1eg2709g4f96ga9afg251cb0b1cba3" version="2">Giáp Thành Trí Tuệ</content>
-	<content contentuid="h041917b4g8681g4c47gb51dga4b8b23f8d66" version="1">Giáp Pháp Sư</content>
-	<content contentuid="h115016e2g742fg4161ga4fdgac867231ad3a" version="2">Giáp Địa Đáo</content>
+	<content contentuid="h5013e5b4gcd78g4c9egb0d4g889196fa975a" version="3">Giáp Bảo vệ Tâm lực </content>
+	<content contentuid="ha6892c37g6bdeg435bg8aa9g219ad2c7520a" version="1">Giáp Bầy Đàn</content>
+	<content contentuid="hfb6d4ca7g933cg4585g8196g4a591eec41b0" version="2">Giáp Bị Xé</content>
+	<content contentuid="hfcdc8aabg6c00g4d12g8963gdd110d202c56" version="3">Giáp Chánh Quan Hắc Ám Hư hại</content>
+	<content contentuid="h9aadb537g0cfcg4b16g99afg5f652ac8f853" version="5">Giáp Chông nhọn</content>
+	<content contentuid="h4871b471g84a3g4b3fga378gca15adf233d2" version="2">Giáp Chấn Lôi</content>
+	<content contentuid="h582c8880g8dbbg4674g8979g97dd8e38d323" version="2">Giáp Chấn Lôi</content>
+	<content contentuid="h7272d7bcgfb91g4022gba34g3d62146ba78f" version="6">Giáp Chấn Sấm Sét</content>
+	<content contentuid="h5b6ec377ge949g495dgbdb1gd40416b24221" version="1">Giáp Da Bán Tấm Githyanki</content>
+	<content contentuid="h22728338g5ee9g4fffg95degc682b7a51805" version="3">Giáp Da Cổ thụ</content>
+	<content contentuid="h9618be2dg6e9fg46d7g96a2g302d2b15d035" version="1">Giáp Da thuộc</content>
+	<content contentuid="hfe08e6f9gad35g4785g8e70g58fe94d145e2" version="1">Giáp Da thuộc +1</content>
+	<content contentuid="ha90d4a31ga6a9g4f33gb368gfd010087f4f9" version="1">Giáp Da thuộc +2</content>
+	<content contentuid="h8ebe7479gc62eg4905g992agf7f5b0528402" version="1">Giáp Da Đỏ Thẫm</content>
+	<content contentuid="h06af4790g316bg4d50gb36cg7898553e519b" version="1">Giáp Diệm ngục khiếm khuyết </content>
+	<content contentuid="h79417934g65f7g47ebga830gc44002a77b3c" version="1">Giáp Druid</content>
+	<content contentuid="h6f3a5e38gbbfcg4807gb2c9g6fb74bdeb8da" version="2">Giáp Helldusk</content>
+	<content contentuid="ha92ec59eg7282g4c4bga663g310b1f9b8986" version="2">Giáp Helldusk</content>
+	<content contentuid="h2d4060a3g0aeeg43d2g9bb3g3d7751ce1799" version="1">Giáp Hiệp sĩ Phản thệ</content>
+	<content contentuid="h1ff2beb9gbfe8g4058g8ef3g7432be4824a6" version="2">Giáp Khốn Cùng của Sarevok</content>
 	<content contentuid="h161232a0g2839g4b31g89fcg24313c1d402e" version="2">Giáp Kiên Trì</content>
 	<content contentuid="h162d4d3fg99cfg4772g9168g1e2b192e8e16" version="1">Giáp Kẻ Cướp</content>
-	<content contentuid="h1a0aa9bcg6dd8g4bbfgad81ga3234e43ed08" version="1">Giáp Nguyền Rủa</content>
-	<content contentuid="h1ddc39abg7e90g4fd8g8fdegf4fc4223dee5" version="1">Giáp được thiết kế cho những cú nhảy khí động học, những đòn tấn công và tiếng gào thét đặc trưng của một man tộc thông thường.</content>
-	<content contentuid="h1ff2beb9gbfe8g4058g8ef3g7432be4824a6" version="2">Giáp Khốn Cùng của Sarevok</content>
-	<content contentuid="h2a4a4c70ga492g421bg9c13g8337435a3693" version="1">Giáp Sống</content>
-	<content contentuid="h2c74a2ffg9814g4a0cg9ed6geb4eb852b8fd" version="2">Cuộn Giáp Pháp Sư</content>
-	<content contentuid="h2cfe88fcg47e3g48fdg8c05g036d2b956a63" version="1">Giáp Sống</content>
-	<content contentuid="h2d427773g3a1cg4058gb845g15ccea57fe2d" version="3">Giáp của Người Giữ Bào Tử</content>
-	<content contentuid="h378386abgaaa6g4852gb788g7f47b59ded25" version="1">Giáp Nặng</content>
-	<content contentuid="h3b6e5c67g7676g4514gb257g56170b1cf0c8" version="1">Giáp Nguyền Rủa</content>
-	<content contentuid="h3bcbfb94gb63fg49b3g834dg20179df581df" version="1">Thương Nhân Bán Giáp</content>
-	<content contentuid="h3d063fefgac6cg453dgb881g0c9be50ddb6c" version="3">Giáp Tắm Trăng</content>
-	<content contentuid="h44aeccefgef1cg4cb1gae86g668848e041d9" version="2">Giáp Nhanh Nhẹn</content>
-	<content contentuid="h4674443cg0107g4540gb48fg257bbb0a2899" version="4">Giáp Rỗng</content>
-	<content contentuid="h4cc63540g8fb2g4bf2g9e51gfad04c4ad8c2" version="2">Giáp Kẻ Uống Đau Khổ</content>
-	<content contentuid="h4d7f1ee0g6a61g4d80ga24bg135c80bc6203" version="2">Giáp Tiền Xu</content>
-	<content contentuid="h4fb6885fga4ebg4d01ga5f4gbbe22b3824bd" version="2">Giáp Vải</content>
-	<content contentuid="h539e411cgba60g4d25g8ea3g126f35c18252" version="2">Giáp Tín Đồ Bhaal</content>
-	<content contentuid="h57453a54g63c4g4a5ega7a6gdfa9c0db1534" version="1">Giáp Nhuộm Được</content>
-	<content contentuid="h5c63d68bgdf22g4e00gb229g3a81be78141a" version="3">Giáp Sống</content>
-	<content contentuid="h60aeed1agd4b7g4bd0gb1a5g1a39ea20aa68" version="2">Giáp Bóng Tối</content>
-	<content contentuid="h6b165a70gef80g44fag8001gd3f6343fde73" version="1">Giáp Vật Lý</content>
-	<content contentuid="h6d1b6256g3ea8g4e82gaa0agc7fbeb252fdf" version="1">Hạng Giáp</content>
-	<content contentuid="h6f3a5e38gbbfcg4807gb2c9g6fb74bdeb8da" version="2">Giáp Helldusk</content>
-	<content contentuid="h79417934g65f7g47ebga830gc44002a77b3c" version="1">Giáp Druid</content>
-	<content contentuid="h84b4d260g2808g4f22gb3e3gb5e61c5c28dd" version="1">Giáp Nẹp</content>
+	<content contentuid="h4cc63540g8fb2g4bf2g9e51gfad04c4ad8c2" version="2">Giáp Kẻ Đau Khổ</content>
 	<content contentuid="h85e89d47gacc7g410agb0a1gd48788bbf570" version="1">Giáp Man Tộc</content>
-	<content contentuid="h8ac528a1g2cf2g4cd3ga335g7e6c63437b6b" version="1">Giáp Pháp Sư của Rolan</content>
-	<content contentuid="h8e1b91f6g9a79g4978g9fe6g5446a55f8053" version="1">Cú Gấu Bọc Giáp</content>
-	<content contentuid="h8ebe7479gc62eg4905g992agf7f5b0528402" version="1">Giáp Da Đỏ Thẫm</content>
-	<content contentuid="h9073c76egb22ag4c01g849dgc9f04bd9ab65" version="2">Cuộn Giáp Pháp Sư</content>
-	<content contentuid="ha6892c37g6bdeg435bg8aa9g219ad2c7520a" version="1">Giáp Bầy Đàn</content>
-	<content contentuid="ha92ec59eg7282g4c4bga663g310b1f9b8986" version="2">Giáp Helldusk</content>
-	<content contentuid="hac8427a6gcf35g48a2g93feg072f08af2e20" version="1">Giáp Pháp Sư</content>
-	<content contentuid="hb5457adegf335g42dcgab5eg2a57e9deb29d" version="1">Sét Nạp: Giáp Phép</content>
-	<content contentuid="hb5c52d20g6855g4929ga78ege3fe776a1f2e" version="1">Giáp Thân</content>
-	<content contentuid="hbbfcc8cdg20bag4a4fga64bgee2f7f1fe21a" version="1">Giáp Phản Hồi Tâm Linh</content>
-	<content contentuid="hc01764e4g7e3eg4be6g83d6gac4e0dc12059" version="5">Cua Bọc Giáp</content>
-	<content contentuid="hc2150df7g5297g4558g807bg64d79a270dbc" version="1">Xưởng Rèn</content>
-	<content contentuid="hc3e2d7e9g2945g41c0ga434g287939ff34ac" version="1">Hạng Giáp [1]</content>
-	<content contentuid="hc59029cbgfc04g4b48gaef3gee950831af87" version="1">Thông Thạo Giáp</content>
+	<content contentuid="h1a0aa9bcg6dd8g4bbfgad81ga3234e43ed08" version="1">Giáp Nguyền Rủa</content>
+	<content contentuid="h3b6e5c67g7676g4514gb257g56170b1cf0c8" version="1">Giáp Nguyền Rủa</content>
 	<content contentuid="hc59ef510g6d0ag476dg8df1ga0e6cc7259cc" version="1">Giáp Nguyền Rủa</content>
-	<content contentuid="hcae5981agba74g4e28g8619gd2c30f647890" version="1">từ Giáp</content>
-	<content contentuid="hdb5d4b2dge311g4bb1ga415g0066555ff0d0" version="1">Giáp Sứt Mẻ</content>
-	<content contentuid="hdd5c98e7g0781g4e39ga68bg132f95839e51" version="1">Giáp Đệm của Lưỡi Kiếm</content>
-	<content contentuid="he2545323g7459g43b1gb0d7g0ae7e920ae08" version="1">Giáp Vật Lý</content>
-	<content contentuid="he5d65811gd987g4e01g8372ge7422152b692" version="1">Giáp của Nightsong</content>
-	<content contentuid="he6067f54g8bb6g4e53gbacdg241bbce79dd5" version="2">Xé Giáp</content>
-	<content contentuid="he91ed54fg2483g43d1g88fega334b3628909" version="1">Sức Sống, Giáp Vật Lý và Giáp Phép</content>
+	<content contentuid="h48d231bfg2b53g4433g9edfg5ede5b7d6112" version="2">Giáp Ngực</content>
+	<content contentuid="hdd0593f3g8815g43f4gb4d1g76d7d5ccfaa4" version="1">Giáp Ngực</content>
+	<content contentuid="hc94c7a25g6b09g4c06g96aega892fb914897" version="2">Giáp Ngực +1</content>
+	<content contentuid="he7a20495g55a4g4741gbac4gbd584646a3e2" version="1">Giáp Ngực Githyanki</content>
+	<content contentuid="h44aeccefgef1cg4cb1gae86g668848e041d9" version="2">Giáp Nhanh Nhẹn</content>
+	<content contentuid="h57453a54g63c4g4a5ega7a6gdfa9c0db1534" version="1">Giáp Nhuộm Được</content>
+	<content contentuid="h5b629c28ga19fg4f46gb211g0bdef9937471" version="1">Giáp Nhẹ</content>
+	<content contentuid="h866b6355g682cg4415g8048gd8097dde30a6" version="2">Giáp Nhẹ</content>
+	<content contentuid="h378386abgaaa6g4852gb788g7f47b59ded25" version="1">Giáp Nặng</content>
+	<content contentuid="h84b4d260g2808g4f22gb3e3gb5e61c5c28dd" version="1">Giáp Nẹp</content>
+	<content contentuid="h57b51154gcdbdg4d82ga2cbg940e735e7c3a" version="2">Giáp Nẹp Adamantine</content>
+	<content contentuid="h041917b4g8681g4c47gb51dga4b8b23f8d66" version="1">Giáp Pháp Sư</content>
+	<content contentuid="hac8427a6gcf35g48a2g93feg072f08af2e20" version="1">Giáp Pháp Sư</content>
+	<content contentuid="h8ac528a1g2cf2g4cd3ga335g7e6c63437b6b" version="1">Giáp Pháp Sư của Rolan</content>
 	<content contentuid="hf3b1df9ag8593g45adg92b4gfb3f88068145" version="2">Giáp Pháp Sư của Rolan</content>
-	<content contentuid="hf6c5eb53g939ag4d43ga2d6g18c9b88d5872" version="1">Giáp Vải</content>
+	<content contentuid="h3259a3ecg2809g470cgb8deg14caa6f8c1a6" version="2">Giáp Pháp sư</content>
+	<content contentuid="h85010296g10afg4baagbabeg4a6e624d82e3" version="1">Giáp Pháp sư</content>
+	<content contentuid="hbbfcc8cdg20bag4a4fga64bgee2f7f1fe21a" version="1">Giáp Phản Hồi Tâm Linh</content>
 	<content contentuid="hf93a566agb35eg49d5gb4fag4180e5929da3" version="2">Giáp Quỷ Trọng</content>
-	<content contentuid="hf9e7b5aaga40eg4ce6gb799g0199a710c704" version="1">Giáp (thường dân)</content>
-	<content contentuid="hfb6d4ca7g933cg4585g8196g4a591eec41b0" version="2">Giáp Bị Xé</content>
-	<content contentuid="hfb7e65a4g0fa9g4229g8e9fg698a1cee61df" version="1">Hạng Giáp [1]</content>
+	<content contentuid="h4674443cg0107g4540gb48fg257bbb0a2899" version="4">Giáp Rỗng</content>
+	<content contentuid="h64b92622ga715g41a3g9228gd7640ca4c067" version="2">Giáp Rủ bóng </content>
+	<content contentuid="he36b54d7g0974g4908gb95fga014fe3a2d04" version="3">Giáp Sùng Kính</content>
+	<content contentuid="h2a4a4c70ga492g421bg9c13g8337435a3693" version="1">Giáp Sống</content>
+	<content contentuid="h2cfe88fcg47e3g48fdg8c05g036d2b956a63" version="1">Giáp Sống</content>
+	<content contentuid="h5c63d68bgdf22g4e00gb229g3a81be78141a" version="3">Giáp Sống</content>
+	<content contentuid="hdb5d4b2dge311g4bb1ga415g0066555ff0d0" version="1">Giáp Sứt Mẻ</content>
+	<content contentuid="hc78ff96fgd691g4effga509g2e5338bc4fc7" version="3">Giáp Tay Da</content>
+	<content contentuid="hc711eb4ag0534g458egadddgc95938c8c370" version="2">Giáp Thoát Tục của Kushigo</content>
+	<content contentuid="h02f4ca1eg2709g4f96ga9afg251cb0b1cba3" version="2">Giáp Thành Trí Tuệ</content>
+	<content contentuid="h2376ccedg2fa7g4d79g99b6ga38f6f44ca80" version="2">Giáp Thánh quang </content>
+	<content contentuid="hb5c52d20g6855g4929ga78ege3fe776a1f2e" version="1">Giáp Thân</content>
+	<content contentuid="h4d7f1ee0g6a61g4d80ga24bg135c80bc6203" version="2">Giáp Tiền Xu</content>
+	<content contentuid="h59206840g58f3g4a32g80afg737175740ee5" version="1">Giáp Trung bình</content>
+	<content contentuid="hc7ec371fg6a1cg4468g920ag28f3059635f3" version="2">Giáp Trung bình</content>
+	<content contentuid="h68b0e75cg762eg4aa7g8481gf7539227fa68" version="2">Giáp Trụ Kín thân</content>
+	<content contentuid="h75a791a4g89d7g4796gaa53g2adad2b64396" version="1">Giáp Trụ Kín thân</content>
+	<content contentuid="h469dcb15g24e5g4012g8fe0g775d4c4abba2" version="1">Giáp Trụ bảo vệ</content>
+	<content contentuid="h539e411cgba60g4d25g8ea3g126f35c18252" version="2">Giáp Tín Đồ Bhaal</content>
+	<content contentuid="h0d36c182gd7acg4e02gacdcg8b6094f22408" version="1">Giáp Tơ Nhện</content>
 	<content contentuid="h035a4844g110cg48d8g8f8dg1c14bfff0480" version="1">Giáp Tấm +1</content>
 	<content contentuid="hc95058aag519dg4264ga683gd1c3df546e6c" version="1">Giáp Tấm +2</content>
-	<content contentuid="h0a027cf9g063cg4e7fg89f0g09fe6fb0ab68" version="2">Giáp tấm Chất lượng</content>
-	<content contentuid="h044a462cgb2f5g460ag9c82ge3d484879fa5" version="2">Giáp tấm Chánh quan hắc ám</content>
-	<content contentuid="h2f1726afg3b86g4eb5g9751ga892fb4b0db9" version="1">Giáp tấm ngắn +1</content>
-	<content contentuid="h352fbe4egfaf4g4243g811dg8cd57ede6875" version="2">Giáp tấm ngắn Githyanki</content>
-	<content contentuid="h4755b069g9d80g4876g8eb1g866d4019be17" version="1">Giáp tấm Hỏa Quyền</content>
-	<content contentuid="h4e81c9f7gfd66g43b5gbcbfg5c477c75d0ee" version="1">Giáp tấm ngắn</content>
-	<content contentuid="h54cb50e4gf373g48ccgbc10g533b1c29f291" version="1">Giáp tấm ngắn Githyanki</content>
-	<content contentuid="h5b36d0cdgd4b9g4926g97bbg6394b2c0ae61" version="1">Giáp tấm</content>
-	<content contentuid="h69bba95dg9526g4eeega9f3gdd6f5851c683" version="1">Giáp tấm +1</content>
-	<content contentuid="h76b5ce31g4dbfg4795g9dc9g5e6742f3f85d" version="1">Giáp tấm +2</content>
-	<content contentuid="h7bb8d78fg3bb3g46f7g9a1egce8d6d82fc49" version="1">Giáp tấm Chánh quan hắc ám</content>
-	<content contentuid="h8b9336a1ga079g4878g8d84g233d308e4613" version="1">Giáp tấm ngắn +1</content>
-	<content contentuid="h8e03cf03gcc13g4f9ag9647g8f784afee43b" version="1">Giáp tấm ngắn Githyanki</content>
-	<content contentuid="hc1997538g0770g4c6dgbd14g18a56be5cd61" version="2">Giáp tấm ngắn +2</content>
-	<content contentuid="hc0963087g1249g49a3g97a2g796d4ce141aa" version="1">Giáp Đệm +2</content>
-	<content contentuid="h9a406564ga0cdg4196gacc5g761f776f087c" version="1">Giáp Nửa Tấm Githyanki</content>
-	<content contentuid="ha12d9aaeg88ceg4721gabe2gd2d0dfecbff5" version="2">Giáp Nửa Tấm Githyanki Hư Hỏng</content>
-	<content contentuid="hc94c7a25g6b09g4c06g96aega892fb914897" version="2">Giáp Ngực +1</content>
-	<content contentuid="hda39202dg63d7g48c7gabfag01142e786a85" version="2">Giáp Nửa Tấm của Ca Sĩ Đêm</content>
-	<content contentuid="hdd0593f3g8815g43f4gb4d1g76d7d5ccfaa4" version="1">Giáp Ngực</content>
-	<content contentuid="hde1493a8gdcdbg42c2g8b3fgba3d17cf63ef" version="2">Giáp Tấm Tuyệt Hảo</content>
-	<content contentuid="hc78ff96fgd691g4effga509g2e5338bc4fc7" version="3">Giáp Tay Da</content>
-	<content contentuid="he7a20495g55a4g4741gbac4gbd584646a3e2" version="1">Giáp Ngực Githyanki</content>
-	<content contentuid="h05e94d9eg15feg4151gae95g17ba0c3c39c7" version="2">Giáp Tấm Phép Thuật</content>
-	<content contentuid="h2c264de2g128dg4756gad61g14e2ac7405ed" version="1">Giáp Tấm của Hắc Vệ</content>
 	<content contentuid="h49049f03g68ceg47cbgb596g17f51df1afd3" version="1">Giáp Tấm Mộng Du</content>
-	<content contentuid="h5b6ec377ge949g495dgbdb1gd40416b24221" version="1">Giáp Da Nửa Tấm Githyanki</content>
-
+	<content contentuid="h05e94d9eg15feg4151gae95g17ba0c3c39c7" version="2">Giáp Tấm Phép Thuật</content>
+	<content contentuid="hde1493a8gdcdbg42c2g8b3fgba3d17cf63ef" version="2">Giáp Tấm Tuyệt Hảo</content>
+	<content contentuid="h2c264de2g128dg4756gad61g14e2ac7405ed" version="1">Giáp Tấm của Hắc Vệ</content>
+	<content contentuid="h3d063fefgac6cg453dgb881g0c9be50ddb6c" version="3">Giáp Tắm Trăng</content>
+	<content contentuid="h8f5c3541g113eg4b60g9b49gaa208513b9ae" version="1">Giáp Vượt Rào</content>
+	<content contentuid="h4fb6885fga4ebg4d01ga5f4gbbe22b3824bd" version="2">Giáp Vải</content>
+	<content contentuid="hf6c5eb53g939ag4d43ga2d6g18c9b88d5872" version="1">Giáp Vải</content>
+	<content contentuid="h6b165a70gef80g44fag8001gd3f6343fde73" version="1">Giáp Vật Lý</content>
+	<content contentuid="he2545323g7459g43b1gb0d7g0ae7e920ae08" version="1">Giáp Vật Lý</content>
+	<content contentuid="h1f5f61b0ge1b7g4d5fga2e9g46b1d5a9330b" version="1">Giáp Cỡ Nhẹ</content>
+	<content contentuid="h2eebdf9ag6c29g43d2g80d8g3371b7d65cdf" version="1">Giáp Cỡ Nhẹ</content>
+	<content contentuid="hbd44c0e2g6a6eg4c8ag8ef4gbe1b95e4bf49" version="1">Giáp Cỡ Trung</content>
+	<content contentuid="hdc524c1age0cdg4303g9e52g7bcc933c7b0b" version="1">Giáp Cỡ Trung</content>
+	<content contentuid="h2d427773g3a1cg4058gb845g15ccea57fe2d" version="3">Giáp của Người Giữ Bào Tử</content>
+	<content contentuid="he5d65811gd987g4e01g8372ge7422152b692" version="1">Giáp của Nightsong</content>
+	<content contentuid="h7b241021g84ddg4689ga7b7g32734914d09b" version="1">Giáp Da</content>
+	<content contentuid="hf7a2b514g0c09g4bedgbaafg7f272e37b73f" version="1">Giáp Da +1</content>
+	<content contentuid="hd650a12dg925fg4788ga637gfa1c7ca78b24" version="1">Giáp Da +2</content>
+	<content contentuid="h02c7322eg811fg4097ga95fg4439f62ee871" version="3">Giáp Da Drow Phai màu</content>
+	<content contentuid="h472ff680g4ac0g4374gbf86gbf3290fd1e65" version="1">Giáp Da Druid</content>
+	<content contentuid="he050c4c0g2f38g4241g9e4eg9cb294593602" version="1">Giáp Da Druid</content>
+	<content contentuid="hb8def06bgb7b2g400dg9533g75d746114017" version="1">Giáp Da Nạm đinh</content>
+	<content contentuid="hf5a7acccg6c9dg4699g9b98g2ac689ec96d4" version="2">Giáp Da Nạm đinh</content>
+	<content contentuid="h2087d968g92bdg4675gae0bgeb86f4be3bc2" version="1">Giáp Da Nạm đinh +1</content>
+	<content contentuid="h4aa3a46bg4908g4abagb5cag338536e4c3ef" version="1">Giáp Da Nạm đinh +2</content>
+	<content contentuid="h5bc3459ag34a8g4653gb7e9g2f902228cab2" version="1">Giáp Da Nạm đinh của Drow</content>
+	<content contentuid="ha9c53b00g69f5g459bg84a1g1cdca6c8e519" version="3">Giáp Da Nạm đinh của Drow</content>
+	<content contentuid="h55c03a80gffb9g4ec7g9555g828159f39d64" version="1">Giáp Da của Drow</content>
+	<content contentuid="h90eecf62g0e0dg4eefgae12gd72a5ef17eb5" version="2">Giáp Da rách</content>
+	<content contentuid="h71d00b00g56dcg4e21g8662g060ced42c3dc" version="1">Giáp Hạng Nặng</content>
+	<content contentuid="hf01ba1acgfe9eg42e1gb434g762e71543407" version="1">Giáp Ngực +1</content>
+	<content contentuid="h1fd36a6cg14b0g47d9gb00fgdc6991ebaa2f" version="1">Giáp Ngực +2</content>
+	<content contentuid="h7b45c9d3g2a5fg4ec5g9878g521282ccf401" version="2">Giáp Ngực Thiết mộc</content>
+	<content contentuid="he5350b87g59cbg4fbdgb0c8g4b648226ac0f" version="2">Giáp Ngực Vàng</content>
+	<content contentuid="hfa2140c8g0b74g4ac0g81ffg75146ee3ef6c" version="1">Giáp nặng</content>
+	<content contentuid="h96fe0f93ge5cbg4997g8656g9e19441ed3d5" version="2">Giáp Tay Trấn Thủ</content>
+	<content contentuid="hdc265487gc27cg43c1ga868gc8d6fe4c8f2e" version="4">Giáp Tay Vàng (Ph)</content>
+	<content contentuid="h3c2e54f6g9fc3g465bg84e5ged248c94da29" version="3">Giáp Tay Vàng (Tr)</content>
+	<content contentuid="h5b36d0cdgd4b9g4926g97bbg6394b2c0ae61" version="1">Giáp Tấm</content>
+	<content contentuid="h69bba95dg9526g4eeega9f3gdd6f5851c683" version="1">Giáp Tấm +1</content>
+	<content contentuid="h76b5ce31g4dbfg4795g9dc9g5e6742f3f85d" version="1">Giáp Tấm +2</content>
+	<content contentuid="h044a462cgb2f5g460ag9c82ge3d484879fa5" version="2">Giáp Tấm Chánh Quan Hắc Ám</content>
+	<content contentuid="h7bb8d78fg3bb3g46f7g9a1egce8d6d82fc49" version="1">Giáp Tấm Chánh Quan Hắc Ám</content>
+	<content contentuid="h0a027cf9g063cg4e7fg89f0g09fe6fb0ab68" version="2">Giáp Tấm Chất lượng</content>
+	<content contentuid="h4755b069g9d80g4876g8eb1g866d4019be17" version="1">Giáp Tấm Hỏa Quyền</content>
+	<content contentuid="h4e81c9f7gfd66g43b5gbcbfg5c477c75d0ee" version="1">Giáp Tấm Ngắn</content>
+	<content contentuid="h2f1726afg3b86g4eb5g9751ga892fb4b0db9" version="1">Giáp Tấm Ngắn +1</content>
+	<content contentuid="h8b9336a1ga079g4878g8d84g233d308e4613" version="1">Giáp Tấm Ngắn +1</content>
+	<content contentuid="hc1997538g0770g4c6dgbd14g18a56be5cd61" version="2">Giáp Tấm Ngắn +2</content>
+	<content contentuid="h352fbe4egfaf4g4243g811dg8cd57ede6875" version="2">Giáp Tấm Ngắn Githyanki</content>
+	<content contentuid="h54cb50e4gf373g48ccgbc10g533b1c29f291" version="1">Giáp Tấm Ngắn Githyanki</content>
+	<content contentuid="h8e03cf03gcc13g4f9ag9647g8f784afee43b" version="1">Giáp Tấm Ngắn Githyanki</content>
+	<content contentuid="hf6f63a32g3127g45bag8c62gb85b8cb40040" version="2">Giáp Vảy</content>
+	<content contentuid="hff191c3cg352eg4672gb13eg61f03fade18e" version="2">Giáp Vảy +1</content>
+	<content contentuid="h6a528140gbbdcg4a56gb219g9fbc4161921e" version="2">Giáp Vảy +2</content>
+	<content contentuid="he1ac2197gd858g4b5egad52g88a00c689194" version="2">Giáp Vảy Adamantine</content>
+	<content contentuid="hc0e1dcacg9a38g4afdgb4aagcf98bee4343d" version="1">Giáp Vảy Cổ đại</content>
+	<content contentuid="ha4f4b5d6gf510g41ecgbc7fga2d86540d26b" version="1">Giáp Vảy Hiến dâng</content>
+	<content contentuid="h88bc0cb2gd82ag41cegb795g347b6efbc3e3" version="2">Giáp Vảy Hư hại</content>
+	<content contentuid="h0a653e7egf7b7g4351gb2bagc6924fb36893" version="1">Giáp Vảy Phục hận</content>
+	<content contentuid="h92e017e4g8828g407dgb11cg5d7c201d9743" version="2">Giáp Vảy Yuan-ti</content>
+	<content contentuid="ha192e592g1e5eg41e9ga993gfde0418af0fb" version="2">Giáp Xích</content>
+	<content contentuid="h8e799a51g299ag4f34gba13gcae78aff9994" version="2">Giáp Xích +1</content>
+	<content contentuid="hf60138e2g3076g4824g8678g1aedcd31b914" version="2">Giáp Xích +2</content>
+	<content contentuid="h52ebd561ga551g4abcgaaa1gda62ab89e1e8" version="1">Giáp Xích Giải phóng</content>
+	<content contentuid="h6f7b9c94g4ee6g4d08g8fc1g7e79c1fc0e64" version="1">Giáp Xích vòng</content>
+	<content contentuid="h5f9fc655gf5c9g4c50g8f66gbc1a772cd938" version="1">Giáp Xích vòng +1</content>
+	<content contentuid="h3ff4600cgd883g4a49gafefgedbb079368cb" version="1">Giáp Xích vòng +2</content>
+	<content contentuid="h44b84102g0bb5g4783g94d7g332b34dc3228" version="1">Giáp Đệm</content>
+	<content contentuid="h61fe88c8g78b8g4baeg8efbg2d2fb20209a2" version="1">Giáp Đệm +1</content>
+	<content contentuid="h77d95edfg7b6ag45b6gadddgcf2774c8b7a6" version="1">Giáp Đệm +2</content>
+	<content contentuid="hc0963087g1249g49a3g97a2g796d4ce141aa" version="1">Giáp Đệm +2</content>
+	<content contentuid="h093c7448gab7ag477dg9e4bgac66bd669a20" version="1">Giáp Đệm Hư hại</content>
+	<content contentuid="h90349260geefbg4931gaf12g20dac37332ee" version="1">Giáp Đệm hỏng</content>
+	<content contentuid="hdd5c98e7g0781g4e39ga68bg132f95839e51" version="1">Giáp Đệm của Lưỡi Kiếm</content>
+	<content contentuid="h115016e2g742fg4161ga4fdgac867231ad3a" version="2">Giáp Địa Đáo</content>
+	<content contentuid="ha7c79d0bg7c77g4186ga536g83e5968ea2f5" version="2">Giáp Đùi Vàng (Ph)</content>
+	<content contentuid="hd82fea24g8fd9g4962g865ag39511bb2b33d" version="2">Giáp Đùi Vàng (Tr)</content>
+	<content contentuid="h6d1b6256g3ea8g4e82gaa0agc7fbeb252fdf" version="1">Hạng Giáp</content>
+	<content contentuid="hc3e2d7e9g2945g41c0ga434g287939ff34ac" version="1">Hạng Giáp [1]</content>
+	<content contentuid="hfb7e65a4g0fa9g4229g8e9fg698a1cee61df" version="1">Hạng Giáp [1]</content>
 
 	<!-- Key -->
 	<content contentuid="h0010c118g2257g41b6g9fe6g97e71e759fdb" version="1">Chìa khoá Cũi</content>
@@ -998,6 +957,22 @@
 	<content contentuid="hd866c23fgff8fg4c12gab41g793bcb530a5d" version="1">Vũ khí</content>
 	<content contentuid="he763e66bgb274g4914g9501gccfd2c947329" version="1">Vũ khí!</content>
 	<content contentuid="heff20109g8171g4d21g8d6agd9bfd7c069f9" version="2">Giá Vũ Khí</content>
+
+
+	<!-- Item -->
+	<content contentuid="h16cad0c9gf0f2g4d07g8252gb750da461af0" version="1">Thùng</content>
+	<content contentuid="h16449644g8473g4ffdg9e83g3ad3e4c5ac52" version="1">Đuốc Đứng</content>
+	<content contentuid="h26577550gc525g40d1ga973g8a6e540184a2" version="60">Rương Quần áo</content>
+
+	<!-- Vũ Khí Ma Thuật / Niệm Phép-->
+	<content contentuid="h5eb1e1b1gc7afg48a4g93fcgf09282a4bacb" version="1">Glaive Ma Thuật</content>
+	<content contentuid="h0d6e5793g954eg40e4g8941gaf2367d0d939" version="1">Vũ khí Niệm phép</content>
+	<content contentuid="h28f6cd96gfab2g4d90gaf97gea480834c1e4" version="1">Vũ khí Niệm phép</content>
+	<content contentuid="had4b2edeg74a0g4bb0gac33g11c2ea95079e" version="1">Vũ khí Niệm phép</content>
+	<content contentuid="hb4324b99gc2cdg44c3gb111gee1985f3d563" version="1">Vũ khí Niệm phép</content>
+
+	<content contentuid="h2c74a2ffg9814g4a0cg9ed6geb4eb852b8fd" version="2">Cuộn Giáp Pháp Sư</content>
+	<content contentuid="h9073c76egb22ag4c01g849dgc9f04bd9ab65" version="2">Cuộn Giáp Pháp Sư</content>
 
 	<content contentuid="h21e548e4gd139g4b67g95a0g26583e769898" version="1">Các đòn tấn công vũ khí gây thêm [1].</content>
 	<content contentuid="h2299e563ge253g4b73g894fgee6a1ca546a6" version="3">Vũ khí gây thêm [1].</content>

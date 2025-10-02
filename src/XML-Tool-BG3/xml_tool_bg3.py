@@ -1069,32 +1069,32 @@ class SearchToolUI:
         self.compare_options_frame.pack(fill="both", expand=True, padx=5, pady=5)
         
         # Các nút chức năng cho contentUID trùng nhau
-        trung_frame = ttk.LabelFrame(self.compare_options_frame, text="Xử lý các contentUID trùng nhau")
+        trung_frame = ttk.LabelFrame(self.compare_options_frame, text="Xử lý các contentUID Trùng")
         trung_frame.pack(fill="x", padx=5, pady=5)
         
-        ttk.Button(trung_frame, text="Lọc contentUID trùng nhau (lấy từ file B)", 
+        ttk.Button(trung_frame, text="Xuất contentUID Trùng (File A)", 
                   command=self.export_duplicate_uids).pack(side=tk.LEFT, padx=5, pady=2)
         
-        ttk.Button(trung_frame, text="Xóa contentUID trùng nhau ở file A", 
+        ttk.Button(trung_frame, text="Xóa contentUID Trùng ở File A", 
                   command=lambda: self.delete_duplicate_uids('A')).pack(side=tk.LEFT, padx=5, pady=2)
         
-        ttk.Button(trung_frame, text="Xóa contentUID trùng nhau ở file B", 
+        ttk.Button(trung_frame, text="Xóa contentUID Trùng ở File B", 
                   command=lambda: self.delete_duplicate_uids('B')).pack(side=tk.LEFT, padx=5, pady=2)
         
-        ttk.Button(trung_frame, text="Xóa contentUID trùng nhau ở cả hai file", 
+        ttk.Button(trung_frame, text="Xóa contentUID Trùng ở Hai File", 
                   command=lambda: self.delete_duplicate_uids('AB')).pack(side=tk.LEFT, padx=5, pady=2)
         
         # Các nút chức năng cho contentUID không trùng nhau
         khong_trung_frame = ttk.LabelFrame(self.compare_options_frame, text="Xử lý các contentUID không trùng nhau")
         khong_trung_frame.pack(fill="x", padx=5, pady=5)
         
-        ttk.Button(khong_trung_frame, text="Lọc contentUID chỉ có trong file A", 
+        ttk.Button(khong_trung_frame, text="Xuất contentUID Chỉ Có trong File A", 
                   command=lambda: self.export_unique_uids('A')).pack(side=tk.LEFT, padx=5, pady=2)
         
-        ttk.Button(khong_trung_frame, text="Lọc contentUID chỉ có trong file B", 
+        ttk.Button(khong_trung_frame, text="Xuất contentUID Chỉ Có trong File B", 
                   command=lambda: self.export_unique_uids('B')).pack(side=tk.LEFT, padx=5, pady=2)
         
-        ttk.Button(khong_trung_frame, text="Lọc tất cả contentUID không trùng nhau", 
+        ttk.Button(khong_trung_frame, text="Xuất All contentUID không trùng nhau", 
                   command=lambda: self.export_unique_uids('AB')).pack(side=tk.LEFT, padx=5, pady=2)
 
     def setup_split_tab(self):
