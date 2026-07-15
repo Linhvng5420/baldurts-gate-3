@@ -757,34 +757,26 @@ class SearchToolUI:
         """Thiết lập tab tìm kiếm và xóa nội dung"""
         frame = ttk.LabelFrame(self.tab1, text="Tìm kiếm nội dung")
         frame.pack(fill="both", expand=True, padx=10, pady=10)
-        
-        # Thông báo hướng dẫn
-        info_frame = ttk.Frame(frame)
-        info_frame.pack(fill="x", padx=5, pady=5)
-        
-        info_text = "💡 Sử dụng nút 'Duyệt...' để chọn file XML hoặc 'Lấy từ clipboard' để lấy đường dẫn"
-        
-        ttk.Label(info_frame, text=info_text, font=("Arial", 9), foreground="blue").pack(side=tk.LEFT)
-        
+ 
         # Thông báo về lịch sử đường dẫn
         history_info_frame = ttk.Frame(frame)
         history_info_frame.pack(fill="x", padx=5, pady=2)
         
-        history_info_text = "📚 Lịch sử đường dẫn: Nhấn vào dropdown để chọn từ lịch sử | Nút 🗑️ để xóa đường dẫn hiện tại khỏi lịch sử"
+        history_info_text = "📚 Lịch sử đường dẫn: Nhấn vào dropdown để chọn từ lịch sử | Nút xóa - Xóa đường dẫn đang chọn khỏi lịch sử"
         ttk.Label(history_info_frame, text=history_info_text, font=("Arial", 9), foreground="darkblue").pack(side=tk.LEFT)
         
         # Thông báo về khả năng tìm kiếm mới
         search_info_frame = ttk.Frame(frame)
         search_info_frame.pack(fill="x", padx=5, pady=2)
         
-        search_info_text = "🔍 Tìm kiếm trong toàn bộ dòng XML: contentuid, version, content text... | Nhiều từ khóa: cách nhau bởi dấu / [VD: A/B/C/D ]"
+        search_info_text = "🔍 Tìm kiếm trong toàn bộ dòng XML: contentuid, version, content text... | Nhiều từ khóa: cách nhau bởi dấu '/' [ vd: A/B/C/D ]"
         ttk.Label(search_info_frame, text=search_info_text, font=("Arial", 9), foreground="darkgreen").pack(side=tk.LEFT)
         
         # Frame cho đường dẫn file
         path_frame = ttk.Frame(frame)
         path_frame.pack(fill="x", padx=5, pady=5)
         
-        ttk.Label(path_frame, text="Đường dẫn file XML:").pack(side=tk.LEFT)
+        ttk.Label(path_frame, text="Đường dẫn:").pack(side=tk.LEFT)
         
         self.search_path_var = tk.StringVar()
         # Sử dụng Combobox thay vì Entry để có dropdown
@@ -799,16 +791,16 @@ class SearchToolUI:
         ttk.Button(path_frame, text="Duyệt...", command=lambda: self.browse_file(self.search_path_var)).pack(side=tk.LEFT, padx=5)
         
         # Nút lấy đường dẫn từ clipboard
-        ttk.Button(path_frame, text="Lấy từ clipboard", command=lambda: self.parse_clipboard(self.search_path_var)).pack(side=tk.LEFT)
+        ttk.Button(path_frame, text="Clipboard", command=lambda: self.parse_clipboard(self.search_path_var)).pack(side=tk.LEFT)
         
         # Nút xóa đường dẫn hiện tại khỏi lịch sử
-        ttk.Button(path_frame, text="🗑️", command=lambda: self.remove_current_path(self.search_path_var)).pack(side=tk.LEFT, padx=2)
+        ttk.Button(path_frame, text="Clear", command=lambda: self.remove_current_path(self.search_path_var)).pack(side=tk.LEFT, padx=2)
         
         # Frame cho nội dung tìm kiếm
         search_frame = ttk.Frame(frame)
         search_frame.pack(fill="x", padx=5, pady=5)
         
-        ttk.Label(search_frame, text="Nội dung tìm kiếm:").pack(side=tk.LEFT)
+        ttk.Label(search_frame, text="Từ Khóa").pack(side=tk.LEFT)
         
         self.search_content_var = tk.StringVar()
         search_entry = ttk.Entry(search_frame, textvariable=self.search_content_var, width=50)
@@ -856,13 +848,6 @@ class SearchToolUI:
         self.max_words_entry.pack(side=tk.LEFT)
         self.max_words_entry.config(state="disabled")  # Mặc định disabled
         
-        # Thông báo hướng dẫn cho tùy chọn này
-        word_limit_info_frame = ttk.Frame(frame)
-        word_limit_info_frame.pack(fill="x", padx=5, pady=2)
-        
-        word_limit_info_text = "💡 Giới hạn số từ: Chỉ hiển thị kết quả có ≤ số từ đã nhập (VD: nhập 2 → chỉ lấy 'Weapon Immunity', bỏ qua 'Weapon Immunity Modalet')"
-        ttk.Label(word_limit_info_frame, text=word_limit_info_text, font=("Arial", 9), foreground="darkorange").pack(side=tk.LEFT)
-        
         # Frame cho chế độ tìm kiếm
         search_mode_frame = ttk.LabelFrame(frame, text="Chế độ tìm kiếm")
         search_mode_frame.pack(fill="x", padx=5, pady=5)
@@ -886,16 +871,13 @@ class SearchToolUI:
         mode_info_frame = ttk.Frame(frame)
         mode_info_frame.pack(fill="x", padx=5, pady=2)
         
-        mode_info_text = "💡 Chỉ tìm Nội Dung: Tìm trong text hiển thị | Tìm cả Code: Tìm trong contentuid, version, và tất cả thuộc tính XML"
-        ttk.Label(mode_info_frame, text=mode_info_text, font=("Arial", 9), foreground="purple").pack(side=tk.LEFT)
-        
         # Frame cho các nút chức năng
         button_frame = ttk.Frame(frame)
         button_frame.pack(fill="x", padx=5, pady=5)
         
         ttk.Button(button_frame, text="🔍 Tìm kiếm", command=self.run_search).pack(side=tk.LEFT, padx=5)
         ttk.Button(button_frame, text="💾 Lưu kết quả", command=self.save_search_results).pack(side=tk.LEFT, padx=5)
-        ttk.Button(button_frame, text="🗑️ Xóa nội dung", command=self.delete_content).pack(side=tk.LEFT, padx=5)
+        ttk.Button(button_frame, text="Xóa XML", command=self.delete_content).pack(side=tk.LEFT, padx=5)
         
         # Biến để lưu kết quả tìm kiếm
         self.search_results = []
@@ -924,10 +906,10 @@ class SearchToolUI:
         ttk.Button(path_frame, text="Duyệt...", command=lambda: self.browse_file(self.analyze_path_var)).pack(side=tk.LEFT, padx=5)
         
         # Nút lấy đường dẫn từ clipboard
-        ttk.Button(path_frame, text="Lấy từ clipboard", command=lambda: self.parse_clipboard(self.analyze_path_var)).pack(side=tk.LEFT)
+        ttk.Button(path_frame, text="Clipboard", command=lambda: self.parse_clipboard(self.analyze_path_var)).pack(side=tk.LEFT)
         
         # Nút xóa đường dẫn hiện tại khỏi lịch sử
-        ttk.Button(path_frame, text="🗑️", command=lambda: self.remove_current_path(self.analyze_path_var)).pack(side=tk.LEFT, padx=2)
+        ttk.Button(path_frame, text="Clear", command=lambda: self.remove_current_path(self.analyze_path_var)).pack(side=tk.LEFT, padx=2)
         
         # Frame cho các nút chức năng
         button_frame = ttk.Frame(frame)
@@ -960,10 +942,10 @@ class SearchToolUI:
         ttk.Button(file_a_frame, text="Duyệt...", command=lambda: self.browse_file(self.file_a_path_var)).pack(side=tk.LEFT, padx=5)
         
         # Nút lấy đường dẫn từ clipboard cho file A
-        ttk.Button(file_a_frame, text="Lấy từ clipboard", command=lambda: self.parse_clipboard(self.file_a_path_var)).pack(side=tk.LEFT)
+        ttk.Button(file_a_frame, text="Clipboard", command=lambda: self.parse_clipboard(self.file_a_path_var)).pack(side=tk.LEFT)
         
         # Nút xóa đường dẫn hiện tại khỏi lịch sử
-        ttk.Button(file_a_frame, text="🗑️", command=lambda: self.remove_current_path(self.file_a_path_var)).pack(side=tk.LEFT, padx=2)
+        ttk.Button(file_a_frame, text="Clear", command=lambda: self.remove_current_path(self.file_a_path_var)).pack(side=tk.LEFT, padx=2)
         
         # Frame cho file B
         file_b_frame = ttk.Frame(frame)
@@ -984,10 +966,10 @@ class SearchToolUI:
         ttk.Button(file_b_frame, text="Duyệt...", command=lambda: self.browse_file(self.file_b_path_var)).pack(side=tk.LEFT, padx=5)
         
         # Nút lấy đường dẫn từ clipboard cho file B
-        ttk.Button(file_b_frame, text="Lấy từ clipboard", command=lambda: self.parse_clipboard(self.file_b_path_var)).pack(side=tk.LEFT)
+        ttk.Button(file_b_frame, text="Clipboard", command=lambda: self.parse_clipboard(self.file_b_path_var)).pack(side=tk.LEFT)
         
         # Nút xóa đường dẫn hiện tại khỏi lịch sử
-        ttk.Button(file_b_frame, text="🗑️", command=lambda: self.remove_current_path(self.file_b_path_var)).pack(side=tk.LEFT, padx=2)
+        ttk.Button(file_b_frame, text="Clear", command=lambda: self.remove_current_path(self.file_b_path_var)).pack(side=tk.LEFT, padx=2)
         
         # Frame cho các nút chức năng
         button_frame = ttk.Frame(frame)
@@ -1069,10 +1051,10 @@ class SearchToolUI:
         ttk.Button(path_frame, text="Duyệt...", command=lambda: self.browse_file(self.split_path_var)).pack(side=tk.LEFT, padx=5)
         
         # Nút lấy đường dẫn từ clipboard
-        ttk.Button(path_frame, text="Lấy từ clipboard", command=lambda: self.parse_clipboard(self.split_path_var)).pack(side=tk.LEFT)
+        ttk.Button(path_frame, text="Clipboard", command=lambda: self.parse_clipboard(self.split_path_var)).pack(side=tk.LEFT)
         
         # Nút xóa đường dẫn hiện tại khỏi lịch sử
-        ttk.Button(path_frame, text="🗑️", command=lambda: self.remove_current_path(self.split_path_var)).pack(side=tk.LEFT, padx=2)
+        ttk.Button(path_frame, text="Clear", command=lambda: self.remove_current_path(self.split_path_var)).pack(side=tk.LEFT, padx=2)
         
         # Frame cho cài đặt chia file
         settings_frame = ttk.Frame(frame)
@@ -1135,7 +1117,7 @@ class SearchToolUI:
         path_row = ttk.Frame(input_frame)
         path_row.pack(fill="x", pady=2)
         
-        ttk.Label(path_row, text="Đường dẫn:").pack(side=tk.LEFT)
+        ttk.Label(path_row, text="Đường Dẫn").pack(side=tk.LEFT)
         self.merger_path_var = tk.StringVar()
         self.merger_path_entry = ttk.Combobox(path_row, textvariable=self.merger_path_var, width=40)
         self.merger_path_entry['values'] = self.path_history
@@ -1158,7 +1140,7 @@ class SearchToolUI:
         ttk.Button(button_row, text="📁 Thêm Nhiều", command=self.merger_add_multiple_files).pack(side=tk.LEFT, padx=2)
         
         # Nút xóa hết
-        ttk.Button(button_row, text="🗑️ Xóa Hết", command=self.merger_clear_all).pack(side=tk.LEFT, padx=2)
+        ttk.Button(button_row, text="Xóa Hết", command=self.merger_clear_all).pack(side=tk.LEFT, padx=2)
         
         # Frame danh sách file
         list_frame = ttk.LabelFrame(frame, text="Danh Sách File XML", padding="5")
@@ -1676,7 +1658,7 @@ class SearchToolUI:
                 self.print_to_output(f"📊 Thống kê:")
                 self.print_to_output(f"   🔵 Chỉ có trong File A: {len(only_in_a)} ContentUID")
                 self.print_to_output(f"   🔴 Chỉ có trong File B: {len(only_in_b)} ContentUID")
-                self.print_to_output(f"   🟢 Có trong cả hai file: {len(in_both)} ContentUID")
+                self.print_to_output(f"   🟢 Trùng Nhau: {len(in_both)} ContentUID")
                 
                 # Hiển thị mẫu ContentUID (5 đầu tiên)
                 if only_in_a:
@@ -2321,21 +2303,12 @@ def main():
         style.theme_use('vista')
     
     # Thiết lập tiêu đề cửa sổ và kích thước mặc định
-    root.title("Công cụ xử lý XML - Baldur's Gate 3 Việt Hóa by Linhvng5420")
-    root.geometry("1000x850")
+    root.title("Baldur's Gate 3 - XML Translation Tool (by Linhvng5420)")
+    root.geometry("800x950")
     
     # Hiển thị thông báo hướng dẫn
     app.print_to_output("🎉 Chào mừng đến với Công cụ xử lý XML!")
     app.print_to_output("✨ CẬP NHẬT: Đã thêm tính năng ghép file XML!")
-    app.print_to_output("📂 Sử dụng các tab để truy cập các chức năng:")
-    app.print_to_output("   • Tab 1: Tìm kiếm và xóa nội dung")
-    app.print_to_output("   • Tab 2: Phân tích file (đã cải thiện)")
-    app.print_to_output("   • Tab 3: So sánh hai file")
-    app.print_to_output("   • Tab 4: Chia file XML")
-    app.print_to_output("   • Tab 5: Ghép file XML (MỚI)")
-    app.print_to_output("📚 Lịch sử đường dẫn: Nhấn dropdown để chọn từ lịch sử | Nút 🗑️ để xóa")
-    app.print_to_output("� Tip: Sử dụng 'Lấy từ clipboard' để dán đường dẫn nhanh!")
-    
     root.mainloop()
 
 if __name__ == "__main__":
